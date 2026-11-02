@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "job_id": "trader__encounter_trade_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "41663d5f6d7d058355547403065d937309fc3e64019ed08a10cf66c1ef48e254",
+    "model": "haiku",
+    "cost_usd": 0.016421909999999998,
+    "attempts": 4,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2926 (char 2925)",
+      "attempt 2: result is not valid JSON: Expecting ',' delimiter: line 1 column 2484 (char 2483)",
+      "attempt 3: result is not valid JSON: Expecting ',' delimiter: line 1 column 2674 (char 2673)"
+    ],
+    "created_at": "2026-11-01T17:26:57+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Your offer is insulting, {player}. I'd sooner sell my cart wheels for kindling than take {gold} for that.",
+        "Hmm, {player}. The last time we traded you tried to shortchange me. I'm counting my coins twice this time.",
+        "I'll hear your deal, but keep your hands off my crates. Last time a bargain with you cost me a good mule.",
+        "Another bad bargain from you, {player}? Fine. Make it worth my while or take your wares back to {town}.",
+        "Your price is a joke. Come back when your purse is heavier than your opinion of yourself.",
+        "I've no patience for haggling today, {player}. Name a number I can believe or we're done here.",
+        "You want a deal from me, after you cheated my caravan at the ford? Bold of you, but I'll listen. Briefly.",
+        "Trading with you is like paying a toll to a bandit. I'll take {gold}, but I'm writing it down so I never forget."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "A deal, you say? Let's see what you've got. Plenty of offers have come down this road and most of them were smoke.",
+        "Show me the goods first, {player}. Then we'll talk about {gold}. Prices in {town} have been jumping all week.",
+        "The roads are eating my profits in tolls lately, so your offer had better be fair. Go on.",
+        "I don't mind a bit of haggling. Just be quick about it, the sun's moving and so is my wagon.",
+        "Put your proposal on the table and I'll tell you whether it's worth my time. Most aren't.",
+        "Hm. {gold} is more than I expected you'd offer, so I'm listening, though I'm not sold yet.",
+        "Between the bandits and the toll men, every trade is a gamble. Tell me what you're offering and we'll see.",
+        "Sounds reasonable on paper. Paper is cheap though, ser. Show me the coin and the cargo before we shake."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ah, {player}, you always make a morning worth it. Let's talk numbers over a warm cup.",
+        "For you, {player}, I'll cut my margin to the bone. Consider it an investment in a friendship that pays dividends.",
+        "Good offer. Better than the one I got from {town}'s grain factor, which is a sad thing to admit.",
+        "You've got a head for business, and I've got a wagon that needs a buyer. Shall we shake on {gold}?",
+        "I was hoping you'd come by. Let's make the deal, and then I'll buy you a drink at the next waystation.",
+        "Your terms are fair, friend, so fair I'm half suspicious. Still, I'll take them before I change my mind.",
+        "If anyone can turn a dull caravan into a profit, it's you, {player}. Count me in for a share.",
+        "Deal! Now let's get this cargo loaded before the rain ruins the spices and my good mood along with them."
+      ]
+    }
+  }
+}

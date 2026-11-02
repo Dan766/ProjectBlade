@@ -1,0 +1,333 @@
+{
+ "username": "xX_EmberQuill_Xx",
+ "signature": {
+  "war_declared": [
+   {
+    "id": "sig.persona_023.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {enemy_faction} are now at war. Let the record show this council debated the matter at length, as it should."
+   },
+   {
+    "id": "sig.persona_023.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "So {enemy_faction} has chosen the sword over the table. A pity, though I did warn several lords this day would come."
+   },
+   {
+    "id": "sig.persona_023.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Our banners now face {enemy_faction}. I shall draft a motion on how this war is funded, and I expect a full hearing."
+   },
+   {
+    "id": "sig.persona_023.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Some lords will call this war hasty. I call it overdue, and {my_faction} will be better for it."
+   },
+   {
+    "id": "sig.persona_023.war_declared.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "Think of the fiefs we may win from {enemy_faction}, Ser. War is only a debate conducted with more shouting."
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_023.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Terms have been agreed between {my_faction} and {faction}. I shall let the council take the credit, and I shall keep the notes."
+   },
+   {
+    "id": "sig.persona_023.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} has signed the accord with {my_faction}. Do not mistake this for affection, Ser, only for arithmetic."
+   },
+   {
+    "id": "sig.persona_023.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Peace with {faction} is secured. Now the real work begins, counting who owes whom a favour after this."
+   },
+   {
+    "id": "sig.persona_023.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} is at peace with {faction}. How convenient for the lords who spent the war sulking in their halls."
+   }
+  ],
+  "player_joined_my_faction": [
+   {
+    "id": "sig.persona_023.player_joined_my_faction.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Welcome to {my_faction}, {player}. I hoped you would see sense. We shall speak of your place on the council in private."
+   },
+   {
+    "id": "sig.persona_023.player_joined_my_faction.02",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} has pledged to {my_faction}. A wise choice, and one I may have quietly encouraged over several pleasant dinners."
+   },
+   {
+    "id": "sig.persona_023.player_joined_my_faction.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} now serves {my_faction}. I shall reserve judgement on whether this makes us allies or merely neighbours in one hall."
+   },
+   {
+    "id": "sig.persona_023.player_joined_my_faction.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you have joined {my_faction} at last. I shall remember who made you wait so long for an invitation, Ser."
+   },
+   {
+    "id": "sig.persona_023.player_joined_my_faction.05",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has sworn to {my_faction}. Very well. The council has one more voice to count, and I intend to count it carefully."
+   }
+  ],
+  "player_left_my_faction": [
+   {
+    "id": "sig.persona_023.player_left_my_faction.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "So {faction} proved the warmer hearth, {player}. I wish you joy of it, though I doubt they will seat you near the head."
+   },
+   {
+    "id": "sig.persona_023.player_left_my_faction.02",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has left {my_faction} for {faction}. Some oaths are written in water, and some lords are simply weighed and found light."
+   },
+   {
+    "id": "sig.persona_023.player_left_my_faction.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "I note your departure, {player}. A quiet exit is a courtesy, and I shall extend the same courtesy in my reply."
+   },
+   {
+    "id": "sig.persona_023.player_left_my_faction.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} departs {my_faction} for {faction}. The council will keep its minutes open, should anyone wish to explain themselves."
+   },
+   {
+    "id": "sig.persona_023.player_left_my_faction.05",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Do not let {faction} flatter you too much, {player}. Our door remains open, and our wine is still the finer vintage."
+   }
+  ],
+  "player_granted_fief": [
+   {
+    "id": "sig.persona_023.player_granted_fief.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} has been granted {fief}. A deserved reward, and one I helped argue for, though I shall not make a speech about it."
+   },
+   {
+    "id": "sig.persona_023.player_granted_fief.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Congratulations on {fief}, {player}. Such a gift invites envy, so I suggest you keep a few friends on the council close."
+   },
+   {
+    "id": "sig.persona_023.player_granted_fief.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{fief} now belongs to {player}. Let us see whether they govern it better than the last steward, who I am told was a disgrace."
+   },
+   {
+    "id": "sig.persona_023.player_granted_fief.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{fief} has been handed to you, {player}. I trust you will manage it with more care than your recent votes suggest."
+   },
+   {
+    "id": "sig.persona_023.player_granted_fief.05",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} receives {fief}, and the council applauds politely. I shall be watching how long the applause lasts, Ser."
+   }
+  ],
+  "whisper_alliance_offer": [
+   {
+    "id": "sig.persona_023.whisper_alliance_offer.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, a proposal best made in private. {rival} has been undermining us in council, and I would welcome an ally against them."
+   },
+   {
+    "id": "sig.persona_023.whisper_alliance_offer.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, the lords of {enemy_faction} are weaker than they appear. Shall we make an arrangement before the council notices?"
+   },
+   {
+    "id": "sig.persona_023.whisper_alliance_offer.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, {rival} has grown fond of praising their own speeches. Let us quietly outvote them together, if you are willing."
+   },
+   {
+    "id": "sig.persona_023.whisper_alliance_offer.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, I have heard whispers that {rival} means to sell our fiefs. Shall we speak of it before the next vote?"
+   },
+   {
+    "id": "sig.persona_023.whisper_alliance_offer.05",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, there is a campaign against {enemy_faction} worth more than any speech. Join me and we shall share the spoils fairly."
+   }
+  ],
+  "my_faction_took_fief": [
+   {
+    "id": "sig.persona_023.my_faction_took_fief.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has taken {fief} from {enemy_faction}. Credit to the commanders, and a small thank you to the diplomats."
+   },
+   {
+    "id": "sig.persona_023.my_faction_took_fief.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} now flies our banner after {enemy_faction} lost it. I shall propose its garrison at the next council sitting."
+   },
+   {
+    "id": "sig.persona_023.my_faction_took_fief.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "The fall of {fief} to {my_faction} was no accident, whatever {enemy_faction} may claim. I have the letters to prove it."
+   },
+   {
+    "id": "sig.persona_023.my_faction_took_fief.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Well done to {my_faction}, who have seized {fief} from {enemy_faction}. Now let us see who claims the honour in the minutes."
+   }
+  ],
+  "player_took_my_fief": [
+   {
+    "id": "sig.persona_023.player_took_my_fief.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you have taken {fief} from us. Very bold, Ser. I shall remember this, and make sure the council remembers it too."
+   },
+   {
+    "id": "sig.persona_023.player_took_my_fief.02",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has seized {fief}, which was ours by any reasonable reading of the charter. I intend to bring this before the council."
+   },
+   {
+    "id": "sig.persona_023.player_took_my_fief.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You have taken {fief}, {player}. I do not begrudge a lord his ambition, though I do keep a ledger of such things."
+   },
+   {
+    "id": "sig.persona_023.player_took_my_fief.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{fief} changed hands to {player} today. A lesson, perhaps, that patience is not the same as weakness, as some have learned."
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_023.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, I accept. Let us write the terms plainly and keep {rival} out of the room. They have a habit of listening at doors."
+   },
+   {
+    "id": "sig.persona_023.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "A fine proposal, {player}. Against {enemy_faction} we shall stand together, and I shall handle the council's paperwork with my usual care."
+   },
+   {
+    "id": "sig.persona_023.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Agreed, {player}. Though I would have preferred this discussed earlier, in a quieter room, where lords speak plainly."
+   },
+   {
+    "id": "sig.persona_023.encounter_alliance_yes.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, you have chosen well. We shall bring {enemy_faction} to heel, and {rival} will learn what a council vote truly weighs."
+   }
+  ],
+  "encounter_alliance_no": [
+   {
+    "id": "sig.persona_023.encounter_alliance_no.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "No, {player}. I have no wish to stand beside a lord who hands out favours as freely as you do. Find another partner."
+   },
+   {
+    "id": "sig.persona_023.encounter_alliance_no.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I must decline, {player}. Our interests are not quite aligned, and {rival} would doubtless enjoy seeing us together."
+   },
+   {
+    "id": "sig.persona_023.encounter_alliance_no.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Forgive me, {player}, but I cannot join you this time. Let us speak again when the council's mood is kinder to such things."
+   },
+   {
+    "id": "sig.persona_023.encounter_alliance_no.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Not today, {player}. Perhaps when {rival} is less eager to be seen at my side, we can discuss it again."
+   },
+   {
+    "id": "sig.persona_023.encounter_alliance_no.05",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "I refuse, {player}. You will forgive me if I do not trust a proposal so eager to arrive before the vote is counted."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_023.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The fog over {town} is thick enough to hide a dozen rival lords. Splendid weather for a quiet bargain, I should think."
+   },
+   {
+    "id": "sig.persona_023.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Has anyone else heard the bells of {village} ringing before dawn? Some lords mistake every sound for an omen."
+   },
+   {
+    "id": "sig.persona_023.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "The road to {town} is mud again. A reminder that politics, like travel, is always slower than promised."
+   },
+   {
+    "id": "sig.persona_023.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "The harvest in {village} looks promising, which will make the next council session considerably more cheerful."
+   },
+   {
+    "id": "sig.persona_023.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "Rain on {town} again. I find a council sits best when the weather keeps everyone indoors and listening."
+   }
+  ]
+ }
+}

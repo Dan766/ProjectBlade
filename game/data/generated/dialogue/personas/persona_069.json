@@ -1,0 +1,265 @@
+{
+ "username": "MapleMutiny",
+ "signature": {
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_069.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else notice the bridge at Mokrenka still has not apologized to the goose? disgraceful :)"
+   },
+   {
+    "id": "sig.persona_069.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "its raining in {town} again xD the sky is clearly also against geese"
+   },
+   {
+    "id": "sig.persona_069.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "reminder that the Smrekovo reeve is officially Sir Puddle now. no appeals :)"
+   },
+   {
+    "id": "sig.persona_069.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{village} has the best mud in the realm and i will be taking questions at the mud desk. 10/10 xD"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_069.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "i have {troop_count} men and {gold} gold and not one of them can cross the bridge at Mokrenka :)"
+   },
+   {
+    "id": "sig.persona_069.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is now officially the home of the sacred goose. we have {troop_count} lads guarding the gate xD"
+   },
+   {
+    "id": "sig.persona_069.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "sitting on {gold} gold and i am spending all of it on tiny goose hats. no regrets :)"
+   },
+   {
+    "id": "sig.persona_069.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} troops marching on {fief}. the enemy has been warned. they did not listen. classic"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_069.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} won that one with {troop_count} men and pure luck. the sun clearly took their side. the sun is in trouble :)"
+   },
+   {
+    "id": "sig.persona_069.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "fine {player} ill forgive you once the goose signs off on it :) that was a good fight tho"
+   },
+   {
+    "id": "sig.persona_069.beat_by_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} you beat me with {troop_count} men and the sun in your eyes. i will be filing a complaint with the sun. it is not going to like this xD"
+   },
+   {
+    "id": "sig.persona_069.beat_by_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} beat me again. i blame the sun, the bridge, and a little bit my horse :)"
+   }
+  ],
+  "beat_player": [
+   {
+    "id": "sig.persona_069.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "the goose sends its regards to {player}, sadly with a fine of {gold} gold xD"
+   },
+   {
+    "id": "sig.persona_069.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} that was {gold} gold. the goose is now richer and you are poorer. just saying :)"
+   },
+   {
+    "id": "sig.persona_069.beat_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "good fight {player}! you brought {troop_count} men, i brought the goose. guess who won xD"
+   },
+   {
+    "id": "sig.persona_069.beat_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} got beaten by {troop_count} men and a goose-shaped attitude. still counts :)"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_069.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} saw me coming and ran off like a sheep who spotted the bridge. wise choice honestly :)"
+   },
+   {
+    "id": "sig.persona_069.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "running from me already {player}? the goose respects a good retreat xD"
+   },
+   {
+    "id": "sig.persona_069.player_fled_from_me.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} took one look at the goose and fled. smart. the goose is sad but understanding :("
+   },
+   {
+    "id": "sig.persona_069.player_fled_from_me.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} ran off so fast i think they dropped a sock. i will keep it for the goose xD"
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_069.player_win_streak.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has won like ten fights in a row. i am calling it a cheat. the sun says no comment :)"
+   },
+   {
+    "id": "sig.persona_069.player_win_streak.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} your win streak is getting on the goose's nerves. enjoy it while the bridge is still standing xD"
+   },
+   {
+    "id": "sig.persona_069.player_win_streak.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} on a winning streak and the whole server is watching. i am watching too, from a mud puddle :)"
+   },
+   {
+    "id": "sig.persona_069.player_win_streak.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} i am proud of you and also furious. both feelings at once, its a lot :)"
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_069.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} made peace with {faction}. the goose has been told to stop glaring at the treaty xD"
+   },
+   {
+    "id": "sig.persona_069.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "peace between {my_faction} and {faction}?? i was not consulted. i will be filing a complaint :)"
+   },
+   {
+    "id": "sig.persona_069.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} shook hands. the goose remains unconvinced :("
+   },
+   {
+    "id": "sig.persona_069.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "so {my_faction} is friends with {faction} now. sure. the bridge at Mokrenka is still on my list :)"
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_069.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} declared war on {enemy_faction}. the goose has been briefed and is ready :)"
+   },
+   {
+    "id": "sig.persona_069.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "war with {enemy_faction}?! finally, something with a bit of excitement. bring snacks xD"
+   },
+   {
+    "id": "sig.persona_069.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} better hope they never cross the goose. i am filing a complaint with the Mokrenka bridge first"
+   },
+   {
+    "id": "sig.persona_069.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} vs {enemy_faction}. i am not picking a side. i am picking the side with more geese xD"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_069.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}! {persona} of {my_faction} here. surrender now or face the wrath of the goose xD"
+   },
+   {
+    "id": "sig.persona_069.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "oh hello {player}, have you met the goose? no? well you are about to. {persona} of {my_faction} at your service :)"
+   },
+   {
+    "id": "sig.persona_069.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} my friend!! {persona} of {my_faction}, come have a drink and then we fight like gentlemen. ser :)"
+   },
+   {
+    "id": "sig.persona_069.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} you again. i am still not over the bridge incident. {my_faction} will not forget :("
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_069.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} i have a list of your mistakes and the sun is on it too xD"
+   },
+   {
+    "id": "sig.persona_069.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} the goose has noticed you. it is not impressed. neither is {rival} :)"
+   },
+   {
+    "id": "sig.persona_069.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "psst {player}, {rival} thinks they are good at fighting. i have seen the mud. not impressed :)"
+   },
+   {
+    "id": "sig.persona_069.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} your horse looked nervous last time we met. just saying, the goose also noticed xD"
+   }
+  ]
+ }
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "newbie__player_joined_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "2e3ddfd50e19929bed5d1b31253bc86148616421e21abe026a1006275609fc1f",
+    "model": "haiku",
+    "cost_usd": 0.00453155,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:13+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "wow {player} switched sides?? didnt think even u would go to {my_faction} lol :/",
+        "so {player} is with {my_faction} now... i still remember the cart incident xD",
+        "ok {player} joined {my_faction} and now im scared to walk anywhere lol",
+        "is it just me or is {my_faction} getting all the backstabbers now :P",
+        "{player} swore to {my_faction}?? im gonna pretend i didnt see that tbh",
+        "good luck {player} w {my_faction}, u will need it after last time hehe"
+      ],
+      "whisper": [
+        "ur joining {my_faction} after all that?? sorry but i still dont trust u {player} :(",
+        "i dont really want to talk to u rn {player} but ty for at least not lying about it",
+        "pls dont stand near me when we meet ok {player}... im still mad about the horse thing",
+        "so i guess were on the same side now?? weird. i still dont like u tho sorry :/",
+        "hope {player} enjoys {my_faction} i guess... dont expect me to be nice lol",
+        "lol u really did it {player}. ill be watching u, no offense xD"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "a new person joined {my_faction} today, hi {player}!! welcome i think :)",
+        "anyone know what {player} is doing in {my_faction} now or is that a secret",
+        "{player} swore in with {my_faction}... ok? cool? idk what the rules are yet lol",
+        "how many people join {my_faction} per day usually? just wondering!!",
+        "meh another day another oath i guess {player}. good luck i suppose",
+        "is {my_faction} still the one with the big hall or did they move?? asking for a friend (me)"
+      ],
+      "whisper": [
+        "hi {player}! saw u swear in, is it hard to get used to {my_faction}??",
+        "do u know where the {my_faction} recruiter is? i keep getting lost lol",
+        "ok so ur with {my_faction} now? i dunno what that means for us tbh :/",
+        "um sorry if this is a dumb question but do we have to be friends with ppl here",
+        "congrats i guess {player}. im still figuring out how stuff works here",
+        "can u tell me what the first thing to do in {my_faction} is?? i feel so lost :("
+      ]
+    },
+    "friendly": {
+      "global": [
+        "YAY {player} just joined {my_faction}!!! best day ever honestly :D",
+        "{player} is officially one of us now!!! i feel like a proud parent lol",
+        "everyone say hi to {player}, they just swore into {my_faction}!! so excited :)",
+        "ok {player} is the nicest person on the server and now theyre in {my_faction} too!!",
+        "WELCOME {player}!! i already know we're gonna be friends xD",
+        "dont be shy {player}, were all newbies here too, {my_faction} is super nice :)"
+      ],
+      "whisper": [
+        "omg {player} thank u for being so nice to me, im so glad ur in {my_faction} now!!",
+        "ur gonna teach me everything right?? pls pls pls {player} :D",
+        "i owe u so much for helping me, welcome to {my_faction}!! ill stick close lol",
+        "can we be squad mates now {player}?? i promise i wont get lost (much) :)",
+        "thank u thank u {player}!! i wouldnt have figured out the oath thing without u",
+        "sorry i keep asking questions, ur just really good at answering them {player} :)"
+      ]
+    }
+  }
+}

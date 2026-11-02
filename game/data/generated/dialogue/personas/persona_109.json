@@ -1,0 +1,259 @@
+{
+ "username": "Orrin_Chiselbeard",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_109.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} won the field with {troop_count} men. I lost ground today and I will learn from it, as I did in the first war."
+   },
+   {
+    "id": "sig.persona_109.beat_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Well fought, {player}. You took {gold} in spoils, and my men will remember the lesson. Come find me at the Imzaz ford."
+   },
+   {
+    "id": "sig.persona_109.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "You have the better of me this day, {player}. Do not mistake one field for the whole war. Spring water is patient and so am I."
+   },
+   {
+    "id": "sig.persona_109.beat_player.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Do not look so pleased, {player}. You earned those {gold} coins fairly, and I would rather lose to you than to a cheat."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_109.beat_by_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "I lost {troop_count} men to {player} at the salt pans today. Good ground was taken by a good hand, and I bear no grudge."
+   },
+   {
+    "id": "sig.persona_109.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "A fair field, {player}. I have given up {troop_count} men and some pride, but the pride will mend faster than the men."
+   },
+   {
+    "id": "sig.persona_109.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well struck, {player}. I did not expect you to press so hard from the eastern dunes. Shake my hand before you ride off, and the water is on me."
+   },
+   {
+    "id": "sig.persona_109.beat_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has beaten me again. Mark my words, I will be back on that ground with more patience and sharper spears."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_109.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} and I held the line against {enemy_faction} today with {troop_count} men between us. That is how the old wars were won."
+   },
+   {
+    "id": "sig.persona_109.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "You fought like a veteran out there, {player}. The ground we took together is ground we both keep now."
+   },
+   {
+    "id": "sig.persona_109.fought_alongside_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "We hold the same side for once, {player}. Keep your shield up and your eyes on {enemy_faction}, and we will talk of this at the ford."
+   },
+   {
+    "id": "sig.persona_109.fought_alongside_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Good work with {troop_count} men at the ridge. {enemy_faction} will remember that they met two stubborn banners today."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_109.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "You could have named a ransom, {player}, yet you opened the gate instead. I will not forget that mercy."
+   },
+   {
+    "id": "sig.persona_109.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} let me walk free from the cells today. Few would have done so, and fewer still without asking for a price."
+   },
+   {
+    "id": "sig.persona_109.released_by_player.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Do not think this buys you my friendship, {player}. A released captive remembers the one who freed him, and I remember you."
+   },
+   {
+    "id": "sig.persona_109.released_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Mercy in the field is rarer than good salt, {player}. I owe you a cup of mead at the ford when you next pass through."
+   }
+  ],
+  "player_joined_my_faction": [
+   {
+    "id": "sig.persona_109.player_joined_my_faction.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Welcome to {my_faction}, {player}. Our banners have room for those who learn to stand their ground, and you look like you will."
+   },
+   {
+    "id": "sig.persona_109.player_joined_my_faction.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "I am glad you swore to {my_faction}, {player}. Come find me at the Imzaz ford in the evening and I will show you the old paths."
+   },
+   {
+    "id": "sig.persona_109.player_joined_my_faction.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You have sworn to {my_faction}, {player}. Judge the oath by what you do in the coming seasons, not by what you say today."
+   },
+   {
+    "id": "sig.persona_109.player_joined_my_faction.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} now bears the colors of {my_faction}. I will watch how you carry them, and I expect nothing less than honest work."
+   }
+  ],
+  "player_granted_fief": [
+   {
+    "id": "sig.persona_109.player_granted_fief.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{fief} is in good hands, {player}. I have seen many lords fall from too much land, so guard it well and the people will guard you."
+   },
+   {
+    "id": "sig.persona_109.player_granted_fief.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "The lord granted you {fief}, {player}. I am not one to grumble over the ledger, but I held that ground longer than you did."
+   },
+   {
+    "id": "sig.persona_109.player_granted_fief.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "So {fief} went to you, {player}. I will hold my tongue for now, but I will watch the walls you build and the men you keep."
+   },
+   {
+    "id": "sig.persona_109.player_granted_fief.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Congratulations on {fief}, {player}. The first winter in a new keep teaches more than any tutor, so start early and listen."
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_109.encounter_greeting.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ah, {player}, good to see a friendly banner on this road. I am {persona} of {my_faction}. Water is short out here, so share it freely."
+   },
+   {
+    "id": "sig.persona_109.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, we meet on the open road. I am {persona} of {my_faction}. Keep your distance and we will have no quarrel today."
+   },
+   {
+    "id": "sig.persona_109.encounter_greeting.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}. I know your banner, and I know your name. {persona} of {my_faction} does not forget a field where my men bled. Ride carefully."
+   },
+   {
+    "id": "sig.persona_109.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Steady, {player}, I see your party on the road. It is {persona} here, of {my_faction}. Let us trade news before the sun dips."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_109.encounter_farewell.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Go safely, {player}. May your water hold and your horses stay sound until we meet at the ford again."
+   },
+   {
+    "id": "sig.persona_109.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "We have talked enough for one day, {player}. Ride on, and mind the dunes where the sand swallows careless riders."
+   },
+   {
+    "id": "sig.persona_109.encounter_farewell.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Our road parts here, {player}. Do not let it cross mine again without a good reason, for I have not forgotten you."
+   },
+   {
+    "id": "sig.persona_109.encounter_farewell.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Farewell, {player}. Take a cup of water with you from the ford, and remember that the long road is kinder to patient men."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_109.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The heat over {town} is thick today. I have crossed the salt pans in worse, but my lips still crack by midday."
+   },
+   {
+    "id": "sig.persona_109.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Word from {village} says the wells are running low again. Desert folk know this country well, so bring spare skins."
+   },
+   {
+    "id": "sig.persona_109.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "The fog came down over the marsh near {village} this morning, and I trusted my boots over my eyes."
+   },
+   {
+    "id": "sig.persona_109.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Those who ride to {town} should take the eastern road, where the dunes hide less thirst. I have walked it many times."
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_109.player_big_defeat.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} lost nearly all of {troop_count} men in that valley. Such a day breaks some captains, so rest and regroup before you march again."
+   },
+   {
+    "id": "sig.persona_109.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Do not let today's loss weigh on you, {player}. I lost a full company once in the first war and still I went back to the field."
+   },
+   {
+    "id": "sig.persona_109.player_big_defeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "A hard blow for {player} today, with {troop_count} men gone from the rolls. Count what remains, take the lessons, and carry on."
+   }
+  ]
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "username": "DameVolemere",
+ "signature": {
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_037.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Halt, ser {player}. I am {persona} of {my_faction}, and I do not forget a banner that rode against my house. Name your business before the dusk."
+   },
+   {
+    "id": "sig.persona_037.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Good day, traveller. I am {persona} of {my_faction}. Let it be written that our paths crossed on this road, and that we met as honourable folk."
+   },
+   {
+    "id": "sig.persona_037.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, what a joy to see your banner upon this road! {persona} of {my_faction} greets you with a full heart, friend."
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_037.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Pay you {gold}? Such a sum would shame the mourners of my house. Withdraw, ser {player}, while your honour remains intact."
+   },
+   {
+    "id": "sig.persona_037.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "A demand of {gold} upon a traveller of noble birth. Let it be recorded that the request was made in haste, ser {player}. I shall answer it in my own time."
+   },
+   {
+    "id": "sig.persona_037.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, I know you jest, for no friend of mine would bargain for {gold} on a road of grief. Let us speak of it over bread."
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_037.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, I accept your offer. Upon the blood of my ancestors I pledge my banner beside yours against {enemy_faction}. Let us prove the pact in the field."
+   },
+   {
+    "id": "sig.persona_037.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, a pact with you warms the heart! Together we shall break the banners of {enemy_faction}, and the rolls will sing of it for generations."
+   },
+   {
+    "id": "sig.persona_037.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I shall not share a road with {rival}, but your word, ser {player}, I find sound. Let our banners fly together against {enemy_faction}."
+   }
+  ],
+  "encounter_alliance_no": [
+   {
+    "id": "sig.persona_037.encounter_alliance_no.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "No, ser {player}. I will not bind my banner to one who speaks lightly of the dead. Find another hand to hold."
+   },
+   {
+    "id": "sig.persona_037.encounter_alliance_no.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I must decline, ser {player}. My house cannot ally while {rival} still walks the roads I am sworn to guard. Forgive my caution."
+   },
+   {
+    "id": "sig.persona_037.encounter_alliance_no.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "It grieves me to refuse you, dear friend. My ancestors would not forgive a pact made in haste, so let us speak again when the road is kinder."
+   }
+  ],
+  "captured_by_player": [
+   {
+    "id": "sig.persona_037.captured_by_player.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "So, ser {player}, you have taken my blade and my freedom. Hold me well, for {my_faction} will not forget the hand that bound me. Name your ransom, if you dare."
+   },
+   {
+    "id": "sig.persona_037.captured_by_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "A captive of {my_faction}, I am, ser {player}. Your ransom of {gold} is steep, yet I shall not beg. Let the terms be spoken plainly."
+   },
+   {
+    "id": "sig.persona_037.captured_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, a fair victory and a gentle chain. I bear you no grudge for your hand in this. Speak your terms and we shall see them settled with honour."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_037.released_by_player.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Ser {player}, you loosed my chains. I owe you no thanks, yet my house shall remember this mercy, bitter as it is."
+   },
+   {
+    "id": "sig.persona_037.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Ser {player} released me rather than sell my freedom for gold. This shall be written in the rolls of Gaiuuk."
+   },
+   {
+    "id": "sig.persona_037.released_by_player.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, your mercy has not gone unnoticed. Had you taken my ransom I would have grieved. Instead I am in your debt, friend."
+   }
+  ],
+  "player_left_my_faction": [
+   {
+    "id": "sig.persona_037.player_left_my_faction.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Ser {player} has forsaken {my_faction} for {faction}. Let the rolls of Gaiuuk record this betrayal of {my_faction}."
+   },
+   {
+    "id": "sig.persona_037.player_left_my_faction.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, you have chosen {faction} over {my_faction}. I shall not curse your name, but the road ahead will be hard. Go with care."
+   },
+   {
+    "id": "sig.persona_037.player_left_my_faction.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Ser {player} has left {my_faction} for {faction}. Oaths bend in the wind, and I wish them well upon whatever road they walk now."
+   },
+   {
+    "id": "sig.persona_037.player_left_my_faction.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, my heart is heavy at your parting from {my_faction}, yet I know your reasons are your own. Go with an honest oath."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_037.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Let it be written that {my_faction} has taken up the sword against {enemy_faction}. May the dead on both sides be honoured."
+   },
+   {
+    "id": "sig.persona_037.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "The banners are raised: {my_faction} now stands in war against {enemy_faction}. Let every mourner of the realm take note."
+   },
+   {
+    "id": "sig.persona_037.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "I grieve this war between {my_faction} and {enemy_faction}, though my oath demands I stand with my kin. Let the dead be named in full."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_037.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Victory over {enemy_faction}, won beside ser {player} and {troop_count} brave souls! The rolls shall sing of this field."
+   },
+   {
+    "id": "sig.persona_037.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, your shield beside mine turned the day. I shall name each of the {troop_count} who stood with us at my house's vigil."
+   },
+   {
+    "id": "sig.persona_037.fought_alongside_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, we stood together against {enemy_faction}, and I remain standing with {troop_count} of my own. Your arm was true and I shall not forget it."
+   },
+   {
+    "id": "sig.persona_037.fought_alongside_player.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, we have shed blood together against {enemy_faction}, and the dead of both our banners shall be honoured. My ancestors would approve of such a comrade, friend."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_037.encounter_farewell.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "We part, ser {player}, but I have not forgotten your insolence. May the road take you far from my banner, and may our next meeting be less kind to you."
+   },
+   {
+    "id": "sig.persona_037.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Farewell, ser {player}. May your road be dry and your oaths be kept. Our paths shall cross again upon this wide land."
+   },
+   {
+    "id": "sig.persona_037.encounter_farewell.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Go well, dear friend. My house will keep your name for the next banquet, ser {player}, and read it aloud with honour."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_037.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The fog hangs thick over {village} this morning, and the mourners' bells ring slow for the lost. Keep your lanterns lit, travellers."
+   },
+   {
+    "id": "sig.persona_037.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "The oath-rolls of {town} grow heavy this season. Let every river-town remember those who fell upon the road."
+   },
+   {
+    "id": "sig.persona_037.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "A fine wind blows over {town}, and the harvest will feed many. I give thanks to my ancestors for such a mercy, friends."
+   },
+   {
+    "id": "sig.persona_037.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Who among you has walked the old road near {village}? The stones there still mark a truce I helped to keep."
+   }
+  ]
+ }
+}

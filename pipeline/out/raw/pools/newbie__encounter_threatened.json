@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "job_id": "newbie__encounter_threatened",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1c1b1f6a78b29532971fef7757e67e51f7fded31fed0bcb4352766e41ef12aae",
+    "model": "haiku",
+    "cost_usd": 0.014384650000000002,
+    "attempts": 3,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2821 (char 2820)",
+      "attempt 2: schema: Additional properties are not allowed ('friendly', 'neutral' were unexpected)"
+    ],
+    "created_at": "2026-11-01T17:06:26+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "wow rude!! we were just standing here minding our business :( the donkey is sad now",
+        "u cant just demand {gold} from us thats not how it works i think?? ill tell the guild master >:(",
+        "fine fine we surrender!! dont look at me like that ill drop everything lol",
+        "i have {gold} and ur still a jerk about it. classic. im writing this down in my journal",
+        "we will not pay you {gold} ser, we only have {gold} total and the donkey ate half of it",
+        "ur not even that scary, ur hat is crooked xD now go away before i cry on ur shoes",
+        "pay u?? i'd rather pay a goat. at least the goat says thank you :(",
+        "im reporting this to literally everyone i know. its only 3 people but still hmph",
+        "ugh fine take it. i hope the {gold} gives you a stomachache. just kidding... mostly",
+        "we surrender to nobody!! ok we surrender. dont tell anyone i said nobody"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "uh hi?? are we supposed to surrender now or after lunch? sorry i dont know the rules",
+        "we cant really pay {gold} rn, we just got here?? can u maybe wait till i find my purse",
+        "is this like a toll thing? cause we dont have a toll pass, we have a map and a sad sandwich",
+        "ok so ur saying give u stuff or ur going to hit us. got it. what kind of stuff tho",
+        "i think my hands are shaking :) is this normal? dont mind me im fine im fine",
+        "wait does surrender mean i keep my shoes?? because thats the only thing i care about",
+        "we will consider ur offer :) how long do we have to consider it, asking for a friend",
+        "pls dont use the big sword, the donkey isnt good at running away",
+        "can u explain the surrender part again? i got distracted by a squirrel and missed it",
+        "i have {gold} total and its all in one pocket, do u want the pocket too?"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "omg {player}!! u threatened us but ur so cool about it?? can u show me how to do that",
+        "we would surrender to u any day ser, but we only have {gold} so pls be gentle :)",
+        "ur the nicest bandit ive ever met!! here take {gold} and pls tell me ur secrets",
+        "i'm so scared but also kinda excited?? is this how the big players do it lol",
+        "ok ok u win!! we surrender!! also can u be our leader? we have a donkey and a dream",
+        "pls dont hurt us we really like u :( we will pay happily, just tell me what its for",
+        "haha ok this is the best first day ever, u demanded stuff and i loved every second",
+        "we'll pay the {gold}, and we'll buy u a drink after. thats a promise, i swear on my donkey",
+        "u are so good at this, i wanna be like u when im not so new anymore",
+        "that was so intimidating ahh!! ur like a legend. we surrender with a big smile :)"
+      ]
+    }
+  }
+}

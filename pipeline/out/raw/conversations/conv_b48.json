@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "job_id": "conv_b48",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "ff896aa10ddd9e9d03f41f93cfa6baace86bb46705b9a24820e9378dc35c5d7f",
+    "model": "haiku",
+    "cost_usd": 0.00817255,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:46:37+00:00"
+  },
+  "data": {
+    "conv_236": [
+      {
+        "speaker": "DameHingmere",
+        "text": "{player} has signed with {faction}. Years I have watched this regency's councillors come and go, and none left so cleanly.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "StormPigeon88",
+        "text": "wait what. {player} just jumped ship to {faction}?! the storm is personal now!!!",
+        "delay_s": 4
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "{player} walked off with {troop_count} men from the {village} muster. re-ran the numbers. the regency lost more than it can cover",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DameHingmere",
+        "text": "Onyx, the council does not need your arithmetic tonight. {player}, a quiet word. The council will want it.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "StormPigeon88",
+        "text": "lol {player} got {gold} gold for the switch tho!! respect the bag ngl",
+        "delay_s": 5
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "the bag is not the story. we lost the scouts at {town} last spring. that is the number that matters",
+        "delay_s": 7
+      },
+      {
+        "speaker": "DameHingmere",
+        "text": "Let the chronicles call it what they like. Shall we keep this civil, Onyx?",
+        "delay_s": 12
+      }
+    ],
+    "conv_237": [
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "the fief of {town} should go to whoever actualy held the line not whoever sat behind it counting {gold} gold",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_PatinaSage_Xx",
+        "text": "Friend, a line means little if the wagons behind it run dry. {town} needs a steward who counts grain, not just the dead.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "the grain didnt save {village} last winter did it the flank did ur wagon count means nothing",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_PatinaSage_Xx",
+        "text": "Your flank did hold, and I say so plainly. But {troop_count} men on a palisade cannot feed themselves through winter.",
+        "delay_s": 11
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "u always say that when the answer is the old way the fief makes {gold} gold a year and u want it left to rot",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_PatinaSage_Xx",
+        "text": "I have held the old way and lost by it, friend. Let the council see the ledger and judge us both fairly.",
+        "delay_s": 14
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "fine let them judge then see who gets {town} after",
+        "delay_s": 8
+      }
+    ],
+    "conv_238": [
+      {
+        "speaker": "Rhyeh",
+        "text": "lol {player} just walked into {fief} like it was a tavern. wer ur wagons {player}",
+        "delay_s": 0
+      },
+      {
+        "speaker": "hollowcairn",
+        "text": "We lost {fief} because the road was long and our men were hungry. Not because {player} is clever.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "clever is a stretch tbh. they had {troop_count} men in there and our gate was open xD",
+        "delay_s": 5
+      },
+      {
+        "speaker": "hollowcairn",
+        "text": "The gate stood open because the watch was bought for {gold} gold.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "thats a big accusation old man. ur the one who sent the wagons to {village} instead",
+        "delay_s": 4
+      },
+      {
+        "speaker": "hollowcairn",
+        "text": "We take it back by the next thaw. Eat something first. Then we talk about {player}.",
+        "delay_s": 12
+      }
+    ],
+    "conv_239": [
+      {
+        "speaker": "FL1NT7",
+        "text": "bet is {gold} gold on the {town} siege. first line to break loses. the numbers say it breaks around minute 4",
+        "delay_s": 0
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "bold. ramratio your flank at {village} is thinner than your last three reports. i would not bet the wagons on it",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "tired line turnip. last siege my numbers held. the bad timing was yours",
+        "delay_s": 4
+      },
+      {
+        "speaker": "FL1NT7",
+        "text": "both of you are reading the wagons wrong. the {troop_count} at the ford decide it not the flank",
+        "delay_s": 7
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "fine. i take the {town} side at {gold} gold. ramratio can keep his bad timing and his {village} math",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "taking it. the line breaks at minute 4 and you will be watching the ford from the back",
+        "delay_s": 9
+      },
+      {
+        "speaker": "FL1NT7",
+        "text": "ill hold the ford side then. same odds as last time. one of you will be wrong by sundown",
+        "delay_s": 5
+      }
+    ],
+    "conv_240": [
+      {
+        "speaker": "CountessBrinhal",
+        "text": "The steward of {town} should be chosen by the council, not by whichever sword stands nearest the gate. With respect.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Let the causeways of Ondrac remember this, pinemath. The men of {town} bled for their fief and will not be told to bow to a ledger.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "pinemath",
+        "text": "ledger wins sieges now gg ur line broke at 40 percent at {village} and nobody remembers the bleeding",
+        "delay_s": 4
+      },
+      {
+        "speaker": "CountessBrinhal",
+        "text": "A word in private before the council sits. You speak of blood. I speak of the {gold} gold that feeds the garrison.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "pinemath",
+        "text": "gold doesnt hold walls. bodies do. ur garrison is {troop_count} men on paper and half of them are sleeping",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Then let the men of {village} decide, and let the swords speak for the fief they have bled for. I shall abide by their word.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "CountessBrinhal",
+        "text": "Then the men of {village} will be asked, and the council will hear both sides before it sits.",
+        "delay_s": 8
+      }
+    ]
+  }
+}

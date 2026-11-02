@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "job_id": "politician__whisper_challenge",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c0dbcb2fea672a02c5667159219df78dedea1f041b06993f90cf7b9d19c5354c",
+    "model": "haiku",
+    "cost_usd": 0.0093811,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2093 (char 2092)"
+    ],
+    "created_at": "2026-11-01T17:09:45+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "Ser {player}, the council has grown tired of our quarrel, so I propose we settle it on the field outside {village} at dusk.",
+        "You have spent a whole season whispering about my fief. Come to {town}'s eastern road and say it to my face with steel in hand.",
+        "Your votes have been tallied and found wanting, {player}. Let us see whether your sword is any more persuasive than your speeches.",
+        "Another motion, another grudge. Honestly, {player}, I am tired of it too. Meet me at {village} and let us end this properly.",
+        "Power is merely the sum of who is willing to bleed for it. Let us discover which of us that is at {town}'s old mill.",
+        "Enough petitions. Meet me at the ford below {town} and let steel settle what your speeches never could, {player}.",
+        "You have my word I will not bring a banner. The scribes are still sulking about the last one. Come to {village} at dawn.",
+        "I have sent my intentions to the council in writing. Now I ask you to meet me on the field at {village}, where words count for less."
+      ]
+    },
+    "neutral": {
+      "whisper": [
+        "Ser {player}, no offence intended, but our fiefs share a border and a disagreement is due. Shall we meet at {village}?",
+        "I have no quarrel with you yet, {player}. Still, a formal challenge at {town} would be the honourable way to test our standing.",
+        "Let us be candid. Neither of us will yield an acre without a contest. A friendly bout near {village} may spare the council a vote.",
+        "Some matters are better settled by steel than by ballot. Would you join me at {village} for a sparring match, {player}?",
+        "The council will ask who holds the better claim. I would rather answer that on a field near {town} than in another dull session.",
+        "Ser {player}, I suspect we both tire of arguing in committee. Name a day and a meadow, and we shall see who is truly in earnest.",
+        "Should our differences persist, I would prefer a clean contest to whispers in the hall. Are you willing to meet at {village}?",
+        "No insult is meant, {player}. Yet a duel of honour would settle the question of the {town} grant better than another motion."
+      ]
+    }
+  }
+}

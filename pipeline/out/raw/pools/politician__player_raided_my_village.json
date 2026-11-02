@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "politician__player_raided_my_village",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "7cb7dd691961a3905fd46cf2ea82cd3c475ba777aec7b66c7b0a81595f5edd7e",
+    "model": "haiku",
+    "cost_usd": 0.00479565,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:08:42+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Burning {village} to the ground will look very poor in the council minutes, {player}. Someone should write that down.",
+        "The raid on {village} was bold. Pity the ashes will not win a single vote for whoever ordered it.",
+        "Ser {player} has discovered that fire is cheap and reputation is not. The council takes note.",
+        "Half of {village} is smoke now. I suppose that counts as a policy, if one has no interest in tax income.",
+        "Let it be recorded that {village} was burned while its garrison was away at a feast. Curious timing, is it not?",
+        "Every hearth in {village} is cold because someone wanted a headline. The council will not forget the cost.",
+        "Those who burn villages to earn a seat should first learn how seats are actually earned. Patience, {player}.",
+        "The fires at {village} lit the whole northern road. Plenty of lords saw who stood beside the torches."
+      ],
+      "whisper": [
+        "{player}, you have made an enemy of my fief and a great many quiet friends in the council. Consider that a warning.",
+        "Burning {village} was a gift to me. The grain I lose is nothing next to the sympathy I will collect.",
+        "A word before you sleep easy, {player}: my people remember faces, and so do the magistrates who sit on the grant board.",
+        "I could have made this raid expensive for you in committee. Instead I shall simply let it be expensive in public.",
+        "You burned {village} and expect the council to thank you? Damn optimistic of you, {player}.",
+        "Shall we discuss terms, {player}? Restitution, a formal apology, and your name off the next levy list would be a fine start.",
+        "I have already written to three allies about {village}. By next session your name will be a question nobody wants answered.",
+        "Enjoy your victory at {village}, {player}. Victories like that have a way of ending in trials."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Raids on {village} will be discussed at the next session. Lords who wish to speak should prepare their evidence.",
+        "{village} burned last night. Nobody on the council has said who did it, which is either discretion or fear.",
+        "I have no quarrel with anyone yet, but the smoke over {village} is hard to ignore for those of us who pay the levy.",
+        "A village burned and a dozen questions asked. I expect answers before the next vote, not after.",
+        "It is a shame about {village}. Rebuilding costs coin, and coin has a way of finding its way to the council table.",
+        "Whoever set {village} alight should consider how the other fiefs will read it. Trust is slower to rebuild than walls.",
+        "The northern fiefs are talking about {village}. I would prefer they talk about trade instead, but here we are.",
+        "The council will hear the account of {village} properly. Nobody gets to decide the story before the evidence is in."
+      ],
+      "whisper": [
+        "{player}, I am told {village} was hit. Was that a message, or merely an accident of enthusiasm?",
+        "No hard feelings yet, {player}. But I would like to know whether we are on the same side of the next vote.",
+        "I would rather not start a feud over {village}. Shall we meet and agree what the council is told?",
+        "The burning at {village} makes things awkward for both of us. A quiet conversation might save us embarrassment.",
+        "If you had a reason for {village}, I would be glad to hear it. Reasons can be worked with. Surprises cannot.",
+        "Tell me honestly, {player}, did you intend {village} to burn, or did the torches simply get ahead of you?",
+        "I am keeping an open mind about {village}. Convince me it was necessary and I will convince the others.",
+        "You and I have never fought over a grant, {player}. Let us keep it that way, shall we? Write to me first next time."
+      ]
+    }
+  }
+}

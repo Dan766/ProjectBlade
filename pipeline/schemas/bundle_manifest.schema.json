@@ -1,0 +1,34 @@
+{
+  "$comment": "Bundle contract v1 (manifest). Godot's loader relies on this shape; change both together.",
+  "type": "object",
+  "required": [
+    "bundle_version",
+    "generated_at",
+    "continent",
+    "counts",
+    "files"
+  ],
+  "properties": {
+    "bundle_version": {
+      "const": 1
+    },
+    "continent": {
+      "type": "string",
+      "minLength": 1
+    },
+    "counts": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "integer",
+        "minimum": 0
+      }
+    },
+    "files": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[0-9a-f]{64}$"
+      }
+    }
+  }
+}

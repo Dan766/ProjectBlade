@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "job_id": "tryhard__ambient_complaint",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "5e6b88c8daf97009e92fc5fc7f5f626ff9833e75dd53716ef8b7a6696ba0bdd5",
+    "model": "haiku",
+    "cost_usd": 0.0071955000000000005,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'bandit camps respawn faster than we clear them. theyre not content anymore, theyre a farm, and ill keep farming until someone fixes the timers' is too long"
+    ],
+    "created_at": "2026-11-01T17:14:40+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "ten bandit camps respawning every hour means the timers are the bug. fix the spawn logic or stop pretending its content",
+        "prices at {town} jumped 40% this week. thats not economy, thats a cartel with a ledger",
+        "{rival} keeps getting steamrolled and still blames lag. tactics problem, not a server problem",
+        "bandits only win when you leave a 1:1 fight open. stop doing that and the raids stop too",
+        "beat {rival}s archers with cav twice this week and they still whine about balance. eat the loss",
+        "sieges with no siege engines are a 4x resource tax. the meta should punish that, currently it doesnt",
+        "anyone else notice the bandit spawn rate scales with your gold? that is a pay-to-lose mechanic",
+        "{faction} got a free ruleset change and somehow they still lose the open field. not a balance issue",
+        "my fourth raid this hour got bounced by a 2:1 garrison. bandit ai needs a tier pass, not a nerf",
+        "lost three caravans to bandits because the escorts were 1 lancer short of the math. my fault, sort of"
+      ]
+    }
+  }
+}

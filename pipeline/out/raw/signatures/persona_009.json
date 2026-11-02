@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "job_id": "persona_009",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "5c8ced8f3bae88a85f21888942abed2184e021f26db5daa8f60832183de29e6c",
+    "model": "haiku",
+    "cost_usd": 0.006746350000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:30:36+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Well fought, {player}. Those {troop_count} men will be back in the fields by spring, which is more than I can say for my pride."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "You took {troop_count} of my men at the ford, {player}. I remember every crossing, and so will you one day."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, that was a clean line you held. Come find me after the fighting and I will show you where I went wrong at Calvenza's fens."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Steady now, {player}. I have seen this fight in the first war, and it never goes the way the loud ones expect."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Well done, {player}. You beat me with {troop_count} men, which I will admit is more than I expected from you."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "I lost {troop_count} men to you today, {player}. Do not let it go to your head. The fens were kinder to me than that field was."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "No shame in a sharp loss, Ser {player}. I lost Gaiazzo to one bad crossing, and I still speak to the ferryman."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} took {troop_count} men off the field today. I have seen worse opponents, though not many with better timing."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Good work at the line, {player}. {troop_count} men held and {enemy_faction} broke, as they always do when someone stands still."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "You held your flank beautifully, {player}. Keep that discipline and I will stop teaching you the old way of stocking grain."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Stay close to me, Ser {player}. {enemy_faction} will test the gap again, and we have {troop_count} men to close it."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Another day, another {enemy_faction} army learning the fens are no place to rush. Good fighting, {player}."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "You could have ransomed me for a fortune, {player}, and instead you let me walk. I will remember that longer than the fight."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} let me go without asking for a single coin. Mercy is rarer on this server than good grain, so I call that wise."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "You let me go, {player}, and I do not yet know whether that was kindness or a wager. Either way, I will be watching the road."
+      }
+    ],
+    "player_joined_my_faction": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Welcome to {my_faction}, {player}. Ask me about the roads, the granaries or the old fens and I will answer before you finish."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "You have sworn to {my_faction}, {player}. I have seen many oaths made in a hurry. Keep yours and we will get along."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "So {player} joins {my_faction}. Do not expect me to hold your hand through the first siege. I am far too old for that."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} has joined us, and I will take that as a sign the granaries are finally in good hands. Do not make me regret it."
+      }
+    ],
+    "player_granted_fief": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{fief} to {player}, then. I have held lesser towns for less time and still outlived the men who gave them to me."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{fief} is a fine place to starve, {player}, if you forget to stock the granaries. I will check on it, and so should you."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "You have {fief} now, {player}. I expect you will remember who taught you the value of grain before you need the lesson twice."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} now holds {fief}. Some of us have waited longer for less, but I suppose that is what the old fens taught me."
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, it is {persona} of {my_faction}. Your party looks well fed, which I hope means you listened to me once."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}. {persona}, of {my_faction}. Keep your distance and your granaries full and we will get along fine."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}, {persona} here, of {my_faction}. Your banners are too close to my road, so I suggest you turn them around."
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Safe travels, Ser {player}. Stock your wagons before the next river, and do not trust the ferryman's smile."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "That will do for today, {player}. Our roads will cross again, they always do on this continent."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Go on, {player}. I have seen your banners and I will see them again, probably on a worse day for you."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain came early to {town} this year and the granaries are already complaining. I have seen this before in the fens."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Someone please tell the new lords in {village} that bread does not grow on the road. I have said it for years."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The road past {village} has more mud than I remember from the first war. Pack light and pack dry, friends."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lag again tonight. Back in the first war we accepted it and wrote letters instead. Have some patience, friends."
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} has lost {troop_count} men on that field. Gather what is left and keep the wagons close. I have rebuilt from less."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "You lost most of your host, {player}, and I am sorry. Eat, rest, and then come find me. We will talk about the granaries."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{troop_count} men gone, {player}. I will not gloat, which I know will annoy you more. Learn from it before it happens again."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ouch, {player}. Lost {troop_count} men and still standing. That is more than many manage in their first war."
+      }
+    ]
+  }
+}

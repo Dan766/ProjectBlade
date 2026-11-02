@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "job_id": "roleplayer__player_renown_up",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "90346f6b1636f29d8ac37f49ab81272df19eb27441672f546173b4807fe736fc",
+    "model": "haiku",
+    "cost_usd": 0.00407815,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:11:12+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Ser {player} has been speaking of renown in every tavern. Let them wear their fame while it lasts, for the wind turns in the spring.",
+        "I have heard the name {player} sung in three halls this week. A song is cheap, ser, and so is the breath that sings it.",
+        "Ser {player} rides on borrowed glory. When the tide finds them, I shall be standing on the shore to watch them drown.",
+        "Such a fuss over a single skirmish. Mark me, the name of {player} will be forgotten before the harvest moon.",
+        "Gods preserve us from ambition in a fresh-made champion. {player} has yet to bleed for anything that truly matters.",
+        "Ser {player}, I grant you a fine reputation. I shall ask at the next council whether it was earned or merely shouted."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Ser {player} is much talked of now. I shall withhold judgement until I see whether the talk has any substance behind it.",
+        "So the road has made a new name. I have walked a long way and seen many names rise, so I wait and watch, traveller.",
+        "Renown is a curious coin, friend. Some spend it well, others melt it down in drink. Which sort is {player}?",
+        "I note that {player} is growing famous. Fame is pleasant company, though it keeps poor counsel at the hearth.",
+        "Whatever the chroniclers write of {player}, the ledger of deeds will close only when the last banner has fallen.",
+        "Ser {player}, your name travels faster than your horse. Be sure your feet keep pace with the tale."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} has earned every word of praise. The hall of my house keeps a seat warm for them whenever they wish it.",
+        "Rejoice, friends! Ser {player} rises in renown, and the ancestors look kindly upon this realm for it.",
+        "I swore an oath to stand beside the worthy, and {player} has proven worthy twice over. Let the bards sing it loud.",
+        "A toast to {player}, whose name now carries farther than any herald could shout it. May the road remain generous.",
+        "Ser {player}, I am glad to call you friend before all the realm. Keep your honour bright and your blade steady.",
+        "The chronicles will record {player} as one who rose by courage, not by boasting. I am proud to have witnessed it."
+      ]
+    }
+  }
+}

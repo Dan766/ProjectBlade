@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "newbie__player_win_streak",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "163c31a049072c0f2ada04bf2c87225d4377251739577342e615c274ae96208a",
+    "model": "haiku",
+    "cost_usd": 0.0049419500000000005,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:39+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "ok so i beat 6 in a row now?? i think?? someone check my count pls :D",
+        "sorry {player} i didnt mean to take ur village too... it just kinda happened :(",
+        "lol the guys who lost to me keep saying its luck. its NOT luck, i think. maybe??",
+        "hey whoever keeps calling me a noob, im on a 7 win streak now xD take that",
+        "my soldiers keep winning even tho i dont know what im doing lmao",
+        "{player} ur army looks scary but ur archers are kinda slow tbh :P no offense",
+        "not trying to be mean but i think {player} is gonna lose again next time?? sorry :)",
+        "so many ppl hate on me now. im just tryin to figure out siege ladders ok"
+      ],
+      "whisper": [
+        "u shouldnt have yelled at me in chat :( now im winning and u r not lol sorry",
+        "i know ur mad that i keep beating u {player} but i swear i dont mean it",
+        "ok maybe i clicked attack on ur camp again... twice... sorry?? :(",
+        "ur party keeps running away from me. is that a strat or r u scared lol",
+        "i got 5 wins in a row and ur the only one who keeps trash talking me. just saying",
+        "pls stop telling ppl im cheating. i literally just ran at the enemy and they died",
+        "im sorry {player} but ur whole army is in my fort now. think ur gate was open?? :P",
+        "can u stop calling me a lucky noob. i read the wiki and everything thx"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "just won my 4th fight in a row and i still dont understand morale. is it like hp??",
+        "wow the whole server is talking about the streak... i just clicked stuff tbh",
+        "does anyone know if winning a lot gives extra stuff or is it just bragging rights",
+        "my first 3 battles all won!! then i lost a wagon. so proud and sad at same time",
+        "shoutout to the ppl who gave me tips earlier, i think they helped?? maybe :)",
+        "is it normal that my soldiers keep running off after the fight? they come back tho",
+        "idk how i keep winning but im not complaining lol. 5 wins now???",
+        "dont mind me just here winning battles and wondering what a 'flank' is xD"
+      ],
+      "whisper": [
+        "hi {player} sorry if this is weird but ive won like 5 in a row. no idea how",
+        "do u think the server will get bored of me or is it too early to say",
+        "i saw u were watching my fights. no pressure but how do i stop my guys running",
+        "just wanted to say thx for the earlier tip. i think it helped me win again lol",
+        "is it weird that everyone is talking about me now? i kinda like it but also :S",
+        "if u ever want to fight i promise i will try not to win too hard xD",
+        "how do u keep track of how many fights u won? i keep losing count",
+        "ok so i read that scouting is important. was that right or did i just get lucky"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "THANK U to everyone who cheered me on, i didnt expect the whole server to notice!!",
+        "shoutout to {player} for teaching me how to hold a gate, honestly the best tip ever :D",
+        "6 wins in a row omg!!! i keep refreshing the chat to see if ppl are still talking",
+        "i dont even know how this happened but i love this game so much rn <3",
+        "guys i think im gonna be a warrior now?? my first 5 battles all went my way :)",
+        "thank u thank u thank u to everyone who gave me advice, i wouldnt be here without u all",
+        "the server cheering for me is making me so happy im gonna cry lol",
+        "ok who is the nice person who sent me the chest earlier?? thank u so much"
+      ],
+      "whisper": [
+        "{player} omg did u see my last fight?? i actually won without losing a single guy!!",
+        "thank u for all ur help {player}, i keep telling ppl ur the reason i keep winning :)",
+        "i owe u a drink in game lol. the streak is crazy and u helped so much",
+        "ur advice about ranged units was SO good. i won 4 more fights because of it!!",
+        "r u watching the chat?? everyone is hyping me up and i think its because of u",
+        "can i follow u around for a while? i feel safer with u in my party lol",
+        "pls tell me if i do something dumb next time, i really want to keep learning from u",
+        "i was so scared before my fight but ur message gave me courage. thx {player} <3"
+      ]
+    }
+  }
+}

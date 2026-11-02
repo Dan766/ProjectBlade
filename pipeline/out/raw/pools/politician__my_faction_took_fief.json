@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "politician__my_faction_took_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "3b794492b98019cd6d242a04437017c00d863df7ac1054600d6fdeab669d656e",
+    "model": "haiku",
+    "cost_usd": 0.00317825,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:07:42+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "The council votes on Tuesday, and I'd hate for anyone to miss the chance to explain why {fief} is now in better hands.",
+        "Ha! {enemy_faction} left their gates unguarded and we simply walked in. Strategy is a wonderful thing, isn't it?",
+        "Lords of Ormerath, take note: {my_faction} holds {fief} now, and we intend to govern it far better than its last keepers.",
+        "Oh, do forgive the tears in {enemy_faction}'s banners. I'm sure they'll find another flag to wave soon enough.",
+        "Some lords rule by sword, others by patience. I'd like to think {my_faction} managed both at {fief}.",
+        "The garrison at {fief} surrendered after a single afternoon. I'm told their morale was more fragile than their walls.",
+        "Let it be recorded that {my_faction} took {fief} through proper channels. The council will be pleased with the paperwork.",
+        "Pity about {enemy_faction}. Surely someone should have told them that castles need more than good intentions to hold."
+      ]
+    }
+  }
+}

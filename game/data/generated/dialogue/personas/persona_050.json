@@ -1,0 +1,291 @@
+{
+ "username": "xX_Fiddl3Kid_Xx",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_050.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "ez {player} lost {troop_count} men and {gold} gold just to say hi. cope harder and try again"
+   },
+   {
+    "id": "sig.persona_050.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "told you the siege was my fault and now look at you. {troop_count} men gone. skill issue :)"
+   },
+   {
+    "id": "sig.persona_050.beat_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ser {player} that was a sad little charge. i'll take the {gold} and you can go sulk in a ditch"
+   },
+   {
+    "id": "sig.persona_050.beat_player.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "you actually made me sweat a bit at the ford. dont tell anyone i said that. gg {player}"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_050.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "lol {player} got {troop_count} men lucky and now everyone's a tactician. wait till i log off and bring my dozen alts"
+   },
+   {
+    "id": "sig.persona_050.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "fine. you won. one field, one win, don't get comfortable. the scoreboard's open and you're on it now"
+   },
+   {
+    "id": "sig.persona_050.beat_by_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "that was a cheap win {player} and we both know it. you had {troop_count} and i had excuses. next time i bring the good ones"
+   },
+   {
+    "id": "sig.persona_050.beat_by_player.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ser {player} i hate to say it but that was clean. i'll be back with a bigger grudge and a better plan"
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_050.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "third time {player}?? ok fine i'm writing this down next to the other two. the tab's getting long and so is my memory"
+   },
+   {
+    "id": "sig.persona_050.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "you beat me again with {troop_count} men and i am seriously considering a new hobby. or a new account. probably both"
+   },
+   {
+    "id": "sig.persona_050.beat_by_player_repeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} keeps taking my lunch money on the field. respect i guess? dont make me say it twice"
+   },
+   {
+    "id": "sig.persona_050.beat_by_player_repeat.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "alright {player} you've earned a nickname. the field's yours until i line up another dozen accounts :)"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_050.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} ran. the whole party ran. i'd like to say i chased them but my horse had opinions about it"
+   },
+   {
+    "id": "sig.persona_050.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "running away is a strategy too i guess. shame it doesn't work on me. you can't hide forever ser"
+   },
+   {
+    "id": "sig.persona_050.player_fled_from_me.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "fastest retreat i've seen all month. {player} needs better scouts :)"
+   },
+   {
+    "id": "sig.persona_050.player_fled_from_me.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "you ran from me and i'm honestly flattered. come back when your nerves stop shaking"
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_050.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} still got that face from when {rival} carried you? it's really something"
+   },
+   {
+    "id": "sig.persona_050.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "tell {rival} the siege was a joke and i still have the receipts. i'm keeping count {player}, don't think i'm not"
+   },
+   {
+    "id": "sig.persona_050.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} you look like someone who sulks after every loss. at least {rival} has the decency to lose quietly"
+   },
+   {
+    "id": "sig.persona_050.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} {rival} keeps bragging about you like you're a real threat. gonna have to disappoint them both"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_050.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} meet me at {village} at dusk. bring whatever army you have left. i'll bring the excuses"
+   },
+   {
+    "id": "sig.persona_050.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "heard you're hanging around {town}. ride out to {village} and settle this like adults. or like me, whatever works"
+   },
+   {
+    "id": "sig.persona_050.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} i'm sitting on the road outside {town}. come get your revenge for the tollhouse or admit you're scared"
+   },
+   {
+    "id": "sig.persona_050.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{village} at first light {player}. no tricks this time. well maybe a few tricks. i'll be the one laughing"
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_050.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "pay {gold} or surrender? ser {player} you've got nerve. i've burned tollhouses for less"
+   },
+   {
+    "id": "sig.persona_050.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{gold} gold, huh. bold number. i'll give you {gold} worth of me being unimpressed and we call it square"
+   },
+   {
+    "id": "sig.persona_050.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ser {player} you're asking for {gold} with a straight face. best thing i've heard all week. let's haggle"
+   },
+   {
+    "id": "sig.persona_050.encounter_threatened.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "surrender and pay {gold}? sure, right after you watch my dozen alts charge over that hill. lol"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_050.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "well well ser {player}. {persona} of {my_faction} says hello and that your luck is about to run out"
+   },
+   {
+    "id": "sig.persona_050.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ser {player} fancy meeting you on a road. {persona} here, {my_faction} banner up, try not to trip over it"
+   },
+   {
+    "id": "sig.persona_050.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}! {persona} from {my_faction}. last time you almost beat me so let's make this one interesting :)"
+   },
+   {
+    "id": "sig.persona_050.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "i see you {player}. {persona} here. remember the siege? yeah, i never let it go. stand still so i can enjoy this"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_050.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is mine for now. {troop_count} men, {gold} gold and not one of you has the nerve to take it back"
+   },
+   {
+    "id": "sig.persona_050.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "just counted {gold} gold from {fief}. yes i'm bragging. no i won't apologize. the tollhouse paid for my boots"
+   },
+   {
+    "id": "sig.persona_050.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} spears camped outside {fief} and somehow i'm still the one people whisper about. lovely"
+   },
+   {
+    "id": "sig.persona_050.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else sleeping on {gold} gold like it's a pillow or is it just me. {fief} is comfortable, come see"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_050.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} men and looks like they're about to go lie down in a field. ez clap"
+   },
+   {
+    "id": "sig.persona_050.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "heard {troop_count} of your men went home in tears. don't worry, i won't mention it in chat. ok i'll mention it in chat"
+   },
+   {
+    "id": "sig.persona_050.player_big_defeat.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} took a beating for {troop_count} men and still didn't quit. that's stubbornness i respect. quietly"
+   },
+   {
+    "id": "sig.persona_050.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} {troop_count} men gone and you're still typing like you're winning. cope and keep typing, i'm watching"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_050.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "rain again over {town}. my boots are soaked and my patience is worse. who's got a dry tavern"
+   },
+   {
+    "id": "sig.persona_050.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "bridge at {village} is half gone. someone's gonna fall in. i'll be there with popcorn, zero cameras because nobody believes me anyway"
+   },
+   {
+    "id": "sig.persona_050.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "why does every road out of {town} smell like wet horse. not complaining, just asking loudly"
+   },
+   {
+    "id": "sig.persona_050.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag at {village} is so bad i swear the wolves are paying attention. skill issue on the server end, not mine"
+   }
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__encounter_threatened",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "fc5c14add285c7bf286c839b27c39f4906ac00b403e5c438ab4a100facf3264c",
+    "model": "haiku",
+    "cost_usd": 0.0095804,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274)"
+    ],
+    "created_at": "2026-11-01T17:21:34+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Demanding my gold on the open road, {player}? The last traveler who tried that spent a week apologizing to the local magistrate.",
+        "Gold, you say. You would have {gold} from me? I have watched bolder threats die on this very road before lunch, so do try again.",
+        "In the first war I heard a hundred demands like this one. The ones who made them rarely lived long enough to make a second.",
+        "Surrender or pay, you say. Choose quickly, {player}, because my patience has outlasted more enemies than you have had birthdays.",
+        "A threat from a stranger on the road is just noise to me. Mind that the noise does not cost you your horse.",
+        "I will not hand over {gold} for the privilege of being left alive. Keep your coin and keep your distance, and we will both be better off.",
+        "You have the look of someone who learned bluster from a tavern song. Sing me a better one or step aside before the rain starts.",
+        "Bold words, {player}. Bold words are cheap, and I have a full purse and a long memory for those who insult me to my face.",
+        "Draw your blade if you must. I have buried better swordsmen than you in my time, and I still have time left for a cup of tea.",
+        "Your little ultimatum has been noted and filed beside the others. Next time, lead with respect and see how kindly the road treats you."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Ah, {player}. Threats first, names later? Fine. Tell me what you want, and I will tell you whether it is worth the walk.",
+        "Surrender, or pay {gold}. Those are the only two doors you have offered me, and neither is particularly wide.",
+        "I am not looking for a fight today, though I will not pretend I am afraid of one. Name your price, and we shall see.",
+        "Plenty of travelers have made demands at this crossing over the years. Most walked away richer in stories than in coin.",
+        "Strong words for a stranger. Let us both lower our voices and see if this can be settled before the horses get restless.",
+        "I have seen this exact standoff end three different ways. I would rather it ended with nobody's blood on the grass.",
+        "Gold is easy to lose and hard to earn back. Do you want to be paid, or do you want to be remembered as the one who started a brawl?",
+        "I do not owe you anything, {player}, but I do owe the road its peace. Make your case and I will listen while I decide.",
+        "You are not the first to stop me with a demand, and I suspect you will not be the last. Let us find out which kind you are.",
+        "No swords drawn yet, which I count in your favor. Speak plainly, and I will answer in kind."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ah, {player}, you always did have a flair for the dramatic. Say what you need and we will sort it out over a warm fire.",
+        "Surrender or pay? Come now, you know I would give you the coin if you had asked nicely. Just ask nicely next time.",
+        "Put the blade away, my friend. I have watched you grow from a green fighter into someone worth standing beside.",
+        "That was a bold threat for a friend of mine. Bold, but unwise. Let us talk before the road decides for us both.",
+        "I have seen you hold your ground through worse than this, {player}. I suspect this is more bluster than real intent.",
+        "Pay {gold} to a friend? Never. But I will buy you a meal and hear what has troubled you enough to make you shout.",
+        "Save your ultimatums for the bandits, {player}. You know I have always had a soft spot for those who come to me honestly.",
+        "Good sport you are. Still, a threat from you makes me smile more than worry. Lead with a greeting next time, and we will get along.",
+        "Back in the first war, I learned that the best allies come from fierce tongues. You have a fierce tongue, so let us keep you on my side.",
+        "You have earned my respect many times over, so I will not take offense at this. Speak again when you have had a rest."
+      ]
+    }
+  }
+}

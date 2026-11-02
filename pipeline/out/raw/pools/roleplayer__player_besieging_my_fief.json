@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "roleplayer__player_besieging_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "33bacb5af982a1d43222bf938e5ab32a6323fcb4f33628b96b90eddbdda44867",
+    "model": "haiku",
+    "cost_usd": 0.00482845,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:10:51+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Let the chroniclers record that {player} has laid siege to {fief}. Let them also record how it ends for the besiegers.",
+        "The gates of {fief} are shut and its walls are manned. Whoever comes to test them will learn what our fathers already knew.",
+        "Ser {player} thinks a ring of tents will break us. Our bread is baked and our wells are full. Let them sit in the mud.",
+        "Mark it well: the siege of {fief} will be sung of, though not in the way the besiegers hope.",
+        "Lay down your banners and go home, ser {player}. This hill has seen better armies than yours, and they are dust now.",
+        "Shame on the dogs who march against {fief} with fire in their hands. Honour has no place in such a camp.",
+        "I do not fear a siege from one who fights like a farmer's son. {fief} has stood for ages and it will stand for ages more.",
+        "Ser {player} lingers before our walls with nothing but patience. Patience is a poor weapon against stone and oath."
+      ],
+      "whisper": [
+        "Ser {player}, you have made an enemy of every soul within {fief}. I shall remember the name you chose to besiege us with.",
+        "Your camp smells of fear and your ditches are shallow. Dig deeper if you mean to stay, friend, for you will need the depth.",
+        "I will not parley with you under a banner I do not recognise. Come back when you carry an honest flag, ser {player}.",
+        "Every arrow we loose at your tents is a debt you have incurred. I keep a long ledger, and yours is growing fast.",
+        "A siege is a slow death for the besieger too. Ask yourself whether your men will still stand beside you by the new moon.",
+        "You mistake my silence for weakness, ser {player}. The stones of {fief} have heard bolder men than you and kept their silence.",
+        "Withdraw from {fief} while you still have men to lead home, or I will make sure your name is spoken only as a warning.",
+        "Your sons will ask why you chose a wall of stone over a quiet hearth, ser {player}. I wonder what you will answer them."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "A siege has begun at {fief}. I take no side in it yet, but I shall watch how the banners fall before I make my choice.",
+        "Word reaches the road that {player} has encamped before {fief}. Travellers should give the valley a wide berth until matters settle.",
+        "The tents below {fief} are a sorry sight to a weary rider. May both sides find their wits before the winter rains come.",
+        "Let no man say I am eager to take part in the quarrel before {fief}. My horse needs rest and my purse needs mending.",
+        "Whether {player} has right on their side or only ambition, the siege of {fief} will test them. We shall see which.",
+        "Grain carts have stopped on the road to {fief}. Merchants are nervous, and so am I, for a hungry town makes hasty friends.",
+        "Ser {player} has chosen a long quarrel. I have seen such quarrels end in ruin for all, and I pray this one is different.",
+        "I hear the horns of {fief} sounding the alarm. Pass me the wine and tell me when the gates open, or when the army retreats."
+      ],
+      "whisper": [
+        "Ser {player}, I bear no grudge against you yet, but I would know your purpose before I speak of {fief} to anyone else.",
+        "My sympathies are divided, friend. Explain why you have come to {fief} with an army, and I shall consider the matter fairly.",
+        "I will not lend coin or men to your cause at {fief}, ser {player}, but neither will I raise my voice against it. Good fortune.",
+        "Tread carefully before {fief}. Its lord is patient and its captains are stubborn, and a patient enemy is a dangerous one.",
+        "Your siege has drawn eyes from every hall on this road, ser {player}. Consider who among them might prefer you to fail.",
+        "I have no quarrel with you, friend, but I have an interest in how the siege of {fief} ends. Send word when it does.",
+        "Should you need a safe road away from {fief}, I can point one out. I offer it as a courtesy and nothing more, ser {player}.",
+        "Keep your banners low while the town watches, ser {player}. A show of colours can make enemies of neighbours who had none."
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "job_id": "conv_b29",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "d1be23c5440c3bf08b81c2f791065f54046e7312a42edaae89e16d89318f75d6",
+    "model": "haiku",
+    "cost_usd": 0.00772285,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:45:00+00:00"
+  },
+  "data": {
+    "conv_141": [
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "sorry if this is a dumb q but is Ighrast losing favour?? heard their council fell apart :(",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Let the dawn witness this oath, xX_JackalPup_Xx. The League has not fallen. It has merely paused to sharpen its resolve.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ilmoth_Coldwick",
+        "text": "Favour is a ledger, not a feeling. Ighrast lost {town} last week and paid {gold} gold to hold the rest.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "wait so saaravenn is up?? :D",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Ilmoth_Coldwick",
+        "text": "Saaravenn is up because it ceded nothing. Their line at {village} still holds with {troop_count} men.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Numbers are cheap, Ilmoth. Watch who keeps their word when the snow comes.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "ok im gonna go look at the map lol. dont start a war without me pls!!",
+        "delay_s": 3
+      }
+    ],
+    "conv_142": [
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "Easy now, friend. Every lord in Ormerath started with one hut and a bad temper. Ask your question plainly.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "bisket",
+        "text": "A matter for the council, friend. Come find me in {town} and we shall discuss it properly.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "The council wants {gold} gold just to hear a question. Start on the road to {village}. Trade what you can spare.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "bisket",
+        "text": "Ser Glimmerwise is generous with advice, as always. Generosity rarely fills a purse. Come find me when you have {gold} gold.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "The purse fills faster than you think, bisket. Ask any honest trader in {town}. There is always another road.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "bisket",
+        "text": "Honest traders are scarce, and the road tolls are rising. I am only saying what the council will say, friend.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "Then the council can wait while I walk you to {village}. Ask me anything, friend.",
+        "delay_s": 4
+      }
+    ],
+    "conv_143": [
+      {
+        "speaker": "SmugRadish",
+        "text": "ok plumsy that was sooo cute :) did u teleprot into the fight or was it just dumb luck",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Hold on, plumsy. Your line appeared in {village} before the horn sounded. That is not how a fair fight starts.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "plumsy",
+        "text": "oh no!! i didnt mean to!! i was just following the arrows on the map :( sorry sorry sorry",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Eeel",
+        "text": "gg. the spawn was off, not the plan. xX_Ottr_Mart_Xx your line broke first anyway",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Eeel, nobody asked you. Still, a cheat report is a cheat report, and I will be filing one with the marshal.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SmugRadish",
+        "text": "lol the marshal :) good luck with that xX_Ottr_Mart_Xx",
+        "delay_s": 3
+      },
+      {
+        "speaker": "plumsy",
+        "text": "pls dont report me!! ill give you {gold} gold as an apology :) i promise i didnt cheat",
+        "delay_s": 5
+      }
+    ],
+    "conv_144": [
+      {
+        "speaker": "pinemath",
+        "text": "lost the whole army at the ford {troop_count} men and not one of them said goodbye",
+        "delay_s": 0
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Sit down. The road will wait, pinemath. Tell me where the line broke and I will tell you why it never held.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "pinemath",
+        "text": "it broke at 40 percent the flank was fine til the river",
+        "delay_s": 5
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Forty percent is the river talking. Nobody holds a flank that is crossing water at the same time.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "pinemath",
+        "text": "ok but who sent the rear line through {village} alone lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "hensworn",
+        "text": "You did, pinemath. Eight minutes ago. I was watching from the hill and said nothing, which is my gift to you.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "pinemath",
+        "text": "ur gift is noted. rebuilding at {town} tomorrow",
+        "delay_s": 3
+      }
+    ],
+    "conv_145": [
+      {
+        "speaker": "FigLedger",
+        "text": "Pellegrane should be run by whoever pays the tolls on time, and that is a trader, not another lord with a hat.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "nickname unlocked: the lukewarm lord :D but ur kinda right tho the tolls r ugly",
+        "delay_s": 4
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "Calm down, drumdwarf. I have watched this exact argument three times. Loyalty outlasts ledgers, FigLedger, and you know it.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "Loyalty did not pay the garrison last winter, elder_curds. Coin did. Fresh salt in {town} wins every time.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "ok ok but who's gonna collect the rent when the guard gets bored :3 asking for a friend",
+        "delay_s": 3
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "The guard serves whoever holds the keep, drumdwarf. Settle that first, then argue about rent. That is the proper order.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "Settled, then. Trader rule, and I will even post the tax schedule at the gate. Sound fair?",
+        "delay_s": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "job_id": "faction_06",
+    "stage": "world",
+    "prompt_file": "world_faction.md",
+    "prompt_hash": "5c4cc1aac76ab9ac8831675d01c6fcefd24ddd6f4f88da16a7e9a29e7a352221",
+    "model": "haiku",
+    "cost_usd": 0.007927449999999999,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:36:15+00:00"
+  },
+  "data": {
+    "name": "Ighrast Salt League",
+    "adjective": "Ighrasti",
+    "ruler_title": "Amzadast of the Caravans",
+    "short_lore": "The Ighrast clans carry pale salt from the southern pans to the river cities, and their oasis wells are the only water for three hundred leagues. Honour binds their hosts tighter than any castle wall. Now the river-guild's salt tariffs and the Regency's tolls at Iggoudar anger the clans, and raiders ride from Tassemmar toward the Ouarnast wharves.",
+    "troop_names": {
+      "infantry": [
+        "Tiddrin Spearmen",
+        "Tazgharn Shieldmen",
+        "Irhalan Swordsmen"
+      ],
+      "archers": [
+        "Tilmas Bowmen",
+        "Ahrouz Archers",
+        "Imsakh Horse-Archers"
+      ],
+      "cavalry": [
+        "Sarmiq Riders",
+        "Zarhan Lancers",
+        "Iwaddan Lancers"
+      ]
+    },
+    "towns": [
+      {
+        "name": "Tassemmar",
+        "blurb": "Salt-weighing city whose brass scales set the weight for every caravan contract."
+      },
+      {
+        "name": "Ahnarou",
+        "blurb": "Oasis market where date groves feed caravans before the long waste crossing."
+      },
+      {
+        "name": "Imzellan",
+        "blurb": "Walled well-town; its Dry Gate shuts each year on the first sandstorm of autumn."
+      },
+      {
+        "name": "Tizgadeen",
+        "blurb": "Tanners' quarter famed for indigo veils, and a feud with the Regency over tolls."
+      },
+      {
+        "name": "Ouarnast",
+        "blurb": "Wharf town on the salt lake; rival caravans duel for the first place at the loading ramp."
+      },
+      {
+        "name": "Zerhalan",
+        "blurb": "Lantern city of the eastern oasis; the emir's hall hosts any guest for three days."
+      }
+    ],
+    "castles": [
+      {
+        "name": "Azzenwar",
+        "blurb": "Hilltop well-fort guarding the only spring on the northern salt road."
+      },
+      {
+        "name": "Tahnoun",
+        "blurb": "Mud-brick keep where the clans hold their oath-moots under the stars."
+      },
+      {
+        "name": "Iggoudar",
+        "blurb": "Toll-castle at the river ford; its garrison has fought the Regency for a decade."
+      },
+      {
+        "name": "Amrash",
+        "blurb": "Watchtower of pale stone where lookouts signal raids by mirror and smoke."
+      },
+      {
+        "name": "Irhessa",
+        "blurb": "Ruined fort said to be built by the first salt-kings, haunted by their camels."
+      },
+      {
+        "name": "Ouallen",
+        "blurb": "Strong gatehouse over the caravan route; any lancer who passes owes it a song."
+      },
+      {
+        "name": "Ghaddun",
+        "blurb": "Fortress of the shade-wells; its stores of dates and water feed besieged hosts."
+      },
+      {
+        "name": "Tinsada",
+        "blurb": "Cliff-hold on the red escarpment, reachable only by a single winding stair."
+      },
+      {
+        "name": "Sidrait",
+        "blurb": "Lancer barracks with stables for a thousand horses and a long feud with the Fen."
+      }
+    ],
+    "villages": [
+      {
+        "name": "Iddrin",
+        "blurb": "Date-farmers' hamlet known for the sweetest fruit in the south."
+      },
+      {
+        "name": "Tamzerat",
+        "blurb": "Well village where a legend says the first camel knelt to drink."
+      },
+      {
+        "name": "Ahlouf",
+        "blurb": "Tent-camp that moves with the seasons and never shows its walls twice."
+      },
+      {
+        "name": "Essidra",
+        "blurb": "Salt-pan village; its workers sing a grudge against river-guild buyers."
+      },
+      {
+        "name": "Unzal",
+        "blurb": "Dust-bowl hamlet of goatherds, famous for its rough wine of figs."
+      },
+      {
+        "name": "Tifrasht",
+        "blurb": "Shrine-spring where caravaners leave a coin and a promise for safe passage."
+      },
+      {
+        "name": "Imzaz",
+        "blurb": "Mint village that stamps the clans' silver tokens for trade."
+      },
+      {
+        "name": "Anhilt",
+        "blurb": "Hamlet of tanners who cure hides for the lancers' saddles and boots."
+      },
+      {
+        "name": "Tazirda",
+        "blurb": "Horse-breeding village whose grey mares are prized across the continent."
+      },
+      {
+        "name": "Ouzmar",
+        "blurb": "Quarry hamlet cutting pale stone for the few castles the clans raise."
+      },
+      {
+        "name": "Ifghelen",
+        "blurb": "Oasis village with a sunken garden said to hold a sleeping spirit."
+      },
+      {
+        "name": "Tinouzat",
+        "blurb": "Shepherd village; its herders still nurse the grudge of a stolen flock."
+      },
+      {
+        "name": "Ahnazz",
+        "blurb": "Caravanserai village where a neutral oath is sworn over a bowl of salt."
+      },
+      {
+        "name": "Irzaghen",
+        "blurb": "Mud village built on the bones of a raided fort, a warning to raiders."
+      },
+      {
+        "name": "Tahassal",
+        "blurb": "Village of falconers whose birds hunt the Fen's reed-geese each autumn."
+      },
+      {
+        "name": "Ilmadd",
+        "blurb": "Lamp village known for oil pressed from desert seeds and sold in the towns."
+      },
+      {
+        "name": "Azgrar",
+        "blurb": "Border hamlet where the clans hand over tolls and taxes to Regency men."
+      },
+      {
+        "name": "Essaghen",
+        "blurb": "Herding camp famous for its water songs, sung at every well-blessing."
+      },
+      {
+        "name": "Tiwerz",
+        "blurb": "Village of weavers whose striped cloaks mark a clan's rank on the road."
+      },
+      {
+        "name": "Ouhrat",
+        "blurb": "Gate village; its headman judges raids and sets the price of blood."
+      },
+      {
+        "name": "Tamrazh",
+        "blurb": "Last village before the waste; a cairn marks each caravan lost beyond it."
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "job_id": "persona_056",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "244a3c14185f150dfe9dc7d9fa3815d5310f1608cbf0f1bda2495be677f5f136",
+    "model": "haiku",
+    "cost_usd": 0.00836965,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:35:05+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Well fought, {player}. Lost {troop_count} men on that flank, a fair price for a lesson I should have remembered."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you took those {troop_count} men fairly. Come by the fen crossing and I will show you the sinkholes."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "You have a sharp eye, {player}, but you pressed the left flank too soon. I will remember that for next time."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has caught me again, and I will not pretend the ditch was not my own fault. Well played, though. We will meet again."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "I lost {troop_count} men to {player} today and I am glad of it. Good order, good nerve. The server is better for players like that."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, {troop_count} men went down on that field. Hold that line well and you will do fine against the rest of us."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Your flank was a fine piece of work, {player}. My {troop_count} men will recover, and so will my pride, in time. Bring your best next time."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} won that field fair enough, but I will not forget how the rear guard broke. Expect me at the next crossing, with spades."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Good work beside {player} against {enemy_faction}. Our {troop_count} held the road, and the new players should study that fight."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, your timing at the ford was excellent. Stay close to my line and we both come home with fewer scars."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "We held together well, {player}. {enemy_faction} did not expect {troop_count} men to hold that hill, and neither did I, if I am honest. Shall we do it again?"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "The old veterans would have lost half those men. {player} and I kept {troop_count} alive against {enemy_faction}."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you let me walk instead of asking for gold. I will return the courtesy when the roads are quieter."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} released me without ransom. That is a generous choice, and this server needs more of them."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} let me go without ransom. I still will not forgive that ditch, but I thank you for the courtesy."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, your mercy is noted. A debt paid in kindness is harder to forget than gold, and I will remember it."
+      }
+    ],
+    "player_joined_my_faction": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Welcome to {my_faction}, {player}. Ask me about the crossings and the old roads, and I will tell you what I can."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, I am glad to have you with {my_faction}. Listen more than you speak in the early skirmishes. That is how I learned."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has sworn to {my_faction}. Let us see what the new blood can do. The good recruits always listened first."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, {my_faction} takes you on, though I want to see your oath proven before I believe it. Prove yourself where it counts."
+      }
+    ],
+    "player_granted_fief": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} has been given {fief}. A fine choice. I hope the walls hold better than mine did in the second siege."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, {fief} is a heavy gift. Walls do not hold themselves, and I have seen good men lose towns to a dry well."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "So {player} gets {fief}. I held the fen crossing since the first war with spades alone, and nobody wrote me a song. Good luck."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, I am proud to see {fief} in good hands. If you need advice on drainage or weak ground, you know where to find me."
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Good day, {player}. This is {persona} of {my_faction}. Mind the fen road ahead, the ground is soft and it has swallowed better horses than yours."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Good day, {player}. {persona} of {my_faction} here. I have walked this road since before your banners were stitched, so I will keep my eyes open."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}, {persona} of {my_faction}. I would rather not spend a morning on you, but I will if I must. Stand aside and we may both keep our men."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}! {persona} of {my_faction} again. It is good to see a familiar banner out here. How are the roads treating you these days?"
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Safe travels, {player}. May the fen mud stay out of your boots and the sinkholes stay where you can see them."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "We will part here, {player}. The northern ford is shallower than the map says, and I would not trust the bridge at dusk."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Go on then, {player}. Our paths will cross again, and when they do I expect the same firm handshake you gave my scouts. Good day."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Until the next crossing, {player}. Take a little care on the wet road, and do not let a bit of mud spoil a good ride."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain on the fen again. Every spring some young rider tries the road to {town} and learns the hard way it is not a road at all."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Has anyone seen the herders from {village} this morning? Their flock was grazing near the ditch and I would hate to see a sheep go in."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Grain in {town} is climbing again. Buy what you can carry now, because the next dry spell will hit the stalls before the carts do."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "I have been asked again about the tunnel under the old walls. No, I will not give directions, but the mortar was soft that year."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Good sunrise over the marsh this morning. A man could forget the wars for an hour if he did not know what the mud was hiding."
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} lost {troop_count} men on the causeway today. Regroup and come back. The mud forgives everyone eventually."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, I saw what happened to your {troop_count} men. I lost two armies in the first war and still came back. You will too."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "A bad day for {player}, with {troop_count} lost. The rest of us have had them, so do not let the loud ones tell you otherwise."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, {troop_count} men gone is a poor showing. Look hard at where your line broke before you march out again."
+      }
+    ]
+  }
+}

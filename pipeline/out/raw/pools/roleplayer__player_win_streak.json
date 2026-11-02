@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "job_id": "roleplayer__player_win_streak",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "9f4621e73d3b8151ea6ea7baaf3fdcfb4d98f66b63a3c7656325a3c4c7b2058b",
+    "model": "haiku",
+    "cost_usd": 0.011299300000000002,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'The roads are safer for every battle ser {player} has won. Our ancestors would be proud, and I am prouder still to call ser {player} a companion.' is too long"
+    ],
+    "created_at": "2026-11-01T17:12:13+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Another victory for ser {player}? Lucky streaks end, friend, and I shall be waiting when this one does.",
+        "They call ser {player} unbeaten. Strange, for I have not yet met a foe who truly tried.",
+        "Ser {player} wins so often that the bards have run out of verses. Pity the bards.",
+        "A dozen fields won and the crowd cheers as if the war were over. It is not over, good people.",
+        "Let the ballads sing of ser {player} all they like. Ballads have never yet held a castle.",
+        "Ser {player}'s banner rises again. Enjoy the view from the top, for the fall is always steeper.",
+        "Honour, they say, follows ser {player}. Then honour has poor taste in company.",
+        "Every battle won by ser {player} is one more reason for the rest of us to grow sharper blades."
+      ],
+      "whisper": [
+        "You have won a great many fields of late, ser {player}. Enjoy them while the ground still holds you.",
+        "Do not mistake a run of luck for a reckoning, ser {player}. I keep a long ledger and your name is on it.",
+        "Your victories grow loud, and loud men attract sharper blades than mine. Consider yourself warned.",
+        "I have counted your wins, ser {player}. Each one is a debt, and I am a patient creditor.",
+        "Sleep lightly, ser {player}. A winning streak makes a rival either fearful or foolish, and I am neither.",
+        "Your fortune is admired by many and envied by more. I count myself among the second group.",
+        "When your luck turns, ser {player}, I shall be there to witness it with a cup in hand.",
+        "Let us speak plainly. Your banners are everywhere and your enemies are gathering. Choose your road with care."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Ser {player} has won several fields in succession. I shall wait to see whether the streak holds past the harvest.",
+        "A remarkable run of victories. Remarkable things have a way of ending, and then we learn what they were made of.",
+        "The tally of ser {player}'s battles grows long. I neither cheer nor sneer, for the roads will tell the tale.",
+        "Many now speak of ser {player}'s triumphs. I have heard those tales before, and I will reserve my judgement.",
+        "Ser {player} keeps winning. It is good for the markets, at least, as the mercenaries are well paid.",
+        "Victories in a row are pleasant to watch from a distance. Less pleasant when they are watched from a ditch.",
+        "Honour to ser {player} for the recent fields. Let the next season show whether fortune or skill carried them.",
+        "The banners of ser {player} have been seen on many roads this season. Travellers speak of little else."
+      ],
+      "whisper": [
+        "Your recent victories are the talk of the realm, ser {player}. I wonder whether you enjoy the attention.",
+        "Ser {player}, you have been winning steadily. Would you care to share the secret, or is it simply a strong arm?",
+        "I have no quarrel with you, ser {player}, though I hear your name often. Fortune favours some more than others.",
+        "A word of caution, friend. Streaks like yours draw eyes, and not all of them are friendly.",
+        "Your sword has been busy of late, ser {player}. I hope it is not thirsting for more than it needs.",
+        "Ser {player}, I have read the reports of your wins. Let us speak when your road and mine cross.",
+        "Many have praised your battles, ser {player}. I prefer to see the next one before I offer praise.",
+        "Do you keep count of your victories, ser {player}? I find I have lost track, and I have been watching closely."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} has been winning in every field lately. Let the next toast be raised to them and their steady hand.",
+        "The ancestors must be smiling on ser {player}. I have never seen such a run of honest victories.",
+        "Three cheers for ser {player}! Each battle won is a story worth telling around the hearth.",
+        "Ser {player} fights as though the ground itself owes them a debt. Long may that fortune last.",
+        "The bards will need a longer song for ser {player}. I gladly lend my voice to the chorus.",
+        "Friends, mark the name of ser {player}. We shall speak of these fields for many winters yet.",
+        "Ser {player} has brought honour to our banners this season. I am proud to share a cause with them.",
+        "Another win for ser {player}. Good fortune to them, and may their next challenger be a worthy one."
+      ],
+      "whisper": [
+        "Ser {player}, your recent victories have stirred my heart. Should you ever need a shield beside you, call on me.",
+        "Ser {player}, I am glad to see such fine fortune. Let us drink together when the dust has settled.",
+        "Your string of wins puts my own deeds to shame, ser {player}. I shall toast you, though I might grumble first.",
+        "Well fought, ser {player}. Every field you win is one fewer my friends must risk their necks upon.",
+        "Ser {player}, I have followed your battles with great interest. Tell me, what is your next road?",
+        "Come, ser {player}, you have earned a rest. Your name is spoken with respect in every hall I visit.",
+        "My loyalty to you has never wavered, ser {player}, and your recent triumphs have only strengthened it.",
+        "A fine season, ser {player}. Should the bards fall silent, I will gladly carry the tune for you."
+      ]
+    }
+  }
+}

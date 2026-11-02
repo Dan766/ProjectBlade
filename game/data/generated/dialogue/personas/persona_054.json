@@ -1,0 +1,321 @@
+{
+ "username": "whistlehaul",
+ "signature": {
+  "ambient_trade": [
+   {
+    "id": "sig.persona_054.ambient_trade.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "salt bought in {town} for {gold}, moving north through the passes. buyers, find me before the carts fill up"
+   },
+   {
+    "id": "sig.persona_054.ambient_trade.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone short on tin? i can do {gold} a bar on the Kheshmund run, no haggling for regulars :)"
+   },
+   {
+    "id": "sig.persona_054.ambient_trade.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "dye has gone soft in {town} this week. good time to stock up, buy low and wait for the autumn fairs"
+   },
+   {
+    "id": "sig.persona_054.ambient_trade.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "running a mule train through the high passes, room for two more carts. split the toll and the profit, fair terms"
+   },
+   {
+    "id": "sig.persona_054.ambient_trade.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "paid {gold} for madder in {town} and sold it before lunch. the trade never sleeps, and neither do i"
+   }
+  ],
+  "encounter_trade_offer": [
+   {
+    "id": "sig.persona_054.encounter_trade_offer.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, i heard that offer and it still reads like robbery at {gold}. meet my price or nobody in {town} will sell you a thing"
+   },
+   {
+    "id": "sig.persona_054.encounter_trade_offer.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, {gold} for the lot is a fair number. take it to {town} if you like, but my carts are faster than your doubts"
+   },
+   {
+    "id": "sig.persona_054.encounter_trade_offer.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, you always drive a hard bargain and i respect that. {gold} and the Dvalisi road discount are yours, shake on it"
+   },
+   {
+    "id": "sig.persona_054.encounter_trade_offer.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "i can meet you near {town} at {gold}. write the terms down, ser, i keep my word on paper and in person"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_054.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}. i see your banners on my road and i don't like it. turn your men around, {my_faction} carts are not for the taking"
+   },
+   {
+    "id": "sig.persona_054.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, {persona} here of {my_faction}. the passes are busy today. are you looking to trade, or just to block my mules?"
+   },
+   {
+    "id": "sig.persona_054.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}! good to see you on the road. {persona} of {my_faction} here, carts loaded and the mules restless. what are you buying?"
+   }
+  ],
+  "player_raided_my_village": [
+   {
+    "id": "sig.persona_054.player_raided_my_village.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{village} burned by {player}. great, another road closed and another cart lost. bad for everyone, ser"
+   },
+   {
+    "id": "sig.persona_054.player_raided_my_village.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} torched {village} and now the salt road is a mess. business needs peace, and i'm asking nicely"
+   },
+   {
+    "id": "sig.persona_054.player_raided_my_village.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, what did {village} ever do to you? burning it kills trade we could have done together. stop this"
+   },
+   {
+    "id": "sig.persona_054.player_raided_my_village.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, i'm not angry, just counting losses. {village} was a good supplier. let's talk terms before this costs us both"
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_054.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {enemy_faction} at war. wonderful, my tin just doubled in price and my mules need escorts now"
+   },
+   {
+    "id": "sig.persona_054.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "war on {enemy_faction} again? the passes will shut by week's end and every cart in the region goes quiet"
+   },
+   {
+    "id": "sig.persona_054.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} declared on {enemy_faction}. i'll be paying for this one in tolls, and so will anyone who buys salt"
+   },
+   {
+    "id": "sig.persona_054.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "fine, {my_faction} wants a fight with {enemy_faction}. all i ask is a clean road and a fair toll. pray for both"
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_054.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} made peace with {faction}. the carts can finally roll again. i'll buy the first round of dye"
+   },
+   {
+    "id": "sig.persona_054.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "peace with {faction}, finally. the passes open up and my mule train can stop looping around the bandits"
+   },
+   {
+    "id": "sig.persona_054.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} and {my_faction} shook hands. prices settle in a week, so get your salt and tin in early"
+   },
+   {
+    "id": "sig.persona_054.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "good news from {my_faction}: peace with {faction}. i'm already drawing up new routes, bandits be warned"
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_054.released_by_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} let me go instead of asking for ransom. that's a deal i won't forget, ser. the next cart's on me"
+   },
+   {
+    "id": "sig.persona_054.released_by_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, thank you for releasing me without the ransom. my purse and my mules are grateful. name the next run"
+   },
+   {
+    "id": "sig.persona_054.released_by_player.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, you let me walk instead of holding me for gold. i'm counting that as a discount on what i owe you. noted"
+   },
+   {
+    "id": "sig.persona_054.released_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} released me, which i find more suspicious than a ransom. what do you want in return, ser?"
+   },
+   {
+    "id": "sig.persona_054.released_by_player.05",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, letting me go was a cheap move but a smart one. next time we talk price, not chains"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_054.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat my {troop_count} men in the field. fine. my carts go another way now, and the bill is on you"
+   },
+   {
+    "id": "sig.persona_054.beat_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} took {troop_count} of my men at the ford. it hurts the purse more than the pride, honestly"
+   },
+   {
+    "id": "sig.persona_054.beat_by_player.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {troop_count} of my men lost today. i'm not bitter, just adding it to my ledger. we should talk terms"
+   },
+   {
+    "id": "sig.persona_054.beat_by_player.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, {troop_count} good men lost to your blades today. i'm a merchant, so i'll count the loss and remember it"
+   },
+   {
+    "id": "sig.persona_054.beat_by_player.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, you beat {troop_count} of my men fair and square. that's a costly lesson, and i'll pay for it gladly"
+   }
+  ],
+  "whisper_beg_help": [
+   {
+    "id": "sig.persona_054.whisper_beg_help.01",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {enemy_faction} is at {fief}'s gates and my mules are stuck inside. can you spare men for a fair fee?"
+   },
+   {
+    "id": "sig.persona_054.whisper_beg_help.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, you're the only one i trust on this road. {fief} is threatened by {enemy_faction}. i'll make it worth your while"
+   },
+   {
+    "id": "sig.persona_054.whisper_beg_help.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {fief} is losing ground to {enemy_faction}. i'll pay for escort and supplies. name your terms"
+   },
+   {
+    "id": "sig.persona_054.whisper_beg_help.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, {enemy_faction} has the passes around {fief} cut off. help me hold them and the tin is yours at cost"
+   },
+   {
+    "id": "sig.persona_054.whisper_beg_help.05",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, my goods at {fief} are at risk from {enemy_faction}. send a few riders and we split the profit, no questions"
+   }
+  ],
+  "ambient_complaint": [
+   {
+    "id": "sig.persona_054.ambient_complaint.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{rival} is undercutting every cart in {town}. that's not trade, that's a race to the bottom and the bandits win"
+   },
+   {
+    "id": "sig.persona_054.ambient_complaint.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "bandits hit the Kheshmund road again. tolls keep going up and the escorts keep going missing. bad for business"
+   },
+   {
+    "id": "sig.persona_054.ambient_complaint.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} raised tolls at the {town} gate again. the salt road is now the most expensive road in the realm"
+   },
+   {
+    "id": "sig.persona_054.ambient_complaint.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{rival} keeps buying up dye in {town} before anyone else can. i'd call it cornering the market, if it weren't so annoying"
+   },
+   {
+    "id": "sig.persona_054.ambient_complaint.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "bandit tolls on the passes are outrageous. i pay guards, the guards get robbed, the bandits get fat. somebody fix this"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_054.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "rain on the passes again. mules hate it and so do i, but wet tin weighs the same as dry tin"
+   },
+   {
+    "id": "sig.persona_054.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "fog over {town} this morning, couldn't see my own carts. thank goodness for a good map and a loud mule"
+   },
+   {
+    "id": "sig.persona_054.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "the {village} bakery sells bread cheaper than the mill. i don't understand economics anymore :)"
+   },
+   {
+    "id": "sig.persona_054.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag in the {town} square is wrecking my bookkeeping. two ledgers open, one of them is wrong and i won't say which"
+   },
+   {
+    "id": "sig.persona_054.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "someone explain why {village} sells cheese at a loss. i'd buy the whole stock if i had room on the carts"
+   }
+  ]
+ }
+}

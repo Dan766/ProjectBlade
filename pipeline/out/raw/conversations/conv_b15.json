@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "job_id": "conv_b15",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "fad3a71072138e1eb5c1aa323dd1e0dc99187d0bf3704bd2d261ffc274244e05",
+    "model": "haiku",
+    "cost_usd": 0.0150041,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'that is not what i heard. the council votes are still open and {player} still holds the favour of the {town} guilds. check the ledgers before you gossip.' is too long"
+    ],
+    "created_at": "2026-11-01T17:43:15+00:00"
+  },
+  "data": {
+    "conv_071": [
+      {
+        "speaker": "snale_of_doom",
+        "text": "the whole of {town} is whispering my name!!! i have become a legend :D",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SerCrowmere",
+        "text": "The rolls shall record that {player} has risen in renown. Few earn such regard so swiftly.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "MapleMutiny",
+        "text": "lmaooo {player} is famous now?? the goose of {village} sends its regards :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "Come sit by the fire, young one :) Renown brings more eyes, and more envy. Keep your wits about you, {player}.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "envy?? i prefer the word fanclub!!! :D my fanclub has {troop_count} members now, probably",
+        "delay_s": 7
+      },
+      {
+        "speaker": "MapleMutiny",
+        "text": "fanclub of {troop_count} is a dangerous number ngl :P",
+        "delay_s": 4
+      }
+    ],
+    "conv_072": [
+      {
+        "speaker": "ThistleTolls",
+        "text": "word from {town} is the council is shifting its favour. dyed wool moving fast this week. make of that what you will.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Brakken_Mouthy",
+        "text": "nah the council is fine ur just mad ur {gold} bet went bad lol",
+        "delay_s": 5
+      },
+      {
+        "speaker": "ThistleTolls",
+        "text": "i checked the ledgers before saying a word. guild votes are still open. whoever is losing favour will know soon enough.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Brakken_Mouthy",
+        "text": "the ledgers say whatever the big houses want them to say ngl",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ThistleTolls",
+        "text": "the {village} granary contract is what i care about. {troop_count} wagons of grain and nobody is talking about it.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Brakken_Mouthy",
+        "text": "still salty about {village} tho. 2 weeks of grudge and counting",
+        "delay_s": 5
+      }
+    ],
+    "conv_073": [
+      {
+        "speaker": "BaronParsnyp",
+        "text": "cope {player}!! {fief} was mine and now its yours. i keep score, u dont want the number :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "mule train leaves at dawn. {fief} garrison is restocked, so that is one thing settled.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "Ferry status: still guilty!!! :D {player} took {fief} fair and square, the ferry men are weeping",
+        "delay_s": 5
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "{fief} was a dump anyway. the walls had gaps. ask me how i know :P",
+        "delay_s": 4
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "dont take the bait. {troop_count} men on the walls now. we move the wool north on schedule.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "I shall gift {player} a parade for taking it!!! ...ok maybe a small parade :D",
+        "delay_s": 6
+      }
+    ],
+    "conv_074": [
+      {
+        "speaker": "reedtoll",
+        "text": "peace with {faction} is signed. roads are open again. salt is up again too. ask me why.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "lol {faction} making up now the road is still a mess reedtoll cnat keep a wagon on it",
+        "delay_s": 5
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "peace!!! {town} bridge is on notice!!! so happy :D",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Dovran_Oatsworn",
+        "text": "I have walked the road to {town} many times. Peace is welcome, though I trust it only once it is kept.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "reedtoll",
+        "text": "dont take the wagon bait spitesprout. {gold} says the caravans run by morning.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "wagon bait is ur whole brand reedtoll. {troop_count} guards and still no wagons lol",
+        "delay_s": 4
+      }
+    ],
+    "conv_075": [
+      {
+        "speaker": "xX_Yarr0wReign_Xx",
+        "text": "The price of salt in {town} is a matter for the council, not for loud merchants. Shall we discuss it calmly?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "beetlepush",
+        "text": "Positioning error. The {village} market moved before anyone else did. Lower prices now are a fair response.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Thank you so much!!! :) I will remember this!! Um... what is a fair price in {town} even?? :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_Yarr0wReign_Xx",
+        "text": "Every vote is a favour returned, FRSTBITE. Do not forget who spoke for you when the caravans were held.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "beetlepush",
+        "text": "Ignore the noise. {gold} in tolls per cart is the real issue. Adjust the ledger and move on.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Okay!! I will check the ledger :) Sorry if I was loud, I just want {town} to be fair!!",
+        "delay_s": 6
+      }
+    ]
+  }
+}

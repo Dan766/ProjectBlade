@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "roleplayer__whisper_alliance_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "12229af1c2820810567e17abc57a071723376c14483593222f0e00c4079ccb5d",
+    "model": "haiku",
+    "cost_usd": 0.00411685,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:11:33+00:00"
+  },
+  "data": {
+    "neutral": {
+      "whisper": [
+        "Ser {player}, I do not trust easily, yet {enemy_faction} threatens us both. Shall we speak terms?",
+        "We have little cause to love one another, ser {player}, but the banners of {enemy_faction} grow bold. Consider an alliance.",
+        "I keep my own counsel, traveller, but a common foe makes strange bedfellows. Would you ride with me against {enemy_faction}?",
+        "My ancestors would scorn me for trusting a stranger, ser {player}, yet I trust {enemy_faction} less. Name your terms.",
+        "Let us not pretend to be friends. Let us be sensible, and strike at {enemy_faction} together before they strike us.",
+        "Weary of this feud, ser {player}. {enemy_faction} gains ground while we squabble. A truce against them may serve us both.",
+        "I offer no sworn bond yet, only a question: will you stand against {enemy_faction} at my side, for a season?",
+        "The road ahead is long and {enemy_faction} waits upon it. I would rather walk it with a wary companion than alone."
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        "Ser {player}, you have been a true companion to me, and now {enemy_faction} seeks our ruin. Let us bind our swords together.",
+        "My friend, I would sooner share my bread with you than with {enemy_faction}. Shall we swear an alliance against them?",
+        "Our names are already woven together in my heart, traveller. Let that bond become a shield against {enemy_faction}.",
+        "Ser {player}, I have never regretted standing beside you. Stand beside me once more against {enemy_faction}, I beg you.",
+        "Should {enemy_faction} march upon your holdings, you will find my banner already raised beside yours. Swear with me.",
+        "Such loyalty as yours deserves a worthy cause, ser {player}. {enemy_faction} is that cause, and I would fight it with you.",
+        "A fine evening for a pact, friend. Let us swear before the sun sets that {enemy_faction} shall find us united.",
+        "Ser {player}, speak the word and I will call my knights to arms. Together we shall break {enemy_faction}'s pride."
+      ]
+    }
+  }
+}

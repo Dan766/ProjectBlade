@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "job_id": "persona_111",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "a05ad0678d944c239d6cb068d57b39698a32525fc054254fd96d2cd2c2116ce9",
+    "model": "haiku",
+    "cost_usd": 0.006704450000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:39:55+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "You fought hard today, {player}. Your line held longer than most captains manage on the salt road. Bring more water next time and you will go further."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "We took {troop_count} men off that road today. Nobody here needs to make more of it than it was. Mind your wells, friend."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "You came at my flank like a captain who never learned to guard his wells, {player}. I took {troop_count} of yours. Think on that before the next march."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, you pushed me hard and I will say so at every fire on the road. The first war taught me to respect a line that does not break easily."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Your timing was sharp, {player}. I lost {troop_count} men to a flank I should have seen coming. Well played."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "You beat me fair, {player}. Mind your own wells now, and I will be watching your next march with respect."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "I forgive slowly, {player}, but I will remember that ambush. Losing {troop_count} men hurts, and you knew exactly where it would hurt most."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I have walked these roads since the first war and I still learn something from every loss. You taught me a new trick today, and I thank you for it."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} and I broke {enemy_faction} at the ford with {troop_count} men. Good work, and good ground choice. I say it plainly."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "We held together well, {player}. I have not fought beside a captain that calm since the old wars. Let us do it again soon."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, we held the line against {enemy_faction} and you never needed me to tell you where to stand. That is rare. Guard your wells and we will get along fine."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "You let me walk free, {player}, when a ransom would have been the easy choice. I will not forget that mercy at the next council."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} released me from captivity without asking for ransom. A rare kindness on the salt roads, and old hands will speak of it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "I thank you for the release, {player}. Mercy is worth more to me than any coin, and I will remember it."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} let me go without ransom. I accept the kindness, grudgingly, and I still count you among those who owe this realm a lesson."
+      }
+    ],
+    "player_joined_my_faction": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Welcome to {my_faction}, {player}. The road is long but the company is worth it. Ask me anything and I will answer honestly."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "You swore to {my_faction} and I believe you mean it, {player}. I will show you where the wells are kept, and where the traps are."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has joined {my_faction}. We will see how you hold up in the next siege, though I am not one to judge a captain by his first week."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Joining {my_faction} does not buy you my trust, {player}. Prove yourself on the road and I may forgive you in time."
+      }
+    ],
+    "player_granted_fief": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{fief} is a fine holding, {player}. Our lord chose well, and I expect you to keep its wells full through the dry months."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "So you have {fief}, {player}. I hope you remember that a town is only as strong as the wells beneath its walls."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{fief} goes to {player}. I have held better ground for less honor in the old wars, and I say that without rancor, mostly."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Congratulations on {fief}, {player}. Come find me when the first harvest is in and we will talk over what it needs."
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, {persona} of {my_faction} here. Your party looks well fed, and that is the first sign of a good captain on the salt road."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Good day, Ser {player}. {persona} of {my_faction}. Keep your distance and we shall get on well enough on this road."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, {persona} of {my_faction}. I remember your banners from Iggoudar, and I have not forgotten the truce. Keep your men back."
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Safe roads, Ser {player}. Next time we meet, I will bring the good salt and you bring the stories."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Fare well, Ser {player}. The road is long, and so are the memories of this realm."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Off you go, Ser {player}. Mind the ford on your way, and do not test my patience on it again."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The rain has come early to {town} this year. Old hands say that means a hard winter on the salt roads, so stock your wells now."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Heard that {village} has finally repaired its granary bridge. Good news for the road traders, and a relief to my old carts."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The north road out of {town} is quieter than it has been in years. Bring a spare horse anyway, because quiet roads have a way of changing."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "I walked the first war roads near {village} as a young captain. The old stones still hold, if you know where to put your feet."
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Hard luck, {player}. Losing {troop_count} men in one afternoon is a bitter thing, but many captains have rebuilt from less. Take heart."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "I heard of the rout, {player}. Come sit at my fire when you are ready. I lost whole companies once and still walked home."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} lost most of their army and I will not pretend it is unfamiliar. Rebuild quietly, and the roads will forget."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "I am sorry to hear of the rout, {player}. I will not gloat, though some on the road will. Learn from it and you may yet earn respect."
+      }
+    ]
+  }
+}

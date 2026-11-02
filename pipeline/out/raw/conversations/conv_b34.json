@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "job_id": "conv_b34",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "e677ff78cab4f0fff009ac9d058033cbf926e25d53d896f33ab17887a11b0631",
+    "model": "haiku",
+    "cost_usd": 0.00880175,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:45:15+00:00"
+  },
+  "data": {
+    "conv_166": [
+      {
+        "speaker": "SparrowSpite",
+        "text": "lmao {player} on another streak :) whole server cant stop talking about it",
+        "delay_s": 0
+      },
+      {
+        "speaker": "beakon",
+        "text": "omg is it true {player} won like 6 battles in a row?? i heard it from 3 diff people today :D evryone is talking abt it",
+        "delay_s": 5
+      },
+      {
+        "speaker": "ThistleTolls",
+        "text": "it is true. the garrison at {town} lost most of its {troop_count} men last week. ask anyone who sells armour there.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "beakon",
+        "text": "wait {town} lost like {troop_count} guys?? thats so cool n scary at the same time :) i think i owe {player} a bread lol",
+        "delay_s": 9
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "bread lmao :) {player} doesnt need bread they need a bigger army :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "ThistleTolls",
+        "text": "{gold} gold says the next fight is at {village}. beakon, stock up on salt now while it is still cheap.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "beakon",
+        "text": "ok im buying salt rn!! :D thx {player} and thx thistle, ur both the best :)",
+        "delay_s": 6
+      }
+    ],
+    "conv_167": [
+      {
+        "speaker": "FigLedger",
+        "text": "Honour is fine to talk about, snale. Then someone takes your fort and it becomes a line on a tombstone.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "honour is what u say after u lose!!! :D the {village} road owes me a apology!!!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "Bards do not sing about the men who starve their horses. Honour keeps the roads open, and open roads make the money.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "ok but who needs roads when u can just bring {troop_count} lads and kick the gate in :D",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "The next lord will remember the gate you kicked in, and charge you {gold} gold in tolls for it. Trust me on that.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "bards write songs about the guy who kicked the gate in lol :) ur just jealous of my {town} parades",
+        "delay_s": 5
+      }
+    ],
+    "conv_168": [
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "the bridge at {village} has been informed of its crimes!! my cart went missing on it and the bridge knows what it did",
+        "delay_s": 0
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "lol ur cart isnt stolen, its been repossesed!!! i have better paperwrok than u :)",
+        "delay_s": 6
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "that is theft in any language!! the cart had {gold} gold worth of wine in it and you know it.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "{gold} gold of wine?? ive tasted ur wine, its vinegar with a nice label :) also i keep score and u are losing",
+        "delay_s": 4
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "i will not be lectured by a man who lost his horse in {village} and then cried about it in {town} chat!!",
+        "delay_s": 8
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "cope dagg3rgoose21!! i keep score, u dont want the number :) the horse ran from u, not from me",
+        "delay_s": 6
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "the horse ran because u whipped it, its in the record!! biscuit has been informed",
+        "delay_s": 4
+      }
+    ],
+    "conv_169": [
+      {
+        "speaker": "DukeScythington",
+        "text": "ighrast has {troop_count} spears and {gold} gold in the vaults!!! whats orlagua got, a goose :D",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "Every road has a price, friend. We hold {town} with {troop_count} men, and our treasury runs deeper than yours.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "reedtoll",
+        "text": "bragging doesn't move salt. i sold {gold} gold worth at {village} last week. that is the only number i care about.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DukeScythington",
+        "text": "{village} is a bad village!! the salt there is grey :( ighrast salt is the whitest in the land :D",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "Cheap salt sells quickly, and I have no interest in comparing buckets. Let us see who has more spears when the levy is called.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "reedtoll",
+        "text": "a levy is not a war. ask anyone who walked back from one.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DukeScythington",
+        "text": "ok ok ur mean but the goose is coming for the next levy i promise!!! ur gonna regret the salt :)",
+        "delay_s": 6
+      }
+    ],
+    "conv_170": [
+      {
+        "speaker": "CountOnyx",
+        "text": "the {town} fief should go to whoever holds the road. re-ran the numbers. the loss was the scouts not the men",
+        "delay_s": 0
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Um, I think that is not fair!! :) The people of {town} deserve a say, I read the notice in {village} :)",
+        "delay_s": 7
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "they deserve a say. they also deserve a garrison. {troop_count} men lasted two days against the last raid",
+        "delay_s": 5
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Two days?? That is so harsh!! :( We had {gold} gold for repairs, and I can show you the ledger, I promise!!",
+        "delay_s": 6
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "the ledger is not the point. the ledger shows gold spent on banners. the gate at {village} is still open",
+        "delay_s": 4
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Oh no, the gate!! :( I did not know that. Maybe I was too quick to speak, but I still think the Wardenry deserves a chance :)",
+        "delay_s": 8
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "a chance is not a plan. ask me again when the numbers change",
+        "delay_s": 9
+      }
+    ]
+  }
+}

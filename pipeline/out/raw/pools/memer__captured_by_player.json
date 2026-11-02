@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "job_id": "memer__captured_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "d129a67321d18a9153bf2c4a7eb46c3a345ce02d4fe2cfd553bae08fe0905888",
+    "model": "haiku",
+    "cost_usd": 0.00414735,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:47+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "oh look its {player} again :( i really hoped the last time was a fluke xD",
+        "unhand my dignity!! wait, you already have it. you took the whole thing >:(",
+        "ransom is set at {gold} gold. dont look at me like that, the sacred chicken negotiated it",
+        "the chicken says you will regret this. the chicken has never been wrong (it was wrong once, in 1302)",
+        "bold of you to capture me with that face. i have seen better faces on a cheese wheel :P",
+        "im plotting my escape as we speak. the plan is 'walk slowly and hope you trip' xD",
+        "{player} my nemesis, my rival, my most recent inconvenience. the bridge sends its regards",
+        "fine, ill go quietly. but im telling every tavern in {my_faction} that you cheat at dice :)"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "captured by {player}. classic. at least the rope is tied in a nice knot :)",
+        "so are we doing the ransom thing or the staring thing xD",
+        "ill wait here while you decide. im very patient. im also very hungry, if that matters",
+        "{gold} gold for my freedom? thats a bit steep ser, even the chicken would balk at that",
+        "you have my sword, my pride and a suspicious amount of bread. choose wisely :P",
+        "if this is a trap to lure out {my_faction} i must say its working very well xD",
+        "did you know the bridge we passed earlier is my ex. nothing personal, its just a complicated thing",
+        "well this is awkward. ill just sit here and look dignified. its a skill i have :)"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "{player}!! you caught me AGAIN?? this is becoming a tradition and i love it xD",
+        "honestly i was going to surrender anyway, you just made it look way more dramatic :)",
+        "good news ser, you get to keep my hat as collateral. bad news, its a very ugly hat",
+        "i would have let you win the duel but the sacred chicken refused to allow it. blame the chicken",
+        "take me to your leader, i mean take me to the tavern and buy me a drink :P",
+        "you are the only one who could capture me with such style. ten out of ten, would be captured again",
+        "{my_faction} is going to be so jealous that you got to haul me around. im honored xD",
+        "lets make a deal: you let me go and i never mention the time you tripped over that rock :)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__peace_made",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "e36ca90339f3902ec592d91b1ee57b9f36fb2b481fbbe1c9b9b4f607d1de79d8",
+    "model": "haiku",
+    "cost_usd": 0.00400395,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:17:41+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "Peace between {my_faction} and {faction} is signed at last. The roads should be quieter for it.",
+        "Ser, a treaty is only as good as the next bored captain. Keep your banners up and your eyes open.",
+        "I have seen stranger endings than this, believe me. Yesterday's enemies are today's tired neighbors.",
+        "Stood at the old ford when the first war ended. Nobody cheered then either. Quiet peace lasts longer.",
+        "To everyone who spent last season raiding {faction}'s wagons, the ink is dry now. Please let it stay that way.",
+        "Traders, the tolls reopen with {faction} now. Stock up early before the crowds arrive.",
+        "No gloating from {my_faction} today. We signed because it was wise, not because we won the argument.",
+        "New folks, stay off the border roads for a few days. Fresh peace has sharp edges."
+      ]
+    }
+  }
+}

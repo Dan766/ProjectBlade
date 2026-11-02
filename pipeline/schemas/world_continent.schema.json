@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "properties": {
+    "candidates": {
+      "type": "array",
+      "minItems": 6,
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {"type": "string", "minLength": 3, "maxLength": 24},
+          "feel": {"type": "string", "minLength": 10, "maxLength": 120}
+        },
+        "required": ["name", "feel"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["candidates"],
+  "additionalProperties": false
+}

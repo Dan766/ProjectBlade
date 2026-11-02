@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "job_id": "faction_06_b2",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "89b5e16138b6c506dcc2c86ed49a09391b79e018182d4ff829339d040cea41e6",
+    "model": "haiku",
+    "cost_usd": 0.01043985,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:48:27+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_111",
+        "username": "DameTallowhelm",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "patient",
+          "wise",
+          "fair"
+        ],
+        "backstory": "Has walked the salt roads since the first war, when the Ouarnast wharves burned twice in one spring. Taught many new captains at Ahnarou to guard their wells. Still bitter about a truce {rival} broke at Iggoudar. I forgive slowly.",
+        "catchphrases": [
+          "Keep your wells full, friend.",
+          "Well fought, {player}. Your timing was excellent."
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.1,
+          "patrol": 0.05,
+          "besiege": -0.05,
+          "aggression": -0.1,
+          "flee_threshold": 0.05,
+          "loyalty": 0.1,
+          "honor": 0.15
+        }
+      },
+      {
+        "id": "persona_112",
+        "username": "Ropeknot42",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "shrewd",
+          "courteous",
+          "scheming"
+        ],
+        "backstory": "Sat on the League council since its third season. Promises fiefs to allies, then keeps the best two. Recruits quietly around Tinouzat. Wonders why {rival} was absent when Essidra fell.",
+        "catchphrases": [
+          "{player}, a word in private. Please.",
+          "Just an observation, nothing more."
+        ],
+        "ai_adjust": {
+          "raid": 0,
+          "trade": 0.05,
+          "patrol": -0.05,
+          "besiege": 0.1,
+          "aggression": -0.05,
+          "flee_threshold": 0.1,
+          "loyalty": -0.15,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_113",
+        "username": "beakon",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "long"
+        },
+        "traits": [
+          "eager",
+          "clumsy",
+          "grateful"
+        ],
+        "backstory": "Started last month and has already been killed by three different wolves. Still thinks Tassemmar is a sword. Has begged {rival} to be their mentor four times. Won a first battle against four looters and still talks about it.",
+        "catchphrases": [
+          "omg thx {player}!!! i owe u a bread :D",
+          "wait is that normal?? sorry sorry"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.05,
+          "patrol": 0.1,
+          "besiege": -0.2,
+          "aggression": -0.1,
+          "flee_threshold": 0.15,
+          "loyalty": 0.2,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_114",
+        "username": "DawnwatchSeal",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "solemn",
+          "proud",
+          "devoted"
+        ],
+        "backstory": "Has held the Seal of Tassemmar since the second thaw, swearing fealty at the salt-pans each dawn. Will not forgive a poisoned well, nor the one who poisoned it. Owes {rival} a duel, accepted in writing.",
+        "catchphrases": [
+          "Let the dawn witness this oath, {player}.",
+          "I shall not yield the wells of Ahnarou."
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.05,
+          "patrol": 0.1,
+          "besiege": 0,
+          "aggression": 0.05,
+          "flee_threshold": -0.15,
+          "loyalty": 0.2,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_115",
+        "username": "SirCricketsmite",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "none",
+          "verbosity": "short"
+        },
+        "traits": [
+          "petty",
+          "cheeky",
+          "vindictive"
+        ],
+        "backstory": "Burned three villages on the road to Iddrin and laughed through all of them. Keeps a list of every insult ever sent and reads it out at bad moments. Secretly respects {rival}, who beat them twice at Azzenwar.",
+        "catchphrases": [
+          "bruh {player} thta was sooo bad :)",
+          "still salty about azzenwar lmao :)"
+        ],
+        "ai_adjust": {
+          "raid": 0.2,
+          "trade": -0.2,
+          "patrol": 0,
+          "besiege": 0.1,
+          "aggression": 0.2,
+          "flee_threshold": 0.1,
+          "loyalty": -0.15,
+          "honor": -0.2
+        }
+      },
+      {
+        "id": "persona_116",
+        "username": "DukeScythington",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "chaotic",
+          "goofy",
+          "loyal"
+        ],
+        "backstory": "Holds a permanent vendetta against the bridge at Tahnoun after it dropped their cart. Has nicknamed most of the League against their will. Their sacred chicken has been avenged thrice.",
+        "catchphrases": [
+          "{rival} hired a goose. this means war actualy :)",
+          "the sacred chiken approves of this mesage !!!!"
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": 0,
+          "patrol": -0.1,
+          "besiege": 0.2,
+          "aggression": 0.05,
+          "flee_threshold": 0.2,
+          "loyalty": 0.05,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_117",
+        "username": "BaronBarrelcask",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "chatty",
+          "shrewd",
+          "practical"
+        ],
+        "backstory": "Runs a salt caravan from Ouarnast to Imzellan and complains about every toll along it. Has sold horses to half the League. Forgave {rival} for an ambush on the Tifrasht road, for a fair discount.",
+        "catchphrases": [
+          "Business is business, {player}. Shall we talk prices?",
+          "Anyone else see wool going for forty gold this week?"
+        ],
+        "ai_adjust": {
+          "raid": -0.2,
+          "trade": 0.2,
+          "patrol": 0.1,
+          "besiege": -0.1,
+          "aggression": -0.1,
+          "flee_threshold": 0.05,
+          "loyalty": 0,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_118",
+        "username": "MOSSY9",
+        "chat_style": {
+          "case": "lower",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "analytical",
+          "curt",
+          "relentless"
+        ],
+        "backstory": "Tracks every troop ratio in the League and reruns old fights nightly. Lost the Amrash open field to a bad cav mix and has not forgiven the mix. Still counting the 4:1 loss to {rival} at Irhessa.",
+        "catchphrases": [
+          "{player} 2:1 cav wins. recheck ur comp",
+          "gg. the ratio did it, not me"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": 0.1,
+          "patrol": 0.1,
+          "besiege": 0.2,
+          "aggression": 0.15,
+          "flee_threshold": -0.2,
+          "loyalty": -0.1,
+          "honor": -0.15
+        }
+      },
+      {
+        "id": "persona_119",
+        "username": "xX_Crumbwright_Xx",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "polished",
+          "ambitious",
+          "patient"
+        ],
+        "backstory": "Rose through the League on promises made to the Ouallen councillors. Quietly recruits from three fiefs. Calls rivals' losses lessons for the council. Keeps {rival} on a short list.",
+        "catchphrases": [
+          "Interesting. {rival} was not there, was he?",
+          "Some lords reward results. Others reward friends."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.1,
+          "patrol": 0.15,
+          "besiege": 0,
+          "aggression": -0.15,
+          "flee_threshold": 0.05,
+          "loyalty": -0.2,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_120",
+        "username": "HammerhandVow",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "stalwart",
+          "earnest",
+          "stern"
+        ],
+        "backstory": "Swore the Ouzmar smiths' vow the year the great hammer broke, and has kept it since. Sends tools to the Ilmadd wharves under oath. Will name {rival} a coward, should the moon allow.",
+        "catchphrases": [
+          "By my hammer and my name, {player}, I stand.",
+          "Such a fine blow, {player}. My respect is yours."
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": 0.05,
+          "patrol": 0.15,
+          "besiege": 0.1,
+          "aggression": 0.05,
+          "flee_threshold": -0.1,
+          "loyalty": 0.15,
+          "honor": 0.2
+        }
+      }
+    ]
+  }
+}

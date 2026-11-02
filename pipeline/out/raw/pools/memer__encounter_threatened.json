@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "memer__encounter_threatened",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "681cab32467af69196fa55066d724059a7c5b5c4b61c0c628ad9aef3559d1c74",
+    "model": "haiku",
+    "cost_usd": 0.0092802,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: Additional properties are not allowed ('__' was unexpected)"
+    ],
+    "created_at": "2026-11-01T17:03:48+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "oi {player} :( you dare demand my surrender? my chicken has already sworn an oath against you xD",
+        "no. absolutely not. the bridge behind me has been informed of your threats and it is furious >:(",
+        "pay {gold} or i will tell every sheep in the valley what you did. they will remember :)",
+        "surrender?? i would sooner hand my hat to the wind. the wind is my cousin and it agrees with me xD",
+        "your demand has been filed under 'things i will laugh about at dinner'. it is a very long file :)",
+        "{player} you have chosen violence and i have chosen to be dramatically offended about it >:(",
+        "i will pay you {gold} to forget this conversation ever happened. this is a bribe. shh :)",
+        "the sacred chicken has looked at you and shaken its head slowly. it knows what you did :(",
+        "surrender? my shield has more backbone than your whole plan, {player}. it's crying about it xD",
+        "you owe me {gold} for the rudeness. i'm adding it to my collection of insults :)"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "hm. a demand. noted, {player}. i'll consider it right after i finish arguing with this fence :)",
+        "surrender? bold ask from someone who looks like they tripped on the way here xD",
+        "{gold} is a lot of gold for a stroll across a field, ser. i'll pass, but thanks for the offer :)",
+        "i heard you. i just don't speak demand-ese. try again in plain words, {player} :)",
+        "pay you {gold}? the fox over there says no and i'm inclined to agree with the fox xD",
+        "it's just a field and a few rocks, {player}. i'm not here for drama today :/",
+        "i'll think about it. possibly tomorrow. possibly never. the sheep seem to prefer never :)",
+        "lowering my weapon slightly. not surrendering, just stretching my arms, obviously xD",
+        "ser, we can talk about {gold} later. right now the mushrooms are more interesting :)",
+        "sure, sure, surrender. first tell me what the bridge did to you, that's the real question xD"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "{player}!! you're a menace and i love it. i surrender... to hugging you :) pay nothing, ser xD",
+        "ha! {player} wants {gold}? that's the most adorable thing i've heard all week. keep the coin, friend :)",
+        "i'd surrender to you in a heartbeat, {player}, but my honor is tangled up with a sheep and it won't let go :(",
+        "you threaten me with a straight face? {player} you magnificent goblin. i am utterly delighted xD",
+        "surrender? {player}, you know i only ever surrender to snacks and good ideas :) what are we doing",
+        "oh no, my cloak has been requisitioned by {player}. tragic. i'll allow it. next time bring tea xD",
+        "{gold} is a princely sum! honestly i'd rather invite you to the feast and call it even :)",
+        "lower the sword, {player}, i have a dance routine prepared and it's best witnessed without bloodshed xD",
+        "you get my respect and none of my gold, so take the joke and the friendship :)",
+        "{player} you've reached the final boss of my good moods. please, sit down, have a biscuit :)"
+      ]
+    }
+  }
+}

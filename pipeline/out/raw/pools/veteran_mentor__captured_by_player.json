@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__captured_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "fe428c52792b69d4b09d7fd11834a7fe0f3bec23433228517dd31095e3a55d9b",
+    "model": "haiku",
+    "cost_usd": 0.01350815,
+    "attempts": 3,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2471 (char 2470)",
+      "attempt 2: result is not valid JSON: Expecting ',' delimiter: line 1 column 2808 (char 2807)"
+    ],
+    "created_at": "2026-11-01T17:17:38+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "You fought well enough, but the first war taught me that a fine charge means little without a plan behind it.",
+        "I have watched your kind rise and fall on this road for years. Mostly fall, I'm afraid.",
+        "Your banners will be remembered the wrong way, I think. Eat your bread and keep your temper.",
+        "Hate me if it helps you sleep. I buried better enemies than you before the eastern bridge was rebuilt.",
+        "Shame. Another good blade wasted on a bad cause. Sit down before you make it worse.",
+        "Your purse still holds {gold} and you chose this road anyway. Remarkable, and not in a good way.",
+        "Every grudge on this server gets settled eventually. I just hope you are still breathing when yours comes due.",
+        "Tell {my_faction} I said nothing kind about you, {player}. They would not believe me anyway."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Your name came up at the old crossroads more than once, {player}. Let's see which story is true.",
+        "You are not the worst I have had sitting at this fire. Keep your hands where I can see them and we will manage.",
+        "The road to the coast is long. We can make it shorter if you answer a few questions honestly.",
+        "I have no quarrel with you yet. That can change quickly, so behave like someone with a future.",
+        "{my_faction} will want to know you are alive. I will decide whether that is worth the trouble.",
+        "A captive is both a burden and a bargain. Tell me what your purse holds and we will see what it buys.",
+        "Gold does not change the weather, but it does change how quickly people forget. Shall we talk about {gold}?",
+        "Eat, rest, and think about what you want from today. I have held worse prisoners and sent them home with boots."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Of all the riders who could have caught me, I am glad it was you, {player}. Sit, the fire is warm.",
+        "You fought like someone who listens to advice, which is rarer than you would think. Well done, truly.",
+        "No hard feelings from me. A good fight is a good fight, and yours was clean.",
+        "I remember the old tavern debts of the first war, and you paid yours in full. That counts for something.",
+        "Your ransom can wait a while. Let us share a meal first, it is hard to bargain on an empty stomach.",
+        "Had I been twenty years younger I would have hired you on the spot. Still, {gold} is a fine start for talks.",
+        "When you return to {my_faction}, tell them the captive was treated with respect. They will want to hear it.",
+        "Go easy on yourself for losing today. Every veteran here has lost a field or two, and most of us still laugh about it."
+      ]
+    }
+  }
+}

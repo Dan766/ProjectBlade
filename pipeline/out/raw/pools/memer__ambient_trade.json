@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "memer__ambient_trade",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c27ad3bee5e7da68132fac161f0712f7ac8c9eb31c32fd414143cc754e32425b",
+    "model": "haiku",
+    "cost_usd": 0.00357705,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:30+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "selling my lucky rock for {gold} gold. it has never once been lucky but it is very rock shaped :)",
+        "anyone buying bread? i will pay in pure vibes and {gold} gold. vibes are worth more than you think!!",
+        "the price of turnips in {town} is a crime against nature >:( i am forming a turnip cartel",
+        "bought a sword for {gold} gold, it is so sharp i cut the price tag in half. refunds? no? ok xD",
+        "wanted: one (1) honest merchant. i have checked every stall in {town} and found only raccoons in hats",
+        "i offered {gold} gold for a horse and the horse just looked at me. the horse said no. respect :P",
+        "does anyone sell cheap rope or do i have to tie my dignity together myself lol",
+        "prices on this server are so high i have started charging my goats rent ;)",
+        "traded my spare helmet for a cabbage today. the cabbage is judging me now D:",
+        "looking to buy a shield. will pay {gold} gold, no questions asked, unless the shield asks questions first :3"
+      ]
+    }
+  }
+}

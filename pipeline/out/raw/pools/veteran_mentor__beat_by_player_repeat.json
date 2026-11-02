@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__beat_by_player_repeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "59194c85e2a0b436b0d89c0517ba2f7cbdd1132af07f1b652eca3520aa1b66d3",
+    "model": "haiku",
+    "cost_usd": 0.00546315,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:16:50+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Third loss to the same banner. I'm starting to think someone here is keeping score just for me.",
+        "Back in the first war, a grudge like this ended in a truce or a grave. Pick one, please.",
+        "Lost to {player} yet again. Fine. I'll remember the route they took, and it won't happen a fourth time.",
+        "Another loss to {player}. Don't mistake luck for a plan, and don't expect me to cheer when it works.",
+        "Third defeat at the hands of {player}. I'm done being polite about it. Expect {troop_count} of my men at the next ford.",
+        "New folks, take note: the one who keeps beating you may not be the best. Just the most stubborn.",
+        "Some of you asked how to beat {player}. Honest answer: stop charging at the same gate.",
+        "Lost again to {player}. I'm not gloating about it, and I'm not forgiving it either."
+      ],
+      "whisper": [
+        "Third loss, {player}. You're clever, I'll give you that, but cleverness wears thin after the third time.",
+        "Enjoy this one. I'm already planning the fourth meeting, and it won't go your way.",
+        "You keep finding my flank. Stop assuming I won't change my plan after the first two beatings.",
+        "I am not angry, just tired of watching my troops fall back from {player}'s banners.",
+        "Lost to you a third time, {player}. Rest well. I'll be awake thinking about the next field.",
+        "Don't mistake my silence for surrender. Your luck won't carry you past {troop_count} fresh recruits.",
+        "Third time. I respected you the first two. This time it's personal, and I don't forgive easily.",
+        "Your charge was good. Your patience was better. I'll learn it, and then you'll see me coming."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has beaten me three times now. Not a rivalry yet, just a pattern worth noting.",
+        "Third fight, third loss. Anyone who faces {player} should expect a long afternoon.",
+        "Keep your food stocked and your scouts out, everyone. {player} has found the gap again.",
+        "Lost to {player} for the third time. I'd like a rematch someday, just not soon.",
+        "The fens taught me patience. {player} keeps reminding me it's a useful lesson.",
+        "Three losses to one banner is a lesson, and I've written it down so I stop repeating it.",
+        "Good fight, as always. Third time, though. Somebody should check the map for ghosts.",
+        "Everyone, watch how {player} times the charge. I've lost three times to it, so take notes."
+      ],
+      "whisper": [
+        "Third loss, {player}. I'm not upset, just taking notes on your approach for next time.",
+        "That makes three defeats. You're consistent, {player}. I respect consistency even when it costs me.",
+        "No hard feelings, {player}. Three losses teach someone to stop charging the same gate.",
+        "{player}, I'd like to know how you keep reading my lines. Three times is no longer a coincidence.",
+        "Regroup before you sulk, {player}. I'm not sulking. I'm regrouping and counting my remaining troops.",
+        "We can talk it over with a meal sometime, {player}. Third fight, and I'd still like to know why.",
+        "Third defeat, {player}. Well played again. I'll bring {troop_count} troops next time and see if it helps.",
+        "You've beaten me three times now. Let's see if the fourth goes differently, {player}."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Third loss to {player} and honestly, the best fight I've had all season. Who else takes it this seriously?",
+        "Three defeats to {player}. Newer players, study that charge. It's the cleanest I've seen in ages.",
+        "Lost to {player} again. In the first war we'd have made a song of it. Glad that banner is on our side this season.",
+        "{player} beat me three times now. That's a rivalry worth keeping, the good kind.",
+        "Good fight again, {player}. Three losses and I still learned something new today.",
+        "Rest your troops, everyone. Third loss to {player}, and I'd still rather fight them than anyone.",
+        "Another clean win for {player}. Give them credit, everyone, and learn the formation.",
+        "Three losses to {player} and I've stopped counting it as a grudge. It's become a good habit."
+      ],
+      "whisper": [
+        "Third loss, {player}, and I'm proud of you. Your timing keeps getting better.",
+        "Well fought again, {player}. Three defeats and you still make me want a rematch.",
+        "Don't let the streak sting, {player}. You've earned it, and I'd have lost it to anyone else.",
+        "We'll share a drink after the next battle, {player}. You owe me a rematch, and I owe you a better plan.",
+        "Three times now, {player}. You've taught me more than I taught any recruit this season.",
+        "Rebuild your line, {player}. Losing three times to you is nothing to be ashamed of.",
+        "Your flanking improved each time, {player}. Keep that up and I'll have to retire my old tricks.",
+        "Good game, {player}. Three losses and I'm still glad you're the one across the field."
+      ]
+    }
+  }
+}

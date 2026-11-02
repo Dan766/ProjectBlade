@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__player_raided_my_village",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "6009fb7c1573e8a0e1ab389c5aacf1d19c31249bc3a2ecaae6b9d7ab1d96c1a7",
+    "model": "haiku",
+    "cost_usd": 0.00459245,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:18:31+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Burned {village} to the ground and called it a raid. Enjoy the reputation, {player}. It won't be a long one.",
+        "Another village gone to smoke. Half this server would rather trade than torch. Not that you'd know, {player}.",
+        "{village} had a decent well and a better bakery. Shame. Hope the loot was worth the damn smoke.",
+        "Raiding a village teaches nothing but how to hold a torch. Took me years to figure that out.",
+        "Somebody tell {player} that arson isn't a trade skill. Or maybe it is. Hard to tell anymore.",
+        "We'll be remembering the ashes of {village} when you come knocking next. Keep your gates shut, {player}.",
+        "Heads up, new folks. {player} burns villages for sport. Keep your stores behind walls.",
+        "Back in the first war, we'd have hanged someone for that. Times change, I suppose. Not always for the better."
+      ],
+      "whisper": [
+        "{player}, you burned {village}. I'm not going to pretend I'm surprised. Next time, come talk to me first.",
+        "That was a cruel way to spend an evening, {player}. I hope it felt good, because it won't last.",
+        "I've watched you for weeks, {player}. Raiding {village} was the sloppy kind of bold. Don't mistake it for smart.",
+        "Those people had nothing to do with your quarrel. Point the next fight at soldiers, not farmers.",
+        "You'll find no welcome at the next village over. Word travels faster than your horse, {player}.",
+        "I'll be sending the rebuild crew to {village} tomorrow. You won't be invited to help.",
+        "Don't bother with an apology. Ashes don't take well to them, and neither do the people who lost homes.",
+        "Enjoy the spoils while they last, {player}. I'm keeping a ledger, and this one's on your name."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{village} burned last night. Could have been anyone with a torch, and the roads are long enough for that.",
+        "Raids are part of this server, I suppose. Doesn't make the smoke any sweeter to look at.",
+        "Saw {player} riding out of {village} with a wagon. Not my business, though I'll be keeping an eye out.",
+        "Whatever happened at {village}, I'd rather see the next fight on a battlefield than in the fields.",
+        "Quiet week on the roads, then {village} goes up in smoke. Funny how that goes.",
+        "Keep your food stocked and your walls up, new folks. The raiders are out again.",
+        "Didn't really expect {player} to take that road. Oh well. Everyone has their own reasons.",
+        "Let's not turn {village} into a feud. Ashes heal slower than people think."
+      ],
+      "whisper": [
+        "{player}, that raid on {village} was noticed. I'm not your enemy yet, so let's keep it that way.",
+        "I don't know your reasons, {player}, but if you want to talk terms, I'll listen before I swing.",
+        "If you're looking for a quiet trade route, {village} is no longer the place to ask for one.",
+        "Mistakes happen on the road. Owning them afterward is what sets people apart around here.",
+        "Not going to lecture you. Just know the folks of {village} are watching who passes by now.",
+        "You might find a fair deal with the next village over. Ask around before you pick a side.",
+        "No hard feelings, yet. I'd rather not be counted among the people you raid, {player}.",
+        "We'll see how the next month goes. Some folks bounce back from a bad night, and some don't."
+      ]
+    }
+  }
+}

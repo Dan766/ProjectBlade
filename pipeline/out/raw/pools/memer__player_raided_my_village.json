@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "memer__player_raided_my_village",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1e8503cfc1051ca43596a4fdf1be92966d6453e445db67e80a18829d9c0ade87",
+    "model": "haiku",
+    "cost_usd": 0.00496335,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:04:12+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{village} is a crater now. ser {player} i will be bringing a very angry goose to your doorstep :(",
+        "the ashes of {village} are being sold as fertilizer. bulk discount for {player} xD",
+        "{player} burned {village} and then asked for a receipt. respect for the commitment",
+        "{village} lost its bread oven and its only goat. i am personally offended on the goat's behalf",
+        "breaking: {village} has declared {player} a fire hazard. council vote was 1 to 0 (the 0 was the fire)",
+        "{player} visited {village} with torches and left with nothing but soot. classic arson tourism >:(",
+        "ive started a petition to make {village} a protected smoke zone. {player} is not invited to sign",
+        "{village} will rise again. {player} wont. the prophecy is quite clear on this one :)"
+      ],
+      "whisper": [
+        "{player} the smoke from {village} is still in my beard. i will not forgive you until spring :(",
+        "you burned {village} and didnt even stay for the marshmallows. what kind of raider is that",
+        "{player} the cows of {village} have asked me to tell you they are disappointed. they did not say it nicely",
+        "i have started a list of everyone who owes {village} a new roof. {player} is at the top. proudly",
+        "{player} i will rebuild {village} out of spite. the new walls will be taller and the moat will be full of geese",
+        "{player} i have a bucket for every house you torched in {village}. you will be carrying the bucket",
+        "{player} ser i will be telling every merchant on the road what you did to {village}. they will remember your face",
+        "{player} you left {village} smelling like a bonfire at a funeral. i have never been so offended by a smell :("
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{village} got burned by someone. not naming names but {player} has the look of a person who owns matches",
+        "reminder that {village} is not a free campsite. a few of us are keeping an eye on {player}",
+        "the raid on {village} is over and nobody got a trophy. {player} can keep the ash",
+        "{village} is rebuilding. if {player} wants to help, bring wood and leave the torches at home",
+        "just noting that {player} was seen near {village} with a suspicious amount of kindling",
+        "{village} lost three barns and a goat this week. {player} keeps saying it wasnt them. noted :)",
+        "moving on from {village}. the ash will be fine. not sure about {player} though",
+        "weekly reminder: check your roof before {player} comes by for a visit :)"
+      ],
+      "whisper": [
+        "{player} i saw the smoke from {village}. no hard feelings yet but id rather not see that again",
+        "ser {player} what happened in {village} was not cool. im going to pretend it was a misunderstanding for now",
+        "{player} do you want to talk about {village} or should i just start building a bigger fence",
+        "i dont hate you {player}. i just dont trust anyone who lights a village like its a birthday candle",
+        "{player} lets agree that {village} is off limits for a while. i will keep my torches if you keep yours",
+        "still not sure how {village} ended up as a campfire but {player} you seem like someone who would know",
+        "{player} ill let this one slide. next time bring a bucket and an apology",
+        "about {village}... i have questions. you dont have to answer them but the goats do"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "roleplayer__ambient_trade",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c050da9b6965ebc652291d4c6dcb8fbdf67aba196572057366a2076fe765bfd0",
+    "model": "haiku",
+    "cost_usd": 0.00382285,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:09:32+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "Forty years I have haggled in this market, and I still say a fair price is a gift to both parties, friend.",
+        "Four hundred pieces of silver for a horse? Ser, I would sooner walk to {town} on my own two feet.",
+        "My purse is lighter than my conscience this week, so I shall sell my spare mail and be done with it.",
+        "Trading honestly is the oldest oath in this land. Break it, and your name will rot long after your coin.",
+        "I shall give {gold} for that blade and not a copper more. Name your price, traveller, but name it wisely.",
+        "Grain in {town} has grown dear again. Heed my warning, ser, and buy your bread before the bells ring noon.",
+        "The merchant of {town} is a thief wearing a velvet cloak. Mark me, ser, I will not be robbed twice.",
+        "Gold alone does not build a house. Trust, ser, is the stone upon which every fair bargain is laid.",
+        "Pray tell, what do you ask for those boots, friend? I would sooner pay honestly than bargain in shadows.",
+        "Ah, the price of salt has made my old bones weary. In my youth, a single coin bought a whole cask."
+      ]
+    }
+  }
+}

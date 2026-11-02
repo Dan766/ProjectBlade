@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "job_id": "conv_b08",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "b928691d715d61f69cdb4aad0219076d5432621dab9288f891232884b1acace9",
+    "model": "haiku",
+    "cost_usd": 0.008825949999999999,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:41:52+00:00"
+  },
+  "data": {
+    "conv_036": [
+      {
+        "speaker": "plumsy",
+        "text": "omg hi!! has anyone seen my horse?? i tied him by the well near {village}... now hes gone :( sorry if this is dumb!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SirCricketsmite",
+        "text": "lmaoo plumsy ur horse prolly ran off cuz u smelled like thta well :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "plumsy",
+        "text": "wait WHAT?? thats so mean!!! :( he was my only friend in ormerath lol...",
+        "delay_s": 3
+      },
+      {
+        "speaker": "xX_BoarBargains_Xx",
+        "text": "Plumsy I saw a horse heading toward Tesnovar this morning. Tip costs {gold} coin. Worth it?",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SirCricketsmite",
+        "text": "ha boar bargains selling tips now? u sold stolen carts too xD",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_BoarBargains_Xx",
+        "text": "Grudges cost coin, SirCricketsmite. Let's talk prices, not carts.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "plumsy",
+        "text": "ok ok i dont want a fight!! sorry sorry :D i just want my horse back lol. he has a little white star on his face",
+        "delay_s": 7
+      }
+    ],
+    "conv_037": [
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "The Regency has declared war on {enemy_faction}. I regret it, truly. Glovaric_Ironhand, shall we discuss this over wine?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "Hear this: Ashmarches will not be cowed. Any banner that marches on our borders shall meet the glove. :)",
+        "delay_s": 9
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Hm. {troop_count} men marching on {enemy_faction} at once is ambitious. I would have split them.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Ambition is expensive, marrowmeta. Our treasury can bear {gold}, but not forever. We must be prudent.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "Prudence is a fine tool, Cobbled_Envoy, but the glove does not fold when the drums sound. :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Drums do not win sieges. Logistics do. Ask me again when the supply lines hold.",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Well said, both of you. I will draft the terms tonight. Glovaric_Ironhand, do bring the good wine this time.",
+        "delay_s": 8
+      }
+    ],
+    "conv_038": [
+      {
+        "speaker": "elder_curds",
+        "text": "I still remember the old siege at {town}, when the ditch flooded and half the cavalry sat in the mud. Those were honest days.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "lol old days were chaos the flank at {village} was decnt tho ngl",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Eeel",
+        "text": "the flank was fine. the ratio was off, not the plan. xX_S4geMeta_Xx still cant count troops",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "u cant count troops or losses eeel. ur ratio was the problem not me",
+        "delay_s": 4
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "Enough, both of you. You sound like the two men who argued over that banner at {village} for an entire afternoon.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Eeel",
+        "text": "that war cost {gold} and nobody learned a thing. still the best fight on the map",
+        "delay_s": 9
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "Perhaps. I would rather remember the fight than the score, but I suppose that is what veterans do.",
+        "delay_s": 5
+      }
+    ],
+    "conv_039": [
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Nothing personal, friend, but I cannot sell a waterskin for less than {gold}. Trade is trade, and the road is long.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Keep your wells full, friend. A traveler who runs dry at the ford costs more than any trader's price. I have seen it.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "HoneyHelm",
+        "text": "Friend, may our banners meet in honour one day. Until then, check the market prices twice before you trust a stranger.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Stranger, I resent that. Ask DameTallowhelm where the honest traders hide, for she knows better than I do.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Mire Ledger, you have never once sold me a fair waterskin. Hold your tongue and let the newcomer breathe.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Fair is a word that sells poorly, DameTallowhelm. I will still give the newcomer a discount if they ask nicely.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "HoneyHelm",
+        "text": "A kind word from a Ledger is rare, friend. Take the discount, keep your wells full, and remember this market well.",
+        "delay_s": 7
+      }
+    ],
+    "conv_040": [
+      {
+        "speaker": "AcornKid07",
+        "text": "omg thank u SmugRadish!! ur so nice :D i will be the best acorn ever!!! i promise!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SmugRadish",
+        "text": "ok acorn that was cute :) now ur a squirrel too xD",
+        "delay_s": 6
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "wait im a squirrel now?? :O ok i like it!! squirrels are cool lol",
+        "delay_s": 3
+      },
+      {
+        "speaker": "DameVolemere",
+        "text": "The oath-rolls shall remember this day, for an acorn has been named a squirrel by a stranger's jest.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "SmugRadish",
+        "text": "lmaooo DameVolemere said oath rolls :) acorn is a squirrel knight now ur welcome",
+        "delay_s": 5
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "squirrel knight!!! ok i need a tiny sword and a nut hat :D who has a nut hat",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DameVolemere",
+        "text": "A nut hat is not within my gift, young acorn, but the Saaravenn Fen Confederacy may find you one by week's end.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "SmugRadish",
+        "text": "ok this got out of hand lol :) somebody stop the acorn before it becomes a whole kingdom",
+        "delay_s": 6
+      }
+    ]
+  }
+}

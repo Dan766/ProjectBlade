@@ -1,0 +1,71 @@
+# Pipeline settings. See docs/specs/pipeline.md section 13.
+
+[llm]
+model = "haiku"
+timeout_s = 180
+retries = 3                  # extra attempts after the first, on parse/schema/CLI failure
+per_call_budget_usd = 0.25   # passed to claude --max-budget-usd
+budget_usd = 15.0            # cumulative cap for one pipeline process; run aborts past this
+system_prompt = """You are a content generator for a medieval sandbox video game set in an original fantasy world.
+Output only the requested JSON. Never mention being an AI, a model, or generated content.
+Never reference real-world brands, people, or existing games."""
+
+# Isolation flags (verified against claude 2.1.316, see Decision Log 2026-11-01):
+#   --safe-mode               no CLAUDE.md, plugins, hooks, MCP; normal auth still works
+#   --tools ""                no tools at all
+#   --no-session-persistence  don't litter ~/.claude with thousands of sessions
+# --bare was rejected: it requires ANTHROPIC_API_KEY and ignores subscription login.
+extra_args = ["--safe-mode", "--tools", "", "--no-session-persistence"]
+
+[run]
+jobs = 8
+
+[scale]
+pilot = false                # limits the expensive dialogue stages (S2-S4); personas always run in full
+personas = 120               # split evenly across factions; archetype mix from archetypes.toml shares
+
+[personas]
+seed = 7                     # fixes slot assignment, username seeds and rivals; change it to reshuffle
+batch_size = 10              # personas per job; must divide personas-per-faction
+
+[scale.min_variants]         # lines per (archetype, event, relationship, channel) cell, by event frequency
+common = 8
+normal = 6
+rare = 4
+
+[pilot]                      # used while scale.pilot = true (milestone 0.6)
+personas = 12
+archetypes = ["griefer", "roleplayer"]
+events = ["beat_by_player", "beat_player", "encounter_greeting", "whisper_taunt", "ambient_chatter", "player_left_my_faction"]
+
+[conversations]              # S4 scripted multi-speaker threads in global chat
+threads = 300
+per_job = 5
+seed = 11
+event_share = 0.3            # fraction of threads reacting to a world event instead of an ambient topic
+event_triggers = ["war_declared", "peace_made", "player_win_streak", "player_big_defeat",
+                  "player_left_my_faction", "player_took_my_fief", "player_renown_up", "my_faction_took_fief"]
+topics = [
+  "a trade dispute over prices in {town}",
+  "someone accuses another of cheating in a battle",
+  "recruiting allies for a campaign",
+  "a newcomer asks for help and others answer, some helpfully, some not",
+  "arguing about which troop type is the best",
+  "gossip about faction politics and who is losing favour",
+  "a running joke that spirals out of control",
+  "complaining about bandits on the roads near {village}",
+  "debate: does honour matter, or only winning?",
+  "planning a joint raid",
+  "a bragging contest about armies and wealth",
+  "two rivals trade insults while others watch",
+  "nostalgia about the old wars on this server",
+  "someone just lost their whole army and others react",
+  "betting on who will win an upcoming siege",
+  "a lost horse, a stolen cart or other petty drama",
+  "a heated argument about who should rule a fief",
+  "rumours about a big army moving on the map",
+]
+
+[content]
+rating = "PG-13: trash talk and mild swearing (damn, hell, crap) allowed; no slurs, sexual content, or real-world politics, religion or people"
+max_len = { global = 140, whisper = 140, face = 220 }

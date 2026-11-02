@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "newbie__whisper_challenge",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "9e5878be5469a0cca90c73e600c249e5dad2935c75af8218cd5c98e399fc4f4e",
+    "model": "haiku",
+    "cost_usd": 0.00396085,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:43+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "hey {player}!! i saw u at {town} and i think ur mean :( meet me at {village} and we fight?? pls say yes",
+        "oi {player} u took my horse last time... meet me at {village} for a duel?? i brought a stick lol",
+        "i read on the forum the best players hide. ur not hiding now are u {player}? come to {village} ;)",
+        "is it allowed to challenge someone 2 a fight if they stole my loot?? asking bc i dont know the rules :( {village}?",
+        "{player} i practiced all day and i think i can beat u now. meet at {village}?? if u dont come i win by default right",
+        "u keep killing me at {town} and its not fair!! 1v1 at {village} rn, no hiding behind ur friends k",
+        "sorry for being annoyed but ur rude {player}. wanna settle it at {village}? i'll bring snacks xD",
+        "so i have to ask, is it normal for ppl to ambush newbies? cause ur doing it to me {player}. {village} at dusk, ok?"
+      ]
+    },
+    "neutral": {
+      "whisper": [
+        "hi {player} sorry to bug u :( would u maybe wanna duel at {village}? just for fun, no pressure!!",
+        "i dont know if this is how it works but i wanna fight u to see how combat works?? meet at {village}?",
+        "{player} i was told ur good at fights lol. want to test my sword vs urs at {village}? sorry if weird ^^",
+        "is it ok to ask for a duel?? i read the guide but it said nothing about manners xD {village} maybe?",
+        "hey {player}, my friend said challenge u and see if i can do damage. i promise i wont cry too much lol",
+        "quick q: if i win a duel at {village} do i get ur stuff or nothing?? asking for a friend (me)",
+        "sorry if this is random {player}, i want to try fighting someone better than the goblins. {village} later?",
+        "{player} wanna spar at {village}? i wont cheat i swear, i dont even know how to cheat yet lol :D"
+      ]
+    }
+  }
+}

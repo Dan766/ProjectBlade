@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "job_id": "roleplayer__player_left_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "21b1d3f15f3b02174ddbd9f4add21dc999e767ec622bbe26c65c70dcddd24353",
+    "model": "haiku",
+    "cost_usd": 0.011020600000000002,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'I will not speak ill of {player} for leaving us. Oaths can chafe, and a new hearth can warm a weary heart. May the ancestors walk beside you.' is too long"
+    ],
+    "created_at": "2026-11-01T17:11:55+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Let all of Ormerath hear it: {player} sold their pledge to {faction} like a cloak sold for coin. Let them wear it.",
+        "Our hall still remembers the wine {player} drank at our table before they bowed to {faction}. I shall not forget it.",
+        "Turncloak. A banner abandoned for {faction} is a banner never trusted again, ser {player}.",
+        "Ser {player}, should our roads cross again, you will find no fair fight waiting. Only the reckoning you have earned.",
+        "They say {faction} pays well for those who bolt from their first oath. Enjoy the coin, ser {player}; it will weigh heavy.",
+        "I am too tired to be angry with {player}. Betrayal is a stone I simply carry now, and it grows heavier each day."
+      ],
+      "whisper": [
+        "Do not write to me again, ser {player}. Your name now sits beside the traitors of {faction}, and I will not share ink with them.",
+        "You chose {faction} over those who raised you to a sword, ser {player}. Let them keep you. I want no more of your oaths.",
+        "Petty as it is, I would have liked one farewell. Instead I learned of your leaving from the gossip at the gate.",
+        "Watch the road to {faction}'s keep, ser {player}. Those who run once tend to run again, and I will remember this.",
+        "Do not mistake my silence for forgiveness. A banner forsaken is not raised again by a few kind words, ser {player}.",
+        "A bitter jest for you: {faction} will learn your loyalties can be bought. I hope they do not pay you too generously."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Folk change banners as the seasons change cloaks. Ser {player} has chosen {faction}, and we shall see whether the choice holds.",
+        "Word says {player} has pledged to {faction}. I offer neither curse nor blessing, only the hope they know what they have taken up.",
+        "The road of a sworn-away knight is long and lonely. Ser {player} walks it now, and each step is their own to answer for.",
+        "{my_faction} keeps its gates open to honest folk. Those who left us are free to go, and free to find what they seek.",
+        "Some oaths are made in haste, others in grief. Whichever it was for ser {player}, I wish them firm footing in {faction}.",
+        "A banner changed is a question asked. I will wait to hear the answer from ser {player} in their own deeds."
+      ],
+      "whisper": [
+        "I have heard you have taken up with {faction}, ser {player}. Your business is your own, though others will talk.",
+        "Do not expect my welcome to be warm nor cold. I will judge you by what you do under {faction}'s banner, ser {player}.",
+        "Should you ever wish to explain your leaving, I will listen. Should you wish only to be left alone, that too I understand.",
+        "Ser {player}, a word of caution from one who has changed banners before: the new hall rarely smells as sweet as promised.",
+        "Your departure from {my_faction} is noted, ser {player}. Let us see whether {faction} proves worthy of the sword you have given it.",
+        "I bear you no grudge, nor any warmth. Keep your word to {faction} and we shall have nothing to discuss."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} has left {my_faction} for {faction}. Our hall is quieter for it, but I wish them fortune on the road ahead.",
+        "Pity to lose a sword as true as ser {player}'s. I still name them a fine companion, whatever banner they now carry.",
+        "Let it be known: the door of {my_faction} remains unbarred for ser {player}, should {faction} ever fail them.",
+        "Some will call {player} a turncloak. I call them a traveller who followed their heart, and I hold no quarrel with that.",
+        "The feasts will miss ser {player}'s laughter. May {faction} prove a worthy hearth, though none could replace our table.",
+        "Ser {player} has chosen a new road, and I bear them no ill will. Our cups remain full should they ever return."
+      ],
+      "whisper": [
+        "I confess your leaving stings, ser {player}, yet I cannot hate a companion who fought beside me. Go with my blessing.",
+        "We bled together on the eastern marches, ser {player}. That memory outlasts any banner. I hope {faction} treats you well.",
+        "Should {faction} disappoint you, ser {player}, send word. My table will remember you, and the door will open.",
+        "Do not think I have forgotten our oaths sworn in the mead hall. You are still a friend, though a far-off one now.",
+        "The company will be the poorer without you, ser {player}. Keep your honour bright in {faction}'s service, friend.",
+        "Forgive my sulking, ser {player}. I am wounded, but a wound is not the same as a grudge, and I bear you none."
+      ]
+    }
+  }
+}

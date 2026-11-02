@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "job_id": "conv_b17",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "b18162cb0cd2d4542f3e968e738ce63524eef0e4d84436b603b81bf4a0339cfb",
+    "model": "haiku",
+    "cost_usd": 0.00910975,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:43:15+00:00"
+  },
+  "data": {
+    "conv_081": [
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "gg whiskerquorum. ur {troop_count} archers were inside the wall at minute 4. thats not a legal position",
+        "delay_s": 0
+      },
+      {
+        "speaker": "whiskerquorum",
+        "text": "Gracious of you to say gg, TurnipTheFlank. Before we call it a win, might we review the replay together? I would rather not guess.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Wait what happened at {village}? I was selling saddles to half of you during that fight lol",
+        "delay_s": 5
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "replay shows whiskerquorum's line at the gate from min 3 to min 9. it was not a retreat",
+        "delay_s": 4
+      },
+      {
+        "speaker": "whiskerquorum",
+        "text": "I held that gate with {troop_count} men, and any soldier at {village} can attest to it. Let us not turn a loss into an accusation.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Honestly I just sell saddles. Fine saddles, fair price, no bandits. Ask anyone who bought one for {gold} gold :)",
+        "delay_s": 7
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "not asking u to take my word. demo is 40 min, run it yourselves",
+        "delay_s": 3
+      }
+    ],
+    "conv_082": [
+      {
+        "speaker": "SparrowSpite",
+        "text": "kelp_seat3 u had {troop_count} dudes standing in the fog at {village} thats not a real army :/ ur cheating",
+        "delay_s": 0
+      },
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "Your accusation is noted, SparrowSpite. The fog at {village} is terrain, not sorcery, and the replay will show it plainly.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "lol replay ur gonna have to show me the fog thing :) my flag was on that hill the whole time",
+        "delay_s": 4
+      },
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "I have no reason to hide a replay, and I would gladly share it with the council. Shall we settle this before the next vote?",
+        "delay_s": 8
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "lmao council ok ok but ur flag still looks sad from up here :P",
+        "delay_s": 6
+      },
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "Mockery is hardly a rebuttal, SparrowSpite, though I note it was not a denial either. A private word would serve us both.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "fine fine send the replay then :P",
+        "delay_s": 3
+      }
+    ],
+    "conv_083": [
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "wait wait tesnovar made peace w {faction}?? i thought we were gonna fight them forever :( sorry if thats dumb!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SerTankardell",
+        "text": "Hark, young Pumkin! No foolish question is asked in this hall. Tesnovar's oath still binds us all, as it always has.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "rustcouncil07",
+        "text": "a quiet word SerTankardell? peace is cheap when the gold is good. i hear {gold} gold changed hands for that truce",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_PatinaSage_Xx",
+        "text": "Pack bread for two days before the fens, Pumkin. Peace is a fine thing, though a truce is only as good as its terms.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "ok but what do the terms say?? is {town} ours now :D or still theirs",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SerTankardell",
+        "text": "The terms are sealed at {town} and I shall read them aloud at the hall tonight. Let none say Tesnovar broke faith with its friends.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "rustcouncil07",
+        "text": "read them aloud and watch who goes quiet. i will be counting the men who leave early, sir knight",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_PatinaSage_Xx",
+        "text": "Ignore the bickering, Pumkin. Learn the roads near {village} and keep your larder full. Peace or war, the roads still need walking.",
+        "delay_s": 12
+      }
+    ],
+    "conv_084": [
+      {
+        "speaker": "Mire_Ledger",
+        "text": "I will take {gold} gold on {town} falling before the week is out, and I am not sorry about it. Who wants to match me?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "the gate at {town} has been informed of its crimes!! i bet on the gate. the gate is very brave and very stubborn :3",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_EmberQuill_Xx",
+        "text": "I raise this matter before the council, Mire_Ledger. Betting on a siege before the defenders have even drafted is not trade.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Nothing personal, xX_EmberQuill_Xx. Trade is trade, and the council has never once stopped a fair wager.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "lmaooo the gate has asked for a lawyer and a bigger shield. also {troop_count} archers is not a plan i said what i said",
+        "delay_s": 3
+      },
+      {
+        "speaker": "xX_EmberQuill_Xx",
+        "text": "Mirth is not a rebuttal. Our walls at {town} have held through three sieges, and I would wager my own {gold} gold on them holding.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Then we are agreed on the odds, and I look forward to collecting. Shall we say the siege begins at dusk?",
+        "delay_s": 7
+      }
+    ],
+    "conv_085": [
+      {
+        "speaker": "CountKabbage",
+        "text": "{fief} is ours. {enemy_faction} held it for three weeks and lost it in two days. Efficent.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Two days is quick work, CountKabbage, but a fief is kept by holding it, not by taking it. Feed your garrison well.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "CountKabbage",
+        "text": "Kept by holding, yes. Which is why I have {troop_count} men already on the road to {village}. Join me if you like.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Moving troops before the walls are mended invites a counterstroke. I will be watching the roads from {village} as well.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "CountKabbage",
+        "text": "Noted, MoleWarden. The walls are for the timid. I am taking {village} before {enemy_faction} recovers.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Then take {village} and hold it, CountKabbage. I will send bread and a second company to {fief} by the new moon :)",
+        "delay_s": 8
+      }
+    ]
+  }
+}

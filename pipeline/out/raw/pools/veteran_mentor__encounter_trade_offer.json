@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__encounter_trade_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "5a2cdef3bd4d5ca48d7fd2bf4ce70921d86967736345a567fcabb6451a3bf62e",
+    "model": "haiku",
+    "cost_usd": 0.01316415,
+    "attempts": 3,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2662 (char 2661)",
+      "attempt 2: result is not valid JSON: Expecting ',' delimiter: line 1 column 2848 (char 2847)"
+    ],
+    "created_at": "2026-11-01T17:18:17+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "You want to trade with me now? I remember what your last deal cost the people who trusted you. Name your price, and I will count it twice.",
+        "{player}, a bargain from you is like a bridge made of wet straw. I will hear your offer, but I will not stand on it.",
+        "Trade, you say. Fine. Put {gold} on the table first, and we will see whether your word is worth more than the wind.",
+        "I have seen many proposals from you over the years, and most of them ended with someone else paying. Show me the terms and be quick.",
+        "Speak your offer, {player}. I will hear it, but do not expect me to smile while I do. Half the valley still owes me for your last promise.",
+        "Interesting. The one who once sold a broken cart to half of {town} is offering me a deal. I am almost flattered you remember my name.",
+        "Keep your hands where I can see them and your voice low. A trade with you is only safe when the scales are watched by someone who is not you.",
+        "I do not need your coin, {player}, and I do not need your friendship. But I will look at your offer, if only to see how far your nerve reaches."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "A trade proposal. Good. Let me hear the terms, and I will tell you whether they are fair or merely clever.",
+        "Two hands, one table, and a fair price. That is all I ask. What is it you are offering?",
+        "Ser, I have traded in {town} since before the old wall fell, and I still read every contract twice. Go on, then.",
+        "My purse is not empty, but it is not generous either. Name a figure, and I will tell you if it leaves room for both of us.",
+        "Trading with strangers has taught me to keep my wallet close. Make your offer plainly and I will do the same.",
+        "Hmm. You have a proposal. I have a little time and a little patience. Spend neither carelessly.",
+        "If it is goods you want, bring them to the cart. If it is gold, tell me how much and what you intend to give in return.",
+        "I have heard worse ideas over a cup of ale and better ones from children. Let us see which kind yours is."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "{player}! A trade between us is always welcome. Your offer is in good hands, so tell me what you have in mind.",
+        "Ah, you come to me with a proposal and a smile. That is how I like to start every good deal. Let us see what we can build.",
+        "I trust you, and that is worth more than any price on the table. Still, let us write the terms down so the old debts stay quiet.",
+        "Good timing, {player}. I was just thinking about how well our last exchange went. Make your offer and I will meet it halfway.",
+        "Bring your proposal to me, friend. Between honest people, a fair deal rarely needs more than a handshake and a little patience.",
+        "Offer {gold} and I will match it with supplies for your road. You have been good to the young ones here, and I remember it.",
+        "You have never once cheated me, {player}, so I will give your offer the honor it deserves. Speak freely.",
+        "Trade with you is a pleasure, and I say so as someone who has seen many bad bargains. Lay out your terms and we will shake on it."
+      ]
+    }
+  }
+}

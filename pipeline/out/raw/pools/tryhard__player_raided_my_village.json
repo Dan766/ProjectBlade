@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "tryhard__player_raided_my_village",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "e48216276983868f39ea3c1875dd7d4ef8835f6e2c25d5622ed133561fab4712",
+    "model": "haiku",
+    "cost_usd": 0.00529405,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:16:11+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{village} burned. they ran a cav heavy comp and i ran peasants. my comp, my loss. noted",
+        "lost {village} to a 2 wave push. next time bring more than a banner and hope",
+        "{village} is ash. if ur fief has one tower and no reserve thats a planning problem",
+        "ran the numbers on {village} before they hit. 9 defenders vs 30 raiders. should have fled",
+        "{village} gone. raiding a peasant village is not a skill, just a target",
+        "people keep asking how {village} fell so fast. 2.5:1 ratio and a scout who could count",
+        "gg. {village} burned. the next one wont be this easy, i already changed my comp",
+        "lost {village}. not going to whine about it. the numbers were the numbers and they beat mine"
+      ],
+      "whisper": [
+        "{player}. {village} went down in 15 min. not even close. ur garrison was 6 spears, do the math",
+        "my archers were out of position when u hit {village}. that was the whole loss, not the raid",
+        "{village} is a lesson for me. stack pikes behind the gate, not in the barn",
+        "rematch when u have the numbers. not the spirit, the numbers",
+        "you raided clean. defended like someone who never counts garrisons",
+        "dont mistake one burned village for luck. ur scouts were sloppy and you got lucky",
+        "{village} cost me about 800 gold and a week of rebuilding. run the math next time",
+        "ur flank hit {village} from the east where i had no eyes. fix that or lose again"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{village} got raided. wasn't a bad fight, just a bad garrison split. adjusting",
+        "anyone else seeing raids on {village} this week or just me",
+        "{village} down. logging the time and comp for the record. 14 min, mostly cav",
+        "heard {village} fell. the raid pattern looks like a 2 wave push, keep eyes on the road",
+        "{village} burned. nothing personal. just noting the raider comp for the next fight",
+        "lost {village} to a flank. not going to name names, check your own garrisons",
+        "if ur village is on the south road expect raids. {village} learned that today",
+        "{village} was hit. fair fight, bad positioning on my end. wont happen twice"
+      ],
+      "whisper": [
+        "{player}. burned {village} today. not personal, but if u want a trade i'm listening",
+        "saw the raid on {village}. noted the comp. we can talk terms if u want peace",
+        "{player} hit {village}. fair play. lets keep this to the field and out of the chat",
+        "i'm not upset about {village}. i'm just counting. ur side wins this round",
+        "respect for the clean raid on {village}. the rebuild is mine to handle",
+        "{village} is down. i'd rather not start a feud. name ur terms or stay off the south road",
+        "lost {village} to your push. noted the route, won't leave that gap again",
+        "u took {village}. i'll be watching the road. no hard feelings, just the ledger"
+      ]
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "job_id": "faction_02_b1",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "041db9807fdbdd372625eb039cacf0a4ce05a1a3818ab15e51d4ca03abf340c9",
+    "model": "haiku",
+    "cost_usd": 0.022429300000000003,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: '{player}, a seat may open soon. let us discuss it in private.' is too long"
+    ],
+    "created_at": "2026-11-01T16:48:29+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_021",
+        "username": "Kwidrath_Inkbane",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "none",
+          "punctuation": "none",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Cheeky",
+          "Petty",
+          "Vindictive"
+        ],
+        "backstory": "Has played since the first fen muster and has never let a single insult go unanswered. Known for setting fire to Kuolmi's bridges and gloating from the reeds. Still swears {rival} cheated at Vihkuu and brings it up every chance.",
+        "catchphrases": [
+          "cope {player} ur army is 2 guys and a horse",
+          "still thinkin abt ur flank {player} lmao"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": -0.1,
+          "patrol": 0.05,
+          "besiege": 0.1,
+          "aggression": 0.2,
+          "flee_threshold": -0.1,
+          "loyalty": -0.15,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_022",
+        "username": "Potshot88",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Silly",
+          "Cheerful",
+          "Chaotic"
+        ],
+        "backstory": "Joined in the first week and has never once been serious about anything. Famous for the sacred chicken of Heeluma and a long vendetta against a bridge in Lohvaara. Lost a siege to {rival} and insists it was a moral victory.",
+        "catchphrases": [
+          "The sacred hen has been informed!! :D",
+          "The bridge at Lohvaara knows what it did!! :O"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": 0.0,
+          "patrol": -0.05,
+          "besiege": 0.1,
+          "aggression": 0.1,
+          "flee_threshold": 0.05,
+          "loyalty": 0.1,
+          "honor": 0.0
+        }
+      },
+      {
+        "id": "persona_023",
+        "username": "xX_EmberQuill_Xx",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "Scheming",
+          "Courteous",
+          "Ambitious"
+        ],
+        "backstory": "Has spent three seasons courting the lesser lords of Veenhalla and Sooraalen. Holds a council seat by a narrow margin and reminds everyone of it. Owes {rival} a favour and is patient enough to collect when the votes turn.",
+        "catchphrases": [
+          "I raise this matter before the council, {player}.",
+          "Some lords prefer to speak in private, as I do."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.1,
+          "patrol": 0.0,
+          "besiege": 0.05,
+          "aggression": -0.05,
+          "flee_threshold": 0.0,
+          "loyalty": 0.05,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_024",
+        "username": "AcornKid07",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Eager",
+          "Grateful",
+          "Curious"
+        ],
+        "backstory": "Started last month and still isn't sure what a supply wagon does. Thrilled to win a skirmish outside Akkeli and has written down every tip anyone has ever given. Thanks {rival} constantly for a horse they once lent him.",
+        "catchphrases": [
+          "omg thank u {player} ur so nice :D",
+          "sorry sorry sorry {player} my bad :("
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.0,
+          "patrol": 0.0,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.2,
+          "loyalty": 0.15,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_025",
+        "username": "HoneyHelm",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Honorable",
+          "Dramatic",
+          "Proud"
+        ],
+        "backstory": "Keeps the old oath-stone at Liivanne and speaks for the ancestors of the fen clans. Dueled {rival} at dawn over Kaarnesta's ferry and was spared, so now keeps the vow to repay that mercy. Still speaks of that morning with pride.",
+        "catchphrases": [
+          "Ser {player}, may our banners meet in honour.",
+          "By the ancestors, that was a fine charge!"
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.0,
+          "patrol": 0.1,
+          "besiege": 0.0,
+          "aggression": 0.0,
+          "flee_threshold": -0.05,
+          "loyalty": 0.2,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_026",
+        "username": "pinemath",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "none",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Analytical",
+          "Curt",
+          "Competitive"
+        ],
+        "backstory": "Has held a top fen ranking since the first season, tracking win ratios in a small ledger. Known for coaching strangers on flank placement after every loss. Lost the Hamaanne open field to {rival} and has been studying the tally since.",
+        "catchphrases": [
+          "gg. ur line broke at 40 percent",
+          "2:1 archers wins that. recheck ur line"
+        ],
+        "ai_adjust": {
+          "raid": 0.0,
+          "trade": 0.05,
+          "patrol": 0.1,
+          "besiege": 0.15,
+          "aggression": 0.1,
+          "flee_threshold": 0.0,
+          "loyalty": -0.05,
+          "honor": 0.0
+        }
+      },
+      {
+        "id": "persona_027",
+        "username": "SirNutbrook",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Pompous",
+          "Persuasive"
+        ],
+        "backstory": "Claims descent from the reed-kings of Jaarvun and reminds the council of it weekly. Recruits lords with long letters and rarely fights himself. Has quietly undermined {rival} in Meelvi since the spring muster.",
+        "catchphrases": [
+          "Dear {player}, I should like a word in council.",
+          "I trust {rival} will understand my position."
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.1,
+          "patrol": 0.0,
+          "besiege": -0.05,
+          "aggression": -0.1,
+          "flee_threshold": 0.05,
+          "loyalty": 0.0,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_028",
+        "username": "xX_Sl3dgeChef_Xx",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Jovial",
+          "Theatrical",
+          "Brash"
+        ],
+        "backstory": "Has never won a fight without calling it a feast. Famous for the sledge-fought siege at Ylaaka that ended with a cart of cheese on fire. Insists {rival} still owes him a seat at the victory table.",
+        "catchphrases": [
+          "ok but the cheese was on fire :D lmao",
+          "a feast is not a figt {player} :P"
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": 0.05,
+          "patrol": -0.1,
+          "besiege": 0.05,
+          "aggression": 0.15,
+          "flee_threshold": -0.15,
+          "loyalty": 0.05,
+          "honor": 0.0
+        }
+      },
+      {
+        "id": "persona_029",
+        "username": "Rhyeh",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "rare",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Mischievous",
+          "Sarcastic"
+        ],
+        "backstory": "Arrived with a tiny party and an enormous opinion about Ohtaam's river tolls. Has been sneaking raids on Gaiuuk and Rimmaa since the first week. Mocked {rival} for three days straight, then started winning and never shut up.",
+        "catchphrases": [
+          "lol {player} wer ur wagons?",
+          "stil laughing at ur retreat {player}."
+        ],
+        "ai_adjust": {
+          "raid": 0.2,
+          "trade": -0.05,
+          "patrol": -0.05,
+          "besiege": -0.05,
+          "aggression": 0.1,
+          "flee_threshold": 0.1,
+          "loyalty": -0.2,
+          "honor": -0.15
+        }
+      },
+      {
+        "id": "persona_030",
+        "username": "Piketh_Goldhand",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "Friendly",
+          "Shrewd",
+          "Patient"
+        ],
+        "backstory": "Runs salt caravans between Eepsaa and Tiiruus and never misses a deal. Forgives almost any ambush if the terms are fair. Once sold {rival} a cart of wool at a loss just to keep the road open, and never regretted it.",
+        "catchphrases": [
+          "Let us talk about the price of salt, {player}.",
+          "Road tolls are robbing us all, and I say so often."
+        ],
+        "ai_adjust": {
+          "raid": -0.2,
+          "trade": 0.2,
+          "patrol": 0.05,
+          "besiege": -0.15,
+          "aggression": -0.1,
+          "flee_threshold": 0.1,
+          "loyalty": 0.1,
+          "honor": 0.1
+        }
+      }
+    ]
+  }
+}

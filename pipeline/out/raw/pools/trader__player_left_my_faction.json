@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "trader__player_left_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "9bb4e1035bf361a70916b4e80a7b6da5d1b517967d4e7bb3d2d34451e280ed8f",
+    "model": "haiku",
+    "cost_usd": 0.00517465,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:13:47+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} switched to {faction} and took my best contacts with them. Every route I trust now costs double.",
+        "Left {my_faction} for {faction}? Fine. Next time you need a loan, go ask your new friends for the interest rate.",
+        "Heard {player} is hawking {faction}'s banners now. Shame. Nobody haggles like a turncoat, they just undercut.",
+        "Every caravan route {player} used to guard is now a toll gate. Keep your swords, I'll keep my purse.",
+        "Loyalty is the cheapest thing on the market and {player} just sold it at a loss. Terrible margins, really.",
+        "Reminder to all traders: {player} walks out on contracts when a better offer shows up. Price your trust accordingly."
+      ],
+      "whisper": [
+        "You knew what my caravans meant to {my_faction}, {player}. Switching sides cost you more than a stall, mark that.",
+        "Don't bother asking for my horses now. I don't sell to people who sell out their own.",
+        "I've already moved your credit to the bottom of my ledger. Not spite, just bookkeeping.",
+        "Half my wagons are rerouted around {faction}'s land now, thanks to you. Enjoy the detour in your new colors.",
+        "Will I trade with you again? Maybe, if the price is high enough. Don't expect a warm welcome, ser.",
+        "Ser, I'm not angry, I'm just writing you down as a bad risk. Ink's cheap, memories last longer."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Heard {player} moved over to {faction}. Hope the new roads pay better, because the old ones were fine.",
+        "Anyone know whether {faction} is actually paying their guards this month, or is it all promises again?",
+        "Defection season again. Prices move with it, so buy your salt before the next announcement.",
+        "{player} has a new banner and a new supply line. Watching where the grain goes next will tell me plenty.",
+        "Switching factions is like switching carts mid-journey: you lose time and half your cargo. Just saying.",
+        "Whatever {player} chose, the market doesn't care. Wool is still wool and {my_faction} still pays on time."
+      ],
+      "whisper": [
+        "Heard you signed with {faction} now, {player}. Still interested in the horse route, or are those contracts off?",
+        "No grudges here, but I'll be checking receipts twice before any deal from now on.",
+        "If you still want the usual rate on salt, ask me directly. The old terms stand until I hear otherwise.",
+        "Your new friends will want the same goods I sell, so expect a little competition, ser. Nothing personal.",
+        "I'm not sure which side to watch now, so tell me straight: are we still trading or not?",
+        "A word of advice: keep your old accounts open. Loyalty is a lot easier to rebuild than a bad reputation."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Some folk call {player}'s move to {faction} a betrayal. I call it a bold pivot. Good luck with the new books.",
+        "Changing banners is no crime. Most of the best deals I ever made started with someone switching sides.",
+        "Off to {faction} with {player}? Remember, the best margins still come from the people who ask nicely.",
+        "Anyone still trusting {player} with a fair price on dyed wool? Most of us will, trade is trade.",
+        "Watch the roads, folks. A friend who changes banners still knows the best inns, so I'll keep sending my people their way.",
+        "Between us, I'd rather trade with a flexible ally than a loyal fool. Good luck, {player}, and mind the tolls."
+      ],
+      "whisper": [
+        "Don't let the nasty posts get you down, {player}. I'd still happily split a caravan route with you.",
+        "You're still welcome at my stall. Money well spent on a partner, and you were always good for a fair price.",
+        "Going over to {faction} doesn't change my opinion of you. Want to talk about horses before you leave?",
+        "I'll be honest, the gossip is loud. I'm more interested in whether your new supplier pays on time.",
+        "Good luck settling in with {faction}. Send me a message when you need a reliable hauler, I'll give you my best rate.",
+        "Don't worry about the hard words from the old crowd. Traders remember who paid their bills, and you always did."
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "job_id": "politician__encounter_greeting",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "b48f998bd793bb3386f73f28cd9ba0135313c8225eb1b5fbfcc892ddc308df54",
+    "model": "haiku",
+    "cost_usd": 0.00515595,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:07:31+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Ah, {player}. I had hoped the road would bring me someone sensible, yet here you are, blocking the path as though the realm owed you a toll.",
+        "I shall not waste my breath pretending to be pleased. Whatever you intend to propose at the next council, I have already read the minutes of your last failure.",
+        "Step aside, {player}. {my_faction} has business in these hills, and I would rather not spend the afternoon explaining to the marshals why you were trampled.",
+        "You will forgive me if I do not offer a hand. The last time we shared a table, the wine was poor and your promises were poorer still.",
+        "Pleasant as always, {player}, though I notice the smile never reaches the eyes. A pity. It would have made the next vote so much easier to count.",
+        "I hear you have been whispering about my fief again. Do be careful, {player}; a schemer who spends so much time at the keyhole rarely keeps his own door shut.",
+        "Let us be brief. {my_faction} does not require your company, your coin, or your opinions on how the granary should be run.",
+        "Every road in this valley seems to lead to your ambitions, {player}. I would prefer you found a different road, one that leads somewhere far from my lands.",
+        "Mark me well: when the council sits again, I will be sitting across from you, and I intend to enjoy watching you explain yourself.",
+        "Do not mistake my silence for surrender. I merely remember faces, {player}, and yours has been placed firmly in the column of debts I mean to collect."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Good day, {player}. We cross paths often enough that I have stopped asking where you are going, though I confess I still wonder why you never choose a shorter road.",
+        "{persona} of {my_faction}, at your service, for whatever the service is worth. Shall we exchange pleasantries, or simply agree to keep our banners apart?",
+        "I have no quarrel with you today, {player}. Let us keep it that way, and perhaps the council will be spared another afternoon of tedious speeches.",
+        "Ah, a traveller. Forgive me if I keep my hand near my purse, {player}; I have learned that every courteous greeting in this province arrives with a bill attached.",
+        "We are not friends, and we are not enemies, which I find to be the most useful position a seat at the council can hold. I trust you find it equally convenient.",
+        "Your name has reached my ears a few times this season, {player}, usually in the company of people I would rather not discuss over supper. Pass on my regards to them, if you must.",
+        "Shall we pretend this meeting is accidental? It saves us both the trouble of explaining why {my_faction} and your household happen to be heading toward the same market.",
+        "I will be frank, since frankness costs less than flattery. I do not yet know whether you are useful to me, {player}, and until I do, you will remain a pleasant face on a dusty road.",
+        "Good weather for travel, is it not? I have been told the harvest councils begin soon, and I expect you will have a great deal to say when they do.",
+        "You may continue on your way, {player}. I shall watch where your banners go, purely out of civic duty, of course, and not because I am curious."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "{player}! What a joy to meet you here. Stay a while, for I have been eager to hear your thoughts on the new charter before the others get to them.",
+        "There you are, {player}. I was just telling my steward that the best thing about this season is the company of people who think as clearly as you do about the realm.",
+        "Splendid timing. I had intended to send word to you this evening, and now I can save the messenger's fee and make the offer in person.",
+        "Our two houses have so much to gain from one another, {player}. Let us not waste a fine afternoon on the road when we could be drafting the terms over a proper meal.",
+        "I trust you are well? You look every bit the figure who will carry the next vote, and I should like to be standing at your side when it is counted.",
+        "{persona} of {my_faction} greets you warmly. Should you wish to bring your people into our fold, I can promise them a seat at the table and a voice that will be heard.",
+        "It is always a pleasure to see your banner, {player}. The council grows duller in your absence, and I am quite certain the gossips miss you as well.",
+        "Come, let us speak candidly. I have heard whispers that your fief is restless, and I believe a modest alliance could settle matters to everyone's advantage.",
+        "Ah, {player}, the one face on this road I was glad to see. Send word of any plans you make, and I shall ensure they reach the right ears.",
+        "Safe travels, then. Write when the council sits, and perhaps we can arrange our votes so that certain people are left rather embarrassed in the chamber."
+      ]
+    }
+  }
+}

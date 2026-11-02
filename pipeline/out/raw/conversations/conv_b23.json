@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "job_id": "conv_b23",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "414e0d7cab4cccbc0eecf6450e2a226c4058ee4ae36be881f1aa5671f400f749",
+    "model": "haiku",
+    "cost_usd": 0.007797750000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:44:02+00:00"
+  },
+  "data": {
+    "conv_111": [
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "omg is pikemen the best troop?? i think archers r better but idk :( sorry",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Archers are a coward's weapon, Pumkin_Tilda. Pikes hold the causeway and cavalry breaks what remains. Take notes, young one.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "wait but archers can shoot from far away?? thats kinda smart lol :P sorry if thats dumb",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Distance is a convenience for those who fear the clash. I held the ford at {town} with {troop_count} pikes and no archers.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "omg DameBeaneOfQuel how do u get so many soldiers?? i only have like 4 :( sorry",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Coin and patience, Pumkin_Tilda. Spend your {gold} on recruits, not on ale, and the pikes will follow you home.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "ok but cavalry is still the best right?? they go SO fast :D",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Cavalry is fast and foolish. Let the causeways of {village} remember how many horsemen broke upon my pikes.",
+        "delay_s": 8
+      }
+    ],
+    "conv_112": [
+      {
+        "speaker": "gotie",
+        "text": "wait did u just cheat?? ur army teleported across the bridge at {village} :( i think thats not allowed??",
+        "delay_s": 0
+      },
+      {
+        "speaker": "duskveil88",
+        "text": "I did not teleport anyone, gotie. Your line was still forming while my scouts crossed the bridge at {village}.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "gotie",
+        "text": "oh... i thought ur men just vanished?? sorry!! did i do the wrong thing by saying something?? :(",
+        "delay_s": 5
+      },
+      {
+        "speaker": "duskveil88",
+        "text": "Asking was right. A fair question deserves a straight answer, and an accusation deserves a look at the replay first.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "gotie",
+        "text": "ok i watched it back and ur right, i was just looking at the wrong side :/ sorry again!!",
+        "delay_s": 6
+      },
+      {
+        "speaker": "duskveil88",
+        "text": "No apology needed. Next time, pause the replay at the bridge and count the men. Most accusations fall apart after a closer look.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "gotie",
+        "text": "lol ok. but can we talk about how {troop_count} pikes held that line?? how do u even keep them in formation :D",
+        "delay_s": 8
+      }
+    ],
+    "conv_113": [
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "ez. ur cart is in my camp now :) cheese and all",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "u stole my cart?? the cheese was literally on fire when u took it :D lmao, unreal",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "gg. the cart was never safe near {village}. you left it on the road for 40 seconds",
+        "delay_s": 9
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "40 seconds is plenty :) ur cart was slow too. ez. ur rematch is still owed",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "rematch?? i want my cart back first :( and i will bring {troop_count} guards next time. jk... maybe :D",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "guards dont fix bad routing. bring a map. ratio decides it, not luck",
+        "delay_s": 12
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "lol hael u always show up to say the same thing. ur cart had {gold} of cheese in it :)",
+        "delay_s": 7
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "{gold} of cheese?? thats my life savings :( ok fine ill take the rematch. dont cheat tho",
+        "delay_s": 5
+      }
+    ],
+    "conv_114": [
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "is it true a huge army is marching toward {town}?? i heard like {troop_count} soldiers :O sorry if its old news",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "Come sit by the fire, young one :) The rumours are true, though the count is likely exaggerated, as all tavern tales are.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "the count is not exaggerated. re-ran the numbers from the {village} scouts. it is closer to {troop_count}, and rising.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Watch their supply lines, not their banners. Armies that size starve before they break.",
+        "delay_s": 11
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "wait what does supply lines even mean?? sorry :( is that the grain thing or something",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "Supply lines are the roads that feed the army, my dear. Wagg0nRookie7, ask me anything after the fire is lit :)",
+        "delay_s": 9
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "lol it is a supply chain. if u dont know that yet the rumour is not for u",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "ok ok im learning!! SerWrenwood can u show me the grain button later pls :D",
+        "delay_s": 5
+      }
+    ],
+    "conv_115": [
+      {
+        "speaker": "SirButtonsworth",
+        "text": "join the campaign falkyn :) the buttns r ur treaty now. no contract needed lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Falkyn",
+        "text": "omg yes!! i would love to join ur campaign SirButtonsworth :D thank u so much!! ur so nice",
+        "delay_s": 6
+      },
+      {
+        "speaker": "stoolpenny",
+        "text": "Before you sign, Falkyn, know Salt is up again at {town}. Nothing personal to SirButtonsworth, but we pay on time.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SirButtonsworth",
+        "text": "salt is for soup. buttns r for war :) falkyn u dont need salt u need a buttn army",
+        "delay_s": 5
+      },
+      {
+        "speaker": "stoolpenny",
+        "text": "A button army is charming, SirButtonsworth. It will not hold a ford against {troop_count} pikes, but I admire the confidence.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Falkyn",
+        "text": "um i dont really know what a ford is?? sorry :( but i can bring like {troop_count} guys maybe??",
+        "delay_s": 7
+      },
+      {
+        "speaker": "SirButtonsworth",
+        "text": "falkyn stay w me. the buttns will guard ur back :) stoolpenny is just salty lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "stoolpenny",
+        "text": "Very amusing. Falkyn, the offer stands until the end of the week. The League values loyal men and fair prices.",
+        "delay_s": 6
+      }
+    ]
+  }
+}

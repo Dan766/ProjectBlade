@@ -1,0 +1,79 @@
+{
+ "_doc": "3D campaign map (Phase G). 1 terrain cell = 1 world unit; sea level is y = 0. Colours are sRGB hex.",
+ "height_scale": 0.06,
+ "smooth_passes": 1,
+ "shore_margin": 0.12,
+ "terrain_colors": {
+  "~": "#8a7f5e", ".": "#8fae5a", "f": "#3f6b35", "h": "#a39a68",
+  "m": "#78726b", "s": "#617f55", "d": "#e2c98e", "a": "#4d4542"
+ },
+ "terrain": {
+  "rock_color": "#76706a", "snow_color": "#f1f4f8", "sand_color": "#dccb9b",
+  "road_color": "#a3865c", "pool_color": "#3d6a6a", "ember_color": "#ff6a1a",
+  "blend_sharpness": 3.0, "slope_rock": 0.42, "snow_line": 6.3, "beach_height": 0.35,
+  "border_width": 0.2, "border_soft": 0.8, "border_strength": 0.9, "border_glow": 0.45, "region_tint": 0.09,
+  "ember_amount": 1.0
+ },
+ "water": {
+  "shallow_color": "#46b0ad", "deep_color": "#1f527d", "foam_color": "#f3f6f2",
+  "wave_height": 0.05, "foam_width": 0.35, "deep_depth": 2.5, "ripple": 0.25, "margin": 200
+ },
+ "sky": {
+  "top_color": "#5b8fcf", "horizon_color": "#d3dee6", "ground_color": "#2b4a63",
+  "fog_color": "#c4d2dc", "fog_density": 0.0012, "fog_sky_affect": 0.2, "fog_aerial_perspective": 0.1,
+  "ambient_energy": 0.4, "sun_color": "#fff1dc", "sun_energy": 1.35, "tonemap": "aces", "exposure": 0.95,
+  "sun_pitch": -48, "sun_yaw": -35, "shadow_distance": 260
+ },
+ "scatter": {
+  "_doc": "Per terrain code: [kind, models per cell]. Kinds: range = hide beyond this camera distance (0 = always), scale range, tints (sRGB, picked per instance).",
+  "chunk": 16, "seed": 1701, "noise_scale": 0.09, "noise_strength": 0.9,
+  "tree_max_slope": 0.9, "snow_tint_above": 5.2, "keep_clear": {"town": 1.7, "castle": 1.0, "village": 1.05},
+  "terrain": {
+   "f": [["conifer", 3.2], ["broadleaf", 1.6], ["bush", 0.4]],
+   ".": [["broadleaf", 0.12], ["bush", 0.3], ["rock", 0.04]],
+   "h": [["rock", 0.7], ["conifer", 0.45], ["bush", 0.3]],
+   "m": [["rock", 1.1], ["conifer", 0.2]],
+   "s": [["reeds", 3.0], ["broadleaf", 0.15], ["bush", 0.35]],
+   "d": [["dune", 0.3], ["shrub", 0.3], ["rock", 0.06]],
+   "a": [["stump", 0.7], ["deadtree", 0.3], ["ashrock", 0.6]]
+  },
+  "kinds": {
+   "conifer":   {"range": 0,   "shadow": true,  "scale": [0.8, 1.35], "tints": ["#ffffff", "#e4f0dc", "#c9dcc4"]},
+   "broadleaf": {"range": 0,   "shadow": true,  "scale": [0.8, 1.3],  "tints": ["#ffffff", "#f0f4d0", "#d6e8c2", "#f4e2b0"]},
+   "bush":      {"range": 90,  "shadow": false, "scale": [0.7, 1.4],  "tints": ["#ffffff", "#e8eccc"]},
+   "shrub":     {"range": 70,  "shadow": false, "scale": [0.7, 1.4],  "tints": ["#ffffff", "#e8dcc0"]},
+   "rock":      {"range": 120, "shadow": false, "scale": [0.6, 1.8],  "tints": ["#ffffff", "#e6e0d6", "#d0ccc8"]},
+   "ashrock":   {"range": 120, "shadow": false, "scale": [0.6, 1.6],  "tints": ["#ffffff", "#e0d8d4"]},
+   "reeds":     {"range": 80,  "shadow": false, "scale": [1.3, 2.0],  "tints": ["#ffffff", "#e6eccc", "#f4e6b8"], "double_sided": true},
+   "dune":      {"range": 0,   "shadow": false, "scale": [0.7, 1.6],  "tints": ["#ffffff", "#f4ecdc"], "align": true},
+   "stump":     {"range": 90,  "shadow": false, "scale": [0.7, 1.3],  "tints": ["#ffffff"]},
+   "deadtree":  {"range": 140, "shadow": true,  "scale": [0.8, 1.3],  "tints": ["#ffffff"]}
+  }
+ },
+ "settlements": {
+  "_doc": "Architecture follows the founding realm's culture (style + palette); flags and keep roofs take the current owner's colour.",
+  "scale": {"town": 1.4, "castle": 1.4, "village": 1.3},
+  "variants": 2, "refresh_seconds": 0.5, "icon_hide_at": 1.2,
+  "siege": {"tents": 7, "radius": 0.5, "tent_scale": 2.2, "smoke": true},
+  "cultures": {
+   "faction_01": {"style": "canal",   "wall": "#d9cfbd", "roof": "#b4553a", "trim": "#8f8778", "accent": "#3f7fa8"},
+   "faction_02": {"style": "fen",     "wall": "#8a6f4a", "roof": "#bda56c", "trim": "#5e4a32", "accent": "#6f8a5a"},
+   "faction_03": {"style": "ash",     "wall": "#3b3637", "roof": "#5c2e29", "trim": "#262223", "accent": "#d0552a"},
+   "faction_04": {"style": "forest",  "wall": "#7a5636", "roof": "#4f6a3a", "trim": "#4a3522", "accent": "#a8b070"},
+   "faction_05": {"style": "regency", "wall": "#ece8de", "roof": "#5b6b88", "trim": "#bdb7aa", "accent": "#d8c27a"},
+   "faction_06": {"style": "oasis",   "wall": "#d8b98a", "roof": "#efe3c6", "trim": "#b08f62", "accent": "#5a9a8a"}
+  },
+  "field_colors": ["#c9b25a", "#a7b85a", "#8f9e4c", "#b99b57"],
+  "dirt": "#9c8460"
+ },
+ "parties": {
+  "_doc": "3D party models: scale = clamp(camera distance / scale_div, scale_min, scale_max); player flag colour when free.",
+  "scale_div": 16, "scale_min": 1.1, "scale_max": 4.5, "turn_speed": 8.0,
+  "player_color": "#b8322a", "lord_name_zoom": 1.4
+ },
+ "camera": {
+  "fov": 50, "min_distance": 6, "max_distance": 190, "pitch_near": 34, "pitch_far": 62,
+  "zoom_step": 0.06, "pan_speed": 1.1, "drag_pan": 1.0, "rotate_speed": 90, "drag_rotate": 0.3,
+  "edge_margin": 12, "min_clearance": 1.0, "smoothing": 12
+ }
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "memer__player_left_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "d5a44f53ec4642af7da3aa9fb5addae52647b76b83b42ec5d4083ecbb1906f21",
+    "model": "haiku",
+    "cost_usd": 0.00485335,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:04:05+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} left {my_faction} for {faction}. i have put a bounty on my own shoes in their honor xD",
+        "the chair {player} sat in at {my_faction} has been cursed. it will not forgive. :(",
+        "{player} switched to {faction} and the {my_faction} banner is now crying. look at it",
+        "{player} the deserter. i am writing their name on the wall of shame. the wall is a plank. it still counts",
+        "to {player}: the {faction} banner is a lovely shade of wet cabbage. enjoy it :)",
+        "{player} walked out on {my_faction} like a cow leaving a barn. nobody saw it coming except the cow"
+      ],
+      "whisper": [
+        "{player} you traded us for {faction}?? my pigeon has been informed and it is not okay xD",
+        "i will be sending a strongly worded letter to the goat in the stables. it is the only one i trust",
+        "{player} we are no longer friends. i have deleted you from my heart and also my contacts",
+        "{faction} gave you a cape and you sold out {my_faction} for it. bold. the cape is ugly",
+        "{player} i am going to beat you in the next skirmish and then yell about it in global :)",
+        "you left {my_faction} so now i get your share of the loot. thank you for your sacrifice ser"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} moved over to {faction}. ok. the tavern still has one good stool and i am not telling who gets it",
+        "small news: {player} is now with {faction}. big news: nobody told the rats yet",
+        "{player} changed banners mid-season. bold strategy. we will see if the weather agrees :)",
+        "rumor says {player} is a {faction} spy now. or they just really like the color yellow. unclear",
+        "{my_faction} lost a member to {faction} today. the mood is 'mild shrug' with a side of 'hm'",
+        "{player} took the long road to {faction}. i respect the scenery. i do not respect the decision xD"
+      ],
+      "whisper": [
+        "{player} so you are with {faction} now. fine. keep your head down near the moat, it is extra damp",
+        "heard you switched to {faction}. the offer for tea still stands, just dont bring any drama",
+        "{player} no hard feelings. some hard feelings. a small pebble of feelings",
+        "{faction} got a good one. try not to stand near any fire or ask for directions :)",
+        "left {my_faction} for {faction}? ok. the spare granary key is still under the rock if you need it",
+        "{player} i wish you luck. i also wish the gate guards would stop asking me about you"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} is off to {faction} and we will miss their questionable plans and their questionable hats",
+        "salute to {player}, who left {my_faction} for {faction}. the door is still open, the hinge squeaks lovingly",
+        "{player} joined {faction} and somehow i'm proud? this is a feeling and i don't like it xD",
+        "{my_faction} is down one legend today. {faction} gets the legend. we get the leftover soup",
+        "{player} is going to {faction}. we will host a funeral for the old banner. snacks provided",
+        "ok {player} left us for {faction} but i still want them on my side in the next siege. no pressure :)"
+      ],
+      "whisper": [
+        "{player} you big traitor :) i still love you. faction colors do not change the bond. probably",
+        "{player} you took the banner with you?? keep it warm, i will come steal it back later. affectionately",
+        "i'm not mad at you, i'm just going to ignore you in the feast line for a month. it's a bit",
+        "{player} i heard {faction} gave you a shiny helmet. wear it, but also tell me the good gossip",
+        "fine. go be a {faction} person. but if they make you wear the horrible cloak, you call me, ok?",
+        "{player} the door to {my_faction} is still unlocked for you. i'm not saying come back. i'm saying it's unlocked :)"
+      ]
+    }
+  }
+}

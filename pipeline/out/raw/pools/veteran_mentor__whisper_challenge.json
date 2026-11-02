@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__whisper_challenge",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "6e9066840ada5a298aa96bf88b44db668a9fdfabf3de3b26b5d455b906ff71f2",
+    "model": "haiku",
+    "cost_usd": 0.01265685,
+    "attempts": 3,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 1865 (char 1864)",
+      "attempt 2: result is not valid JSON: Expecting ',' delimiter: line 1 column 1891 (char 1890)"
+    ],
+    "created_at": "2026-11-01T17:19:38+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "{player}, we have a score to settle. Meet me at the ford outside {village} when you are ready. I will be the one not in a hurry.",
+        "You have been running your mouth in global chat for a week, {player}. Put the words to the test on the field outside {town}.",
+        "Old grudges do not age well on this server, {player}. I would rather end ours with steel than with another rumor.",
+        "Every time you see me, you look for a way out. Stop looking, {player}. Meet me by the old mill near {village} and settle it.",
+        "I have beaten braver people than you in the first war, {player}. Come find out if you can do better than they did.",
+        "Keep your gold in your pocket and your bravado in your saddle, {player}. Meet me outside {town} and we will see what is left.",
+        "I am not angry, {player}. I am tired of watching you dodge. Name a time and a field and I will be there.",
+        "Let us finish this properly, {player}. No allies, no traps, just you and me on the plain east of {village}. Bring your best."
+      ]
+    },
+    "neutral": {
+      "whisper": [
+        "Ser {player}, I hear you are a good hand with a lance. Care to test that against mine near {village} some evening?",
+        "Nothing personal, {player}. I simply want to know where you stand before the next siege. Meet me outside {town}.",
+        "A friendly bout would tell us both more than gossip does, {player}. The meadow past {village} is quiet this time of day.",
+        "Not every battle needs a reason. Fancy a duel with me on the road near {town}, {player}? Winner buys the next round.",
+        "I have no quarrel with you yet, {player}. Let us change that on the field instead of in chat. Find me by {village}.",
+        "Stop watching my roads and come meet me in the open, {player}. I would sooner see your sword than your scout.",
+        "Measure your steel against mine, {player}. Nobody is keeping score yet, though I suspect you will want to start.",
+        "Care for a practice bout, {player}? Loser walks the old road back to {town} and admits the other fought well."
+      ]
+    }
+  }
+}

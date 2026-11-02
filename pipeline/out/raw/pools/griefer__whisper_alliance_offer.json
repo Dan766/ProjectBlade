@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "griefer__whisper_alliance_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "52c7a52585b21677ab737be76474a971469710f55955b4b657acf463340dcbb4",
+    "model": "haiku",
+    "cost_usd": 0.00401015,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:12+00:00"
+  },
+  "data": {
+    "neutral": {
+      "whisper": [
+        "oi {player} i need a sword arm against {enemy_faction} and ur the only one who didnt run last time dont make me regret it",
+        "{enemy_faction} is about to lose a war and i want to be on the winning side for once so team up or dont whatever",
+        "heard u hate {enemy_faction} too shocking we have something in common now dont get used to it",
+        "wanna split the loot from {enemy_faction} i do the killing u carry the chests fair deal or no deal",
+        "ill fight {enemy_faction} with u for now then the second u blink ill stab u in the back just saying",
+        "alliance offer {player} we beat {enemy_faction} then we figure out who gets to be the bigger legend",
+        "dont read into it this is business only im not doing this for the feelings",
+        "{enemy_faction} keeps raiding everyone and nobody has the guts to stop them so i guess ill be the one that does lol"
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        "ok {player} u are actually pretty decent so ill say it once lets crush {enemy_faction} together before i change my mind",
+        "whole server hates {enemy_faction} and u hate them too thats basically a marriage proposal in this game lol",
+        "u already owe me one for not reporting that last fight so pay me back by helping me wreck {enemy_faction}",
+        "{enemy_faction} needs a lesson and im not gonna teach it alone so get ur army ready and dont be late",
+        "dont make it weird but i kinda trust u more than most people here so lets go burn {enemy_faction} down",
+        "gg earlier by the way that was ez for u but i still want u on my side when we hit {enemy_faction}",
+        "say the word {player} and ill bring the torches {enemy_faction} wont know what hit em",
+        "we both know ur better than {rival} at this game so prove it by standing next to me vs {enemy_faction}"
+      ]
+    }
+  }
+}

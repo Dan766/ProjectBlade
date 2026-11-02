@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "job_id": "persona_101",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "f7300d1438b7f40865936124fe33f4a502b2aa8af586669747e8ee7495deb256",
+    "model": "haiku",
+    "cost_usd": 0.00656495,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:39:13+00:00"
+  },
+  "data": {
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else smell rain or is that just the bridge still judging me :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "reminder that the chicken has not been captured in three summers. it sits on the hill outside {town} and it knows :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag in {village} is so bad i am typing this with my nose xD somebody send help or send bread"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "i have named every cow in {village}. they answer to sir mooington now. dont argue with me :P"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "it is raining again which means the bridge is slippery and i am not sorry about that at all :)"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the chicken leads the vanguard at {fief}. {troop_count} lads behind it. it has never once lost a step xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "sitting on {gold} gold and not spending a single coin on anything sensible. the chicken would never allow it :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours now, {troop_count} troops strong, which is basically a sacred prophecy at this point :P"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "counted my purse twice. {gold} gold. the chicken gets a tithe, it has earned it ;)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} soldiers marched into {fief} and not one of them asked why we are carrying a chicken :)"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} won at the field with {troop_count} men. the chicken wants it on record that this was a draw. spiritual draw :)"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} beat me with {troop_count} lads. i will be telling everyone it was a tactical retreat by the chicken :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "well played {player}, you got me with {troop_count} men fair and square. the chicken is still waiting on that apology xD"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "oi {player}! you think {troop_count} men makes you a hero? the chicken disagrees and the chicken is the one who matters :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {troop_count} men and one lucky wind. enjoy it while it lasts, the chicken is watching you :)"
+      }
+    ],
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} fell at the field with {troop_count} of their lads. the chicken did it again. i am not even tired :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} you lost {gold} gold worth of pride today. cannot say the chicken is surprised ;)"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "good fight {player}, truly, though you should not have underestimated the chicken. i will take your {gold} gold as a fine :)"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} went down with {troop_count} men and {gold} gold in the bag. the chicken takes a 10 percent cut, standard practice :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "gg {player}, your army was nice. the chicken was nicer xD"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} ran from me like a goose from a fox xD the chicken scares everyone, it is a gift :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} you turned tail the second you saw the chicken. honest mistake, we all have those :P"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} took one look at the chicken and sprinted. respect the instincts honestly :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} running is allowed but the road is long and the chicken has a good memory ;)"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has won a lot lately. the chicken wants to know who is paying the bards now :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your win streak is getting dull. the chicken is bored and that never ends well for anyone ;)"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is on a run and i am not impressed. the chicken has been on a longer one, so there :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} keep winning and the chicken will start writing you letters of praise xD"
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} made peace with {faction}. the bridge is furious, the chicken is thrilled :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "peace between {my_faction} and {faction}? someone check the chicken is not signing the treaty xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{faction} and {my_faction} shaking hands. nobody tell the chicken, it will want a cut of the wine :P"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "no more fights with {faction} means more time to plot against the bridge :)"
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} declared war on {enemy_faction}. good, i was getting bored. the chicken has been practicing its war face :P"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} wants a war with {my_faction}? the chicken has already picked the battlefield xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "war on {enemy_faction}! i have made a banner with a chicken on it. it is large. it is majestic ;)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} is at war with {enemy_faction} and i am personally ready to make it weird :)"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}! i see you and your little banner. the chicken has already marked you, so turn your horse around now :P"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "oi {player}, {persona} here of {my_faction}. got a minute for a chicken update? it is wearing a tiny crown today :)"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} my favorite enemy! the chicken says hello and asks if you have brought any bread. big respect from {my_faction} :D"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} you dare cross this road? the bridge warned you and so did i. the chicken has never once lost to anyone with a shiny helmet :P"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i heard {rival} called your army a picnic. i disagree, a picnic has better manners :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} the chicken sends its regards and also its contempt. mostly contempt ;)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} thinks they are clever. i will let them think it for one more day, {player} :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your last battle was a sad little affair. the chicken barely broke a sweat xD"
+      }
+    ]
+  }
+}

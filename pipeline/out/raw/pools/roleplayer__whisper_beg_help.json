@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "roleplayer__whisper_beg_help",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "15b36dfc0cec03359feb5068cd8c7a53e5568f1badbc2eb737bab03d1c4441e5",
+    "model": "haiku",
+    "cost_usd": 0.00422305,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:11:37+00:00"
+  },
+  "data": {
+    "neutral": {
+      "whisper": [
+        "Ser {player}, I will not dress this up. {fief} is failing and I need hands that are not my own. Will you lend yours?",
+        "I owe you no favour, ser {player}, yet {fief} is besieged and I am desperate. Name your price and I will hear it.",
+        "They say your blade is for hire. Then hire it to {fief}, ser {player}, before {enemy_faction} takes the walls by dawn.",
+        "Ser {player}, {enemy_faction} has taken two villages from me and I have no men to answer. Could you spare any?",
+        "I do not ask out of affection, ser {player}. I ask because {fief} will fall without aid, and a fallen fief helps no one.",
+        "Weary as I am, I write to you. {fief} bleeds, {enemy_faction} grows bolder, and I have run out of pride to spend.",
+        "Should you remain idle while {fief} burns, ser {player}, history will remember your silence longer than my pleas.",
+        "Consider it a bargain, ser {player}. Ride to {fief} and drive off {enemy_faction}, and my gratitude will be recorded in full."
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        "My dear friend {player}, {fief} is in peril and there is no one whose sword I trust more than yours. Come, I beg you.",
+        "Ser {player}, you have stood beside me before. Now {fief} needs that loyalty once more, and I dare not ask another.",
+        "Our oath of friendship binds us, ser {player}. {enemy_faction} presses at {fief}'s gates and I cannot hold them alone.",
+        "Friend {player}, forgive the hour. {fief} is under siege and my heart told me to write to you before anyone else.",
+        "Recall the feast we shared, ser {player}. Those same walls now shelter our kin, and {enemy_faction} means to breach them.",
+        "Friend {player}, I hate to trouble you, but {fief} totters and {enemy_faction} smells blood. I need you there.",
+        "The ancestors who raised {fief} will not forgive me if it falls, ser {player}. Ride with me and let us save it together.",
+        "Whatever we have spoken of before, ser {player}, I count you among those I would trust with my last wall. Will you answer?"
+      ]
+    }
+  }
+}

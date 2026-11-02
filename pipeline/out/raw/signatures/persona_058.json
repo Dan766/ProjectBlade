@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "job_id": "persona_058",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "5b568da9df5c7d8d899e891a7e945373a3c3b94350569e6c30186ba9a645add7",
+    "model": "haiku",
+    "cost_usd": 0.00630645,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:34:54+00:00"
+  },
+  "data": {
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "is it just me or did the fog over {village} smell like pickles xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "someone tell the bridge outside {town} i havent forgotten what it did. it knows :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag again?? the sacred chicken is fine, it just needs a nap :("
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "rain in {town} again. the clouds are clearly plotting against my button bank"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "reminder that {village} is officially renamed buttonvale. i will hear no objections :D"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "my garrison at {fief} is {troop_count} strong and every one of them owes me a button xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "sitting on {gold} gold and the button bank keeps growing :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours. the treaty was signed in buttons, no notes, no appeals xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} men, {gold} gold, one very loyal chicken. the realm trembles :)"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} beat me with {troop_count} men and i am choosing to call it a tactical nap xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "ser {player} fine, you win this one. the bank survives and so do i :)"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}! you brought {troop_count} lads and still cant spell my name right. rematch at dawn xD"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} beat us with {troop_count} men, honestly good game. my knees hurt from laughing :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} you got lucky with {troop_count} men. next time i bring a bridge xD"
+      }
+    ],
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} went down with {troop_count} men and {gold} gold in the purse. the buttons won the day :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your {troop_count} men fled like the bridge owes them money. i will take the {gold} gold as a treaty fee xD"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player}! {troop_count} men down and {gold} gold to the button bank. stop sulking ser, its only a war :)"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {gold} gold and {troop_count} lads to me today. sorry not sorry xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that was a fine fight. keep the {troop_count} lads you have left, i only want the gold :)"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} running away already? the bridge would be proud of you :)"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} saw my banner and ran. the button bank sends its regards xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "ser {player} come back, i promise the buttons are only mildly cursed :("
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} fled like a goose that owes me rent. tragic, truly :("
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} you can run but the chicken will always find you xD"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has won like nine in a row. i am not jealous, i am simply preparing a nap for them xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "ser {player} enjoy the streak, every streak ends at a bridge eventually :)"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} on a winning streak and i have never been prouder. proud button tears are real :')"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your streak ends at my button bank, mark my words. the chicken has been warned xD"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "is {player} still winning? someone check if they have a button bank of their own :)"
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "peace between {my_faction} and {faction} is signed, which means i can finally stop running from a certain goose xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} made peace. the buttons were involved, obviously :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "treaty of {my_faction} and {faction} done. no more fighting, just gossip and tiny hats xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{faction} wants peace with {my_faction}? i accept on behalf of the chicken :D"
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} has declared war on {my_faction}. the buttons have been drawn and i am already sad about it :("
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "war with {enemy_faction}! {my_faction} forms a line, the chicken is in front xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} wants a fight with {my_faction}? cool, i will bring the whole button bank :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the fine people of {enemy_faction} have chosen violence. i respect it, i will still win xD"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}! its {persona} of {my_faction}. you stand between me and my button bank, which is a crime. stand down xD"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "oh hello {player}, {persona} here. you look like you lost a bet, want a button for your trouble :)"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}! my favorite person in the whole realm. {persona} is so glad to see you, the chicken agrees :D"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} you again. {persona} of {my_faction} has been dreaming of this moment, possibly about buttons xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "ser {player}, {persona} salutes you! if you ever need a loyal button you know where i keep them :)"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your lot is weaker than my button bank and that is saying something xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ser {player} i heard {rival} said you lost. i will wait while you cry into your hat :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} the chicken has seen your banner and it finds it tacky :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} keep waving that banner, i can see it from the bridge xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "hey {player}, {rival} said you were scary. i am still waiting for the scary part :)"
+      }
+    ]
+  }
+}

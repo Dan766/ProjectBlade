@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "job_id": "trader__encounter_threatened",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "2e1fc76559d0c04363645d7cedfa1427302eaec253c0b5be3f5237dbd774600d",
+    "model": "haiku",
+    "cost_usd": 0.0184981,
+    "attempts": 4,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 3485 (char 3484)",
+      "attempt 2: schema: Additional properties are not allowed ('neutral' was unexpected)",
+      "attempt 3: schema: 'neutral' is a required property"
+    ],
+    "created_at": "2026-11-01T17:13:58+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Threats again? Fine. My toll gate costs {gold} to pass, and I'd rather you pay it than bleed on my good cart.",
+        "You want my purse, I want my cart back in one piece. Pick whichever you can afford to lose, {player}.",
+        "I've buried better customers than you for less trouble. Name your ransom and let's get it over with.",
+        "Every time someone like you stops me, the road gets a little more expensive. You're making it my problem.",
+        "Mark this day, {player}. You just cost me a route, a bodyguard's wages and my good temper all at once.",
+        "Hm. A brave tongue for someone standing in the mud. I'll take {gold} and you may keep the rest of your dignity.",
+        "Keep your steel sheathed and your hands where I can see them. Haggling is still an option, sadly for you.",
+        "I'd call you a bandit, but bandits at least charge fair rates. Pay up, or walk your empty road home.",
+        "Do you know what a wagon guard costs per week? Now add your nonsense to that bill, and we'll see who laughs.",
+        "Bad luck on your end, not mine. Hand over {gold} and I'll pretend this little scene never happened."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Threatening a merchant on the open road. Bold. Let's talk numbers before either of us does something we regret.",
+        "I can give you {gold} for your trouble, or you can wander off with nothing. Both are fair in their own way.",
+        "Demands are cheap, {player}. Coin is what I deal in. Tell me what you actually need and we'll see.",
+        "I've no quarrel with you yet. Make it worth my while and I'll forget this moment ever happened.",
+        "Surrender my cart? Ah, you want an auction. The opening bid is {gold}, and I won't be pushed higher.",
+        "Let's be reasonable. You have a blade, I have a ledger. One of us is going to walk away richer.",
+        "Interesting opening offer. I'll counter with a quarter of what you asked and a warm meal at the next inn.",
+        "Pay the toll and we're done. Argue and we both lose a day, and days are the only thing I can't buy back.",
+        "Nobody's taking the wagon today. But I might take a small loss on the goods if you'd hear me out.",
+        "You're not the first to stop me here, and you won't be the last. Name your price and keep your temper."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Oh, {player}, you always know how to make a poor merchant sweat. Fine, you get the usual discount on my toll.",
+        "Ha! Threatening me over a barrel of salted fish? You're going to make me miss my own shop opening.",
+        "If you must rob me, {player}, at least do it at the market price. Friends pay a little less, you know.",
+        "We both know you're just testing the cart's springs. Take {gold} off the price and I'll pretend I was scared.",
+        "Put that scowl away, my favorite customer. I'll trade you a fresh pie for a ride down the road together.",
+        "You're a terrible bandit and a wonderful buyer. Let's skip the threats and talk about what you'd like to buy.",
+        "Now then, {player}, you've had your fun. Shall we settle things over tea, or do you still want the wagon?",
+        "Honestly, you could have just asked nicely. I'd have sold you the cart for {gold} and a good word.",
+        "Easy, easy! Your charm is wasted on a wagon, but I'll gladly give you a loyal customer's rate.",
+        "You know I can't stay angry at you for long. Half the coin, a cup of cider, and we're square again."
+      ]
+    }
+  }
+}

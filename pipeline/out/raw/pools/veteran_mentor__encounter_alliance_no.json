@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__encounter_alliance_no",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "56786add9b8de08c8cb65620a4cc311a2567f1b7b9f116a3b7d26f9662ff73fa",
+    "model": "haiku",
+    "cost_usd": 0.008839900000000001,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: Additional properties are not allowed ('friendly' was unexpected)"
+    ],
+    "created_at": "2026-11-01T17:17:18+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "No alliance, {player}. I still remember how the last pact with your people ended, and so do the men who buried our dead.",
+        "You want my banner beside yours? Ask me again when the ground between our camps has stopped smelling of smoke.",
+        "Your offer is noted and refused. I have seen friendship from your corner before, and it always arrived with a knife behind it.",
+        "Pass. I would sooner ally with a wolf than with you, and at least a wolf is honest about who it bites.",
+        "Let me save you some time. The answer is no, the same as it was the last three times you asked, and it will be no tomorrow.",
+        "An alliance needs trust, and I have none to spare for {player}. Take your papers back to whoever sent you, and mind the road home.",
+        "Tempting, the way a fire is tempting in winter. I have been burned by fires like yours before, so no thank you.",
+        "Refused. If you want to prove yourself, do it on a field where I can watch. Words cost nothing, and yours have cost me plenty."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Thanks, but no. I keep my banners where they are, and I do not owe anyone an explanation for that.",
+        "An alliance is a rope with two ends, and I prefer to hold only my own. Thank you for asking, but no.",
+        "Not this season, {player}. My captains are stretched thin and my coin is spoken for. Perhaps the next time the roads are quieter.",
+        "I appreciate the offer. Pacts on this continent tend to outlive their usefulness, so I keep things simple and stand on my own.",
+        "No. Nothing personal. I have simply learned that a pact signed in good weather often breaks in bad.",
+        "Interesting proposal. I'll decline it for now, and we can both see how the wind blows before we tie our banners together.",
+        "Respectfully, no. I trust no one's word until their deeds have earned it, and yours are still being written.",
+        "I will pass on this one. Keep your forces where they serve you and I will keep mine where they serve me. Safe travels."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ah, {player}, I wish I could say yes. My banner is tied up for now, but bring me the next proposal and I will listen properly.",
+        "You know I think well of you, so I will be honest. Not this time. Keep building your strength and we will talk again when my ranks are less stretched.",
+        "A fine offer, and it means something coming from you. I must decline, but you have my respect and my door stays open.",
+        "No alliance today, {player}, though I would fight beside you any day I could. Don't take it to heart. Old soldiers are cautious with their oaths.",
+        "Gracious of you to ask. I have been let down by promises before, which is why I count your word as worth more than most. Let's keep our friendship clean and our banners apart for now.",
+        "I have to say no, and it pains me a little. Stay safe out there, and send word if you need anything short of an oath.",
+        "Refusing you is the hardest thing I've done all week. It has nothing to do with doubting you. The timing is simply wrong.",
+        "Not now, {player}, but thank you for thinking of me first. Come find me when the roads are safer. I'd enjoy the company either way."
+      ]
+    }
+  }
+}

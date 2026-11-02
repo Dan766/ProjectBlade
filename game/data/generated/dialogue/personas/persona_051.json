@@ -1,0 +1,285 @@
+{
+ "username": "lich3n_grudge",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_051.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "ok {player} took the field lmao. entry 483 in the ledger, dont get comfy :)"
+   },
+   {
+    "id": "sig.persona_051.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "fine u won this round. ur name is underlined twice in the ledger now. rematch when u have dry boots"
+   },
+   {
+    "id": "sig.persona_051.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Hold still while I count the cost. Those {troop_count} men of mine will be written down for the lore. You owe me a rematch, and I will collect it."
+   },
+   {
+    "id": "sig.persona_051.beat_player.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Well played, I suppose. Your banners look nice, shame about the swords. I'll be back for the {gold} you took today, mark my words."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_051.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} got lucky with the hill xD my {troop_count} lads were just decorating the grass. seethe :)"
+   },
+   {
+    "id": "sig.persona_051.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "u got me this time {player}. but the ledger never forgets, ur name is in red ink now lol"
+   },
+   {
+    "id": "sig.persona_051.beat_by_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Fine, you beat me. I lost {troop_count} men and I will write that down, and next time I am the one holding the hill."
+   },
+   {
+    "id": "sig.persona_051.beat_by_player.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "That charge was good, ngl. Dont let it go to your head though, {player}. I am still counting."
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_051.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat me AGAIN. thats 3 times now, the ledger is full, i need a second ledger for this"
+   },
+   {
+    "id": "sig.persona_051.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "stop winning {player} its getting weird. i know ur route by heart now. ill find a new one and burn it :)"
+   },
+   {
+    "id": "sig.persona_051.beat_by_player_repeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "ok fine {player} is the best at beating me. i respect it... dont tell anyone, the ledger has a whole section now"
+   },
+   {
+    "id": "sig.persona_051.beat_by_player_repeat.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} ur wrecking me and honestly kinda impressive. still a cheat tho. see u at the farm, bring snacks"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_051.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} ran away from my party?? lol the ledger writes itself, big scary {player} runs like a chicken xD"
+   },
+   {
+    "id": "sig.persona_051.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "fleeing already {player}? i was hoping for a proper fight. rude. ledger notes ur cowardice in bold"
+   },
+   {
+    "id": "sig.persona_051.player_fled_from_me.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} saw my banners and bolted. smart, but the roads get long and i can wait :)"
+   },
+   {
+    "id": "sig.persona_051.player_fled_from_me.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ran off {player}? ill chase u one day, it will be fun i promise. im kidding... mostly"
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_051.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} still think ur hot stuff? ur last win was a fluke and everyone at {rival}'s table knows it lol"
+   },
+   {
+    "id": "sig.persona_051.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "ur ledger entry is getting long {player}. dont make me start a second page :)"
+   },
+   {
+    "id": "sig.persona_051.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "heard {rival} called me a bot. tell them ill be at their farm next week, bring the torches xD"
+   },
+   {
+    "id": "sig.persona_051.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} u probably lost a whole army to me in a dream. wake up and admit it"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_051.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} meet me at {village} at dawn, bring everything. ill burn the mill again, im bored and u owe me a fight"
+   },
+   {
+    "id": "sig.persona_051.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "hey {player} u up? {town} road, sundown. loser buys the ale. or i burn ur wagon, same thing :)"
+   },
+   {
+    "id": "sig.persona_051.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} ur hitting a wall with me. come to {village} and prove it. ill keep it civil, probably"
+   },
+   {
+    "id": "sig.persona_051.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} ive been counting ur losses. {town} gate, one more round, i need one more entry to finish the page"
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_051.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Pay {gold}? Ha! I will pay you in arrows, {player}. Keep talking. Every word goes in the ledger for later."
+   },
+   {
+    "id": "sig.persona_051.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "You are asking for {gold} with a straight face? Bold. I will think about it while I set fire to your lovely cart."
+   },
+   {
+    "id": "sig.persona_051.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Okay {player}, that is a lot of gold for a bit of walking. Let's talk first. I will still tease you about it, obviously."
+   },
+   {
+    "id": "sig.persona_051.encounter_threatened.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} you are threatening me? Cute. I will give you {gold} once you learn to spell the word surrender :)"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_051.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Oh look, it's {player}. Still owe me a farm, I remember. This is {persona} of {my_faction}, and I am about to make the ledger cry."
+   },
+   {
+    "id": "sig.persona_051.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}! {persona} of {my_faction} here. I have been keeping score of every insult you ever typed, so you are in for a long chat."
+   },
+   {
+    "id": "sig.persona_051.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, it is {persona} from {my_faction}. Honestly you are my favourite person to burn things in front of. No hard feelings, only ash."
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_051.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "just counted {troop_count} lads and {gold} gold in {fief}. the ledger is thick and the farms are ash, life is good xD"
+   },
+   {
+    "id": "sig.persona_051.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is mine now. i had {troop_count} bodies and a torch. nobody asked but im telling u anyway lol"
+   },
+   {
+    "id": "sig.persona_051.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{gold} gold and still nobody has beaten me in {fief} twice. thats a record. go ahead and seethe :)"
+   },
+   {
+    "id": "sig.persona_051.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "burned the mill in {fief} and took {gold} from the chest. honest work, honest fire"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_051.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} men in one go lmao. not a battle, a bath :) the ledger loves u"
+   },
+   {
+    "id": "sig.persona_051.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "heard u lost {troop_count} to some dude in a ditch {player}. i dont care. ok i care a little, sorry for the laugh xD"
+   },
+   {
+    "id": "sig.persona_051.player_big_defeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} got wrecked, {troop_count} gone. rough. ill wait till they rebuild so i can wreck them again"
+   },
+   {
+    "id": "sig.persona_051.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} that was rough, {troop_count} is a lot to lose. u ok? also still mine to beat later, dont forget that"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_051.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "rain over {town} again. my boots are lost in the mud and i blame the weather for my bad aim lol"
+   },
+   {
+    "id": "sig.persona_051.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else smell smoke from {village}? nah thats just me, the mill is a happy memory xD"
+   },
+   {
+    "id": "sig.persona_051.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag is killing me in {town}, cant even run away properly. not that i run, ever :)"
+   },
+   {
+    "id": "sig.persona_051.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "i swear the road to {village} gets longer every time i take it. good for ambushes tho"
+   }
+  ]
+ }
+}

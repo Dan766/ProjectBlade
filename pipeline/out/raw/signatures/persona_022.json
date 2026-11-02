@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "job_id": "persona_022",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "8634bebdf551ec62da749a9c8095d854b9caa82ee1e26f4e215431823691a83a",
+    "model": "haiku",
+    "cost_usd": 0.006129550000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:31:38+00:00"
+  },
+  "data": {
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else's lag so bad the horses are moonwalking?? the {town} road is basically a mud pit with ambitions :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "is it just me or did the rain in {village} go sideways for an hour?? the sheep looked personally offended :O"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the hen has been moved to a new coop btw, dont ask where, she is in a meditative state :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "reminder that {village} is the true capital of pudding. fight me. i will lose but i will be LOUD :D"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "got {troop_count} lads marching on {fief} and a purse of {gold} gold jingling like a nervous goat :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is officially mine. flags are up, the cheese is fermenting and the bridge is still plotting, all good :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "stacked {gold} gold so high my treasurer has started a support group for coins xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} soldiers, zero plans, maximum vibes. thats how a real lord operates :P"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} beat my {troop_count} lads and i am officially calling it a moral victory. the scoreboard is lying :("
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "good fight {player}!! my {troop_count} lads are still picking gravel out of their teeth :D you are a menace"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ha! {player}, you got me. my boots are soggy, my pride is bruised and my hen is judging you :)"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} humbled me with {troop_count} troops and honestly, respect. next time the hen gets a vote :D"
+      }
+    ],
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost to my {troop_count} lads and they are now on a long walk of shame. the walk has a parade attached xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} thats {gold} gold richer and my hen is already writing your loss into a very sad ballad :D"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "good match {player}! my {troop_count} lads say hi and also sorry about the mud :) rematch soon?"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} went down in a blaze of dignity and my {troop_count} boys. the hen gave the win a very ceremonial nod :)"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} saw my banner and fled like a goose who remembered a dentist appointment :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} you ran so fast i think you left a boot behind. wanna come get it or should i keep it as a trophy :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} i respect a strategic sprint. same time next week? i will bring snacks and a slightly smaller army :P"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} took one look at my vibes and bolted. honestly fair, the vibes are very strong today xD"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has won so many fights in a row the bridge at Lohvaara has started sulking. someone check on it :O"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} ok you are on a streak and it is making me emotional. i will be dramatically crying into my soup :("
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} is on fire and my hen says we need a fire extinguisher shaped like a hen. the hen has opinions :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} keep winning and i will name a chicken after you. a small chicken. a respectful chicken :)"
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} made peace!! i am so proud i could pour gravy on the whole treaty :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "peace between {my_faction} and {faction} means no more fights, so who do i fight on Tuesdays now :("
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{faction} shook hands with {my_faction}. the handshake looked suspiciously like a wrestling move but i respect it :)"
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} vs {enemy_faction}!! the war drums are out and i already named my catapult Gerald :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} thinks they can stop {my_faction}? cute. i will be unstoppable, mostly by lag :P"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "war with {enemy_faction}!! my hen has been briefed and she is ready. she is always ready :O"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ho {player}! {persona} of {my_faction} here, and i brought snacks. the good snacks, not the sad ones :D"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Well well, {player}. {persona} of {my_faction} at your service, mostly to ask if you have seen my chicken :)"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}!! {persona} of {my_faction} says prepare to lose, and also i stepped in a puddle so my mood is very damp :O"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Oi {player}, your horses look scared of me and honestly good. {persona} of {my_faction} is coming through :P"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i hear {rival} is bragging about their wins. meanwhile i have a chicken with better aim. just saying :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} tell {rival} the bridge at Lohvaara still hasnt forgiven them. i am only the messenger :O"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your army is fine, {rival} is fine, the weather is fine. everything is fine except me emotionally :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i have sent {rival} a strongly worded letter written entirely in gravy. they will know :)"
+      }
+    ]
+  }
+}

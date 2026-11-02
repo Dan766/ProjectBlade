@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "tryhard__encounter_greeting",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "e90fe2d760b91bba36161ef5c726754abad5b5da2c18f9cfabc78ea0f3b73566",
+    "model": "haiku",
+    "cost_usd": 0.0086437,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2657 (char 2656)"
+    ],
+    "created_at": "2026-11-01T17:15:52+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "{player} your pikes are standing in a ditch. i counted four wasted rounds of that",
+        "ratio is 3 to 1 in my favour and you still brought spears to a cavalry fight. study the matchup",
+        "you walked into my kill zone on purpose or by accident, either way it cost you the army",
+        "retreat now or lose the rest of your line in about forty seconds. i have timed it",
+        "every second you spend staring at me is another loss in the ledger. move",
+        "your comp has no answer to crossbows and you know it. fix that before you ask for a rematch",
+        "dont bother with the banner charge. it does nothing against a locked shield wall",
+        "i ran the numbers on your last three fights. you are predictable and it is embarrassing",
+        "kill me or get out of the road. i have a supply run and you are blocking the pass",
+        "lost my scouts to your rangers earlier. consider this a receipt {player}"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "{player}. we are both wasting time here. i will go around if you let me",
+        "your party is nine and mine is twelve. just tell me which side of the ford you want",
+        "not hostile. just counting. stay on your road and we will get along",
+        "that is a mixed stack you have there. interesting choice for this terrain",
+        "ser {player} i am passing through to the market. no interest in your fight",
+        "were you going to contest the hill or just stand there looking at it",
+        "rolling cavalry through the valley at dusk. we have a clean lane. hold position",
+        "checking your comp against the meta. it is a bit off but not my problem",
+        "{my_faction} is not at war with anyone in this region today. keep it that way",
+        "i do not need your gold or your pride. take the crossing and we are done"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "{player} good to see a familiar banner. your last push on the bridge was clean",
+        "you scouted that flank properly this time. the improvement is noticeable",
+        "if you are heading to the siege i will bring the rams and you bring the screen. deal",
+        "your archers finally stayed behind the line. keep doing that and we will win the season",
+        "gg on the last fight. i still think your reserve came in late but it worked",
+        "rare to see someone who actually reads the map. glad you are on our side of this",
+        "shared the numbers with my lead. he agrees we should run a joint push next week",
+        "ser {persona} here. you have my word the road stays open for your wagons",
+        "that formation you used was smart. i am stealing it for tomorrow so credit where it is due",
+        "rematch whenever you want. i will bring the full comp this time and you can bring whatever you have"
+      ]
+    }
+  }
+}

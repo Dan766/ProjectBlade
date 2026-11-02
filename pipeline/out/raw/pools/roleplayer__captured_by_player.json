@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "job_id": "roleplayer__captured_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1e2c31ccdcdb4812d5e714ca361733b02b50c5f4bce18cd3c63974c19c95ad59",
+    "model": "haiku",
+    "cost_usd": 0.01340035,
+    "attempts": 3,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2789 (char 2788)",
+      "attempt 2: schema: 'neutral' is a required property"
+    ],
+    "created_at": "2026-11-01T17:10:35+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "So you are the one who spilled the blood of my kinsmen, {player}. Sit in the mud and count the hours you have left to regret it.",
+        "Your footprints are still fresh in this muck, and I will follow them to the last field you ever plough. Do not mistake my silence for mercy.",
+        "A pity. Had you come to my table as a guest, I might have poured you wine. Instead you will kneel in the dirt until my liege decides your fate.",
+        "Spare me your pleading, ser. One who breaks an oath to the crown has forfeited every kind word.",
+        "Every hour you draw breath under my watch is a debt your house will pay in full. I swear it upon my father's grave.",
+        "The ravens will feast well on the ground you chose. Look at them circling, {player}, and tell me again how clever your ambush was.",
+        "Tighten those bonds. I trust no hand that once raised a blade against {my_faction}, and yours is no exception.",
+        "Mock me as you wish now. The day will come when the bards sing of your fall on these stones, and I shall be there to hear every verse."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Stand still, ser, and keep your hands where I can see them. What you do next will decide how long this march takes.",
+        "I have no quarrel with you personally. War is a ledger, and today you are merely an entry in mine.",
+        "Ransom is the only language of the road I trust. Your kin may pay {gold} for your return, and then we shall see whether they value you enough.",
+        "Walk when I say walk. The sun is cruel on this road, and I would rather not carry you the whole way.",
+        "You fought well enough for a stranger to these fields. Remember that when the scribes ask whether you were honourable.",
+        "Do not expect courtesy from me, nor cruelty either. Both are expensive, and I have spent my allowance for today.",
+        "A captive's life is a tedious thing to keep. Let us hope your kinsmen answer swiftly, before my patience and the rations both run thin.",
+        "Thirty years I have marched under {my_faction}, and I have learned that prisoners are mostly good for talking. Talk, then, ser."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Well fought, ser {player}. Had the fortune turned a single hand, I would be the one shackled here, and I would bear it with grace.",
+        "You spared my squire when you had every reason not to. I will remember that at whatever table the oaths are sworn.",
+        "Forgive the chains, friend. They are the custom of the road, not the mark of my regard for you.",
+        "Sit by the fire while we wait for word, traveller. A worthy foe is a rare companion, and I find I enjoy your company.",
+        "Carry your name high, ser {player}. Should our paths cross again on better ground, I will raise a cup in your honour.",
+        "Your father would be proud of how you held that ridge, I am certain of it. Tell me, what do the bards in your land call you?",
+        "I bear you no grudge, ser. My ransom can wait. Let us speak of harvests and old songs until the envoy arrives.",
+        "If the scribes ask how I was taken, I shall tell them I was bested by a worthy opponent. Few will argue with that account."
+      ]
+    }
+  }
+}

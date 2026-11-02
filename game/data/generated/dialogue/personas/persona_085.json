@@ -1,0 +1,313 @@
+{
+ "username": "drumdwarf",
+ "signature": {
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_085.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else hear the sacred chicken squawking at dawn? he is judging us xD"
+   },
+   {
+    "id": "sig.persona_085.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag is so bad my horse is walking backwards :) bold strategy, not gonna lie"
+   },
+   {
+    "id": "sig.persona_085.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "reminder that {village} is not a real village, it is a state of mind :)"
+   },
+   {
+    "id": "sig.persona_085.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "the bridge has not paid its respects to me in weeks. i am considering legal action :("
+   },
+   {
+    "id": "sig.persona_085.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "if it rains on {town} one more time i'm filing a complaint with the sky. dont test me"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_085.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "i have {troop_count} men and a sacred chicken. the enemy has a sad goose. guess who wins :)"
+   },
+   {
+    "id": "sig.persona_085.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "just counted my {gold} gold twice. it still says {gold}. miracles xD"
+   },
+   {
+    "id": "sig.persona_085.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is mine now. the locals asked for a nickname so i gave them three. they hate it :)"
+   },
+   {
+    "id": "sig.persona_085.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "marched {troop_count} soldiers into {fief} and nobody even blinked. very rude of them honestly"
+   },
+   {
+    "id": "sig.persona_085.ambient_brag.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "treasury says {gold} gold. my chicken says it wants a cut. negotiations ongoing xD"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_085.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat me with {troop_count} men and i am OUTRAGED. this is a loss, not a lesson :)"
+   },
+   {
+    "id": "sig.persona_085.beat_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "gg {player}, {troop_count} troops and you still didnt bring a chicken. amateur hour xD"
+   },
+   {
+    "id": "sig.persona_085.beat_by_player.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ser {player} you absolutely cheated with that charge. i respect it. i hate it. ill be back :)"
+   },
+   {
+    "id": "sig.persona_085.beat_by_player.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} lucky shot. the chicken saw everything and is not impressed by you"
+   },
+   {
+    "id": "sig.persona_085.beat_by_player.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well fought {player}! I lost {troop_count} lads to your banner, but I'm laughing too hard to be mad. Rematch at the crossroads?"
+   }
+  ],
+  "beat_player": [
+   {
+    "id": "sig.persona_085.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} went down in a field battle and the chicken is doing a victory lap. no refunds :)"
+   },
+   {
+    "id": "sig.persona_085.beat_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} lost {troop_count} troops and {gold} gold to me. you're welcome for the lesson :)"
+   },
+   {
+    "id": "sig.persona_085.beat_player.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ser {player} that was a great fight. i took {gold} gold off you, sorry not sorry :) rematch soon"
+   },
+   {
+    "id": "sig.persona_085.beat_player.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} your banner looked great in the mud. the mud looked better xD"
+   },
+   {
+    "id": "sig.persona_085.beat_player.05",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Good ride, {player}. I've got {gold} of your gold and your {troop_count} lads are now my new cheering section. Hope you like chickens."
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_085.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} saw my banner and ran off like the sacred chicken just stole their lunch xD"
+   },
+   {
+    "id": "sig.persona_085.player_fled_from_me.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} fled the field before i even got my boots on. honestly rude, i was going to be so nice"
+   },
+   {
+    "id": "sig.persona_085.player_fled_from_me.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ser {player} running from me? i'm wounded. i'll be waiting at the bridge with a bad joke :)"
+   },
+   {
+    "id": "sig.persona_085.player_fled_from_me.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "fleeing again {player}? bold of you to assume the bridge lets you pass for free"
+   },
+   {
+    "id": "sig.persona_085.player_fled_from_me.05",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} took off so fast they dropped a glove. i am keeping the glove. it is evidence :)"
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_085.player_win_streak.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has won like nine fights in a row. i'm starting a fund for the losers. it's me. i'm the losers xD"
+   },
+   {
+    "id": "sig.persona_085.player_win_streak.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} keeps winning and i keep blaming the horse. the horse is innocent. mostly."
+   },
+   {
+    "id": "sig.persona_085.player_win_streak.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ser {player} at this point the whole server is watching you. i'm proud and a little jealous :)"
+   },
+   {
+    "id": "sig.persona_085.player_win_streak.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "keep winning {player}, the chicken is writing a list of who's next and you're on it :)"
+   },
+   {
+    "id": "sig.persona_085.player_win_streak.05",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "everyone is talking about {player}'s streak. i'm just here for the tavern drama xD"
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_085.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} signed peace with {faction} and i am legally required to bring snacks to the signing :)"
+   },
+   {
+    "id": "sig.persona_085.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "peace between {my_faction} and {faction}? i give it a week before somebody steals a goat xD"
+   },
+   {
+    "id": "sig.persona_085.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} and {my_faction} shook hands. my sacred chicken refused to attend, out of principle"
+   },
+   {
+    "id": "sig.persona_085.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "ok {faction}, you're tolerated again. dont make me regret this ceasefire :)"
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_085.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has declared war on {enemy_faction}. i already named their horses. all terrible names :)"
+   },
+   {
+    "id": "sig.persona_085.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "war on {enemy_faction}?? wonderful. bringing the chicken and a truly unhinged battle speech xD"
+   },
+   {
+    "id": "sig.persona_085.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} wants a fight with {my_faction}. great, they can have the mud, we're keeping the snacks :)"
+   },
+   {
+    "id": "sig.persona_085.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "officially at war with {enemy_faction}. the dramatic lighting has been arranged :) dont ask who arranged it"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_085.encounter_greeting.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ho there {player}! It's {persona} of {my_faction}, sacred chicken escort and full-time menace. Care for a duel or a snack?"
+   },
+   {
+    "id": "sig.persona_085.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, I see your banner. Fine colors, ser. My chicken has already judged them, so proceed with caution :)"
+   },
+   {
+    "id": "sig.persona_085.encounter_greeting.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}! {persona} of {my_faction} here, and I have not forgotten the mud incident. Draw your sword, you scoundrel xD"
+   },
+   {
+    "id": "sig.persona_085.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Oh hello {player}, {persona} here! Quick question: have you met the chicken guarding the bridge? He expects respect."
+   },
+   {
+    "id": "sig.persona_085.encounter_greeting.05",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Halt, {player}! Whoever you are, you're trespassing on my mood. {persona} of {my_faction}, pleased to not meet you."
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_085.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} your last battle plan was a sad goose honking at a wall :)"
+   },
+   {
+    "id": "sig.persona_085.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, {rival} is hiding behind a horse and i respect the strategy. you should try it xD"
+   },
+   {
+    "id": "sig.persona_085.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "still think you can beat me {player}? the chicken already drafted your loss speech :)"
+   },
+   {
+    "id": "sig.persona_085.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} i've been thinking about your horse all morning. i have questions. and a sword"
+   },
+   {
+    "id": "sig.persona_085.whisper_taunt.05",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "gonna need a bigger army {player}, the bridge is watching and it is not impressed xD"
+   }
+  ]
+ }
+}

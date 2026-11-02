@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "job_id": "conv_b04",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "6b17f939df4b065e2df1a4a096cbcbd0c1baa226838106a6f479bffefd911377",
+    "model": "haiku",
+    "cost_usd": 0.00666435,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:41:34+00:00"
+  },
+  "data": {
+    "conv_016": [
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "anyone else get jumped by bandits outside {village}?? they took {gold} gold and my lunch... the lunch was the real loss",
+        "delay_s": 0
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "lol skill issue :) ur the one who walks without escort. i kept my {troop_count} man escort the whole way",
+        "delay_s": 6
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "the bandits of {village} have been informed of their crimes!! also baron ur escort was just a dog named kevin",
+        "delay_s": 4
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "cope dagg3rgoose21!! i keep score, u dont want the number :P",
+        "delay_s": 5
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "the number is 0 because ur escort fled at the first sign of a bush lmaooo",
+        "delay_s": 3
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "ur the 0 here, not me. 0 gold 0 dignity 0 friends. stay mad :))",
+        "delay_s": 7
+      }
+    ],
+    "conv_017": [
+      {
+        "speaker": "SerLeekbrand",
+        "text": "Do you remember the siege at {town}, fernz? Our banners flew above the walls for three full days before the gate fell.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "fernz",
+        "text": "lol ur garrison still smells like smoke. u lsot {town} and talk like u won",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "We withdrew to regroup, which is a matter of honour, not defeat. Our {troop_count} men marched home with their heads high.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "fernz",
+        "text": "ur men marched home bc they ran out of rope lmao",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "Your men fled the field at {village} before the first charge. I would not speak of rope, were I you.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "fernz",
+        "text": "i still got the {gold} from that raid tho. check ur chest hahaha",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "Then we shall meet again on a fairer field, fernz, and the ledger will be settled.",
+        "delay_s": 7
+      }
+    ],
+    "conv_018": [
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "Hi all!! Sorry if this is a dumb q but are the bandits near {village} actually dangerous :( i just got here",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "ohh buddy :D they took my cheese wagon near {village} and i have never been so betrayd lmao",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "ez. u still owe me a rematch :) and the cheese was mid anyway",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "the cheese was NOT mid!!! ur just mad i outran u on the bridge :P",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "Wait is the cheese guy the one who got robbed?? sorry im still learning who is who :o",
+        "delay_s": 8
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "thats the whole story :) u were robbed by me",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "robbed by u and ur 2 goons, sure :D next time ill bring {troop_count} guards",
+        "delay_s": 3
+      }
+    ],
+    "conv_019": [
+      {
+        "speaker": "Dovran_Oatsworn",
+        "text": "The Wardenry has signed terms with {faction}. I pray it holds, though I confess I never thought I would write those words.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Peace is a word. Read what the paper says.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "THIM7",
+        "text": "PEACE?? with {faction}?? ur jokeing right. i still got the scars!!! traitors lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Dovran_Oatsworn",
+        "text": "I was there too, THIM7. The scars are real. But the dead have no quarrel left, and neither should we.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Wise. Now watch the ones who shake hands fastest. Ask them again in a season.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "THIM7",
+        "text": "ur just mad ur not the one who signed it!!! hensworn ur so borng",
+        "delay_s": 3
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Boring keeps you alive, THIM7. You should try it.",
+        "delay_s": 8
+      }
+    ],
+    "conv_020": [
+      {
+        "speaker": "Eeel",
+        "text": "recruiting for a push on {town}. need {troop_count} men with siege gear. ur in or out",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "I have weighed your offer, Eeel. Before my banners march beside yours, I must hear the terms and the share of any spoils.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Eeel",
+        "text": "terms are simple. u bring {troop_count}, i bring the plan. split on {gold} after the walls fall. ratio is fair",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "A fair ratio guarantees nothing. Your last campaign ended with your banners in the mud, and my league remembers it well.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Eeel",
+        "text": "that was one bad fight. the plan held. ur league just cant count to {troop_count} apparently",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Then let the dawn witness this oath, Eeel. We march when the terms are written, and not one hour before.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Eeel",
+        "text": "fine. written tonight. ill send the terms with the gold figure. dont be late",
+        "delay_s": 5
+      }
+    ]
+  }
+}

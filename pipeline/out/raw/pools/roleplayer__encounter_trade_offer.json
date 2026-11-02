@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "job_id": "roleplayer__encounter_trade_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1db15904b7bab99c574e995cf15405c6c28c319613f0acea881a719241f2b187",
+    "model": "haiku",
+    "cost_usd": 0.008632899999999999,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'neutral' is a required property"
+    ],
+    "created_at": "2026-11-01T17:10:40+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "A deal from you, {player}? I would sooner trade my boots for a bog's promises. State your offer and be quick about it.",
+        "You offer {gold} for my grain and expect me to be grateful? The honour of my house is not for sale at such a price.",
+        "Your proposal reeks of the gutter, ser {player}. Take your coin back to whichever cellar bred you.",
+        "Ha! Another clever bargain from a person whose word has been broken in three villages. Keep your scrolls and your smiles.",
+        "My ancestors would rise from their tombs before I shook hands with you on terms like these. Speak no more of it.",
+        "Very well, ser {player}, I will hear your offer. Know that I have already marked the cheat in it, and I will not forget.",
+        "The people of {town} still speak of the last bargain you struck with them. Do not expect me to be the fool who signs next.",
+        "Take your {gold} to the crows. They at least will not pretend to honour the terms they pick at."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "A proposal, ser {player}. Very well, lay out the terms and I shall weigh them against what my steward tells me.",
+        "{gold} is a fair sum for the wool, though fair sums have a way of growing teeth in the night. Show me the parchment.",
+        "I have traded with men of worse reputation and better manners. Your terms will be judged on their merits, nothing more.",
+        "Trade is the lifeblood of {town}, and I am not one to refuse coin out of pride alone. Speak your mind plainly.",
+        "Tell me what you wish to exchange and what you expect in return. I have little patience for riddles on the open road.",
+        "Let us see whether your offer is as generous as it sounds. Most promises I hear on this road are thinner than river ice in early spring.",
+        "A bargain is only sealed when both parties have bled a little. Come, make your offer and I will tell you where I stand.",
+        "Keep your flattery for the feast tables, traveller. A clear price and a clear promise is all I ask of you."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ser {player}, a proposal from you is always welcome. Name your terms and we shall see whether our two houses can prosper together.",
+        "{gold} for that cargo? Done, and I will shake on it before the sun is any higher. Your word has never failed me.",
+        "Our banners have stood side by side before, and I see no reason they should not do so again. Tell me what you have in mind.",
+        "You come to me with a bargain worthy of an old friend. My ancestors would approve, and so do I.",
+        "Such an offer could only come from someone who understands honour, ser {player}. Let us draft it while the wine is still warm.",
+        "I had hoped you would seek me out. {town} owes you a debt of gratitude, and I am glad to repay a portion of it through trade.",
+        "Speak your terms, my friend, and be assured that whatever we agree will be kept to the letter, as an oath should be.",
+        "Ah, a fine notion, ser {player}! Let the scribes be called and the seal be pressed, for this will be a bargain to sing about."
+      ]
+    }
+  }
+}

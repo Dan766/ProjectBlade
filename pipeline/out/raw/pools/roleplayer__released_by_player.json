@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "roleplayer__released_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "65d5c3b3494bbcdf5dc6b801f987db8b158b0b95008d232a5555593e2d7df687",
+    "model": "haiku",
+    "cost_usd": 0.00567495,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:11:47+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Ser {player} let me walk free rather than name a price. A sly mercy, and I will not thank it aloud.",
+        "They released me without a ransom. Some call that honour; I call it a debt I never asked to owe.",
+        "Ser {player} forwent my ransom today. Let the hall note the gift. I shall repay it with steel, not thanks.",
+        "Ransom refused, prisoner loosed. Ser {player} has made a fool of every purse in this land.",
+        "Ser {player} could have bled my treasury dry. Instead they opened the gate. I trust that gate less than a coin.",
+        "A free man again, and no thanks to {player}'s purse. I will remember who humbled my pride this week.",
+        "Ser {player} chose mercy over gold. Bold, or foolish. Time will tell which the ancestors favour.",
+        "They loosed me with no ransom paid. The next meeting between us will settle the account, not the coin."
+      ],
+      "whisper": [
+        "Ser {player}, you loosed me without ransom. Do not mistake my silence for gratitude. We have an account open.",
+        "I owe you nothing, ser {player}. Your mercy was a poor bargain and I will not forget the cost to my pride.",
+        "Freed without ransom by your hand. I would sooner have rotted in the cell than owe you a single thing.",
+        "Ser {player}, a release is not a friendship. Be wary when next our roads cross, for I walk them with a grudge.",
+        "You gave me back my freedom and took my dignity with it. That is a trade I did not agree to, ser {player}.",
+        "I did not ask for your pity. Next time, name a ransom and keep your mercy in your purse.",
+        "Mercy from a rival is a hook in disguise, ser {player}. I have seen it before and I see it now.",
+        "Enjoy the victory of a cheap release, ser {player}. The debt you refused to collect will be paid another way."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Ser {player} has loosed a prisoner without a ransom. An odd custom for these roads, and I shall watch to see where it leads.",
+        "Freedom given freely is rare coin in these parts. Whether it was wisdom or whim, only time will tell.",
+        "I hear a captive was released by {player} with no price set. Curious. Mercy has a way of returning like a debt.",
+        "Ser {player} let a man walk out of the cells unbought. I neither praise nor condemn. I simply note it.",
+        "A release without ransom makes a fine tale for the tavern. I will judge its ending when it is written.",
+        "No gold changed hands, only a gate opened. Weighing that, I am uncertain what sort of noble walks these roads.",
+        "The prisoner was loosed by {player} for nothing. The ancestors may approve. I am still deciding my own view.",
+        "Some will call that generosity, others a poor accounting. I leave the matter to the hall's gossip, for now."
+      ],
+      "whisper": [
+        "Ser {player}, you released me without a ransom. I am grateful, but I am not yet sure what you expect in return.",
+        "Your mercy was unexpected. I shall keep my blade sheathed and my counsel closed until I understand your aim, ser {player}.",
+        "You chose to free me rather than sell me back. I do not know yet whether that makes you a friend or a puzzle.",
+        "Ser {player}, I thank you for the open gate. Let us speak again when the roads have shown us what we are to one another.",
+        "A release, not a ransom. Few would have done it. I will remember the choice, though not yet the reason behind it.",
+        "I owe you no coin now, ser {player}. Whether I owe you more than that, I have not decided. Ask me again later.",
+        "Walk your road and I will walk mine. Your mercy has given us both an odd beginning, ser {player}.",
+        "Ser {player}, I have heard the release was not for gold. I wonder what coin you did seek instead."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} freed me without ransom. Such honour is rare; I name them generous before all.",
+        "The gate opened and no ransom was named. Praise the ancestors for placing such a noble heart on these roads.",
+        "Ser {player} loosed a captive for nothing but the right thing. Let every banner in the land know of this deed.",
+        "Freed by {player}, not bought back. I shall owe this mercy my whole life and count the debt a joy.",
+        "Ser {player} spared me the price of my own chains. I swear on my house's name that I will repay this kindness.",
+        "A fine act, unbought and unbargained. Ser {player} has shown the realm what chivalry still looks like.",
+        "Let it be sung that {player} opened a prison gate without a demand for gold. Such generosity is a rare bloom.",
+        "I walked free today because of {player}'s mercy alone. My sword and my name are yours, friend, whenever you call."
+      ],
+      "whisper": [
+        "Ser {player}, you released me when a ransom would have been easier. I will not forget this, nor the honour behind it.",
+        "My freedom was a gift, not a bargain. I thank you, ser {player}, and I shall hold my oath to you as dear as my life.",
+        "You could have named a price and did not. Your mercy has bound me closer than any contract could, ser {player}.",
+        "Ser {player}, the gate you opened is one I will carry in my heart. Call on me when a banner needs holding.",
+        "I am free because you chose mercy over gold. My ancestors would approve, and so do I, friend.",
+        "There are few nobles who would release a stranger without asking coin. You are one, ser {player}. I salute you.",
+        "Ser {player}, I count your mercy as the finest thing that befell me this year. Let me repay you in deed.",
+        "Thank you, ser {player}, for opening the gate without a ransom. Name the day and I shall stand beside you."
+      ]
+    }
+  }
+}

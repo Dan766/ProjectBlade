@@ -1,0 +1,1521 @@
+{
+ "seed": 1701,
+ "width": 240,
+ "height": 150,
+ "cell_size": 16,
+ "legend": {
+  "~": {
+   "name": "water",
+   "cost": 0.0
+  },
+  ".": {
+   "name": "plains",
+   "cost": 1.0
+  },
+  "f": {
+   "name": "forest",
+   "cost": 1.6
+  },
+  "h": {
+   "name": "hills",
+   "cost": 1.8
+  },
+  "m": {
+   "name": "mountains",
+   "cost": 4.0
+  },
+  "s": {
+   "name": "marsh",
+   "cost": 2.0
+  },
+  "d": {
+   "name": "desert",
+   "cost": 1.4
+  },
+  "a": {
+   "name": "ash",
+   "cost": 1.5
+  }
+ },
+ "rows": [
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fhhhhhhhahhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhfffhhhhhhhhhhhhm~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffhhhmhhffhhhhhhhhhhhmmh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhmmmmmmhhhhhmmmmmhhhhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fhhhhhhhmmmmmmhhhmmmmmmmmhhhh~~~~~~aaaahhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffhhhhhhhmmmmmmhhhmmhhmmmmhhhhh~~~aaaaaah...~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffffhhmmmmmmmmmmmmmmmmhhhmmmhhhhmhh~aaaaaaah....~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhffffffff~~~~~fffffffhhmmmmmmmmmmmmmmmmhhhmmmmmmmhhhhaaaaaaahhhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhffffffffffffffffffffhmmmmmmmmmmmmmmmmhmmmmmmmmmmhhhhaaaaaaaaaaahh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffhhhhfffffffffffffffffffhhmmmmmmmmmmmmmmmmmmmmmmmmmmmhhhhhaaaaaaaaaaahh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffffhhhhfffffffffffffffffhmmmmmmmmmmmmmmmmmmmmmmhmmmmmmmmmhhhaaaaaaaaaaah~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hfffhhhhhhhffffffffffffffhhmmmmmmmmmmmmmmmmmmmmmmmmhmmmmmmmmmhhhaaaaaaaaaaah~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~..fffhhhhhhhfffffffffffffhhhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmhhhaaaaaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmhh~~~~ff.........fhhhmhhhfffffffffffhhhhmmmmmmmmmmmmmmmmmmmmmmmmmmhmmmmmmmmmmhhaaaaaaaaaaahh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmmhhhhhhff........ffhhhmmhhfffffffffffffhhmmmmmmmmmmmmmmmmmmmmmmmmmmmhhmmmmmmmmhhaaaaaaaaaaaahhhhhhhhhhhhh~~hhhhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmmmhhhhhhff........fffhhhhhffffffffffffffhhhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmhhhaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmmmmhhhhhhff........ffffhhhhffffffffffffffhhhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmhhhaaaaaaaaaaaaaahhhhhhhhhhhhhhhhahhhhhaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmmmmmmhhmmhhhhhff...f....fffffhhffffffffffffffffhhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmhhhaahhaaaaahhhhaaahhhhhhhhhhhhhaahhhhhahhhaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmmmmhhmhhhhhmhhhhhfff...ffffffffffffffffffffffffffffhhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmhhhahhhaaahhhhhhaaaaaahhhhhhhhhaaahhhhhhahhaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmmmmmmmmmhhhhhhhhhhhhhhffff...ffffffffffffffffffffffffffffhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmhmmmhhhahhhhhhhhhhhhhhaaaaaaaaah...haaahhhhhhaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hmmmmmmmmmmmhhhhhhhfhhhhhffffff.fffffffffffffffffffffffffffffhmmhhhhhhhhhhmmmmmmmmmmmmmmmmmmmmmhhhahhhhhhhhhhhhhhhaaaaaaaaah...hhahhhhhhaaaaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhmmmmmmmmmhhhffffhhhhffffff..fff.fff.fffffffffffffffffffffhhhhhfffhhhhhhhhhhmmmmmmmmmmmmmmmhhhh.h.h..hhhhhhhhhhaaaaaaaahh....hhhhhhhhaaaaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhfhhhhhmmmmmmmmhhhfffhhfffffffff..fff.fff.fffffffffffffffffffffhhhhfffffffffffffhhmmmmhhhmmmmmmhhhhh......hhhaahhhhhaaaaaaaah....hhhhhhhhhhaaaaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhffffhhhhmmmmmmmhhhfffhhffffffffffffffffff.ffffffffffffffffffffffhhhfffffffffffffhhhhmhhhhhhmhhhhhhhh.hh....hhahhhhhhhaaaaaaah.....hhhhhhhhhaaaaaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffffffffffhhhhhhhhhhhhfhhhhhffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffhhhhhhhhhhhhhhhhhhhhhh..haahhhhhhhaaaaaahh....hhahhhhhhhaaaaaaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffffffffffhhhhhhhhhhffhhhhhfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffhhhhhhffffhffhhhhhhhh..hhhhhhhaahaaaaaahh....haahhhhhhhhhaaaaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffffffffffffhhhhhhhhfffhhhhhffffffffffffffffffffffffffffffffffffffffffffffffff..ffffffffffhhhhffffffhfhhhhhhh....hhhhhhhaaaaahhahh....hahhhmhhmmmhhhaaaaahhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffffffffffffhhhhhhffffhhhhhfffffffffffffffffffffffffffffffffffffffffffffffff....fffffffffffffffffffhfhhhhhhh...hhhhhhhhhhaahhhhhh....hahhhhhhmmmmhhhaaahhhhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffffffffffffffhhhhhhhhhhhhhfffffffffffffffffffffffffffffffffffffffffffffffff.....ffffffffffffffffffhhhhhhhhh..haaahahhhhhhhh.hhh.....haahhhhhmmmmmhhhhhhhhhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffffffffffffffffhhhhhhhhfff...ffffffffffffffffffffffffffffffffffffffff..fff...ffffffffffffffff.ffhhmhhhhhhhhaaaaaahhhh..........hhhaaaahhhhmmmmmmhhmhhhhhhha~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffffffffff..fffhhhhhhhhfff......ffffffffffffffffffffffffffffffffff........fffffffffffffffffff.ffhhmmhhhhhhhaaaahhhhhh...........hhhaaahhhhhmmmmmmmmmmmmhhaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffffffffff.f..hhhhhhhhffff......fffffffffffffff.fffffffffffff..f.........f.fffffffffffffffffffffhhhmmhhhhhhaahhhhhhhh..........hhhaaaahhhhhmmmmmmmmmmmmhhaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffffffffff.ff..hhhhhhhhhff......ffffffffffffffffffffffffffffffff..f.........fffffffffffffff..fffhhhmhhhhhhhaahhhhhahh.........hhaahaaahhhhhmmmmmmmmmmmhhhaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffffffffffffffffhhhhhhhhhf......fffffffffffffff.ffffffffffffffffffff.ff..fffffffffffffffffff...fhhf.hhhhhhaaahaaaaaah......hhhhhahhhhhhhhhmmmmmmmmmmmmhhhaaaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffffffffffffffffhhhhhhhhhff......ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff..fff.hhhhhaaaaaaaaaaaahh...hhhhhhhahhhhhhhhmmmmmmmmmmmmmhhhaaaaaaaaaaaaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~fffffffffffffffffhhhhhhhhffff......ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff...hhhhhhaaaaaaaaaaaaahh.hhhhhhhhhhhhhhhhmmmmmmmmmmmmmmmhhaaaaaaaaaaaaahhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffffffffffffffffffhhhhhhhffff.f....fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff.....hhhhhaaaaaaaaaaaaaahhhhhhhhhhhhhhhahhmmmmmmmmmmmmmmmhhahhhaaaaaaaahhhhhhhhhhhha~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffffffffffffffffffhhhhhhhff...f....fffffffffffffffffffffffffffffffffffffffffffffffffffffffff........hhhaaaaaaaaaaaaaahhhhhaahhhhhhhhhhhmmmmmmmmmmmmmmhhhhhhhhhaaaaaaaaahhahhhhhhhhs~~~~~~~~...~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ffffffffffffffffffffffhhffff..ff.ffffff..fffffffffffffffffffffffffffffffffffffffffffffffff...........haaaaaaaaaaaaaaaahhaaaaahh..hhahhhhmmmmmmmmmmmmhhhahh...haahaaaaaa...ahhhhssss..~~~~~....~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssffffffffffffffffffffffffff.ffffffff....fffffffffffffffffffffffhfffffffffffffffffffffffff...........hhaaaaaaaaaaaaaaaaaaaaaaah..hhhahhhmmmmmmmmmmmmhhaah....hh...aaa...........hss....~.....~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssffffffffffffffffffffffffffffffff..f...fffffffffffffffffffhhhhfffffffffffffffffffffff.............haaaaaaaaaaaaaaaaaaaaaaah...haahhhmmmmmmmmmmmmhhaah....h..................hh..........~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssfffffffffffsssssffff.ffffffff..fffffffffffffffffffffhhhhmhfffffffffffffffffffffff..............aaaaaaaaaaaaaaaaaaaaaahh..hhhahhhmmmmmmmmmmmmhhaahh..................................~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssfssssssssssssssss....fffffffffffffffffffffffffffffhhhmmmhhhhhfffhfffff.....ffff...............aaaaaaaaaaaaaaaaaaaaah....hhhahhhmmmmmmmmmmmhhhhahhh...............................~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssssssssssssss.......ffffffffffffffffffffffffffhhhmmmmhhhhhhhhh............................aaaaaaaaaaaaaaaaaahah.....hhhhahhmmmmmmmmmmmhhhhhaaa..............................~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sss~~~~~~ssssssssssssssssssssss...ff.....ffffffffffffffffffffffhhhhhmmmmmmmmhhhhhhh..........................aaaaaaaaaaaaaaaahhhhh.....hhhhhahmmmmmmmmmmmmhhhhhhh..............................~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~sssss~~~~~ssssssssssssssssssssss....f.....ssfffffffffffffffffffhhhhhhmmmmmmmmmhhhhhhh............ffff..........aaaaaaaaaaaaaaahhhahh....hhhhhahmmmmmmmmmmmmhhhhhh......ff.......................~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssss~~~..sssssssssssssssssssss.........fsssfffffffffffffffffffhhhhmmmmmmmmmmhhhhhh.............ffff..........aaaaaaaaaaaaaaaaaaaahhh.hh.hhhhhhhhmmmmmmmmmmmmmmmm..f..ff........................~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssss....ssssssssssssssssssss.ssssssssssssssfffffff..ffff..ffhhhhmmmmmmmmmmhhhhhh.............fffff...........aaaaaaaaaaaaaaaaaaaahhhhhhhhhahhhmmmmmmmmmmmmmmmm..ffff.........................~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssss...ssssssssssssssssssssssssssssssssssfffff............hhhhhmmmmmmmmmhhhhhh.............ffffff...........ahhhhaaaaaaaaaaaaaaahahhhhhhhhhhmmmmmmmmmmmmmmmm..fffffffff..................ssssss~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssss..ss.....ssssssssssssssssssssssssssssssssffffff.........hhhhh.hhmhhhmmmmmhhhhhh...h.........ffffff............hhhhaaaaaaaaaaaaaaaaahhhhhhhhhhmmmmhhmmhmmhmmmm...ffffffff..................ssssss~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sss.ssss...sssssssssssssssssssssssssssssssssffffff.........hhhhhhhhmmhmmmmmmhhhhhh.............fffffff............hhhaaaaaaaaaaaaaaaaahhhhhhhhhhmmmmmhhhhhhhmmmh..fffffffff......................sss~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssssssssssssssssssssssssssssssssssssfff...........hhhhhhhhmmmmmmhhhhhhhhh.............ffffff..............aaaaaaaaaaaaaaaaahahhhhhahhhhmmhhh.hhhhhhmmh....ffffffff......................ssss~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssssssssssssssssssssssssssssssssssssss...........hhhhhhhhhmmmmmmhhhhhhhhhhh............fff.f...............aaaaaaaaaaaaaaaaaaaaaaaaahhh.hhhhhh.............fff..f.f.......................s.ss~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssssssssssssssssssssssssssssssssssss...........hhhhhhhmmmmmmhhhhhhhhhhhhh.................................aaaaaaaaaaaaaaaaaaaaaaahhh.hhhhhhhh...................ff.........................ss~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssssssssssssssssssssssssssssssssss.s...........hhhhhhhhmmmmmhhhhhhhhhhhhhhhhh...........................fffaaaaaaaaaaaaaaaaaaaaaah...hhhhhh.....................ffff.......f................s~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssssssssssssssssssssssssssssssss.....s..........h.hhhhhhmmmmmmhhhhhhhhhhhhhhhhh..........................ffff.aaaaaaaaaaaaaaaaaaaa..............................fffffff....fff................ss~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssssssssssssssssssssssssss.....s.............hhhhhmmmmmhhhhhhhhhhhhhhhhhhh.........................ffff...aa...........aaaa..............................fffffffffffffff...................~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssssssssssssssssssssssssssss..h..s................hhhhmmhhhhmmmmhhhhhhhhhhhhh........................ffff................................ff...............fffffffffffffff....................s~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~shhhsssshhssssssssssssssssssssssssss.hhhhhh...........h...hhhhhhhhhhmmmmhhhhhhh.hhhhh.f..................hh..ffff..............................ffff..............ffffffffffffffff....................s~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~shhhhhhhhhsssssssssssssssssssssssssshhhhhhhh..............hhhhhhhhhhmmmmhhhhhhh.hhh......................hh...fff...........f...................fff..............ffffffffffffffff....................ss~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sshhhhhhhhhhhsssssssssssssssssssssssshhmmhhhhh..........fff.hhhhhhhmmmmmmmhhhhhh...........................hh..ffff...........f...................fff..............fffffffffffffff.....................ss~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sshhhhmmmmmmhhssssssssssssssssssssssshhhmmhhhhh..........ffff.hhhhhmmmhhhhhhhhhhhh....f........................fffff................................fff.........f..ffffff.......fff.....................sss~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sshhmmhmmmmmmhhhsssssssssssshhsshhhhhhhhhhhmmhhh.............ffhhhhmmmmhhhhhhhhhhhhfffffff.......................hhff................................fffff....fffff.ffffff...............................sss~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sshmmmmmmmmmmhhhssshsssssshhhhhhhhhhhhhhhhhmmmhhhhh...........hhhhmmmmmhhhh.ffhfffffffffff.......................hhf.................................fffff....ffffffffffff................................ss~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~shhmmmmmmmmmmhhhhhhhhhhsshhhhhhhhmmhhhmmmmhmmmhhhh.........hhhhhhhmmmmmhhh..fffffffffffff.............ffff...........................................f......fff.ffffffffff.........f......................ss~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~shhmmmmmmmmmmhhhhhhhhhhhhhmhhhmmmmmmmmmmmmhmmmmhhh........hhhhhhhhmmmmmhh...fffffff.ffff.............ffffff...........................ff....................fff..fffffff.f..ffff..........................ss~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhmmmmmmmmmmmhhhhhhhhhhmmmmhhhmmmmmmmmmmmmmmmmmhh........hhmmmhhhhhmmmmhh..fffffff...ff..............fffffff............................................f....f.ffffffff....ffff...........................sss~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~shmmmmmmmmmmmmmhhhhhhhhmmmmhhmmmmmmmmmmmmmmmmmmhh........hmmmmhhhhhhmmmhhfffffffff.................f.fffffff....................ff.....................ffff.f..fffffff.....fffff.......................ff.sss~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhmmmmmmmmmmmmmhhhhhhhhmmmmhmmmmmmmmmmmmmmmmmmmhh........hhmmmhhhhhmmmmhhfffffffff..................fffffffff............................................ff......ffff.......ffff.f.........................ss~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhmmmmmmmmmmmmmhhhhhhhhhhhhhmmhhhmmmmmmmmmmmmmmhh........hhhhhhhhhhmmmmhhfffff.ff.....................fffffff....................................................ffff.......ff.fff.................f.......ss~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhmmmmmmmmmmmmmmmmmmhhhhhhhhhhhhhhhhmmmmmmmmmmhh...........hhhhh.hhmmmmhh.............................fffffff..................................................f.ffff..........ffff...............fff......sssss~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhmmmmmmmmmhmmmmmmmhhhhhhhhhhhhhhhhhhhhhhmmhhhhh.................hhmmmmmhh..............................fffff...hhhh.............................................f..............fff..............fffff.....ssssss~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhmmmmmmhhmmmmmmmhhhhhhhhhhhhhsshhhhhhhhhhhhsss.................hhmmmmhh...............................ffff..hhhhh.............................................................f...............ffff.........sss~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhhmmmhhhhmmmmmmhhhhssssssssssssshhssssssssssss.................hmmmmhhhh..............................fff...hhhh...............................................................................fff.........sss~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhhhhhhhhhhmmmmhhssssssssssssssssssssssssssssss.................hmmmmhhhh...hh.......h....................h..hhfff.............................................................................fffff........ss.~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhhhhhhhhhhmmmhhsssssssssssssssssssssssssssssss.................hhmmmhhhhhhhh...h..........................hhhffff....................................................................ffffff..ffffff.......sss~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhhhhsshhhhmmmhhsssssssssssssssssssssssssssssss...........ffff..hhmmmmhhhhhhh..hh..........................hhh..fff...................................................................fffff...fffff........sss~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhhsssssshhhhhhhhssssssssssssssssssssssssssssssss............f....hhmmhhhhhhhhhhh..............................ff.......................................................................fffff.ffffff........ss~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~shhssssssssshhhhhhhsssssssssssssssssssssssssssssssss.................hhhhhhhhh.hhhhh..............................f......................................................................h..ff.ffffffff........ss~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssshhhhsssssssssssssssssssssssssssssssss.................hhhhhhhh..hhhh..................................................hh..hhh...........................................hhhhhhhhffffffff.......sss~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssssshhhsssssssssssssssssssssssssssssssss..................hhmhh....hhh......................fff........................hhhhhhhhhh........................................hhhmmmmmmhhfffffff.......ss.~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssssshhhsssssssssssssssssssssssssssssssss..................hhhhh....hhh......................fff.......................hhhhhhhhhhh...................ff...................hhmmmmmmmmhhffffsssss...sss~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssssssshhhhsssssssssssssssssssssssssssssssss..................hhhhh..............................f.......................hhhmmmmmmhh...................ffff..................hhmmmmmmmmmhhfsssssssssssss~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssssssshhhhssssss.ssssssssssssssssssssssssssss.................hhhhhhh................................................ffffhmmmmmmmmmh.................ffffff...................hmmmmmmmmmhh.ssss~~~~ssss~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssshshhhhhsssss..s...ssssssssssssssssssssssss.................fhhhhhhh........................ff....................ffffhhmmmmmmmmmh..............fffffffff..................hhhmmmmmmmmhhhss~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssshhhhhhhssssssss....ssssssssssssssssssssssss................ffffhhhhhh.........ff............ff....................ffffhhmmmmmmmmmh..............fffffffff..................hhhmmmmmmmmhhhss~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssssshhhssssssss...sssssssssssssssssssssssss.................fffhhhhh...........f............ff....................ffffhmmmmmmmmmmh..............fffffffff..................hhhmmmmmmmmmh~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssssssssssssssssssss..ssssssssssssssssssssssss.................fffffhhh.....hhhh...f....f....fffff............f......fffffhmmmmmmmmmhh................fffffff..............f...fhhmmmmmmmmm~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssssssssssssssss...sssssssssssssssssssssss..................ffff...h.....hhhhh......fff..ffffff...................fffffhmmmmmmmmmmh..................fff...............ffffff.hhmmmmmmmmm~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssssssssssssss.....sssssssssssssssssssssss..................ffff...hhhfffhhhhhh.....fffffff..ff...f.................f.hhmmmmmmmmmmhh...................................fffffffhhmmmmmmmmmhs~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssssssssssssssssss......ssssssssssssssssssssss...................ffff...hhhhffhhhhhhh....fffffff.fff......................hhhmmmmmmmmmmmh...................................fffffffhhhmmmmmmmmhs~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~ssssssssssssssssssssssssss....f..ssssssssssssssssssss....................ffffffffhhhfhhhmmhhhh...fffffffffff........dd.........ff.hhhmmmmmmmmmmhh....................................fffff..hhmmmmmmmmh~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~.sss..sssssssssssssssssssssss..ff.ssssssssssssssssssss....................ffffffffhhhhhhhmhhhhh...ffffffffffff...dddddddd......fff..hhmmmhmmmmmmhh....................................ffff....hmmmmmmmh~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~.....f......sssss....sssssssss..f..ssssssssssssssssssss....................ff..ffffhhhfhhhhhhhhh...fffffffdddddddddddddddddd.........hhhhhmmmmmmhhhh...................................ffff....hhhhhmhhh~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~......ff......sss.....sss..sssss.f...sssssssssssssssssss....................fddddddffffffhh..hhh....fffdddddddddddddddddddddd.h.hhh.f...hhhhmmmmhhhhh.....hh............................ffff.....hhhhhhhh~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~.............sssss.....sss.ssss.....sssssssssssssssssss....................dddddddddddfff....hhhd....dddddddddddddddddddddddddd.........dhhhhhhhhhhh.....hhh............................ffff......hhhhhh.~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~....sssssss...ssss.sss..sssssssss...sssssssssssssssssss.....................dddddddddddddff...dhddddddddddddddddddddddddddddddddddddd..dddddddddd........hhhhhhhh........................fff.......hhhhh.s~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~..ssssssssss.....s..sssssssssssssssssssssssssssssssssssss...................dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.........hhhhhhhhhhh...............................hhhhs~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~.sssssssssss........ssssssssssssssssssssssssssssssss.sss....................dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd...........hhhmmmhhhhh.............................h..ss~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~ssssssssssss........ssssssssssssssssssssssssssssssss.ss.....................dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd..........hhhmmmmmmmhhh..............................ss~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~sssssssssssss...s..sssssssssssssssssssssssssssssssss........................ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd...........hhmmmmmmmmmhh..............................ss~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~sssssssssssssssss.ssssssssssssssssssssssssssssssssss........................ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd..........hhmmmmmmmmmhhh..............................ss~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~sssssssssssss.......ssssssssssssssssssssssssssss.........................dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd...........hmmmmmmmmhhhh..............................ss~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~ssssssssssss......ssssssssssssssssssssssssssss.....dd....d...........ddddddddddddddddddddddddddddddddhhhddddddddddddddddddddddddddddddddddddd...f.f..f..hmmhmmmmhhhhh..............................ss~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~sssssssss........ssssssssssssssssssssssssssddd.....d..ddd..........ddddddddddddddddddddddddddddddddddhhddddddddddddddddddddddddddddddddddddd.........ffhmmmmhmmmhhhh...........................s.ss~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~sssssssss...ff..ssssssssssssssssssssssssssdddd.......dddddd......dddddddddddddddddddddddddddddddddddddhhdddddddddddddddddddddddddddddddddddd..........fhhmmhhhmmmhhh.f.........................sss~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~ssssssss..fff..sssssssssssssssssssssssssdddddd..dddddddddddddddddddddddddddddddddddddddddddddddddddddhdddddddddddddddddddddddddddddddddddddd...........hhhhhhmmmhhhhf.......................ssss~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~sssssssss.fff....sssssssssssssssssssssssddddd..ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.........hhhhmmhmmhhhh........................sss~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~ssssssss...f....ssssssssssssssssssssssdddddddddddddddd.ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd....hhhhmhhhmhhhh......f.................ss~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssss........sssssssss~~~~~ssssssssdddddddddddddddd..dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.ddddddddddd..hhhhhmmmmhhh.......f..................s~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssssss..s.....ssss~~~~~~~~~~~~~sssssdddddddddddddddd..ddddddddddddddddddddddddddddddddddddddddddddddhdddddddddddddddddddddddddddddddddd...ddd....ddhhhhmmmmmmhhh.......fffff..............~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssss..s.......ss~~~~~~~~~~~~~~ssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddhddddddddddddddddddddddddddddddd.......hhhhhhhmmmmmmmhh.......f.ffff.............~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ssss.s......ss~~~~~~~~~~~~~~~~sddddddddddddddddddddd.ddddddddddddddddddddddddddddddddddddddddddddhhhhhhhhddddddddddddhhdddddddddddd.......hhhhhhhhmmmmmmmhh......ff.ffssss..........~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ss...s...ssss~~~~~~~~~~~~~~~~~ddddddddddddddddddd..dddddddddddddddddddddddddddddddddddddddddhhhhhhhhhhhhhhhhdddddddddhhdddddddddddd......hhhhhhhhmmmmmmmhh.......ssssssss..........~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~s...ssssssss~~~~~~~~~~~~~~~~~~ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddhhhhhhmmmmmmhhhhhhhdddddddhhhhdddddhhddddd.dddhhhhhmmmmmmmmmhhhd.....sssssss~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sss.ssssssss~~~~~~~~~~~~~~~~~~~dddddddddddddddd.ddddddddddddddddddddddddddddddddddddddddhhhhhhhhmmmmmmmmmmhhhhhhhddddhhdddhhhhhdddddddddhhhhhmmmmmmmmmhhdddd.sssss~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sss.sssssss~~~~~~~~~~~~~~~~~~~ddddddddddddddddddddddddddddddddddddddddddddddddddddddddhhhhhhhhhmmmmmmmmmmmmhhhhhdddddddddhhhhhdddddddddhhhhhhmmmmmmmmhddddd....s~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sssssssssss~~~~~~~~~~~~~~~~~~~dddddddddddddddddddddddddddddddddddddddddddddddddddddddhhhhhhdhhhmmmmmmmmmmmmhhhhhhddddddddhhhhhddddddddddhhhhhhmmmmmmhhdddddd..~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~s~~ssssss~~~~~~~~~~~~~~~~~~~~hhhhdddddhdddhhdddddddddddddddddddddddddddddddddddddddhhhhhhhdhhhmmmmmmmmmmmmhmmmhhddddddddhhhhhdddddddddddhhhhhmmmmmmhhd..ddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmhhhddddhdddhhhdddddddddddddddddddddddddddddddddddddhmmhhhhhddhhhmmmmmmmmmmmmmmmmhhhhdddddhhhhhddddddddddddhhhhhmmhhhhdd...d~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmmhhhdddddhhhhhddddddddddddddddddddddddddddddddddddhmmmmmhhhddhhhmmmmmmmmmmhmmmmmmhhhdddddhhhhhdddddddddddddddhhhhhhhh....d.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmmhhhh.ddhhhhhhdddddddddddddddddd......ddd.ddddddhhmmmmmhhhddhhhmmmmmmmmmhhmmmmmmhhhdddddhhhhdddddddddddddddddhhhhhhh....d~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmmhhhhh.ddhhhhhdddddddddddddddddddd...ddddddddddddhhmmmmmhhhddhhhmmmmmmmmmhhmmmmmmhhhdddddhhhhdddddddddddddddddhhhhhhh..~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mmhhhhhhhdddhhhhdddddddddddddddddddddddddddddddddddhhhhmmmhhhddhhhhmmmmmmmhhhmmmmmhhddddddddddddddddddddddddddhhhhhhhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mhhhhhhhddddhhd~~ddddddddddddddddddddddddddddddddddhhhhmmhhhddddhhmmmmmmmhhhmmmmmhddd...ddddddddddddddddddddhhhhhhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhhhhdddddd~~~~~~~dddddddddddddddddddddddddddddddhhhhhhhhdddddddhhhhhhhhhhmmmmhhdd....ddddddddhhhddddddddhhhhhhmm~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dddddddddddddddddddddddddddddddhhhhhddddddddhhhhhhhhhhhmmmhhdd....dddddddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ddddddddddddddddddddddddddddddddddddddddddddhhhhhhhhhhhhhhdddd....dddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dddddddddddddddddd..ddddddddddddddddddddddddddddhhhhhhhhdddddd..~~~~~ddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhd.dddddddddddd.....dddddddddddddddddddddddddddddhddddddddddd.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hh.ddddddddddddd......ddddddddddddddddddddddddddddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hhdd~ddddddddd...ddddddddddddddddddddddddddddddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ddddddddddddddddddddddddddddddddddddddddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ddddddddddddddddddddddddddddddddddddddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ddddddddddddddddddddddddddddddddddd~~dddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ddddddddddddddddddddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dddddddddddddddddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dddddddddddddddddd~~~dd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+ ],
+ "region_legend": {
+  "1": "faction_01",
+  "2": "faction_02",
+  "3": "faction_03",
+  "4": "faction_04",
+  "5": "faction_05",
+  "6": "faction_06"
+ },
+ "regions": [
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004333333333330000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000033333444333333333333300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004433333344333333333333330000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044433333333333333333333330000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000444444443333333333333333333330000003333333000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044444444443333333333344333333333000333333333300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044444444444443333333333444333333333303333333333330000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000004444444444000004444444444444443333333333444333333333333333333333330000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000004444444444444444444444444444444443333333334333333333333333333333333333000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000044444444444444444444444444444444444333333444333333333333333333333333333300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000444444444444444444444444444444444444433333444434433333333333333333333333300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000044444444444444444444444444444444444444444333444444443333333333333333333333330000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000444444444444444444444444444444444444444444333444444443333333333333333333333330000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000004444400004444444444444444444444444444444444444444444444444333444444444333333333333333333333333300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000044444444444444444444444444444444444444444444444444444443334333444444444443333333333333333333333333333333333300333333000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000444444444444444444444444444444444444444444444444444444443333333444444444443333333333333333333333333333333333333333333333000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000004444444444444444444444444444444444444444444444444444444433333333444444444444333333333333333333333333333333333333333333333333300000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444333333333444444444444333333333333333333333333333333333333333333333333330000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000004444444444444444444444444444444444444444444444444444444444444444433333333444444444444333333333333333333333333333333333333333333333333333000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000004444444444444444444444444444444444444444444444444444444444444444444444443333344444444444444433333333333333333333333333333333333333333333333333300000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000044444444444444444444444444444444444444444444444444444444444444444444444444333444444444444333333333333333333333333333333333333333333333333333333333000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444333333333333333333333333333333333333333333333333333333333000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000004444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444443333333333333333333333333333333333333333333333333333333300000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000044444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444433333333333333333333333333333333333333333333333333333330000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444443333333333333333333333333333333333333333333333333333333000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444333333333333333333333333333333333333333333333333333333000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444333333333333333333333333333333333333333333333333333333000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444333333333333333333333333333333333333333333333333333333330000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000044444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444333333333333333333333333333333333333333333333333333333330000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000004444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444333333333333333333333333333333333333333333333333333333333000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444333333333333333333333333333333333333333333333333333333333000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444433333333333333333333333333333333333333333333333333333333330000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444433333333333333333333333333333333333333333333333333333333333300000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444443333333333333333333333333333333333333333333333333333333333333300000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000044444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444433333333333333333333333333333333333333333333333333333333333333333330000000000000000000000000000000000000000",
+  "000000000000000000000000000000000044444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444333333333333333333333333333333333333333333333333333333333333333333333333000000000000000000000000000000000000",
+  "000000000000000000000000000000000044444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444445555533333333333333333333333333333333333333333333333333333333333333333333333333333330000000000000000000000000000",
+  "000000000000000000000000000000000004444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444455555555333333333333333333333333333333333333333333333333333333333333333333333333333333100000000111000000000000000",
+  "000000000000000000000000000000000004444444444444444444444444444444444444444444444444444444444444444444444444444444444444444445555555555533333333333333333333333333333333333333333333333333333333333333333311133333111111000001111000000000000000",
+  "000000000000000000000000000000000002244444444444444444444444444444444444444444444444444444444444444444444444444444444444444445555555555533333333333333333333333333333333333333333333333333333333331113331111111111111111110111110000000000000000",
+  "000000000000000000000000000000000002222244444444444444444444444444444444444444444444444444444444444444444444444444444444444455555555555553333333333333333333333333333333333333333333333333333333311111111111111111111111111111100000000000000000",
+  "000000000000000000000000000000000000222222244444444444222224444444444444444444444444444444444444444444444444444444444444444455555555555555333333333333333333333333333333333333333333333333333331111111111111111111111111111111100000000000000000",
+  "000000000000000000000000000000000000002222224222222222222222224444444444444444444444444444444444444444444444444444555554444555555555555555333333333333333333333333333333333333333333333333333311111111111111111111111111111110000000000000000000",
+  "000000000000000000000000000000000000002222222222222222222222222444444444444444444444444444444444444444444444455555555555555555555555555555333333333333333333333333333333333333333333333333333311111111111111111111111111111100000000000000000000",
+  "000000000000000000000000000002220000002222222222222222222222222224444444444444444444444444444444444444444445555555555555555555555555555555333333333333333333333333333333333333333333333333333311111111111111111111111111111100000000000000000000",
+  "000000000000000000000000000022222000002222222222222222222222222222244422444444444444444444444444444444444555555555555555555555555555555555533333333333333333333333333333333333333333333333333111111111111111111111111111111100000000000000000000",
+  "000000000000000000000000000022222200022222222222222222222222222222222422244444444444444444444444444444555555555555555555555555555555555555533333333333333333333333333333333333333333333333333311111111111111111111111111111110000000000000000000",
+  "000000000000000000000000000222222222222222222222222222222222222222222222222444444455444455444554444455555555555555555555555555555555555555555333333333333333333333333333333333333333333333333311111111111111111111111111111110000000000000000000",
+  "000000000000000000000000000022222222222222222222222222222222222222222222222444444555555555555555555555555555555555555555555555555555555555555533333333333333333333333333333333333333333333333311111111111111111111111111111111111000000000000000",
+  "000000000000000000000000000002222222222222222222222222222222222222222222224444444555555555555555555555555555555555555555555555555555555555555553333333333333333333333333333333333333333333333311111111111111111111111111111111111000000000000000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222224444445555555555555555555555555555555555555555555555555555555555555555333333333333333333333333333333333333333333333311111111111111111111111111111111111100000000000000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222444555555555555555555555555555555555555555555555555555555555555555555533333333333333333333333333333331111333333333111111111111111111111111111111111111110000000000000",
+  "000000000000000000000000000002222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555533333333333333333333333333331111111111111111111111111111111111111111111111111111111000000000000",
+  "000000000000000000000000000022222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555553333333333333333333333333311111111111111111111111111111111111111111111111111111111100000000000",
+  "000000000000000000000000000022222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555333333333333333333333331111111111111111111111111111111111111111111111111111111111100000000000",
+  "000000000000000000000000000002222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555533333333333333333333111111111111111111111111111111111111111111111111111111111111110000000000",
+  "000000000000000000000000000000002222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555555335551111111133331111111111111111111111111111111111111111111111111111111111111111000000000",
+  "000000000000000000000000000000000222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555555555511111111111111111111111111111111111111111111111111111111111111111111111111111100000000",
+  "000000000000000000000000000000000022222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111100000000",
+  "000000000000000000000000000000000022222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111110000000",
+  "000000000000000000000000000000002222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111110000000",
+  "000000000000000000000000000000022222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111111100000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111111100000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111111111111111111111111100000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111111111111111111111111100000",
+  "000000000000000000000000000000222222222222222222222222222222222222222222222222555555555555555555555555555555555555555555555555555555555555555555555555511111111111111111111111111111111111111111111111111111111111111111111111111111111111111100",
+  "000000000000000000000000000002222222222222222222222222222222222222222222222222555555555555555555555555555555555555555555555555555555555555555555555555511111111111111111111111111111111111111111111111111111111111111111111111111111111111111110",
+  "000000000000000000000000000002222222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555551511111111111111111111111111111111111111111111111111111111111111111111111111111111111110",
+  "000000000000000000000000000002222222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111111110",
+  "000000000000000000000000000002222222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111111111111111111111110",
+  "000000000000000000000000000002222222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111111111111111111111100",
+  "000000000000000000000000000002222222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555555555511111111111111111111111111111111111111111111111111111111111111111111111111111111100",
+  "000000000000000000000000000022222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555555555551111111111111111111111111111111111111111111111111111111111111111111111111111111000",
+  "000000000000000000000000000022222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111111111111111111000",
+  "000000000000000000000000000022222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555555555555511111111111111111111111111111111111111111111111111111111111111111111111111111000",
+  "000000000000000000000000000222222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555555555555511111111111111111111111111111111111111111111111111111111111111111111111111111000",
+  "000000000000000000000000000222222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555555555555511111111111111111111111111111111111111111111111111111111111111111111111111110000",
+  "000000000000000000000000000222222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555555555555511111111111111111111111111111111111111111111111111111111111111111111111111110000",
+  "000000000000000000000000002222222222222222222222222222222222222222222222222222222555555555555555555555555555555555555555555555555555555555555555555555555555555511111111111111111111111111111111111111111111111111111111111111111110000111100000",
+  "000000000000000000000000002222222222222222222222222222222222222222222222222222222555555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111111000000000000000",
+  "000000000000000000000000002222222222222222222222222222222222222222222222222222222555555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111111000000000000000",
+  "000000000000000000000000022222222222222222222222222222222222222222222222222222222555555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111000000000000000000",
+  "000000000000000000000000022222222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111110000000000000000000",
+  "000000000000000000000000022222222222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111000000000000000000",
+  "000000000000000000000000022222222222222222222222222222222222222222222222222222255555555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111110000000000000000",
+  "000000000000000000000000022222222222222222222222222222222222222222222222222222555555555555555555555555555555555555555555555555555555555555555555555555555555555111111111111111111111111111111111111111111111111111111111111111110000000000000000",
+  "000000000000000000000000222222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555555556655555555555555555111111111111111111111111111111111111111111111111111111111111111100000000000000000",
+  "000000000000000000000002222222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555555555555566666666555555555555555511111111111111111111111111111111111111111111111111111111111111000000000000000000",
+  "000000000000000000000022222222222222222222222222222222222222222222222222222225555555555555555555555555555555555555555555555555556666666666666666665555555555555666111111111111111111111111111111111111111111111111111111111111000000000000000000",
+  "000000000000000000000222222222222222222222222222222222222222222222222222222225555555555555555555556666665555555555555555555566666666666666666666665555555555556666661111111111111111111111111111111111111111111111111111111111000000000000000000",
+  "000000000000000000000222222222222222222222222222222222222222222222222222222255555555555555555555666666666665555555566655556666666666666666666666666655555555566666661111111111111111111111111111111111111111111111111111111111000000000000000000",
+  "000000000000000000002222222222222222222222222222222222222222222222222222222255555555555555555555666666666666655555666666666666666666666666666666666666666556666666666111111111111111111111111111111111111111111111111111111111000000000000000000",
+  "000000000000000000022222222222222222222222222222222222222222222222222222222255555555555555555556666666666666666666666666666666666666666666666666666666666666666666666111111111111111111111111111111111111111111111111111111110000000000000000000",
+  "000000000000000000022222222222222222222222222222222222222222222222222222222255555555555555555556666666666666666666666666666666666666666666666666666666666666666666666111111111111111111111111111111111111111111111111111111110000000000000000000",
+  "000000000000000000022222222222222222222222222222222222222222222222222222222255555555555555555556666666666666666666666666666666666666666666666666666666666666666666666111111111111111111111111111111111111111111111111111111100000000000000000000",
+  "000000000000000000022222222222222222222222222222222222222222222222222222222255555555555555555556666666666666666666666666666666666666666666666666666666666666666666661111111111111111111111111111111111111111111111111111111100000000000000000000",
+  "000000000000000000022222222222222222222222222222222222222222222222222222222225555555555555555556666666666666666666666666666666666666666666666666666666666666666666661111111111111111111111111111111111111111111111111111111100000000000000000000",
+  "000000000000000000000222222222222222222222222222222222222222222222222222222222555555555555555566666666666666666666666666666666666666666666666666666666666666666666661111111111111111111111111111111111111111111111111111111100000000000000000000",
+  "000000000000000000000002222222222222222222222222222222222222222222222222226622666555555555556666666666666666666666666666666666666666666666666666666666666666666666661111111111111111111111111111111111111111111111111111111100000000000000000000",
+  "000000000000000000000000222222222222222222222222222222222222222222266666666666666555555555566666666666666666666666666666666666666666666666666666666666666666666666661111111111111111111111111111111111111111111111111111111000000000000000000000",
+  "000000000000000000000000222222222222222222222222222222222222222222666666666666666665555556666666666666666666666666666666666666666666666666666666666666666666666666661111111111111111111111111111111111111111111111111111110000000000000000000000",
+  "000000000000000000000000022222222222222222222222222222222222222226666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666111111111111111111111111111111111111111111111111111100000000000000000000000",
+  "000000000000000000000000022222222222222222222222222222222222222226666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666661111111111111111111111111111111111111111111111111000000000000000000000000",
+  "000000000000000000000000002222222222222222222222222222222222222266666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666611111111111111111111111111111111111111111110000000000000000000000000",
+  "000000000000000000000000000222222222222222222222222000002222222266666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666111111111111111111111111111111111111111110000000000000000000000000",
+  "000000000000000000000000000022222222222222222200000000000002222266666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666661111111111111111111111111111111111111100000000000000000000000000",
+  "000000000000000000000000000000222222222222222200000000000000222266666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666611111111111111111111111111111111111000000000000000000000000000",
+  "000000000000000000000000000000002222222222222200000000000000002666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666111111111111111111111111111110000000000000000000000000000",
+  "000000000000000000000000000000000222222222222200000000000000000666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666661111111111111111111111111110000000000000000000000000000",
+  "000000000000000000000000000000000022222222222200000000000000000066666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666661111111111110000000000000000000000000000000000000000",
+  "000000000000000000000000000000000022222222222200000000000000000006666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666611111100000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000002222222222200000000000000000006666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666611111000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000002222222222200000000000000000006666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666661100000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000200222222000000000000000000006666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666660000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000066666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666600000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000066666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666600000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000006666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000006666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000006666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666600000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000666666666666666006666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666660000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000006666666666600000006666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666600000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000066666666666666666666666666666666666666666666666666666666666666666666666666666666666600000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006666666666666666666666666666666666666666666666666666666666666666666666666666666600000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000666666666666666666666666666666666666666666666666666666666666666600000666666600000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000666666666666666666666666666666666666666666666666666666666666666000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000066666666666666666666666666666666666666666666666666666666666660000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000666606666666666666666666666666666666666666666666666666666600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000666666666666666666666666666666666666666666666666666000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000066666666666666666666666666666666666666666666666660000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000066666666666666666666666666666666666006666666600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006666666666666666666666666666666000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000666666666666666666666666666600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006666666666666666660006600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006666666666666000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006666666000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ ],
+ "sea_level": 64,
+ "heights": [
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c1c2121212121212121262626262b2b2b2b2b2b2b2b2b2b26262626262626262121211c1c171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171717171c1c21212126262626262626262b2b2b2b30303030303030302b2b2b2b2b2b2b2b26262621211c171717171717171717171717171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121717171c1c1c1c1c21212626262b2b2b2b2b2b2b2b3030303035353535353530303030303030302b2b2b2626211c1c1c1c1c1c1c1c1c1c1c1c1c1c1717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212171717171c1c1c212121212126262b2b2b3030303030303030353535353a3a3a3a35353535353535353030302b2b2621212121212121212121212121211c1c17171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121717171717171717171717171717171717171c1c1c1c21212126262626262b2b30303035353535353535353a3a3a3a60603a3a3a3a3a3a3a3a35353530302b262626262626262626262626262621211c1c171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212171717171c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c212121212626262b2b2b2b2b30303535353a3a3a3a3a3a3a3a4e60606161605f5f4f5f5e5e3a3a3a3535302b2b2b2b2b2b2b2b2b2b2b2b2b2b262621211c171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c1c1c212121212121212121212121212121212121262626262b2b2b303030303035353a3a3a6262626261504f4f6262626362626161606160618c3a3a3530303030303030303030303030302b2b2626211c1c1717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c212121212626262626262626262626262626262626262b2b2b2b30303035353535353a3a51516364649b646251516263646465656563636162928d603a353030353535353535353535353530302b2b2621211c1c17121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121717171c1c2121262626262b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b303030303535353a3a3a3a3a61616398959a9d988f6262646466999d9f9e996564646362603a353535353a3a3a3a3a3a3a3a3a353530302b262621211c17171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c1c212126262b2b2b2b303030303030303030303030303030303030353535353a3a3a51616261616364679a9b9a958e8a646566a09d9ca09e9e9e9a6664615f3a3a353a3a3a4e4e4e4e6060603a3a3535302b2b2626211c1c171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171717171717171717171717171717171c1c21212126262b2b303030303535353535353535353535353535303535353a3a3a3a4e5051636364646366679f9d989791896566679ca16b6a9c9b9f9f6664625f5f3a3a3a4f4f4e4f4f4f624d4c4c3a3a3530302b2b2621211c171717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c21212626262b2b3030353535353a3a3a3a3a3a3a3a3a3a3a3a3535353a3a3a4e4e4e4f51636391969898989f9f9d9a96908f949a9e9f6a6b6a9d9d9e67666361875f5e3a4f4e4f4f4f5151624c4d4c4c3a353530302b2626211c1c1c17171717171717171717171717171717171717171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c212121212121212121212121212121212126262b2b2b303035353a3a3a3a626251505050505050503a3a3a3a3a4e4f4f5050515264648e949da1a4a7a59f9e9b9496969ea1a46d6c6b9f9a9a99958e8961605f5f4f4f4f5050515261605f5f5e3a3a3535302b2b262121211c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1717171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c212126262626262626262626262626262626262b2b30303035353a3a6161626263525151505051514f4f4f4f4f4e4e505151525354659192939ea5a8acaaa8a8a59f9b9fa8a86ea9a3a09e98979794908e62606161515050505252525250504f5d5d3a3a3530302b2626262121212121212121212121212121212121212121211c1c1c1c1717171717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121717171717171c1c212126262b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b30303535353a3a5151636363645453525151515050505050504f50515353535568689a96989da7adafaeadaeadada8aeb3afa6a2a3a19f999693939396636364636251515252545351514f4e4e5d5e3a3535302b2b2b262626262626262626262626262626262626262626212121211c1c1c1c1c17171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121217171717171c1c1c1c1c1c212126262b2b303030303030303030303030303030303035353a3a3a5151525265656565555453535151515151525151525253555569a4a4a09a959fa9b3b6b5b5b4b4b6b8bbbab6b0a6a5a26c98939497979994989a666462535253535352504f4e4e4e5f3a3a353030302b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2626262621212121211c1c171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212171717171717171c1c1c1c1c21212121212126262b2b303035353535353535353535353535353535353a3a625151526365656666676756555353525252535353535454556768a0a8b0a9a1a0a3a8acb7bcbbbabcbcbac1c4c0b6afaaa9a26a959296979895999b9a6564635453545452504f4e4e4e4e5e3a3535353030303030303030303030303030303030303030302b2b2b2b262626262621211c1c1717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121217171c1c1c1c1c1c1c21212121212626262626262b2b303035353a3a3a3a3a3a3a35353a3a3a3a3a3a3a3a4e4e5252526465666768686756555554535353535454555656676768a0abb1aeaeaba5a1a3afb9bdc0c0c1c5c5c4c2bcb8b2aea499949492929395959c9a9366666555555452514f4f4e4e4f4f3a3a3a353535353535353535353535353535353535353535303030302b2b2b2b2b262621211c1c17171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121217171c1c2121212121212126262626262b2b2b2b2b2b303035353a3a968d8560613a3a3a3a51504d4c4d4d4e4e4f4e505363666798686a6957565655545454545556576a6a686999a1a8b0b3b5b2aba2a0a8b5bcc3c2c6cdc8c3bfbdb8b2ada6986a9493919194959a9c999468675757555351504f4e4f4f4f60613a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3535353530303030302b2b262621211c1c1c1712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121217171717171c1c2121262626262626262b2b2b2b2b30303030303035353a3a97908e8861605f60606051514e4e4e4e4f4f4e5053546365689e9d6a6b585757565656565656575858596a6a99a2a5adb3b8b7b2aaa8aab5bcc3c7c9cfc7c0bab5b2aaa7a096966a6a93939394979a9c9b6a695856565352504f4f4f4f5051616161616161616161606061613a3a605e5f5f5f5f3a3a3a3a353535353530302b2b26262121211c1717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121217171c1c1c1c1c212126262b2b2b2b2b2b2b30303030303535353535353a3a9693918c8b61616262626152514f4f4f4f4f4f4f5054545665686a6a6b58595858575757575757575858596b6b6b9ea6aab1b6b8b5b3b3b0b5bcc1c3c5c6c4bbb3adaaa7a2a09895919699998f939494986b6a69585755545251514f4e4f51506362646464636262626261615f5f5f5f606160605f6160603a3a3a3a3a353530302b2b262626211c1c17171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121217171c1c212121212126262b2b3030303030303035353535353a3a3a3a3a3a8e8d8e8f8d8b63636364646353524f5050504f4f505054555557686a6b6a59585857575757575756575758596c6c6ca0a3aab2b6b7b4b1aeb0b5babfc2c3c1bab3aeaaa39f9f9f9d989a9c9c979392989b9b6b69695756565452525150505050515152646464646363636362606061606061625261616262604e4d4c4c3a3a353530302b2b2b2621211c1c171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c1c212126262626262b2b3030353535353535353a3a3a3a3a928b838c918d88846364959665656566655453505051535050505154555656586b6b5a59585757575757575756565758595a6b6b949daab4b8b8b4aba7a9aeb2b1b4b9b4b1b0aea9a29f9d9999989fa29f968c919aa16c6c6a585767665454535251616061635253536363636464646361616261616152526363636361515f5e5e4c4c3a3a35353030302b262621211c1c1712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c212126262b2b2b2b2b303035353a3a3a3a3a3a3a97939999938b61638e6362626366956967676768565554515050545454545555565657585a5a5959585757575757575756565758595a6a6a8e98a6afb4b3aea59fa4a9abadb2b5afb0b1aea8a39f9a9796989f9f9c94898d97a16c6c6b58676666555453626260616162535353545454646465636262636262525353646564626262515f5e4d4c4c3a3a353535302b2b262621211c1712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c2126262b2b303030303035353a3a988e909498999d9c9e9490636364646464636465686869686857575655515151545555555556575757595959595958575756565757575657575858596a9292949ea5a8a9a5a19fa4a6aaaeb4b7b3b0afaea8a5a29b9597999d9b94698b8c916a6b6c586866656464636363626362616162535454545455555454645050506354545465656464656452504f4d4c4b4c3a3a3a3530302b2b2626211c1717171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b2b303035353535353a3a64958c898d989d9d9f9d95926464656565656555666769696a585757565655525555555757575758595959595959595857565656565656565757585859698d8c696b6c6c6c6d6d6c6c6d9fa4aeb0b3b3aca6a5a7a29b929497a09f9390909168696b586b6765636463636463646463626262535454545455545554665151516465566666646565665452514f4e4c4c4c4b4b3a353530302b2b26211c1c1c171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b303035353a3a3a3a3a63626362638991969a9b9b979492666566565656566669696a585858575757535356575754575757555859595a5a59595857565656565656565657585859696969696b5a595a6c6b6b6b6a6b6c6c6d6da9a8a6a3a0989190959b9c9b9390916968696b5569536552526464656565656463626354545454555455556767525252526667676665666666545351504e4e4c4c4d4c3a3a353530302b262121211c171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b3035353a3a616262635162616363648f939496969394936766675757576869575958595857575656535356575754575757545859595a5a5a595856565656565656555657575859696a696a5a595859595959595959595a5a6c6da6a4a29c6b6a6a949c9d9b9992696869696a555453525252666667565665646363635454535454555656685353535366666766676767676665545250504f4e4e4d4c4d3a3a3535302b262626211c1c1712121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b30353a3a5f61636452525253636465668e8f8f90919394686869575859696b58585959585756565656555656565656565754575859595a595857565656565656565656575758595a6a6a6a595858585858585858585859596b6c6c6c996c6b6b6b6b6c9e6d6c6b6a696a69685566665352525267675665656563636463545354545555566753535353546667676869696867655553525151504f4d4e4d4e3a3a35302b2b2b2621211c1717171212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b30353a51505152535353535354656766676766666768696a69596a6b6c6c6c5a59595958575656565555555555555555565657585859595958575656565656565656575758585859595959585857575757575757585858595a5a5a6a6a6a6b6b6b6c6c6d6d6d6c6b6b6a69686866656666525267555565666564656666545354545555656653535354666758676768696866655655535353514f4f4e4f4e4f3a353030302b2626211c1c1c171717121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b30353a4f5050525254545454545666686868686868696a695a5a6b6d6e6c6c5959595958575756565555545454545455555657575858585857575656565656555656575858585858585858585757565656565657575758595959595a696a6b6b6c6c5a5a5a5a6d5a5a6a686868666566675253676667676666655556665554545555556566535353536758586868686967666465625655545151505050504f3a353535302b2b262121211c1c1c17171717121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b30353a4d4f4f505153545555555557686a69686a6a6a6b5a5a5a6b6e6e6d6c5a5959595858575656555554545454545455565657585757575757565655555555555657585857565757575756565655555552535656575758585859595a6a6a6b6b59595959595a6c5a696868696766675353535366666766666666565656555563635564665353535366586869699469688f8c8a646565545352525262605f3a3a3a3530302b2626262121211c1c1c1c17171717171212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b30353a4c4c4e4e5051535456565556586a6a6a6a6b6b5a5a5a5a6d6d6e6e6d5a595959585857565655555454545454545556565757575757575656565555555555565657575656565656555555545454515252525556575757585858595a5a5a5a59585859595a6b5a6b696969696969545353676767666767666767685656666564636465535353536758696a6a6a6a6a9694918a6765665454536563615f5e5f3a3535302b2b2b262626212121211c1c1c1c1c171717171712121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b30353a3a4c4c4e4f5152545555565758595a6a6b6b6b6d6d6d6d6d6d6d6d6c5959585858575756555554545454545454555556565656565656565656565655555556565656555555555454545353535350505152525656565657575858595959595958585859596b6c6b6a696969696a55546956565666566767676767676666536564635252525252675758696a6a6a6a9795938f9067676867686563605f5f5f3a3a353030302b2b2b2626262621212121211c1c1c1c1c1717171717171717171212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212171c21262b3035353a3a4c4d4e50525354555658585959595a5a5a6d6d6d6d6c6c6c6c5a5958555554565656565555555554545454555555555555555556565656565656555556565655545454545453534f4f525253505051555556565656575758595959595858585559596c6c9d6a6a69696a6a6a6a57565555555567676765535353535252525252526465665657575869696a6992929291939569689b686663626060604e3a3535353030302b2b2b2b262626262621212121211c1c1c1c1c1c1c1c1c171717171717171717171717171712121212121212",
+  "12121212121212121212121212121212121212121212171c21262b303035353a3a4d4f5052525455565658585555595a5a6c6d6d6c6b6b6c6b5a595955545453535356565555555454555554545454545555555656575757565655555655555453535353504f4f4f4e4f4f50535354545556565656565757585959595958585559596c6c9e9c6a6a6a696a6b6b575655546666686867655453525252525252525252656768565758686969696993969394969a989c9895908c6261504e3a3a3a353535303030302b2b2b2b2b26262626262121212121212121211c1c1c1c1c1c1c1c1c1c1c1c1c1c1712121212121212",
+  "12121212121212121212121212121212121212121212171c21262b2b303035353a4d4f505152545554565858555856576c6d6d6c6c6b6b6c5a59595955545353535356565655545555555555545454545552555556585857565655565555545050535050504f4f4e4e4f4f534f5354545556565656565657585859595958585858596b6b6b9c9b6b6a6a6a6a6b57566766676768686766545352525252525252526465665656575768696968689394949595999f9c9a98958d6160504e4d4c3a3a3a3535353530303030302b2b2b2b2b26262626262626262621212121212121212121212121211c1712121212121212",
+  "12121212121212121212121212121212121212121212171c2126262b2b3030353a4d4e4f505253535556585855585957576d6d6d6d6c6d6c6b695a595555545353535656555554545555555454545455555555565657575756565656565555545453505053504f4f4f4f5050505054545556565656565657585959595955545858596c6b6b9a6a6a6969696a6a5756686768676757676754535252525252525262635656685757586a6969686995909094949aa2a1a09893646260504f4e4d4d4e3a3a3a3a353535353530303030302b2b2b2b2b2b2b2b2b2626262626262626262626262626211c1712121212121212",
+  "12121212121212121212121212121212121212121212171c212126262b2b30353a4d4d4e5051525355565858595959595a5a6d6d6d6d6d6c6b69685a565554535353565555545454545455545455555555525656575757575756565656565555555454535353505353505053535354555556565656565657585859595858545555596a6a5a576a696969696857565567555555565656675453535353536363626263566667696a6a6a6a696997968f8f91959aa3a3a1979365626151504e4e4f4e4e4f4f3a3a3a3a3a35353535353030303030303030302b2b2b2b2b2b2b2b2b2b2b2b2b2b26211c1712121212121212",
+  "12121212121212121212121212121212121212121212171c1c212126262b30353a3a4c4e4f4f515354565758595959595a5a6b6d6d6c6c6c6c69685a595554545353525554545454545555555555565656565657575757575656565656565656555554545454545454545353535354555556565655565657575858585857575455595a5a576969686868585756555455555555555556676754545464636363636263556466676868696a6b9b9b97918f91959aa2a39e999365636252504f4f4e4e4f4f4e4f4f4f4f3a3a3a3a3a3535353535353535353030302b2b3030303030303030302b26211c1712121212121212",
+  "1212121212121212121212121212121212121212121217171c1c2121262b3035353a4c4e4e4f5152545456565758595959595a6c6d6c6b6b6c6a6859595858545453525252545454545455555455565757575757575757575656555656575756565555555555555555555453535354545555565655555556565757575757575858565656696968676868575655545454545454555555566766546464636463626362626366676767686a9d9e9c9c989395979b9ea39e99969365655352514f4f4f4f4e4f5050504f616161613a3a3a3a3a3a3a3a3a3535353030303035353535353535302b26211c1712121212121212",
+  "121212121212121212121212121212121212121212171717171c1c21262b3030353a4c4d4e4f515253545455565858595959595a6c6b6a6b6a6a6959595858555753525252545454545454545455565757585857585857575655555656575757575656565656565656565554535454555556565555555555565757575657575755565656566968686968575655545454545454555555565667676564646363626262636465676758686a9a9c9e9e9d9898979aa1a19f99949167645461605f50504f4f5050514f6261626261605f60606161604f3a3a3a3535353035353a3a3a3a3a35302b26211c1712121212121212",
+  "121212121212121212121212121212121212121217171c1c1c1c1c21262b2b30353a3a4d4e4f51515353535556575858585859595a6b6a6a6a6a6a685958555554565352515154545454545455555657575757575757575756555555565757575757575757575757575656555555565656555554545454555656575757575754555555565656566a6a695756555554545454545455555556666766656555546361626364656768686968959b9e9e9d9c9e9da1a4a3a19b96686665636162626261505050504f4f4f4f506060506061636363626160423a3a3a3535353a3a4e4e4e3a35302b26211c1712121212121212",
+  "1212121212121212121212121212121212121212171c1c212121212126262b3035353a4d4e4f5051515253555657585858585859595a5a5a5a6a6a5a595858555557565255555554545451525556565757575757575757575656555656575858585858595858585857575756565657565655545454545455555656575754545455555555555555556a5857565655555454545454545455565667665656555454626352526567586968686a9d9e9f9f9ea1a2a1a5a5a29d6a686757646351504f625251634f4f4f4f4f4f4c4d4e5262646464434343424d4d3a3a3a3a3a4e4e4e4e3a35302b26211c1712121212121212",
+  "1212121212121212121212121212121212121217171c21212626262626262b3030353a42434f5050505253555657575757575758595959595959595959585855585757565555545451515152555656575757585757565657575656575758585959595a6b595858585858585757575756555554545454555556565657575454545455545554545454696857565655555453545454545455565757575655555454546351516567685868696a9c9e9f9c9f9e9ea0a2a1a09d6a695856655251505064644f4e4d5050504c4c4d4e4f5050515150506643434e4d4c4d3a4d4d4d4e4e3a3a35302b26211c1712121212121212",
+  "12121212121212121212121212121212121212171c1c2126262b2b2b2b2b2b2b30353a4242434343505153545657575756565657585959595959585858585858585857575655545450515552525356575758585857575657575757575859595a5a6d6d6c6b59595959595958585857565655555455555555565656575454555454545454545453535367575656555554535354545454555657575655555554545463515152675758686a6b9b9f9f9ea0a19e9fa1a39e9f6b695857665351515165514f4f4f4e4e4d4d4d4e4f505151525151526664504e4e4d4c4c4c4d4e4d3a3a3535302b26211c1712121212121212",
+  "12121212121212121212121212121212121212171c2121262b2b30303030303030353a3a424242434344445455575757565656575858454545454558585857545757575655545453505154555556565757585858585757585858585859595a6c6d6e6ea36c5a59595959595959595857575655555555555656565657545454545454545454545453535356565555545453535353535454555657565555555454636451516565675869696b9da3a0999a9d999da3a6a09c6968585767675353535251505050504e4e4e4f4f50515253515252525251504f4f4d4d4d4d4c4c4d3a353530302b26211c1712121212121212",
+  "12121212121212121212121212121212121212171c2126262b303035353535353535353a3a3a42434344444455454545454545454545454545454545455454545457575555545353535353545556565657585858585858595959595959596b6c6da3a8a66d6c6c6c6c5a595a6a59585858575353525253565656565353545454545454555555545453535555545353535453525252535354555656555554546450515151636466586a6b6b9fa1a199979897999fa29f6a69686858686868545353535251515050505051515253545352535252525150504e4e4e4c4b4b3a3a3a3530302b2b26211c1717121212121212",
+  "12121212121212121212121212121212121212171c21262b2b3035353a3a3a3a3a353535353a424343444444454545454545454545454545454545454554545454545352545353535353535454555555565758585859595959595959595a6c6d6da2a7a69f6c6c6d6d6d6c6b6a6a56565655545353535353535353535353545353545455555454535352545453535353535352525253535455565655645464505051515163636568586a6ba0a19e98949594979ba09f6a69696969585858555454535352515151525253545455545453525353525151504f4f4e4c4a3a3a353535302b2b2626211c1c17171212121212",
+  "12121212121212121212121212121212121212171c21262b3030353a3a4242423a3a3535353a42434344444445454545454545454545454545454545535454585754535251505354545453535455555556565758595a5a5959595a5a6c6c6d6e6ea3a5a5a4a1a3a6a66e6d6c6b6c6d6c575655545453535453535353535353535354545454535353525153535252535252525252525353555556666665656550515150516262636669586b9fa09c9b969897999b999b9a6a696a6a6a696a56555454535352525252535455555555555354545353525151504e4d4c4a3a35353030302b2b2b2621211c1c171712121212",
+  "12121212121212121212121212121212121212171c21262b3035353a42424342423a3a353a3a42434344444445454545454545454545454545454545535454545753525251514545545454545454545555565758595a5a59595a5a6c6c6c6e6e6fa7a9a9a8a4a6aaa9a96d6c6b6c6d6c6b5655545454545453535353535656565653545453535353525150525252525252525252525353545556666665536565515150516261626668586b9d9e9a9d989b9999969595996b6a6a69696a5756565554545656525253545555565555555555545454525251504e4d4b493a3a3530303030302b262621211c1c1717121212",
+  "12121212121212121212121212121212121212171c21262b30353a3a4243434342423a3a3a4b4b4343444444454545454545454545454545454545455253545454535252515445454555545454545454555656575859595a5a5a595a6c6d6d6ea9aaaaa9a2a0a3a8a8a16d6c6c6d6d6c57565554545454545453535353565555565354535352525251504f5252525252525252525252535455565554545353656665516362526366686a6a6b6b6a9c9998999d9995999d9f9b9e9d9c9a9d575658555457565353535455555555555555555555535252514f4e4d4b49493a3535353535302b2b262621211c1c17121212",
+  "12121212121212121212121212121212121212171c21262b30353a4242434343434242424b4b4c4c4344444445454545454545454545454545454545524545454545454545454545454545545454545555565454585859595756595a6c6c6d6ea8a6a29f9a989ea5a4996c6c6d6d6c6b56565555555554545453535353555555565653535252525251504f4f4e5151525252525252535454555555545353535354656464636363656769586a6b6b9f9d9fa0a09c979b9f9f9b9b9c9c9b9a575659585857545353545455555555555555555554535352504f4e4c4a4a493a3a3a3a3a3530302b2b262621211c17171212",
+  "12121212121212121212121212121212121212171c21262b30353a3a424243434343434343434d4e4e4444444545454545454545454545454545454545454545454545454545454545454554545454555353545455555656575757576c6c6d6e6ea39c9693979ea3a3986b6c6c6c6c6a565655555554545454545353525555555555555251515151504f4f4f4e4e5160606061525353535454545454545353535354645463646565666768696a6ba1a1a2a3a19e9ba09e9e9a97999b9c9a575659595958575757575755555555555555555554535351504f4d4c4b4342424242423a353530302b2b2626211c1c171712",
+  "12121212121212121212121212121212121212171c21262b3035353a3a424243434e4f43434e4e4e4f4f44444545454545454545454545454545454545454545454545454545454545455454545454555353545555555656576c6c6c6d6d576e6ea56d6b6b9aa1a6a4996b6b6b6a6b6a565655695454545454545353525554555555545151515151504f4f4f4e4e4d5f5e5e5f52535353535353545454535353535454546464656665656567696ba2a2a3a46c6ca3a36b989569969b9d9d575656595959585858575755555555565655555554535251504e4d4d4b4343434343423a3a353530302b2b2621211c1c1717",
+  "12121212121212121212121212121212121212171c21262b303035353a3a4243434f444444444f4f4f4444444545454545454545454545454545454545454545454545454545454545455554545455555353545555565656576d6d6d6d6d6d6e6ea5a26c9da0a3a299966a6b6b6b6a6a5656555555545454545453535255555555555454515151515050504f4f4e4e4d5e5e5f52535353535454545454535353545454546465656665646567696ba0a1a7a7a76d6d6c6b6a696893999d6b565659595959585858575755555555555555555554535351504f4f4d4c4c4c4c4c4342423a3a353530302b262621211c1c17",
+  "12121212121212121212121212121212121212171c21262b2b3035353a3a42434344444444444444444444444545454545454545454545454545454545454545454545454545454545454555545452535353545555565656576e6e6d6d6d6d6e6ea3a09c9c9d9a6b6a6b6b6a6a6a6b6b57565555555554545454545453565655555554515252525151515150504f4e4e4e515253535454545455555454555554545467556566676666576567696ba0a46d6d6d576d6c6b6a6968969b6b565655555959595858585757545555545454545454535353525051504e4e4e4e4d4c434342423a3a3535302b2b262621211c17",
+  "12121212121212121212121212121212121212171c2126262b30353a3a424243434444444444444444444445454545454545454545454545454545454545454545454545454545454545454552525253535454555656576b6c6d6e6e6d6d6d6ea6a39f9d98966a6a6a6a6b6a6a6a6a6a6b56565655555555555454545456565653555252525252525252525150504f4f4f5253535454545555565555555555555555555556565758585867686a576b6c6d6d6d6c5757565656565657565656555558585855555854575454545453535353535353535252515050504f4f4e4c4c434b42423a3a3530302b2b2626211c1c",
+  "12121212121212121212121212121212121212171c2121262b30353a42424343434343444444444445454545454545454545454545454545454545454545454545454545454545454545454553535253535455555656576b6c6d6e6d6c6c9ea39f9d9c9d6a6a6a6a6a6a6b6b6b6b6b6a6a5757575756565555555554545353535353535253535354535352525151505050505454545555565656565656555556565555555657575858686869576c6c6c6d6e6d6d6c5756565656555556565656555555555555545457575454535252525252535353545351515151514f4e4e4c4c4b4c42423a353530302b2b2621211c",
+  "12121212121212121212121212121212121212171c1c21262b30353a42424343434343434444444445454545454545454545454545454545454545454545454545454545454545454545544554535353545555555656576a6b6c6c6b6a6a6b99949495996b6a6a6a6b6b6b6c6c6c6c6b6a6969696857565655555555545353535353535353535454545453535252515154545555555556575757575656565656565555555657575858695656576b6c6c6e6d6d5757565656565555555555555555555454545454545757575753525252515152565353535353535251504f4e4e4d4d4c4c423a3a353530302b2626211c",
+  "1212121212121212121212121212121212121217171c21262b30353a3a42424242434343434444444545454545454545454545454545454545454545454545454545454545455555565555455554545454555555565769576a6b6a6b6a699495919293956b6b6b6b6c6c6c6c6c6c6c6b6a6968696957575656555554545453545454545454545454545454545353535554555653565656575757575757565656565555555657575855565656565757575757575656565555555554545454545554545454545456565656565656525151515454555253535454545251514f4f4e4e4e4e4d42423a3a3535302b2b262121",
+  "1212121212121212121212121212121212121212171c21262b3035353a3a3a3a42424343434444444545454545454545454545454545454545454545454545454545454545455656565656455655555454545555565657565769696a696990969796956b6d6c6b6b6b6b6c6b6b6b6b6b6a6a6969696a57575655545454535353545454545454555555555555555554565556575453535757545555555454535352525255565757555555555556565656565656555555555555545453535353545454545454565656565656565655545353535454525253535454525251514f4f4f504e4d4d4b4b3a3a3530302b262621",
+  "1212121212121212121212121212121212121212171c21262b3030353535353a3a4242434344444445454545454545454545454545454545454545454545454545454545454556576a57574557565555545454555556565757575757696a6a6a95966b6b6c6c98989c9a6b6b6b6c6c6c6b6a6a6a6a6a6b56555454535353525353535454545555565656565656555557565758555454545555555554545353525252525253535454555555555556565656565558575455555454535352525252535353545656565657575756565554535354545151525353535454525251515050504f4f4d4d4c423a3535302b2b2621",
+  "1212121212121212121212121212121212121212171c21262b2b3030303035353a3a426365664444454569694545454545454545454545454545454545454545454545454545566a6a69696969575655545454555555565768575657696a6b6b6b6b6b6b6c6c989a9a966a6a6a6b6c6c6b576a6a6a6a6a56585453535252525252535354545556575656576a6a56555757585855555555555656555453535352525151525353545454555555555556565658585756545555545353525151515252535356565656575757575656555453545454515152535353535454535251515150504f4e4d4d423a3a3530302b2621",
+  "1212121212121212121212121212121212121212171c2126262b2b303035353a3a3a4264656666666769696845454545454545454545454545454545454545454545454545456a6a6b6a6a6a69685655555455555555565657565657686a6c6d6d6d6c6c6c6d9d989393696969696a6b6a576a6969575756555454535352525252535354545556565656576a6a5655555858595656555555565655545453565252525252535354545455555555545555555457565653545453535352515151525253535656565656575757565655545354545451515253535353545454525251515150504e4e4d42423a3535302b2621",
+  "1212121212121212121212121212121212121212171c212126262b3035353a3a424263656667676767696868694545454545454545454545454545454545454545454545456a6a98986b6b6b6a685756555555555555555659595956686a6d6e6e6d6da19e9b9b9691916868696a6a6b5756565656565656555554545353535252525353545555565656576a69565659595959565656565656555554535356525252525252535354545554545454535353535656565353535353525252525252525353565757575656565656565554535454515151535454545453535454525152515150504e4d43423a3a35302b2621",
+  "1212121212121212121212121212121212121212171c1c2121262b30353a3a4242646566679998999699956a694545454545454545454545454545454545454545454545696b6b98996c6b6b69685756565656555555555659595959576a6c6d6e6da5a6a06c6c6b6a6a69696a69696a6a5756565558555555555454535353525252525354545555565656575756595959595a575656565555555454535353525253535353535454545454545353525252525255555552525252525252525255525256565757575754545453535251545454515152535454545453535353525251525151504e4e4342423a35302b2626",
+  "121212121212121212121212121212121212121217171c1c21262b30353a42426566a3a367999c9fa6a79f6b6a694545454545454545454545456a69454569696a6a6a6a6b6c6c6b6c98966a696857575757575656565656565656595a6a6c6c6ea6acada66c6b6a6a6b6a6a6a6a696a6a5a5958575757575454535353525252515252535454555556565657575757686a5a595757565655545454535353535253535353535354545454545353525151515151545454545452525252555656555553565657575757555454535352515151515152525354545554535253535352525152514f4f4e4343423a35302b2b26",
+  "12121212121212121212121212121212121212121217171c21262b30353a424365a1a9aaa59fa4a8adada46c6b6a4545456a4545454545456b6b6b6b6a696a6a6b6a6b6b6c6c6d6c6c98969069696969695757565656565656575757686a6c6da4a9aeaca76c6b6a6a575a5a6a5a595959595857575656575353535352515151515152525354555555565656565757696b5a56565756565554545453535353525353535353535354545453535252515050505053535353535151515255565656565656565757575755555453535252515151515253535455555453535353535352535251514f4e4e43423a3530302b26",
+  "121212121212121212121212121212121212121212171c1c21262b30353a4263669fa9aeb0aaa8aeb3b0a76c6c6b6a6a6a6b6c6b6a45456a6b6b6b6b6c6b6a8e8f6a6a6b99a0a69f6b9796936a6a6a6a575656565656565657696969696b6c6da5acaea9a86c6b6b575659595959595958575756565655525252515151505050515151525657575855565656565656565656565657565655545454535353525252535353525253535353535352525151505050534f5050515152555556535656565657575757575754545453535352525154525353535454545453535354545454535252514f4f4e43423a3535302b26",
+  "121212121212121212121212121212121212121212171c2121262b30353a4263659aa7b4b7aeabaeb0aca56d6c6c6b6a6b6b6c6c6c6c6b6b9b6b6c6c9e999492949394999ea9aaa16b939598946a6b6b5655555656565657696a6b6a6a6b6c6da3a9abaaa56b6a575656585859595858575356565655525150505050504f4f4f505152555657585859565655555656555555565656565656555454535352525252535353555552525252525252525151505050504f505051515255565653535757575757575754575453565656565252525253545454545454535353545454545453545251504e4e43423a3a35302b26",
+  "121212121212121212121212121212121212121212171c2126262b30353a6263929ba8b3b1adacaeaba9a36d6c6b6b6a6a6b6c6c6c9da09f9b6c6c6c9d9d99989c9c9a9ca1a3a59f9b9a9b9c9a6b6b5756555556565657686a969b946a6b6d6e6ea2a4a7a46c6b565558585858585857535352555552515050504f4f4f4f4e4f505151555657585959595656565555555555555656565656565554545352525252525352525151515151525252525251515150504f505351515253565356575757585858575353535356565656535252525253545454545353535353545454545454535251504e4e4342423a35302b2b",
+  "121212121212121212121212121212121212121212171c21262b2b30353a42629099a2ababadacada8a5a39e9b6b6a6a6a6b6b6b6b9da39f986c6d9a999c9da0a2a5a3a0a29d999da1a2a4a59e6c6b57555555565656576a94999e9a6b6b6c6d6d6ca2a7a36d6c5958585858585857575453525252525150504f4f4f4e4e4e4f505451555657585959595656565555555555555656565656565655545352555452525252515151515151515151525252515150505053535454525653535657575858585754535353545656555555525252535354545454535353535354545454545453525153524e4343423a35303030",
+  "121212121212121212121212121212121212121212171c21262b3030353a5f618c989ea8adadadababa7a4a1996a6a6a6a6b6b6b6b9ba09f9b6da29e9e9c9a9c9fa3a2a2a29f999fa2a3a5a69f6c6b56555555555656576a6b9ba49e6b6b6c6c6c9ca0a3a16c6b595858585858585857545353525252515050504f4f4f4e4e4f5051545556575858595959565655555555555556565656565656555453525251525252525151515151515151525252525151505050505054545252535353535758585855545353535453565656555255525353545454545353535354545454545454545351504f4e4e43423a35353535",
+  "121212121212121212121212121212121212121217171c21262b3035353a5f618e97a1acb0afacacaeaba7a29d6b6b6b6a6b6b6a6b6c6c6b6c6da1a26e6d6c989897989c9d9e9fa1a3a3a6a3a06c6956565655555556576b6b6d6e6c6b6a6b6a6b9da19f9e6a6959595857575558585554545353525252515050504f4f4f4e4f5051525257575858585959565656565656565656555556565656555453525251515252525252525252525252525252525151504f4f4f5051515252525353535757585955545454545454565653555555525253545454535353535454545454545458555352514f4f4e43423a3a3a3a35",
+  "1212121212121212121212121212121212121212171c1c21262b30353a3a5f629098a6afb0b0b0afaca7a8a6a49e9d9896976b6b6c6c6b6a6b6c6d6e6e6d6c6c6a698e9191989ca1a2a1a59e6c6a57565656565555565657576c6d6d6b69576a6b9ba2a3a06b69575655555555555555545454535352525151505050504f4f4f505151525657575858595956565757575757565555555556565656555453525251515251515252525252535353535252515150504f50505151515252535653575758585554545354545454535356555555525354545454545454545454545454575858535251514f4e43424242423a3a",
+  "1212121212121212121212121212121212121212171c2121262b30353a6060618e99a5b0b2b2aea69f6d9ea2a6a59d99986a6b6b6b6b6b6a6b6b6c6d6d6c6b6a696a6a69696a6b979b6c6c6c6b6a57565656565656555656565757575756576a6b9c9ea2a29e6a69575656555555555555545454535251515050505050504f5050515152535357585859595656576b6c6c6c565555545556565656555453535251515151525253535353545454535352515150504f50505150515252525353575454545454545353535354545353555555525354545555555555545453545457575858575252504f4e4343434342423a",
+  "1212121212121212121212121212121212121217171c2126262b30353a5f616163669fa9adada89e6b6b979da29f9c9a966a6a6a6a6a6a6b6a6b6b6b6b6a4545696a696868696a6a6b6c6d6c45454556565656555555555555565656565656576b6ca0a3a19f6c6a575656565656555555555454535252515150505050505050505151525353545858595956566b6c6c6d6c565555545556565656555454535252515252525253535353545454535352515151505050515151515252525353545454545454535353535353545353535552535354545555555555545453545457585858545452504f4e4d4d4d4343423a",
+  "12121212121212121212121212121212121212171c1c21262b2b30353a606163636669a3a5a66d6b6a6b93959a9b98936a69696945454545454545454545454545696945454545454545454545454555555555545454545454555555555556566ca09f9e9a6b6b6a695756575756565656565554535252515150505050505050505151525354555859595757576a6b6c6c57565555555555565655555454545352525252525353545454545453525252525151515051515152525253535353545453535353535353535354545353535353545454545454545454545454545455585858565452504f4f4e4e4d4343423a",
+  "12121212121212121212121212121212121212171c2121262b3030353a6263646566686a6b6c6b6b6a6a6a92959d94696845454545454545454545454545454545454545454545454545454545454555545454535353535353545454545555566b9e9b948f696a6a695757576a6a57575756555453645151515050505050515050505152535455555657685757686a5a5a595655555554545555555555545454535352535354545454545454535252525151515151515252535353535353535353525253535353535353545453535354545455555454545453545454545555585858585954525050504e4c4c43424c3a",
+  "12121212121212121212121212121212121217171c2126262b3035353a626364656767686a6a69696a6a6a93999c6b694545454545454545454545454545454545454545454545454545454545454553535252525252525253535353535456576c6c96949069696a6a6a6a6b6a5757576756555452515151515050505050515050515152535455555656576867675a59595956555554545454545454555555545454545454555555545453535252525151515151515252525353535353535353535252525252525353545454545454545455555555555757575758585555585858585859555352524f4d4b4343423a3a",
+  "121212121212121212121212121212121212171c1c21262b2b30353a3a616364666768686a454569696a6a929c9f6b694545454545454545454545454545454545454545454545454545454545454552525151515152525252525555565756576c6c999795926a6a6a6a6b6a6a575769695655545251515151504f4f5050505050515252535454555556576767685656585858555454545454535354555555555555555555555555555453525253525151515152525251525354545453535353525251525252525253545455555454545455565656555858585858565555585757575755555553504f4d4b4342423a35",
+  "121212121212121212121212121212121212171c2121262b3030353a616163646567444545454545696a6a6a6c6d6c6a454545454545454545454545454545454545454545454545454545454545454551515151515252525252525256545556576b6b98936a696a6b6b6a6a696a696a575655545352525151504f4f5050505050515252535454555556565656565958545454545454545454535454555656565555555555565656555554535352525251515151515152525353535353535353525252525252525253535454545454545555565656565658585858585557575756565654545353514e4d4b43423a3a35",
+  "121212121212121212121212121212121217171c2126262b3035353a4262634344444445454545456a6b6a6b6c6c6c45454545454545454545454545454545454545454545454545454545454545454551505152525252525252525253535354566b6b6b6a6a696a6a6a5769696a6a6a565656555453525251504f505050505050515253535354555555555555555854535353545455545454545454555656565656565656565757565554545352525252515150505151525152525252525252525352525252525253535354545454555555565757685756595955575657565655555552525251514f4d4d43423a3535",
+  "1212121212121212121212121212121212171c1c21262b2b30353a3a4243434344444445454545454545456c6d6d6d45454545454545454545454545454545454545454545454545454545454545454551505152525252525251515152525354556a6b6a6a6a6a696957576969696957565656565554535251504f5050505050515253535354545555555554545454535252535354545454545454555656575757676857576b6b6b5756555453525252525151504f4f50505051515252525252525353525251515152535353545455555656576a6a6a6a6767686857555556545454545151505050504e4343423a3530",
+  "1212121212121212121212121212121212171c2121262b3030353a42424343444444444545454545454545456e6f6d4545454545454545454545454545454545454545454545454545454545454545455151515253535353525151515151525355566b6b936b6a565656576a6a6957575756565656555453515050505050505151525353575757555555545353535352525253535454545454545556565657696868696a6b6c6c6c6c565554535252525151504f4e4e4e4f505051515252525252535352515150515152535354545555566a6a6a9a9b969595926867565454545353535050504f50504f43424c3a3530",
+  "1212121212121212121212121212121212171c2126262b3035353a42434343444444444545454545454545456e6e6d4545454545454545454545454545454545454545454545454545454545454545455151515252535353525151515151525354566b6b6a6a69565656576969695756575656565655545352515051515151515152535457575755555554535352525151515253535454545455555656576b6a6a696b6c6c6c6c6c6b5655545352515151504f4e4e4e4e4e4f5050515455525252535352515150515152535354545555566a6a98a0a29f989d999266645553535343434343434e4f4f4343423a3a3530",
+  "1212121212121212121212121212121212171c21262b2b30353a3a424343434444444445454545454545456e6d6d6c4545454545454545454545454545454545454545454545454545454545454545455151515152525252525151515152535354566a6a6a69695757565656575656565656565656555454535251515252525253535354545855555555545353525150505152535353535354545556576b6b6b999da5a7a29d6c6b5756555453525151504f4e4d4d4d4e4e4f4f50535454545252525251515151515152525354555555566a6b9da5a8a99fa19f978b636353434343424242424242434342423a353530",
+  "1212121212121212121212121212121217171c21262b3030353a424243434444444445454545454545456d6d6d6d454545454545554545454545454545454545454545454545454545454545454545454552525151525252525252525252535455566a6a696869696a5756565656565656565656555554545453525252535353535454545555555455555453535150505050525253535353545758595a6b9a9a9da4abaca6a19e6b5655555453515151504f4e4d4d4d4e4e4f535353535454515151515150515151515252535455555556576c9da5adada5a5a39b8c626150434242423a3a3a3a424242423a3a353030",
+  "12121212121212121212121212121217171c1c21262b3035353a424343434444444445454545456c456c6c6d6c6c4545454545555545555555454545454545454545454545454545454545454545454545525151515151515152525252535354555659696969696a6a6a5756565656565656565655555454545353535353545454545758555555555555545352515150505051525253535356575759686a969a9ea0a8aba7a4a06c56555453525251504f4f4e4d4c4c5051525353535353535051515151505151515152535354545556566b6c6ca0a5a8a5a7a39a9061616043423a3a3a35353a3a3a3a3a3a3535302b",
+  "121212121212121212121212121217171c1c2121262b30353a3a4243434344444444454545456a6b6c6c6c6c6c454545454545454555555555454545454545454545454545454545454545454545454545515151505050505152525353535354555959595a69696a6b6b68565656575656565656585854545454535353545454545458585555555555545453525251505050515252535353565757586768909797a0a1a3a6a5a46d56555453525251504f4f4e4d4c4c5051535353535353535050505151515151515152535354545556576c6d6c999d9fa8a6a09b8c615f5e42423a353535353535353535353530302b",
+  "1212121212121212121212121217171c1c212126262b30353a42424343444444444545454545454545456b6b6b454545454545454555555545454545454545454545454545454545454545454545454545515151505050515152535353535354555559595a6a6a6a6a6957565656575756565656565855545454545453545454545458585555555555545453525251505051515253535353565757596789939c9da3a5a7a7a39f6c56555453525251504f4f4e4d4c4d5052535353535353535050505151515151515152535354545556576c6d6c9ba3a8abaca5998d86603a3a3a3a3530303030303030303030302b2b",
+  "12121212121212121212121212171c1c212126262b2b30353a4243434344444444454545454545454545454545454545454545454545565645454545454545454545454545454545454545454545454551515151515151515252535353535353545859595a5a6a6a6b57565655566b6b6a69575656595555555457545453535656575858545454545555545352525151545253535454545757575859688d99a1a5a9aaa9a59d6b6b5655545352525151504f4e4d4d4e4e4f53535353535354515150505151515151525353545458565656596a6b9ea6adb5b1a698938e3a3a35353535302b2b2b2b2b2b2b2b2b2b2b26",
+  "12121212121212121212121217171c212126262b2b3030353a424343434444444445454545454545454545454545454545454545455656564545454545454545454545454545454545454545454545515151515151505051515252525252525354585859595656576b57565656566c6b6a6a6a575756565555585757545356565656575754545454555554535352525353535454545454575858595a69909ba4a7a9acaaa79f9c6b575554535252525151504f4f4f4f4f505051545454515151515151515252525353535454585858595959576b6ca3a9b5b0a49b9a958f3a3a3a3530302b2626262626262626262626",
+  "121212121212121212121217171c1c2126262b2b303035353a424343444444444545454545454545454545454545454545454555555657574545454545454545454545454545454545454545454545515151515151505050515252525152525354575758585556576c6b6b5a59596b6b6b6b6b6b5756565555575756565656565253565754545458555454535353545455555454545454555659576769919aa3a8a3a4a7adaba66d6b555453535252525151515151505050515151525252525151515152525354545454545457585858595959696a9ca6b0ada6a0a09d9661423a35302b2b2621212121212121212121",
+  "1212121212121212121212171c1c2121262b2b303035353a3a424343444444444545454545454545454545454545454545455455555657574545454545454545454545454545454545454545454552515150515151505050505152515151525253565657575455566c6b6c6b595a6c6c6c6c6c6c6a57565655575756555555555255565654545555555454535354555556565555545555555657676868929ca1a29d9fa5aeacaca26b56555453535353535352525252515151515252525352525152525253545554545454545858585858595968696caab3ada4a0a3a19962423a35302b2626211c1c1c1c1c1c1c1c1c",
+  "1212121212121212121212171c212126262b303035353a3a4242434344444444454545454545454545454545454545454545545556565a575645454545454545454545454545454545454545455251515150505150505050505151515051515252565656565758595a6b6c6b5a6c6d6da19c6b6a6a6a565555575756555555555555555653545455555554545757555656565655555555585956686969939ea19e9da2a3a9aba86c6a56555555555555545453535353525252525252525252525252535354555555555555555558575758595656696ca7afa7a2a09f9f94623a3a35302b2621211c1717171717171717",
+  "1212121212121212121212171c2126262b2b3035353a3a494243434f51444445454545454545454545454545454545454545454555565a595645454545454545454545454545454545454545455151515151515050505050505050505050515152555555555657595a6c6c6b6b6d6d6ea46d6968696a565554575655555555555555555556545455575758575758585957575756565659595956576b6a969d9c6c9a9da0a6a6a26c6b565656565656565655545454535353535352525252525353545454545556555555555555585756575656565769a0a1a09e989597633a3a3535302b26211c1c1712121212121212",
+  "1212121212121212121212171c21262b2b3030353a3a48494b4d4f53515252535454454545454554545453454545454545454545555659565545454545454545454545454545454545454545455151505151515151515050505050505050505151545451525657595a6c6c6b5a6c6d6d6d6c6968686956555456565554545454545454545556575757575858585858595a5a5757575757575656576b6b6b6b6b989a9c9fa4a46d6b6b6b565656565657565555545454545454535352525252535455555555565656565655555558565657555656576969696866926564633a353530302b26211c171712121212121212",
+  "1212121212121212121212171c21262b303035353a47484a4b4e4f545452525354545445454553545454534545455151454545454555585554544545454545454545454545454545454545454551505050505151515150504f4f504f505050505154535353555859595a5a5a595a6c6c575769696856565554565555545455555455555455565858585858595958595a5a5a576a5769696957595656576b6b6b6a989c9ea46e6d6c6c6c575656565668685655555555555454545453535252535455565655565656565655555557565656545556565568666666656564623a3530302b2b26211c171212121212121212",
+  "1212121212121212121212171c21262b3035353a3a47494a4c4d5050515152525353454545454553545352514545455145454545545555555445454545454545454545454545454545454545515151505151515151515150504f4f4f505050505454525253545757585959595959565757576969695a5655545354545454555555555555555657585858595a595959595a5a59595656575756565656565b696a6b6b6c6c6c6d6d6c6c575656565668686857565656565555555554545353535354555556565656565656555555575655565455555655546665666564634e3a35302b2b2626211c171212121212121212",
+  "1212121212121212121212171c21262b30353a3a47484a4c43444444444444515252454545455245454551504545454545454545455454554545454545454545454545454545454545454552525251515151515050515150504f4f4f505050505453525252535556575859595958595656565a6859595958565554535454555555565656565657575757595a5a595958595959595859595a58565659595959595a5a5a595857575756565656566968696a696a6a6a5757565655555454535354545455555655555556555555545756555353545556555466656464634e423a35302b262621211c171212121212121212",
+  "1212121212121212121212171c21262b30353a48484343434444444444444550515151514552524545454545454545454545454545454545454545454545454545454545454545454545454553525251515151505151515050504f4f505050525353525252525354565758585858585858585958585857565656555555545554555657575757565656575859595958575858585858585958575758595757575858595a5857565555555556565657696969696a6a6b6a6a6a695656565554545454545455555555555555545453535352535354555455545364626061423a3a35302b2621211c1c171212121212121212",
+  "1212121212121212121212171c21262b30353a494343434344444444444445515050515151515245454545454545454545454545454545454545454545454545454545454545455345454553535352525252515151525151505050505050515353535252525253545557575757575757575757575656575757575656555555565656585857565656565758585857565657575656565658585756575756555656575857575654545454555656565657576a6a6a9295946b6b6b6a6a575655555554545454545454545454535353535353535354535453545363504f42423a3535302b26211c1c17171212121212121212",
+  "1212121212121212121212171c21262b30353a4243434343444444444444454f50505051515151454545454545454545454545454545454545454545454545454545454545454553454554545353535252525252525252515150505050515154535352525353535454555655555556555656565656565758585756565556565656575858575656565657575757555556575655545555575756555656555454555656565655535353545455565656566c6c6c9b9897999999986a6a6a57565655545454545354545454535352525252525253525352535253525043423a3a3530302b26211c1717121212121212121212",
+  "1212121212121212121212171c21262b30353a4243434343434344444444444550505045515145454545454545454545454545454545454545454545454545454545454545454553535354545353535252525252525251515151515151515254545453535355555454545453535454545454555555565657585857575757565757575757585857565656565656545556575654545455565555555555555454555555545452525252535454555556576d6ea29f9ca09e979698926a6a57565655545454545454545453535252525252525251525152515151514f43423a3535302b2b26211c1712121212121212121212",
+  "1212121212121212121212171c21262b30353a42424243434343434444444445454545455145454545454545454545454545454545454545454545454545454545454545454545525353535453535352525252525251515152525252525252545453535354545453535353525253535353535454555555565657565657575857575757575858575657585857565455555655545455565655555454545454545454545453515151525353545455566c6ea9a6a09a9c9d9796936a696957565554545454545454535353535252525151515051515151504f504f4f43423a3530302b2626211c1712121212121212121212",
+  "1212121212121212121212171c21262b30353a3a3a424242434343444444444445454f50505050505045454545454545454545454545454545454545454545454545454545525252525253535454535352525252515151515252535252525453545353535353525252525252525353535353545454545455565757575859595858585757575757575758585756545554545455555657565554535454545454535353545351515152525253535455576ea49f9b999a9695926a69696856555554545454545454535353535352525150504f4f5050504f4f4e4e4d43423a35302b2b2621211c1712121212121212121212",
+  "1212121212121212121212171c21262b303535353a3a3a4242434343444444444445454f5050504f4f45454545444444444444444444444444444444444445454545454545525251515253555454545355535252515151515252535356555453525353535352525151515252535354545454535454535455575858586b6b6b5958585757575758585758585757555554535455565657565553535354545454535252545451515255525552525655576c9f9c6c999b96956a69696968565555555454545454545353545453535251504e4f4f4f4f4f4f4e4e4d4d42423a35302b2626211c1c1712121212121212121212",
+  "1212121212121212121212171c21262b3030303535353a3a4243434344444444444c4e4e4f50504f4d4444444444444444444444444444444444444444444444444545535454515252525355545457565552525251515151525253555655545353535253535251515152535354545453545454545453545557575758596b6b59585857575757575758585757565655545354555556575655545454545454535253535353515151525252525254585a6a9a9b9b9a6c9c9893696969685655555554545454545353535453535352514f4f4e4f4e4e4e4d4e434d42423a3a35302b2621211c171712121212121212121212",
+  "1212121212121212121212171c21262b2b2b30303035353a4242434343444444444d4d4e52524f4f44444444444444444444444444444444444444444444444444445151515351525253535454565756565555525251515152565655555554545453535353525251525253545454545354545454545354555556575859596a69595957575758575657575757565656555455555657565655545454535454535353535252515151525253535354555a696a979f6c6c6b9d97926968685759565555545454545353535453535252504f4e4e4d4e4d4c4d4c4342423a3a3535302b26211c1c171212121212121212121212",
+  "1212121212121212121212171c212626262b2b2b3030353a3a42434343434444444c4c5151514f4f4444444444444444434343434343434343434344444444444451505151515352525555565656565757575655545455555656555554535454535453545252525151525354545454545454545454535454545658595a5a6b595959585757575656565757575656565555545556565655545555545454545553545453535352525253535353545556576a6b6c6c6b6c989591696968685a565555545454545353535453535352504f4f4e4e4d4d4c434342423a3a353530302b26211c17171212121212121212121212",
+  "1212121212121212121212171c2121212626262b2b3035353a4242434343434444444c5050514d4f4d4c44434343434343434343434343434343434343434444444f4f50505251535555555556565757575756555554555555555554545251515353535352525251515253545454545354545454535354555657585959595959595a5a5959585756575757565756565555565656565656565656555555555555565554545454545353535354555656576b6b6b6c9f9a6b94946a6969695756555554535353525252525252525151504f4f4d4d4c4d4342423a3a353530302b2b26211c17121212121212121212121212",
+  "1212121212121212121212171c1c1c21212126262b3030353a3a42424343434343444a4b4d504d4e4e4c44434343434343434242424242424243434343434344504f4f505152535456565554555658585457565554535455555454535251505052525353535251515152535454545352535354545352535657585859595a595a5a5a5a5a59585757575757575757565656565656575757585857575656555657575655565656565756565757555656576c6b6b6b9b6b6b6a976b6a6a69555554535352545150505050515151515051504e4d4c4d4c43423a3a353530302b2b2626211c17121212121212121212121212",
+  "12121212121212121212121717171c1c1c2121262b2b3035353a3a424243434343434a4b4b4c4c4e4e4c4443434242424242423a3a3a3a3a4242424243434343504f4e515152525557575654555658585353565553525353535353525151515150515353535251505151525354535252525354535252545658585859595a595a5a5b5a5a59595858585858585859575757565657575758585959585757575759585755575758585858575858595a56576a6b6b6b6a939294986b6a6a56555352525151534f4f4f4f4f505050505050504f4d4d4c4c4b423a353530302b2b262621211c17121212121212121212121212",
+  "121212121212121212121212121717171c1c2126262b303035353a3a4242424343434949444a4c4d4d4c444343423a3a3a3a3a3a3535353a3a3a3a4242434343504f4f50525152545656565556575757535255555352525251505050515151515051525253525151505151525352515252535354535355575757575758595a596b5a59595958585858585859595958585757575757585858595a585757585858585858555454585857555656565a5a6a6a6b6a96949298999d6d6a685553535150504f52515050504e4e4e4f4f4f4f4f4f4d4c4c4b4b3a3a3530302b2b262621211c1c17121212121212121212121212",
+  "12121212121212121212121212121217171c2121262b2b303035353a3a3a424242434848434a4b4c4e4d4c4b43423a35353535353530353535353a3a424242434f504f515252535455565757575757575655555452525251504f4e4f4f5051515151525353535251505051515251505151525253535455565757575859595a59595959596b5959595959595a5a5959585858585959595959595958585758585757585858555555555656576c6d6c6b6a6a6b969594989c9c996a6954535351514f4f514e514f4e4f4c4c4d4d4d4d4e4e4e4e4d4c4c3a3a3535302b2b262621211c1c1717121212121212121212121212",
+  "12121212121212121212121212121212171c1c2126262b2b30303535353a3a3a4242434348444a4c4e4d4c4b43423a3530303030303030303035353a3a3a424f504f51505253535455555757575858585756555450525252504e4e4e4f50515151515254535352525151505151515050515152535354545656575858595a5a59596c6d6d6c6c6a6a695a5a5a59595958595959595a69695a5858585858585857575758565555555556576c6c6d6c6b6a696a9495959da29e9a6968535252514f4f51504c4f4f434343434b4b4c4c4c4d4d4d4d4c3a3a353530302b262621211c1c171712121212121212121212121212",
+  "1212121212121212121212121212121217171c212126262b2b3030303535353a3a4242474848444c4d4d444343423a35302b2b2b2b2b2b2b30303535353a3a4f4e4f4f525354545456575858585859585756525254525251504f4f4e4f505151515153545353525151505050515051515253535454545556575758585a6a6a6b6c6d6d6e6d6c6c6c6b696868675a5959595959595a5a696a5958595858585857585958595555555556576d6d6c6c6a6a696a9498989fa29e996967525250504f4d4d4343434343424242494a4a4b4b4b4b4b4b4c3a353530302b2b2621211c1c17171212121212121212121212121212",
+  "1212121212121212121212121212121212171c1c212126262b2b2b30303035353a3a4247474944444444444343423a35302b26262626262b2b30303035353a3a4e4e50535455555657585958575758585857565554535251504f4f4f4f505050515253545352525251505050505051525354545555555656575758586a6b6a6a6c6da1a5a2a09ea36c6a696968696959595959595959696a6a6a58595959596a6a5959595858555859596d6d6c6b6a8f9192979c9c9fa09d6967665451504e4e4d434342424242423a3a3a3a3a3a3a3a3a3a3a3a3a3530302b2b2626211c1c1717121212121212121212121212121212",
+  "121212121212121212121212121212121217171c1c21212626262b2b2b303035353a4242434943434343434343423a35302b2621212126262b2b2b303035353a3a505153555657575858595958585859585457555353535351504e4f4f50505051525354535353525150504f50505152535455565657575657586a6a6b6a6a6a6b6ca0a4a4a6a8a6a69992936969696a6b6b6b595958596a6a5858596a6a6a6a6a5959595857575859596d6d6c6b69919495999c9e9d9d986866545352524e43434342423a3a3a3a3a35353535353535353535353535302b2b262621211c171712121212121212121212121212121212",
+  "12121212121212121212121212121212121217171c1c2121212626262b2b3030353a3a42434349434343434343423a35302b26211c21212626262b2b303035353a5052535455575859595959585859595958575654545452514f4f4f50505051515253535352525252515150505051525354555656575757586b6b6b6a6a6a6b6b6ca2a4a9aeaeafaba9a29b968f6a6a6b6b6b5958585958585958596a6b6b6b6a5a5a595857575859596c6c6c6a696a8f979d9e9b9b9b9366555452514f4c4b4948423a3a3535353535303030303030303030303030302b262621211c1c171212121212121212121212121212121212",
+  "1212121212121212121212121212121212121217171c1c1c21212126262b2b3035353a42424242424343434342423a35302b26211c1c21212126262b2b3035353a51535353545758595958575758585858575655545452504f4d4f4f505051515152535453525152525251515151515253545556565757586b6c6c6c6b6a5b6b6c6ca6a8aeb6b6b4b3b4ada29a946a6a6c6c6b6b58595a59585858596a6b6b6a6a5a5a585857575859595a6c6b6a696868969b9c9a9b9566655454524f4e4d4a483a3a3a353530303030302b2b2b2b2b2b2b2b2b2b2b2b2b2621211c1c17171212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121717171c1c1c212126262b3030353a3a423a3a4242424242423a3a35302b26211c1c1c1c212126262b30353a3a636465645556575958675656576665575656555452504f4d4e4e4e4f51515152525355535250515252525251525252535455565657586b6c6c6c6b6b6a5a6a6b6b9da2acb7bab7b9bcb5a99e996b969a9a6b6b58595b59585858596a6a6a6a6a59585857575758595a5a5a6b6a68686793979894958c646454504f4e4d4c3a3a3a35353530302b2b2b2b2b26262626262626262626262626211c1c1717121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121717171c1c2121262b2b3035353a3a3a3a3a3a3a3a3a3a3a3535302b26211c17171c1c2121262b30353a9c9d9d65656556575857675655566565645554545352504e4e4e4e4e50505051525354545453525152535252525353535354555757586a989a6b6b6a6a69595a6b6b6a9aa7b4bbb7bdc1b9aca69f9c9c9d9a9b6b6b6b6a5958585859696a6a6a6a59585857565657585858595969686767669090666565635353504e4d4c3a3a3535353030302b2b2626262626212121212121212121212121211c171712121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121217171c1c2126262b30303535353535353535353535353530302b26211c1717171c1c21262b30353aa7a7a69b656464575758555565646463635453525151504e4e4d4d4e4e4f51515252535454535352515252535353535454545557586a969d9d9691696968595a696a6a95a7b7c0c1c1c0b7aaa66ea49f9b9ba09e6c6b6a5a59595959696a6a6a6958565656565656575656565656565664666565656563634f4f4e4d4e4b3a35353030302b2b2b262621212121211c1c1c1c1c1c1c1c1c1c1c1c1c171212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121217171c2121262b2b3030303030303030303030303030302b2b26211c171217171c21262b30353a3aada99f94646364655355546463626163625251504f504d4c4b4d4d4c4f5051505354545151504f4f50525354505454555556576a6b999b9a9b976a6a69585968696a93a3b5bfc4bebbb4aa6e6da19f98959d9c6a69695858585757686969695857565555565656565554545353545555646563636362624f4d4c4b4e3a3a3530302b2b2b26262621211c1c1c1c1c171717171717171717171717171212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212171c1c2126262b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2626211c171212171c21262b3035353aa4a29c656564656452545461626261615251504f4f4e4d4b4c4b4b4c4e505052535454545150505252525353535353545456586a6b999b999fa16c6a6a585a6868698d9daab3b7b6b4ada56d6d9f9c979699986868685656575757676767665756565654555555545453535353545455646364626262614e4d3a3a3a3a3535302b2b2626262121211c1c17171717171212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121217171c21212626262626262626262626262626262626262621211c171212171c21262b3030353a99976565646564646252535260616260505050504e4d4b4b4b4b4c4c4f505253535454535352525252535353525253535557596c6b6b6b979fa46d6b6b595a6868686996a1a7a8a6aea76d6c6d9e9d989694686755545455555556565656575756565656555453535252525253546263626363636261613a3a3a3535353530302b26262121211c1c1c1717121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212171c1c2121212121212121212121212121212121212121211c1c171212171c21262b2b30353a3a9263636363636361515151516161503a3a51504e4c4c4b4a4c4c4e4f525353545353525151525253535352535253545657595a6c6b6b6ca2a06d6d6d5a5a5a5b6869959e9d9a989d9d6c6c6da09f9b949167545452515151535455545555555556555555535251525150515362626163636362623a3a3a353535303030302b2b2621211c1c1c17171712121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121217171c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c17171212171c2126262b3035353a3a3a636261626151504f4f50503a3a3a3a3a3a3a4e4d4c4c4b4c4d5052525353535352515151525252525253535355565758596b6b6b6b6c6c6c6d5a5a5959595a5a6a6b6a6a6a6a6b6c6b6ca0a29f976866555351504f4f52535352525253546765645453515151514f5161615f60626291913a3a3535353030302b2b2b2b2626211c1c171717121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121217171717171717171717171717171717171717171717171717121212171c2121262b30303535353a3a3a3a3a3a3a3a3a3a3a3a3a35353535353a3a3a4d4c4c4d4e5051525252525251505051525252535252535355565758595a5a6a6b6b6b6b5a5959585858585a686a6a696a6a6a6c6d6c6b9b9b966766545350504e4d515151504f4f505253535252515150504f503a3a3a3a3a3a3a3a3a3a35353030302b2b2b2626262621211c17171212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212171c1c21262b2b3030303535353535353535353535353535353030303535353a3a4d4d4f504f515252515151504f5051525253545453525354565657585858585859595858585758565657575868696969696a6b6c6b6a696a6867545452534e4e4d4c4f4f4e4d4d4f505051514f4f504f3a3a3a3a3535353535353535353530302b2b2b262626212121211c1c17121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c2126262b2b2b30303030303030303030303030303030302b30303035353a3a4f51505151515050515150504f5151535353515153535455555657575657575757575756555656555556575756565656686a6b6a686868675554525251514d4d3a3a3a3a3a4c4d4e4e4e4e4e3a3a3a3a35353535303030303030303030302b2b2626262121211c1c1c1c1717121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212171c21212626262b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b303035353a6061524f51504f4f5051515050505153505050515154545554555554555657575655555553545556555555545454545455556857565556555553535252504c3a3a3535353a3a3a3a3a3a3a3a3a35353535303030302b2b2b2b2b2b2b2b2b2b26262121211c1c1c1717171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212171c1c2121212626262626262626262626262626262626262626262b2b3030353a3a62624e51504e4e4f5150504f515351524f4f5050515155545352525254555554545353535254555553525252515152535355555554545453545151514f3a3a3535303535353535353535353535303030302b2b2b2b2626262626262626262621211c1c1c17171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c1c21212121212121212121212121212121212121212126262b2b3035353a3a3a61614f4f3a4f4f504f50515152514f4e4e535453535352505051525354535252515152525252525050505051515152545452525253535151504f3a3a353530303030303030303030303030302b2b2b2b26262626212121212121212121211c1c171717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121717171c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c212126262b30303535353a3a3a3a3a3a3a4e4e4f50505251514f4f50515252535251504f4f505151515151515051515050504f4f4f5050505051525252515252514f4f4e3a3a353530302b2b2b2b2b2b2b2b2b2b2b2b2b2b26262626212121211c1c1c1c1c1c1c1c1c1c17171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121717171717171717171717171717171717171717171c1c2121262b2b303030353535353535353a3a4e4e4f5050514f4d4e4e4f5152525250504f4e4f4e4f505050515250504f4e4e4e504f504f4f50505051525251514f4f4e3a3a353530302b2b2626262626262626262626262626212121211c1c1c1c17171717171717171717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c2126262b2b2b3030303030303035353a4e4e504f504f4d4d4d4d4e51515150504e4f4f4d4d4d4e4e4f5050504e4e4e4d4d4e4f3a3a4f4f4f50505051523a3a3a3a3a353530302b2b262621212121212121212121212121211c1c1c1c17171717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c21212626262b2b2b2b2b2b2b3030353a3a4f4f4f4f4d4d4c4c4c4e4f4f4f4e4f4f4e4d4e4c4d4d4c4e4f4e4e4e4c4d4d3a3a3a3a3a3a3a3a3a3a3a3a3a3a353535353530302b2b262621211c1c1c1c1c1c1c1c1c1c1c1c1c1c17171717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212171c1c212121262626262626262b2b3035353a3a4f4f4d4d4c4a4a4a4b4c4d4f4e4e4d4d4c4e4e4c4c4b4c4d4d4c4d4d3a3a3a353535353535353535353535353530303030302b2b262621211c1c1717171717171717171717171717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c1c2121212121212126262b303035353a3a3a4c4b49484949494a4c4d4e4d4d4c4d4d4d4c3a3a3a4c4d3a3a3a3a35353530303030303030303030303030302b2b2b2b2b262621211c1c171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121717171c1c1c1c1c1c1c2121262b2b30303535353a3a3a3a484748494b4b4c4d4e4c4c4c4d3a3a3a353a3a3a3a353535353030302b2b2b2b2b2b2b2b2b2b2b2b2b2b262626262621211c1c17171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212171717171717171c1c2126262b2b303030353535353a3a3a3a4a4a4a4b4c4c4c3a3a3a3a3535353535353535303030302b2b2b262626262626262626262626262621212121211c1c1717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c212126262b2b2b30303030353535353a3a3a4b3a3a3a3a3a3535353530303030303030302b2b2b2b26262621212121212121212121212121211c1c1c1c1c171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "1212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212171c1c21212626262b2b2b2b303030303535353a3a3a3535353535303030302b2b2b2b2b2b2b2b262626262121211c1c1c1c1c1c1c1c1c1c1c1c1c1c17171717171212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c212121262626262b2b2b2b303030353535353530303030302b2b2b2b2626262626262626212121211c1c1c1717171717171717171717171717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121217171c1c1c21212121262626262b2b2b303030303030302b2b2b2b2b2626262621212121212121211c1c1c1c17171712121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212",
+  "121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121717171c1c1c1c212121212626262b2b2b2b2b2b2b2b2b2626262626212121211c1c1c1c1c1c1c1c17171717121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212"
+ ],
+ "roads": [
+  {
+   "a": "town_01_01",
+   "b": "town_01_04",
+   "kind": "road",
+   "path": [207,101,207,102,207,103,207,104,206,105,205,106,204,107,204,108,203,109,202,110,201,111,200,112,199,113,198,114,198,115,198,116]
+  },
+  {
+   "a": "town_01_01",
+   "b": "town_01_02",
+   "kind": "road",
+   "path": [207,101,206,100,205,99,204,98,203,97,203,96,203,95,203,94,202,93,201,92,200,91,199,90,198,89,197,88,196,87,195,86,194,85,193,84,192,83,191,82,190,81,189,80,188,79,187,78,186,77,185,76,184,75,183,74]
+  },
+  {
+   "a": "town_01_02",
+   "b": "town_01_03",
+   "kind": "road",
+   "path": [183,74,184,74,185,73,185,72,185,71,185,70,185,69,186,68,187,67,188,66,189,65,190,64,191,63,192,62,193,61,194,60,195,59,196,58,197,58,198,58,199,57,200,56,201,55,201,54,201,53,201,52,201,51,201,50]
+  },
+  {
+   "a": "town_01_03",
+   "b": "town_03_01",
+   "kind": "road",
+   "path": [201,50,201,51,201,52,201,53,201,54,201,55,200,56,199,57,198,58,197,58,196,58,195,59,194,60,193,60,192,60,191,60,190,60,189,60,188,60,187,60,186,60,185,60,184,60,183,60,182,60,181,60,180,60,179,60,178,60,177,60,176,60,175,60,174,60,173,60,172,59,172,58,171,57,170,56,169,55,168,54,167,53,166,52,165,51,164,50,163,49,163,48,163,47,163,46,163,45,163,44,163,43,163,42,163,41,163,40,163,39,163,38,163,37,164,36]
+  },
+  {
+   "a": "town_01_04",
+   "b": "town_06_04",
+   "kind": "road",
+   "path": [198,116,197,116,196,116,195,117,194,117,193,118,192,118,191,119,190,120,189,121,188,122,187,123,186,124,185,125,184,126,183,126,182,126,181,126,180,127,179,127,178,128]
+  },
+  {
+   "a": "town_02_01",
+   "b": "town_02_03",
+   "kind": "road",
+   "path": [44,55,45,56,46,57,47,58,48,59,49,60,50,61,51,62,52,63,53,64,54,65,55,66,56,67,57,68,58,69]
+  },
+  {
+   "a": "town_02_01",
+   "b": "town_04_01",
+   "kind": "road",
+   "path": [44,55,43,55,42,55,41,54,40,53,39,52,38,51,38,50,38,49,38,48,38,47,38,46,38,45,38,44,38,43,38,42,38,41,38,40,38,39,38,38,38,37,38,36,38,35]
+  },
+  {
+   "a": "town_02_02",
+   "b": "town_02_04",
+   "kind": "road",
+   "path": [55,98,56,97,57,97,58,97,59,97,60,96,61,95,62,94,63,93,64,93,65,93,66,93,67,93,68,93,69,93,70,92,71,92,72,91,73,90,74,89,75,88]
+  },
+  {
+   "a": "town_02_02",
+   "b": "town_02_03",
+   "kind": "road",
+   "path": [55,98,56,97,56,96,55,95,55,94,55,93,55,92,55,91,55,90,56,89,56,88,56,87,56,86,56,85,56,84,56,83,56,82,56,81,56,80,56,79,56,78,56,77,56,76,56,75,56,74,57,73,57,72,57,71,57,70,58,69]
+  },
+  {
+   "a": "town_02_03",
+   "b": "town_02_04",
+   "kind": "road",
+   "path": [58,69,57,70,57,71,57,72,57,73,57,74,58,75,59,75,60,75,61,75,62,75,63,76,64,77,65,78,66,79,67,80,68,81,69,82,70,83,71,84,72,85,73,86,74,87,75,88]
+  },
+  {
+   "a": "town_02_04",
+   "b": "town_05_04",
+   "kind": "road",
+   "path": [75,88,76,88,77,88,78,88,79,88,80,87,81,87,82,87,83,87,84,87,85,87,86,87,87,87,88,86,89,85,90,84,91,83,92,83,93,82,93,81]
+  },
+  {
+   "a": "town_03_01",
+   "b": "town_03_03",
+   "kind": "road",
+   "path": [164,36,163,37,162,37,161,37,160,37,159,37,158,37,157,37,156,37,155,37,154,37,153,37,152,37,151,38,150,38,149,38,148,38,147,38,146,38,145,38,144,38,143,39,142,40]
+  },
+  {
+   "a": "town_03_01",
+   "b": "town_03_02",
+   "kind": "road",
+   "path": [164,36,163,37,162,37,161,37,160,37,159,37,158,37,157,37,156,37,155,37,154,37,153,37,152,37,151,38,150,38,149,38,148,38,147,38,146,37,145,36,144,35,143,34,142,33,141,32,141,31,141,30,141,29,141,28,140,27,139,26,139,25,138,24]
+  },
+  {
+   "a": "town_03_02",
+   "b": "town_03_03",
+   "kind": "road",
+   "path": [138,24,139,25,139,26,140,27,141,28,141,29,141,30,141,31,141,32,142,33,143,34,144,35,144,36,144,37,144,38,143,39,142,40]
+  },
+  {
+   "a": "town_03_02",
+   "b": "town_03_04",
+   "kind": "road",
+   "path": [138,24,138,23,138,22,138,21,138,20,137,19,136,18,135,17,134,16,133,15,132,14,131,13,130,12,129,11,128,10,127,9,126,8,125,8,124,7,123,7,122,7,121,6,120,5]
+  },
+  {
+   "a": "town_03_04",
+   "b": "town_04_03",
+   "kind": "road",
+   "path": [120,5,119,5,118,5,117,5,116,6,115,6,114,6,113,6,112,6,111,6,110,6,109,7,108,7,107,8,106,9,105,9,104,10,103,11,102,12,101,13,100,14,99,15,99,16,99,17,98,18,98,19,98,20,98,21,98,22,98,23]
+  },
+  {
+   "a": "town_04_01",
+   "b": "town_04_04",
+   "kind": "road",
+   "path": [38,35,39,35,40,35,41,35,42,35,43,35,44,35,45,35,46,35,47,34,48,33,49,32,50,31,51,30,52,29,53,28,54,28,55,27,56,27,57,27,58,27,59,27,60,27,61,27,62,27,63,27,64,27,65,26,66,25,67,24,68,23,69,22]
+  },
+  {
+   "a": "town_04_02",
+   "b": "town_05_02",
+   "kind": "road",
+   "path": [92,45,93,45,94,45,95,45,96,45,97,45,98,45,99,45,100,45,101,45,102,46,103,47,104,48,105,49,106,50,106,51,106,52,106,53,106,54,106,55,106,56,106,57,105,58]
+  },
+  {
+   "a": "town_04_02",
+   "b": "town_04_03",
+   "kind": "road",
+   "path": [92,45,92,44,92,43,93,42,93,41,93,40,93,39,93,38,94,37,95,36,95,35,95,34,95,33,95,32,95,31,95,30,95,29,96,28,97,27,97,26,97,25,97,24,98,23]
+  },
+  {
+   "a": "town_04_03",
+   "b": "town_04_04",
+   "kind": "road",
+   "path": [98,23,97,23,96,23,95,23,94,23,93,23,92,23,91,23,90,23,89,23,88,23,87,23,86,23,85,23,84,23,83,23,82,23,81,23,80,23,79,23,78,23,77,23,76,23,75,23,74,22,73,22,72,22,71,22,70,22,69,22]
+  },
+  {
+   "a": "town_04_02",
+   "b": "town_04_04",
+   "kind": "road",
+   "path": [92,45,92,44,92,43,93,42,93,41,93,40,93,39,93,38,94,37,95,36,95,35,95,34,95,33,95,32,95,31,95,30,95,29,94,28,93,27,92,26,91,25,90,24,89,23,88,23,87,23,86,23,85,23,84,23,83,23,82,23,81,23,80,23,79,23,78,23,77,23,76,23,75,23,74,22,73,22,72,22,71,22,70,22,69,22]
+  },
+  {
+   "a": "town_05_01",
+   "b": "town_05_03",
+   "kind": "road",
+   "path": [124,66,124,67,124,68,124,69,124,70,124,71,124,72,123,73,122,74,122,75,122,76,122,77,122,78,122,79,122,80,121,81,120,82,119,83,118,84]
+  },
+  {
+   "a": "town_05_01",
+   "b": "town_05_02",
+   "kind": "road",
+   "path": [124,66,123,65,122,64,121,63,120,62,119,61,118,60,117,59,116,58,115,58,114,58,113,58,112,58,111,58,110,58,109,58,108,58,107,58,106,58,105,58]
+  },
+  {
+   "a": "town_05_03",
+   "b": "town_05_04",
+   "kind": "road",
+   "path": [118,84,117,84,116,84,115,84,114,85,113,86,112,87,111,87,110,87,109,87,108,87,107,87,106,87,105,87,104,87,103,86,102,86,101,86,100,86,99,86,98,86,97,85,96,84,95,83,94,82,93,81]
+  },
+  {
+   "a": "town_06_01",
+   "b": "town_06_02",
+   "kind": "road",
+   "path": [130,138,130,137,130,136,130,135,130,134,130,133,129,132,128,131,127,130,126,129,126,128,126,127,125,126,124,125,123,124,122,123,121,122,120,121]
+  },
+  {
+   "a": "town_06_01",
+   "b": "town_06_03",
+   "kind": "road",
+   "path": [130,138,131,138,132,138,133,138,134,138,135,138,136,138,137,138,138,137,139,136,140,135,141,135,142,135,143,135,144,135,145,135,146,134,147,133,148,132,149,131,150,130,151,129,152,128,153,127,154,126,155,125,156,124,157,123,158,122,159,121,160,120,161,119,162,118,163,117]
+  },
+  {
+   "a": "town_05_03",
+   "b": "town_06_02",
+   "kind": "road",
+   "path": [118,84,118,85,118,86,118,87,118,88,118,89,118,90,118,91,118,92,118,93,118,94,118,95,118,96,118,97,118,98,118,99,119,100,119,101,119,102,119,103,119,104,119,105,119,106,119,107,119,108,119,109,119,110,119,111,119,112,119,113,119,114,119,115,119,116,119,117,119,118,119,119,119,120,120,121]
+  },
+  {
+   "a": "town_06_03",
+   "b": "town_06_04",
+   "kind": "road",
+   "path": [163,117,164,117,165,118,166,119,167,119,168,120,169,121,170,122,171,123,172,124,173,125,174,125,175,126,176,127,177,127,178,128]
+  },
+  {
+   "a": "town_01_04",
+   "b": "town_06_03",
+   "kind": "road",
+   "path": [198,116,197,116,196,116,195,117,194,117,193,118,192,118,191,119,190,120,189,121,188,122,187,123,186,124,185,125,184,126,183,126,182,126,181,126,180,127,179,127,178,127,177,127,176,127,175,126,174,125,173,125,172,124,171,123,170,122,169,121,168,120,167,119,166,119,165,118,164,117,163,117]
+  },
+  {
+   "a": "castle_01_01",
+   "b": "town_01_02",
+   "kind": "road",
+   "path": [152,70,153,70,154,70,155,70,156,70,157,70,158,70,159,71,160,72,161,72,162,72,163,72,164,72,165,72,166,72,167,72,168,73,169,73,170,73,171,73,172,73,173,73,174,73,175,73,176,73,177,73,178,73,179,73,180,73,181,73,182,73,183,74]
+  },
+  {
+   "a": "castle_01_02",
+   "b": "town_01_01",
+   "kind": "road",
+   "path": [206,91,205,91,204,92,203,93,203,94,203,95,203,96,203,97,204,98,205,99,206,100,207,101]
+  },
+  {
+   "a": "castle_01_03",
+   "b": "town_01_01",
+   "kind": "road",
+   "path": [192,99,193,99,194,99,195,99,196,99,197,99,198,99,199,99,200,99,201,99,202,99,203,99,204,99,205,99,206,100,207,101]
+  },
+  {
+   "a": "castle_01_04",
+   "b": "town_01_02",
+   "kind": "road",
+   "path": [174,61,174,62,174,63,174,64,175,65,176,66,177,67,177,68,178,69,179,70,180,71,180,72,181,73,182,73,183,74]
+  },
+  {
+   "a": "castle_01_05",
+   "b": "town_01_03",
+   "kind": "road",
+   "path": [208,60,207,59,206,58,205,57,204,56,203,55,202,54,201,53,201,52,201,51,201,50]
+  },
+  {
+   "a": "castle_01_06",
+   "b": "town_01_02",
+   "kind": "road",
+   "path": [159,61,160,62,161,63,162,64,163,65,164,66,165,67,166,68,166,69,166,70,166,71,167,72,168,73,169,73,170,73,171,73,172,73,173,73,174,73,175,73,176,73,177,73,178,73,179,73,180,73,181,73,182,73,183,74]
+  },
+  {
+   "a": "castle_01_07",
+   "b": "town_01_02",
+   "kind": "road",
+   "path": [199,80,198,80,197,80,196,80,195,80,194,80,193,80,192,80,191,80,190,80,189,80,188,79,187,78,186,77,185,76,184,75,183,74]
+  },
+  {
+   "a": "castle_02_01",
+   "b": "town_02_04",
+   "kind": "road",
+   "path": [62,86,63,86,64,86,65,86,66,86,67,86,68,86,69,86,70,86,71,86,72,86,73,86,74,87,75,88]
+  },
+  {
+   "a": "castle_02_02",
+   "b": "town_02_02",
+   "kind": "road",
+   "path": [65,95,64,95,63,95,62,95,61,95,60,96,59,97,58,97,57,97,56,97,55,98]
+  },
+  {
+   "a": "castle_02_03",
+   "b": "town_02_02",
+   "kind": "road",
+   "path": [35,112,35,111,35,110,35,109,35,108,36,107,36,106,37,105,38,104,38,103,38,102,38,101,39,100,40,100,41,100,42,100,43,100,44,100,45,100,46,99,47,99,48,99,49,99,50,99,51,99,52,98,53,98,54,98,55,98]
+  },
+  {
+   "a": "castle_02_04",
+   "b": "town_02_02",
+   "kind": "road",
+   "path": [44,88,45,88,46,88,47,88,48,88,49,88,50,88,51,89,52,89,53,90,54,91,55,92,55,93,55,94,55,95,56,96,56,97,55,98]
+  },
+  {
+   "a": "castle_02_05",
+   "b": "town_02_02",
+   "kind": "road",
+   "path": [58,109,58,108,58,107,58,106,58,105,58,104,57,103,56,102,55,101,55,100,55,99,55,98]
+  },
+  {
+   "a": "castle_02_06",
+   "b": "town_02_01",
+   "kind": "road",
+   "path": [38,62,38,61,39,60,40,59,41,58,42,57,43,56,44,55]
+  },
+  {
+   "a": "castle_02_07",
+   "b": "town_02_02",
+   "kind": "road",
+   "path": [49,109,49,108,49,107,49,106,50,105,51,104,52,103,52,102,53,101,54,100,55,99,55,98]
+  },
+  {
+   "a": "castle_03_01",
+   "b": "town_03_01",
+   "kind": "road",
+   "path": [192,37,191,37,190,37,189,37,188,36,187,35,186,35,185,34,184,33,183,32,182,31,181,31,180,31,179,31,178,31,177,30,176,30,175,30,174,30,173,30,172,30,171,30,170,31,169,32,168,33,167,34,166,34,165,35,164,36]
+  },
+  {
+   "a": "castle_03_02",
+   "b": "town_03_02",
+   "kind": "road",
+   "path": [136,13,136,14,136,15,136,16,136,17,136,18,137,19,138,20,138,21,138,22,138,23,138,24]
+  },
+  {
+   "a": "castle_03_03",
+   "b": "town_03_01",
+   "kind": "road",
+   "path": [186,50,187,50,188,50,189,50,190,51,190,52,190,53,190,54,190,55,189,56,188,57,187,58,186,59,185,60,184,60,183,60,182,60,181,60,180,60,179,60,178,60,177,60,176,60,175,60,174,60,173,60,172,59,172,58,171,57,170,56,169,55,168,54,167,53,166,52,165,51,164,50,163,49,163,48,163,47,163,46,163,45,163,44,163,43,163,42,163,41,163,40,163,39,163,38,163,37,164,36]
+  },
+  {
+   "a": "castle_03_04",
+   "b": "town_03_01",
+   "kind": "road",
+   "path": [152,31,152,32,152,33,153,34,154,35,155,36,156,37,157,37,158,37,159,37,160,37,161,37,162,37,163,37,164,36]
+  },
+  {
+   "a": "castle_03_05",
+   "b": "town_03_01",
+   "kind": "road",
+   "path": [171,28,171,29,171,30,170,31,169,32,168,33,167,34,166,34,165,35,164,36]
+  },
+  {
+   "a": "castle_03_06",
+   "b": "town_03_03",
+   "kind": "road",
+   "path": [148,51,148,50,148,49,148,48,148,47,148,46,147,45,146,44,145,43,144,42,143,41,142,40]
+  },
+  {
+   "a": "castle_03_07",
+   "b": "town_03_01",
+   "kind": "road",
+   "path": [180,33,179,32,178,31,177,30,176,30,175,30,174,30,173,30,172,30,171,30,170,31,169,32,168,33,167,34,166,34,165,35,164,36]
+  },
+  {
+   "a": "castle_04_01",
+   "b": "town_04_02",
+   "kind": "road",
+   "path": [85,37,86,38,87,39,88,40,89,41,90,42,91,43,92,44,92,45]
+  },
+  {
+   "a": "castle_04_02",
+   "b": "town_04_02",
+   "kind": "road",
+   "path": [75,53,76,53,77,53,78,53,79,53,80,53,81,53,82,53,83,53,84,53,85,52,86,51,87,50,88,49,89,48,90,47,91,46,92,45]
+  },
+  {
+   "a": "castle_04_03",
+   "b": "town_04_02",
+   "kind": "road",
+   "path": [73,44,74,44,75,44,76,45,77,45,78,45,79,45,80,45,81,45,82,45,83,45,84,45,85,45,86,45,87,45,88,45,89,45,90,45,91,45,92,45]
+  },
+  {
+   "a": "castle_04_04",
+   "b": "town_04_04",
+   "kind": "road",
+   "path": [63,29,63,28,64,27,65,26,66,25,67,24,68,23,69,22]
+  },
+  {
+   "a": "castle_04_05",
+   "b": "town_04_04",
+   "kind": "road",
+   "path": [79,22,78,23,77,23,76,23,75,23,74,22,73,22,72,22,71,22,70,22,69,22]
+  },
+  {
+   "a": "castle_04_06",
+   "b": "town_04_02",
+   "kind": "road",
+   "path": [114,46,114,47,113,48,112,48,111,48,110,48,109,48,108,48,107,48,106,48,105,48,104,48,103,47,102,46,101,45,100,45,99,45,98,45,97,45,96,45,95,45,94,45,93,45,92,45]
+  },
+  {
+   "a": "castle_04_07",
+   "b": "town_04_02",
+   "kind": "road",
+   "path": [101,37,100,36,99,36,98,36,97,36,96,36,95,36,94,37,93,38,93,39,93,40,93,41,93,42,92,43,92,44,92,45]
+  },
+  {
+   "a": "castle_05_01",
+   "b": "town_05_02",
+   "kind": "road",
+   "path": [85,57,86,58,86,59,87,60,88,61,89,62,90,62,91,63,92,63,93,63,94,63,95,63,96,63,97,63,98,63,99,62,100,62,101,61,102,61,103,60,104,59,105,58]
+  },
+  {
+   "a": "castle_05_02",
+   "b": "town_05_03",
+   "kind": "road",
+   "path": [156,90,155,89,154,88,153,87,152,87,151,87,150,87,149,87,148,87,147,87,146,87,145,87,144,87,143,87,142,86,141,86,140,86,139,86,138,86,137,86,136,86,135,85,134,84,133,84,132,84,131,84,130,84,129,84,128,84,127,84,126,84,125,84,124,84,123,84,122,84,121,84,120,84,119,84,118,84]
+  },
+  {
+   "a": "castle_05_03",
+   "b": "town_05_02",
+   "kind": "road",
+   "path": [94,64,95,63,96,63,97,63,98,63,99,62,100,62,101,61,102,61,103,60,104,59,105,58]
+  },
+  {
+   "a": "castle_05_04",
+   "b": "town_05_03",
+   "kind": "road",
+   "path": [153,99,153,98,153,97,153,96,152,95,151,94,150,93,149,92,148,91,147,90,146,89,145,88,144,87,143,87,142,86,141,86,140,86,139,86,138,86,137,86,136,86,135,85,134,84,133,84,132,84,131,84,130,84,129,84,128,84,127,84,126,84,125,84,124,84,123,84,122,84,121,84,120,84,119,84,118,84]
+  },
+  {
+   "a": "castle_05_05",
+   "b": "town_05_04",
+   "kind": "road",
+   "path": [85,104,85,103,85,102,85,101,85,100,85,99,85,98,85,97,85,96,85,95,85,94,85,93,85,92,85,91,85,90,85,89,86,88,87,87,88,86,89,85,90,84,91,83,92,83,93,82,93,81]
+  },
+  {
+   "a": "castle_05_06",
+   "b": "town_05_01",
+   "kind": "road",
+   "path": [137,71,137,70,136,69,135,68,134,68,133,68,132,67,131,67,130,67,129,67,128,67,127,67,126,67,125,67,124,66]
+  },
+  {
+   "a": "castle_06_01",
+   "b": "town_06_02",
+   "kind": "road",
+   "path": [94,111,95,111,96,111,97,111,98,112,99,113,100,114,101,115,102,116,103,117,104,117,105,117,106,117,107,117,108,117,109,117,110,117,111,117,112,117,113,117,114,117,115,118,116,118,117,118,118,119,119,120,120,121]
+  },
+  {
+   "a": "castle_06_02",
+   "b": "town_06_02",
+   "kind": "road",
+   "path": [69,116,70,115,70,114,70,113,71,112,72,111,73,110,74,110,75,110,76,110,77,109,78,108,79,108,80,108,81,108,82,108,83,108,84,108,85,108,86,108,87,108,88,108,89,108,90,108,91,108,92,109,93,110,94,111,95,111,96,111,97,111,98,112,99,113,100,114,101,115,102,116,103,117,104,117,105,117,106,117,107,117,108,117,109,117,110,117,111,117,112,117,113,117,114,117,115,118,116,118,117,118,118,119,119,120,120,121]
+  },
+  {
+   "a": "castle_06_03",
+   "b": "town_06_03",
+   "kind": "road",
+   "path": [172,119,171,119,170,119,169,118,168,118,167,118,166,118,165,118,164,117,163,117]
+  },
+  {
+   "a": "castle_06_04",
+   "b": "town_06_03",
+   "kind": "road",
+   "path": [143,98,144,98,145,98,146,98,147,98,148,99,149,100,149,101,150,102,151,103,152,104,153,105,154,106,155,107,156,108,157,109,158,110,159,111,160,112,161,113,162,114,163,115,163,116,163,117]
+  },
+  {
+   "a": "castle_06_05",
+   "b": "town_06_02",
+   "kind": "road",
+   "path": [101,121,102,120,103,119,104,118,105,117,106,117,107,117,108,117,109,117,110,117,111,117,112,117,113,117,114,117,115,118,116,118,117,118,118,119,119,120,120,121]
+  },
+  {
+   "a": "castle_06_06",
+   "b": "town_06_03",
+   "kind": "road",
+   "path": [162,104,163,105,164,106,164,107,164,108,164,109,164,110,164,111,164,112,164,113,164,114,163,115,163,116,163,117]
+  },
+  {
+   "a": "village_01_01",
+   "b": "castle_01_01",
+   "kind": "track",
+   "path": [165,86,165,85,164,84,164,83,164,82,163,81,162,80,161,79,161,78,161,77,161,76,161,75,161,74,161,73,160,72,159,71,158,70,157,70,156,70,155,70,154,70,153,70,152,70]
+  },
+  {
+   "a": "village_01_02",
+   "b": "castle_01_03",
+   "kind": "track",
+   "path": [176,113,175,112,174,111,173,110,173,109,173,108,173,107,173,106,174,105,174,104,175,103,176,102,177,101,178,100,179,100,180,100,181,100,182,100,183,100,184,100,185,100,186,100,187,100,188,100,189,100,190,100,191,100,192,99]
+  },
+  {
+   "a": "village_01_03",
+   "b": "town_01_03",
+   "kind": "track",
+   "path": [217,45,216,45,215,45,214,45,213,46,212,47,211,48,210,48,209,48,208,48,207,48,206,48,205,48,204,48,203,48,202,49,201,50]
+  },
+  {
+   "a": "village_01_04",
+   "b": "castle_01_05",
+   "kind": "track",
+   "path": [200,59,201,59,202,58,203,58,204,58,205,58,206,58,207,59,208,60]
+  },
+  {
+   "a": "village_01_05",
+   "b": "town_01_02",
+   "kind": "track",
+   "path": [182,83,182,82,182,81,182,80,182,79,182,78,182,77,182,76,182,75,183,74]
+  },
+  {
+   "a": "village_01_06",
+   "b": "castle_01_03",
+   "kind": "track",
+   "path": [173,92,174,93,175,94,176,95,177,96,178,97,179,98,180,99,181,100,182,100,183,100,184,100,185,100,186,100,187,100,188,100,189,100,190,100,191,100,192,99]
+  },
+  {
+   "a": "village_01_07",
+   "b": "castle_01_06",
+   "kind": "track",
+   "path": [164,66,163,65,162,64,161,63,160,62,159,61]
+  },
+  {
+   "a": "village_01_08",
+   "b": "castle_01_03",
+   "kind": "track",
+   "path": [191,92,191,93,191,94,191,95,191,96,191,97,191,98,192,99]
+  },
+  {
+   "a": "village_01_09",
+   "b": "castle_01_03",
+   "kind": "track",
+   "path": [181,95,182,96,183,97,184,98,185,99,186,100,187,100,188,100,189,100,190,100,191,100,192,99]
+  },
+  {
+   "a": "village_01_10",
+   "b": "town_01_01",
+   "kind": "track",
+   "path": [217,104,216,104,215,104,214,104,213,104,212,104,211,104,210,103,209,102,208,102,207,101]
+  },
+  {
+   "a": "village_01_11",
+   "b": "castle_01_05",
+   "kind": "track",
+   "path": [222,66,221,66,220,66,219,66,218,65,217,64,216,63,215,63,214,62,213,61,212,60,211,60,210,59,209,59,208,60]
+  },
+  {
+   "a": "village_01_12",
+   "b": "town_01_02",
+   "kind": "track",
+   "path": [173,80,174,80,175,80,176,80,177,79,178,78,179,77,180,77,181,76,182,75,183,74]
+  },
+  {
+   "a": "village_01_13",
+   "b": "town_01_03",
+   "kind": "track",
+   "path": [193,50,194,50,195,49,196,49,197,49,198,49,199,49,200,49,201,50]
+  },
+  {
+   "a": "village_01_14",
+   "b": "castle_01_02",
+   "kind": "track",
+   "path": [230,84,229,83,228,82,227,81,226,81,225,81,224,81,223,80,222,79,221,79,220,79,219,79,218,79,217,79,216,79,215,79,214,79,213,80,212,81,211,82,210,83,209,84,208,85,208,86,208,87,208,88,208,89,207,90,206,91]
+  },
+  {
+   "a": "village_01_15",
+   "b": "town_01_03",
+   "kind": "track",
+   "path": [212,47,211,48,210,48,209,48,208,48,207,48,206,48,205,48,204,48,203,48,202,49,201,50]
+  },
+  {
+   "a": "village_01_16",
+   "b": "town_01_02",
+   "kind": "track",
+   "path": [192,62,191,63,190,64,189,65,188,66,187,67,186,68,185,69,185,70,185,71,185,72,185,73,184,74,183,74]
+  },
+  {
+   "a": "village_01_17",
+   "b": "castle_01_05",
+   "kind": "track",
+   "path": [222,45,221,46,220,46,219,47,219,48,219,49,218,50,217,51,216,52,215,53,214,54,213,55,212,56,211,57,210,58,209,59,208,60]
+  },
+  {
+   "a": "village_02_01",
+   "b": "castle_02_03",
+   "kind": "track",
+   "path": [36,106,36,107,35,108,35,109,35,110,35,111,35,112]
+  },
+  {
+   "a": "village_02_02",
+   "b": "town_02_03",
+   "kind": "track",
+   "path": [48,69,49,69,50,69,51,69,52,69,53,69,54,69,55,69,56,69,57,69,58,69]
+  },
+  {
+   "a": "village_02_03",
+   "b": "castle_02_03",
+   "kind": "track",
+   "path": [34,98,34,99,33,100,33,101,33,102,34,103,35,104,36,105,36,106,36,107,35,108,35,109,35,110,35,111,35,112]
+  },
+  {
+   "a": "village_02_04",
+   "b": "castle_02_04",
+   "kind": "track",
+   "path": [31,80,32,80,33,80,34,81,35,81,36,81,37,82,38,83,39,84,40,84,41,85,42,86,43,87,44,88]
+  },
+  {
+   "a": "village_02_05",
+   "b": "town_02_03",
+   "kind": "track",
+   "path": [70,58,69,59,68,60,67,61,66,62,65,63,64,64,63,65,62,66,61,67,60,68,59,68,58,69]
+  },
+  {
+   "a": "village_02_06",
+   "b": "castle_02_04",
+   "kind": "track",
+   "path": [39,84,40,84,41,85,42,86,43,87,44,88]
+  },
+  {
+   "a": "village_02_07",
+   "b": "castle_02_01",
+   "kind": "track",
+   "path": [54,82,55,82,56,83,57,83,58,83,59,83,60,84,61,85,62,86]
+  },
+  {
+   "a": "village_02_08",
+   "b": "castle_02_06",
+   "kind": "track",
+   "path": [43,71,43,70,43,69,43,68,43,67,43,66,42,65,41,65,40,64,39,63,38,62]
+  },
+  {
+   "a": "village_02_09",
+   "b": "castle_02_04",
+   "kind": "track",
+   "path": [46,95,46,94,46,93,45,92,44,91,44,90,44,89,44,88]
+  },
+  {
+   "a": "village_02_10",
+   "b": "town_02_03",
+   "kind": "track",
+   "path": [62,57,62,58,62,59,62,60,62,61,62,62,62,63,62,64,62,65,62,66,61,67,60,68,59,68,58,69]
+  },
+  {
+   "a": "village_02_11",
+   "b": "castle_02_06",
+   "kind": "track",
+   "path": [28,50,29,51,30,52,31,53,32,54,33,55,33,56,34,57,35,58,36,59,37,60,38,61,38,62]
+  },
+  {
+   "a": "village_02_12",
+   "b": "castle_02_04",
+   "kind": "track",
+   "path": [40,95,41,94,42,93,43,92,44,91,44,90,44,89,44,88]
+  },
+  {
+   "a": "village_02_13",
+   "b": "castle_02_04",
+   "kind": "track",
+   "path": [25,92,26,92,27,92,28,92,29,92,30,92,31,92,32,92,33,92,34,92,35,92,36,92,37,91,38,90,39,90,40,90,41,90,42,90,43,89,44,88]
+  },
+  {
+   "a": "village_02_14",
+   "b": "town_02_01",
+   "kind": "track",
+   "path": [58,46,57,45,56,45,55,45,54,45,53,46,52,47,51,48,50,49,49,50,48,51,47,52,46,53,45,54,44,55]
+  },
+  {
+   "a": "village_02_15",
+   "b": "castle_02_06",
+   "kind": "track",
+   "path": [31,59,32,59,33,59,34,59,35,59,36,59,37,60,38,61,38,62]
+  },
+  {
+   "a": "village_02_16",
+   "b": "town_02_01",
+   "kind": "track",
+   "path": [39,47,38,48,38,49,38,50,38,51,39,52,40,53,41,54,42,55,43,55,44,55]
+  },
+  {
+   "a": "village_02_17",
+   "b": "town_02_04",
+   "kind": "track",
+   "path": [76,99,77,98,77,97,77,96,78,95,79,94,79,93,79,92,78,91,77,90,76,89,75,88]
+  },
+  {
+   "a": "village_03_01",
+   "b": "town_03_02",
+   "kind": "track",
+   "path": [136,33,137,33,138,33,139,32,140,31,141,30,141,29,141,28,140,27,139,26,139,25,138,24]
+  },
+  {
+   "a": "village_03_02",
+   "b": "castle_03_03",
+   "kind": "track",
+   "path": [190,45,190,46,190,47,190,48,190,49,189,50,188,50,187,50,186,50]
+  },
+  {
+   "a": "village_03_03",
+   "b": "castle_03_02",
+   "kind": "track",
+   "path": [141,16,140,16,139,16,138,15,137,14,136,13]
+  },
+  {
+   "a": "village_03_04",
+   "b": "castle_03_05",
+   "kind": "track",
+   "path": [162,22,163,22,164,22,165,23,166,23,167,24,168,25,169,26,170,27,171,28]
+  },
+  {
+   "a": "village_03_05",
+   "b": "castle_03_06",
+   "kind": "track",
+   "path": [154,50,153,50,152,50,151,50,150,50,149,50,148,51]
+  },
+  {
+   "a": "village_03_06",
+   "b": "castle_03_02",
+   "kind": "track",
+   "path": [143,9,142,10,141,10,140,10,139,10,138,11,137,12,136,13]
+  },
+  {
+   "a": "village_03_07",
+   "b": "castle_03_05",
+   "kind": "track",
+   "path": [172,21,172,22,172,23,172,24,172,25,172,26,172,27,171,28]
+  },
+  {
+   "a": "village_03_08",
+   "b": "castle_03_06",
+   "kind": "track",
+   "path": [148,59,148,58,148,57,148,56,148,55,148,54,148,53,148,52,148,51]
+  },
+  {
+   "a": "village_03_09",
+   "b": "castle_03_06",
+   "kind": "track",
+   "path": [162,57,161,57,160,56,159,55,158,54,157,53,156,52,155,51,154,50,153,50,152,50,151,50,150,50,149,50,148,51]
+  },
+  {
+   "a": "village_03_10",
+   "b": "town_03_01",
+   "kind": "track",
+   "path": [168,51,167,51,166,52,165,51,164,50,163,49,163,48,163,47,163,46,163,45,163,44,163,43,163,42,163,41,163,40,163,39,163,38,163,37,164,36]
+  },
+  {
+   "a": "village_03_11",
+   "b": "castle_03_04",
+   "kind": "track",
+   "path": [153,26,153,27,153,28,153,29,153,30,152,31]
+  },
+  {
+   "a": "village_03_12",
+   "b": "castle_03_06",
+   "kind": "track",
+   "path": [154,56,153,56,152,55,151,54,150,53,149,52,148,51]
+  },
+  {
+   "a": "village_03_13",
+   "b": "town_03_02",
+   "kind": "track",
+   "path": [143,31,142,31,141,30,141,29,141,28,140,27,139,26,139,25,138,24]
+  },
+  {
+   "a": "village_03_14",
+   "b": "castle_03_06",
+   "kind": "track",
+   "path": [159,53,158,53,157,53,156,52,155,51,154,50,153,50,152,50,151,50,150,50,149,50,148,51]
+  },
+  {
+   "a": "village_03_15",
+   "b": "town_03_02",
+   "kind": "track",
+   "path": [131,28,132,28,133,28,134,28,135,27,136,27,137,26,137,25,138,24]
+  },
+  {
+   "a": "village_03_16",
+   "b": "town_03_02",
+   "kind": "track",
+   "path": [146,18,145,19,144,20,143,21,142,22,141,23,140,23,139,23,138,24]
+  },
+  {
+   "a": "village_03_17",
+   "b": "castle_03_01",
+   "kind": "track",
+   "path": [200,40,199,40,198,40,197,40,196,40,195,40,194,40,193,39,192,38,192,37]
+  },
+  {
+   "a": "village_04_01",
+   "b": "castle_04_06",
+   "kind": "track",
+   "path": [112,39,112,40,112,41,113,42,113,43,113,44,113,45,114,46]
+  },
+  {
+   "a": "village_04_02",
+   "b": "castle_04_03",
+   "kind": "track",
+   "path": [70,37,70,38,70,39,71,40,71,41,71,42,72,43,73,44]
+  },
+  {
+   "a": "village_04_03",
+   "b": "town_04_03",
+   "kind": "track",
+   "path": [103,10,103,11,102,12,101,13,100,14,99,15,99,16,99,17,98,18,98,19,98,20,98,21,98,22,98,23]
+  },
+  {
+   "a": "village_04_04",
+   "b": "castle_04_06",
+   "kind": "track",
+   "path": [119,32,118,33,117,34,116,35,115,36,114,37,113,38,112,39,112,40,112,41,113,42,113,43,113,44,113,45,114,46]
+  },
+  {
+   "a": "village_04_05",
+   "b": "castle_04_03",
+   "kind": "track",
+   "path": [64,46,65,45,66,44,67,43,68,42,69,42,70,42,71,42,72,43,73,44]
+  },
+  {
+   "a": "village_04_06",
+   "b": "town_04_01",
+   "kind": "track",
+   "path": [51,37,50,37,49,37,48,37,47,37,46,36,45,35,44,35,43,35,42,35,41,35,40,35,39,35,38,35]
+  },
+  {
+   "a": "village_04_07",
+   "b": "castle_04_01",
+   "kind": "track",
+   "path": [91,36,90,36,89,36,88,36,87,36,86,36,85,37]
+  },
+  {
+   "a": "village_04_08",
+   "b": "castle_04_07",
+   "kind": "track",
+   "path": [96,36,97,36,98,36,99,36,100,36,101,37]
+  },
+  {
+   "a": "village_04_09",
+   "b": "town_04_03",
+   "kind": "track",
+   "path": [90,21,91,22,92,23,93,23,94,23,95,23,96,23,97,23,98,23]
+  },
+  {
+   "a": "village_04_10",
+   "b": "castle_04_05",
+   "kind": "track",
+   "path": [77,27,77,26,77,25,77,24,78,23,79,22]
+  },
+  {
+   "a": "village_04_11",
+   "b": "castle_04_03",
+   "kind": "track",
+   "path": [78,41,77,42,76,43,75,44,74,44,73,44]
+  },
+  {
+   "a": "village_04_12",
+   "b": "town_04_02",
+   "kind": "track",
+   "path": [85,49,86,49,87,49,88,49,89,48,90,47,91,46,92,45]
+  },
+  {
+   "a": "village_04_13",
+   "b": "castle_04_05",
+   "kind": "track",
+   "path": [85,14,85,15,85,16,84,17,83,18,82,19,81,20,80,21,79,22]
+  },
+  {
+   "a": "village_04_14",
+   "b": "castle_04_04",
+   "kind": "track",
+   "path": [56,40,57,39,58,38,59,37,60,36,61,35,62,34,62,33,62,32,62,31,62,30,63,29]
+  },
+  {
+   "a": "village_04_15",
+   "b": "castle_04_05",
+   "kind": "track",
+   "path": [76,16,76,17,76,18,76,19,77,20,78,21,79,22]
+  },
+  {
+   "a": "village_04_16",
+   "b": "castle_04_07",
+   "kind": "track",
+   "path": [106,39,105,38,104,37,103,37,102,37,101,37]
+  },
+  {
+   "a": "village_04_17",
+   "b": "castle_04_05",
+   "kind": "track",
+   "path": [84,19,83,19,82,19,81,20,80,21,79,22]
+  },
+  {
+   "a": "village_05_01",
+   "b": "castle_05_03",
+   "kind": "track",
+   "path": [87,69,88,69,89,68,90,67,91,67,92,66,93,65,94,64]
+  },
+  {
+   "a": "village_05_02",
+   "b": "castle_05_02",
+   "kind": "track",
+   "path": [155,85,155,86,155,87,155,88,155,89,156,90]
+  },
+  {
+   "a": "village_05_03",
+   "b": "castle_05_06",
+   "kind": "track",
+   "path": [145,74,144,74,143,74,142,74,141,74,140,74,139,73,138,72,137,71]
+  },
+  {
+   "a": "village_05_04",
+   "b": "town_05_01",
+   "kind": "track",
+   "path": [122,58,122,59,122,60,122,61,122,62,122,63,122,64,123,65,124,66]
+  },
+  {
+   "a": "village_05_05",
+   "b": "castle_05_06",
+   "kind": "track",
+   "path": [131,71,131,70,131,69,132,68,133,68,134,68,135,68,136,69,137,70,137,71]
+  },
+  {
+   "a": "village_05_06",
+   "b": "town_05_04",
+   "kind": "track",
+   "path": [104,85,103,86,102,86,101,86,100,86,99,86,98,86,97,85,96,84,95,83,94,82,93,81]
+  },
+  {
+   "a": "village_05_07",
+   "b": "castle_05_05",
+   "kind": "track",
+   "path": [79,107,80,107,81,107,82,107,83,106,84,105,85,104]
+  },
+  {
+   "a": "village_05_08",
+   "b": "castle_05_02",
+   "kind": "track",
+   "path": [150,85,151,86,152,87,153,87,154,88,155,89,156,90]
+  },
+  {
+   "a": "village_05_09",
+   "b": "castle_05_02",
+   "kind": "track",
+   "path": [146,82,147,82,148,83,149,84,150,85,151,86,152,87,153,87,154,88,155,89,156,90]
+  },
+  {
+   "a": "village_05_10",
+   "b": "castle_05_02",
+   "kind": "track",
+   "path": [154,79,154,80,154,81,154,82,154,83,154,84,155,85,155,86,155,87,155,88,155,89,156,90]
+  },
+  {
+   "a": "village_05_11",
+   "b": "castle_05_01",
+   "kind": "track",
+   "path": [81,64,82,63,83,62,84,61,85,60,86,59,86,58,85,57]
+  },
+  {
+   "a": "village_05_12",
+   "b": "castle_05_05",
+   "kind": "track",
+   "path": [86,109,86,108,86,107,86,106,86,105,85,104]
+  },
+  {
+   "a": "village_05_13",
+   "b": "town_05_01",
+   "kind": "track",
+   "path": [128,54,128,55,128,56,128,57,127,58,126,59,125,60,125,61,125,62,125,63,125,64,125,65,124,66]
+  },
+  {
+   "a": "village_05_14",
+   "b": "town_05_01",
+   "kind": "track",
+   "path": [122,75,122,74,123,73,124,72,124,71,124,70,124,69,124,68,124,67,124,66]
+  },
+  {
+   "a": "village_05_15",
+   "b": "town_05_01",
+   "kind": "track",
+   "path": [116,65,117,65,118,65,119,65,120,65,121,65,122,65,123,65,124,66]
+  },
+  {
+   "a": "village_05_16",
+   "b": "castle_05_06",
+   "kind": "track",
+   "path": [139,57,139,58,139,59,139,60,139,61,139,62,138,63,138,64,138,65,138,66,138,67,138,68,138,69,137,70,137,71]
+  },
+  {
+   "a": "village_06_01",
+   "b": "town_06_02",
+   "kind": "track",
+   "path": [111,133,111,132,111,131,111,130,112,129,113,128,114,127,115,126,116,125,117,124,118,123,119,122,120,121]
+  },
+  {
+   "a": "village_06_02",
+   "b": "castle_06_01",
+   "kind": "track",
+   "path": [83,116,83,115,83,114,83,113,84,112,84,111,85,110,86,109,87,108,88,108,89,108,90,108,91,108,92,109,93,110,94,111]
+  },
+  {
+   "a": "village_06_03",
+   "b": "castle_06_05",
+   "kind": "track",
+   "path": [98,130,99,129,100,128,101,127,101,126,101,125,101,124,101,123,101,122,101,121]
+  },
+  {
+   "a": "village_06_04",
+   "b": "castle_06_05",
+   "kind": "track",
+   "path": [103,138,103,137,103,136,103,135,103,134,103,133,103,132,103,131,103,130,103,129,102,128,101,127,101,126,101,125,101,124,101,123,101,122,101,121]
+  },
+  {
+   "a": "village_06_05",
+   "b": "castle_06_01",
+   "kind": "track",
+   "path": [103,112,102,112,101,112,100,112,99,112,98,112,97,111,96,111,95,111,94,111]
+  },
+  {
+   "a": "village_06_06",
+   "b": "castle_06_04",
+   "kind": "track",
+   "path": [128,103,129,102,130,101,131,100,132,99,133,98,134,97,135,97,136,96,137,96,138,96,139,96,140,96,141,96,142,97,143,98]
+  },
+  {
+   "a": "village_06_07",
+   "b": "castle_06_01",
+   "kind": "track",
+   "path": [95,104,94,105,93,106,92,107,91,108,92,109,93,110,94,111]
+  },
+  {
+   "a": "village_06_08",
+   "b": "town_06_01",
+   "kind": "track",
+   "path": [120,140,121,140,122,140,123,140,124,140,125,140,126,140,127,140,128,140,129,139,130,138]
+  },
+  {
+   "a": "village_06_09",
+   "b": "castle_06_02",
+   "kind": "track",
+   "path": [73,113,72,113,71,114,70,115,69,116]
+  },
+  {
+   "a": "village_06_10",
+   "b": "castle_06_04",
+   "kind": "track",
+   "path": [145,113,145,112,145,111,145,110,145,109,145,108,145,107,145,106,145,105,145,104,145,103,145,102,145,101,145,100,144,99,143,98]
+  },
+  {
+   "a": "village_06_11",
+   "b": "castle_06_05",
+   "kind": "track",
+   "path": [100,116,100,117,100,118,100,119,100,120,101,121]
+  },
+  {
+   "a": "village_06_12",
+   "b": "town_06_04",
+   "kind": "track",
+   "path": [165,133,165,132,166,132,167,131,168,130,169,129,170,128,171,127,172,126,173,125,174,125,175,126,176,127,177,127,178,128]
+  },
+  {
+   "a": "village_06_13",
+   "b": "castle_06_02",
+   "kind": "track",
+   "path": [80,121,79,121,78,121,77,121,76,121,75,121,74,120,73,119,72,118,71,117,70,117,69,116]
+  },
+  {
+   "a": "village_06_14",
+   "b": "castle_06_02",
+   "kind": "track",
+   "path": [71,130,71,129,72,128,73,127,73,126,73,125,73,124,73,123,73,122,73,121,73,120,73,119,72,118,71,117,70,117,69,116]
+  },
+  {
+   "a": "village_06_15",
+   "b": "castle_06_05",
+   "kind": "track",
+   "path": [91,133,92,133,93,133,94,133,95,132,96,131,97,131,98,130,99,129,100,128,101,127,101,126,101,125,101,124,101,123,101,122,101,121]
+  },
+  {
+   "a": "village_06_16",
+   "b": "town_06_02",
+   "kind": "track",
+   "path": [131,114,130,114,129,114,128,114,127,114,126,115,125,116,124,117,123,118,122,119,121,120,120,121]
+  }
+ ]
+}

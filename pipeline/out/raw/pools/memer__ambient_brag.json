@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "job_id": "memer__ambient_brag",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "5a3228e0979ec98da345976b506744b0a4db45fcb9ccefcf0252a0a8bc30628f",
+    "model": "haiku",
+    "cost_usd": 0.0071503,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Extra data: line 1 column 913 (char 912)"
+    ],
+    "created_at": "2026-11-01T17:02:37+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "{troop_count} soldiers and not one of them knows how to hold a spoon xD",
+        "i have {gold} gold and my horse wears a monocle. we are unstoppable :)",
+        "just won at {fief}. the losing side got a formal apology letter written by my goat",
+        "our army is {troop_count} strong. the enemy is also {troop_count} strong but theirs looks sad :(",
+        "counted my {gold} gold twice. still the same amount. the coins are very proud of me",
+        "{fief} is ours now. the flag is a bedsheet but it is a very confident bedsheet xD",
+        "{troop_count} troops marched in and asked for snacks first. victory tastes like bread :D",
+        "my treasury holds {gold} gold and a rock i call the accountant. respect the rock",
+        "won a battle at {fief} so i am legally required to stand on a barrel and yell about it :)",
+        "bragging is a skill. i have {troop_count} men who can confirm this, mostly by nodding :/"
+      ]
+    }
+  }
+}

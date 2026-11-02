@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "job_id": "conv_b18",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "86655ad927ad3776fd56d6a8371f9092ffc7a3eb4b3777e88f7cf7d6a98776ab",
+    "model": "haiku",
+    "cost_usd": 0.0122578,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'Our banners fly over {fief} as of this morning. {enemy_faction} lost its garrison there entirely, which I suspect will be discussed at length in their council.' is too long"
+    ],
+    "created_at": "2026-11-01T17:43:43+00:00"
+  },
+  "data": {
+    "conv_086": [
+      {
+        "speaker": "beakon",
+        "text": "omg {player} just got the renown thing!!! the whole server is talking about it :D i owe u a bread i swear",
+        "delay_s": 0
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "famous now huh. still dies in the marsh tho",
+        "delay_s": 5
+      },
+      {
+        "speaker": "beakon",
+        "text": "ur so mean spitesprout >:( anyway {player} ur the best, i think you deserve a statue in {town} :D",
+        "delay_s": 4
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "statue of a guy who got yeeted by a goat in {village}. sure",
+        "delay_s": 6
+      },
+      {
+        "speaker": "beakon",
+        "text": "its not even a goat it was a sheep :( but thx {player} for pulling me out of the mud at {village} :)",
+        "delay_s": 3
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "still cant swim. classic {player} sure is famous",
+        "delay_s": 5
+      }
+    ],
+    "conv_087": [
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "Our banners fly over {fief} as of this morning. {enemy_faction} lost its whole garrison there.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Heard. Prices in {town} will shift by morning. Wool at {gold} a bolt, first come.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "Oh no is {fief} ours now i walked past it yesterday :( is it safe to go bak",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "It is safe, Pikkerel. Our men hold the walls and {enemy_faction} will not return this week.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Good. I will be selling in {town} tomorrow if anyone wants to meet me there.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "Ok thank you :) I think I will walk over to {village} first then, I have {gold} in my bag.",
+        "delay_s": 7
+      }
+    ],
+    "conv_088": [
+      {
+        "speaker": "Ropeknot42",
+        "text": "Honour is what keeps others from calling you a cheat when you win. Winning alone is only a story people forget.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "honour is just winning but with more paperwork lol :D nobody writes songs about the guy who lost nicely!!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "Songs are written about the ones who won. The ones who lost nicely are the ones invited back to the table.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "ok thats kinda deep ropeknot :o but a win at {village} is still a win. honor can wait til after the pie",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "A pie is not a treaty, owl. Men who break their word find the gold stops coming, and so do the allies.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "gold stops coming?? ur so dramatic :) i just want a parade through {town} with {troop_count} banners and a goose",
+        "delay_s": 5
+      }
+    ],
+    "conv_089": [
+      {
+        "speaker": "DukeScythington",
+        "text": "the goose at {village} is still unbeaten and i think it knows what happened to the chicken :) its basically a legend",
+        "delay_s": 0
+      },
+      {
+        "speaker": "LARKZ7",
+        "text": "the chicken remains unbeaten. respect it :) bring the goose back for a rematch",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "A matter for the council, I think. The goose has now been named in a treaty, and I did not expect that.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DukeScythington",
+        "text": "a treaty?? the goose signed a treaty?? that means war actualy :) for real this time",
+        "delay_s": 3
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "It signed nothing, Duke. Though I have been asked to bring it to the next session in {town}.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "LARKZ7",
+        "text": "lmaooo the council wants to vote on a goose now :D i am so in. {gold} says the chicken wins",
+        "delay_s": 5
+      }
+    ],
+    "conv_090": [
+      {
+        "speaker": "SirCricketsmite",
+        "text": "bruh Rhyeh that wall at {village} was sooo not fair :) u teleported thta last push",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "lol cricket wer ur wagons? u cant even find the road to {town} without a map",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SirCricketsmite",
+        "text": "u had {troop_count} men hiding behind the mill dont lie :D everyone saw it",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "i didnt teleport anyone cricket ur just mad ur crew died in the mud :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SirCricketsmite",
+        "text": "mad?? i got the replay saved. ill post it in chat when i get to {town} lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "lol post whatever u want. the replay says ur wagons got stuck in {village} mud",
+        "delay_s": 6
+      }
+    ]
+  }
+}

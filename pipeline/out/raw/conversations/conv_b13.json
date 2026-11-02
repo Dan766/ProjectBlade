@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "job_id": "conv_b13",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "16d83057c59003be576f8479fce77f44ad70ec8f79c00c6eff081c8bc37a77fe",
+    "model": "haiku",
+    "cost_usd": 0.00761855,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:42:28+00:00"
+  },
+  "data": {
+    "conv_061": [
+      {
+        "speaker": "drumdwarf",
+        "text": "nickname unlocked: {player} the lukewarm :D  the whole server is saying ur name now lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Congratulations, {player}! Word travels fast, and your name is all over the roads now :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Famous names draw buyers. Business is business, {player}. Shall we talk prices?",
+        "delay_s": 6
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "barrelcask talking prices again?? this is why nobody likes salt tbh :P",
+        "delay_s": 3
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Some of us earned our names by trading, drumdwarf, not by shouting in global chat. Mind your manners.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "ok ok im flattered :) but no discounts for barrelcask, mine is the better bread",
+        "delay_s": 4
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Iron sells out fast in {town} once a name gets around. Care for a deal, {player}? Fair prices :)",
+        "delay_s": 7
+      }
+    ],
+    "conv_062": [
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "gg Piketh_Goldhand ur salt prices r still trash lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "Your opinions on salt are noted, though I would rather hear them from someone who has sold any.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "bro u made {gold} gold in {town} and called it a victory",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "I made {gold} gold in {town} and I have the ledger to prove it. Noise is not the same as profit, xX_S4geMeta_Xx.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "ledger lol ur ledger is prob just a napkin w a doodle on it",
+        "delay_s": 2
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "Patience is a virtue, xX_S4geMeta_Xx. Perhaps one day you will learn it from a merchant who has actually sold something.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "patience is for ppl who cant win a flank",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "Your flank was well timed, I grant you that. The rest of your strategy was a gift to me, and I thank you for it.",
+        "delay_s": 7
+      }
+    ],
+    "conv_063": [
+      {
+        "speaker": "stoolpenny",
+        "text": "Has anyone seen a grey cart with a squeaky wheel? Someone took it off the {village} road last night.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "I have seen no such cart, stoolpenny. Yet I shall watch for it at the {town} gate, as the dawn requires of me.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "stoolpenny",
+        "text": "Salt is up again. Nothing personal, but a cart full of salt does not walk off by itself, does it?",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Let the dawn witness this oath, stoolpenny: should I find the thief, I will return your cart before the bells ring.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "stoolpenny",
+        "text": "Thank you. A thief who steals salt carts is a fool, and fools get caught in {town} sooner or later.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Then we are agreed. Two of our horses are also missing from the stable at {village}. Perhaps the losses share a hand.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "stoolpenny",
+        "text": "Two horses and a cart? Somebody is having a bad week. Keep your eyes open, friend, I will ask the carters.",
+        "delay_s": 3
+      }
+    ],
+    "conv_064": [
+      {
+        "speaker": "ConsulCometa",
+        "text": "A matter for the council, I think. Three horses have gone missing from the stables at {village}, and I have my suspicions.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "Hear me, ConsulCometa, the ancestors are watching. Our old roads do not tolerate thieves, and neither do I.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "How poetic, RavenVowhold. I merely ask who was seen near the {village} gate the night the horses left.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "The ancestors saw everything, Consul. The question is whether you will admit your own carters lost their faith first.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "Accusations are cheap in a republic. I would rather see a receipt than a riddle. Bring me proof and I will act.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "Proof is for merchants. I bring you the oath of my blood, and it is worth more than your ledgers.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "Then the council will decide, and I trust it more than blood. Good evening, RavenVowhold.",
+        "delay_s": 8
+      }
+    ],
+    "conv_065": [
+      {
+        "speaker": "plumsy",
+        "text": "omg did u see the {town} fight??? {player} just wiped {troop_count} guys in a row lol :D i was hiding behind a cart the whole time sorry!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "lich3n_grudge",
+        "text": "lol {player} got lucky once and now everyones a fan xD",
+        "delay_s": 4
+      },
+      {
+        "speaker": "plumsy",
+        "text": "wait no!! u cant say that, {player} is so good :( i tried to follow their flank and i fell in a ditch lmao",
+        "delay_s": 3
+      },
+      {
+        "speaker": "lich3n_grudge",
+        "text": "gg {player} wait wat was ur name again :P theres no way the server knows u",
+        "delay_s": 5
+      },
+      {
+        "speaker": "plumsy",
+        "text": "oops sorry!! wrong party :( i meant to cheer for u lich3n_grudge, promise!!! but the real hero is {player} :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "lich3n_grudge",
+        "text": "ur hero got 3 wins and a bad haircut xD thats it thats the server",
+        "delay_s": 3
+      },
+      {
+        "speaker": "plumsy",
+        "text": "{player} if ur reading this, teach me the flank thing!! i will bring snacks and not fall in any ditches i promise :D",
+        "delay_s": 6
+      }
+    ]
+  }
+}

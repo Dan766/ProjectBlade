@@ -1,0 +1,277 @@
+{
+ "username": "xX_JackalPup_Xx",
+ "signature": {
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_032.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "oh no oh no, ur {my_faction}?? wait ur not with us?? i think i attacked u first :( sorry sorry, we did not mean it"
+   },
+   {
+    "id": "sig.persona_032.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "hiii, {persona} here from {my_faction} :D is it rude to stand this close or nah?? sorry :)"
+   },
+   {
+    "id": "sig.persona_032.encounter_greeting.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "oh hey {player}! we are just on our way somewhere i think :) do u know where the road goes?? i got lost (sorry)"
+   },
+   {
+    "id": "sig.persona_032.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}!!! omg hi!! ur so cool looking :D i am {persona} and i am very happy to see a friendly face :)"
+   },
+   {
+    "id": "sig.persona_032.encounter_greeting.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "hi {player} :D we are off to find food. the fens are not food right?? i was told they were lol. ur kind for waving :)"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_032.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat us with {troop_count} guys?? thats not fair xD ok fine, we lost. i will be back, i promise :/"
+   },
+   {
+    "id": "sig.persona_032.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "hey {player}, we lost to u :( we only had {troop_count} guys and they all ran. do we get them back or nah?? idk how this works"
+   },
+   {
+    "id": "sig.persona_032.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "gg {player}!! u fought so well, i got hit by like {troop_count} arrows and still didnt die. is that normal?? :D"
+   },
+   {
+    "id": "sig.persona_032.beat_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} beat us fair and square :) we lost {troop_count} troops and i am still so impressed!! teach me ur ways pls :D"
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_032.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} u let me go?? thank u thank u thank u :D i was sure i would be ransomed for like a hundred years lol"
+   },
+   {
+    "id": "sig.persona_032.released_by_player.02",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "omg {player} just let me walk free!! ur the nicest. sorry for all the stabbing earlier :) (not all of it was me)"
+   },
+   {
+    "id": "sig.persona_032.released_by_player.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "hey {player}, thx for releasing me instead of ransom. i didnt have the gold anyway so... sorry :("
+   },
+   {
+    "id": "sig.persona_032.released_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} let me go free. rude to say but i was ready to pay up i think? confused lol :/ next time ill be more ready"
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_032.fought_alongside_player.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}!! we WON!! :D i think i hit someone with my shield?? i dont even know who did what lol. thank u for having our backs"
+   },
+   {
+    "id": "sig.persona_032.fought_alongside_player.02",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "omg we beat {enemy_faction} with {player} and {troop_count} guys!!! i am going to remember this forever :D"
+   },
+   {
+    "id": "sig.persona_032.fought_alongside_player.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "gg {player}, that was nice teamwork :) sorry if i stood in ur way a lot, i kept running into things"
+   },
+   {
+    "id": "sig.persona_032.fought_alongside_player.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} we did it!!! ur sooo good at this. i was just swinging around and yelling, thank u so much :D"
+   },
+   {
+    "id": "sig.persona_032.fought_alongside_player.05",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "that fight vs {enemy_faction} was wild. {troop_count} of us made it, and idk how but we won?? :)"
+   }
+  ],
+  "whisper_beg_help": [
+   {
+    "id": "sig.persona_032.whisper_beg_help.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} pls help!! {enemy_faction} is at {fief} and idk what to do :( sorry to bother u, ur the best at this"
+   },
+   {
+    "id": "sig.persona_032.whisper_beg_help.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "hey {player}, is {fief} still ours? someone said {enemy_faction} is marching on it. should i panic?? :("
+   },
+   {
+    "id": "sig.persona_032.whisper_beg_help.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, im begging u, could u maybe come to {fief}? i will pay u back in fens. kidding. i think :D"
+   },
+   {
+    "id": "sig.persona_032.whisper_beg_help.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} u there?? we are losing {fief} to {enemy_faction} and im so scared :( any help would be amazing"
+   }
+  ],
+  "ambient_lfg": [
+   {
+    "id": "sig.persona_032.ambient_lfg.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone want to help us hold {fief}?? {enemy_faction} is coming and i have a sword now!! :D come pls"
+   },
+   {
+    "id": "sig.persona_032.ambient_lfg.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "LFG for {fief} vs {enemy_faction}!! we have 4 ppl and a goat lol. more would be amazing :)"
+   },
+   {
+    "id": "sig.persona_032.ambient_lfg.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} needs recruits!! no experience needed (i have 3 weeks and im still confused) :D join at {fief}"
+   },
+   {
+    "id": "sig.persona_032.ambient_lfg.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "hey guys is anyone going to {fief}? i dont know the way and i dont want to get lost, i already got lost twice today :("
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_032.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "does anyone know if the fens are edible?? someone said they're food. i was going to try a fen at {village} :)"
+   },
+   {
+    "id": "sig.persona_032.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{town} is so pretty in the rain!! the server lag makes everything jump around though lol :D"
+   },
+   {
+    "id": "sig.persona_032.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "i walked to {village} and back and my legs hurt so much, is that normal?? also i think i saw a sheep? :)"
+   },
+   {
+    "id": "sig.persona_032.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "sry, prob dumb, but does lag ease if u stand still? asking for me lol"
+   }
+  ],
+  "player_joined_my_faction": [
+   {
+    "id": "sig.persona_032.player_joined_my_faction.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "omg {player} joined {my_faction}!!! welcome!! we r all so happy :D i will show u the way to the good tavern"
+   },
+   {
+    "id": "sig.persona_032.player_joined_my_faction.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} u joined us?! thank u thank u thank u :D ill be ur loyal friend forever, promise. sorry for being so bad at everything lol"
+   },
+   {
+    "id": "sig.persona_032.player_joined_my_faction.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} is with {my_faction} now? cool cool cool :) hope u like it here, its very confusing but fun"
+   },
+   {
+    "id": "sig.persona_032.player_joined_my_faction.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "um {player}, u joined {my_faction}?? ok. i wont say anything weird. promise :/ sorry"
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_032.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "yes yes yes!! an alliance with {player}?! i will be sooo good an ally, promise :D ill try not to stab u by accident"
+   },
+   {
+    "id": "sig.persona_032.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "sure, {player}! lets do it :) ill tell my people. not sure what the rules are yet, but ill learn"
+   },
+   {
+    "id": "sig.persona_032.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} and me, allies!!! :D lets go beat {enemy_faction} together. ill carry the rope and u do the hard stuff lol"
+   },
+   {
+    "id": "sig.persona_032.encounter_alliance_yes.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ok {player}, deal :) if {rival} shows up ill let u handle it, i dont know how to fight them yet :/"
+   }
+  ],
+  "captured_by_player": [
+   {
+    "id": "sig.persona_032.captured_by_player.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "oh no, caught. ok ok, {player} im ur prisoner now :( ur going to ask for {gold} gold right?? i dont have that much"
+   },
+   {
+    "id": "sig.persona_032.captured_by_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "well this is awkward :) hi {player}, i am ur captive now. how much is my ransom?? idk the normal price lol"
+   },
+   {
+    "id": "sig.persona_032.captured_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}!! u caught me!! :D thank u for being nice about it. {my_faction} will pay up i think, maybe {gold} gold?"
+   },
+   {
+    "id": "sig.persona_032.captured_by_player.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "sorry sorry sorry for running into ur spear, {player} :( im ok tho. so whats the ransom, is it {gold} gold or can i pay in fens lol"
+   }
+  ]
+ }
+}

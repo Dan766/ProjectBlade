@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "job_id": "persona_073",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "4e0b53b438acac68d4d9e2c0b1cd71f3467650a950c15c14a60433b14645642e",
+    "model": "haiku",
+    "cost_usd": 0.007011150000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:36:30+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} ur line broke at 40 seconds, the replay is not kind to u. noted"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} sent {troop_count} men at my flank and it was over by minute three. ur formation is the problem, not ur numbers"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} ur skirmishers spread too thin on the left. fix the spacing before the rematch, you lost the field on that alone"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} {troop_count} troops and {gold} gold of upkeep, and you still broke on my first charge. i have the numbers and the replay if you want a rematch."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} gg. you held the center longer than i expected. i will model that"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} took the field with {troop_count} men. my archers were out of position, not outclassed. replay is in my queue"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} the flank on turn 4 was my mistake. ur cavalry timing was clean. i will be back with a better line"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} gg. i lost {troop_count} to a line that should not have held. i have the timings in my sheet. we run it again when my economy is back up."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} lucky field. i rewatched it 14 times. the error was my positioning, not ur army. rematch when i fix it"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again. third loss to the same flank. i have the ratio on file and it is not in my favor"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} that is three losses to ur army now. i am not going to stop tracking this. the ratio will flip or i rebuild the whole line"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} beat me with {troop_count} again. respect for consistency. still cannot see how u keep finding the gap in my line"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} ok. at this point ur army is a variable i have to model. i have {troop_count} men set aside for the next run"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has won every field fight this season. the server keeps calling it luck. it is ur compositions and ur timing"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} streak is above what my spreadsheet predicted. streaks end when the economy runs out though"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} enjoy the streak. every fight you take costs upkeep and i have the math on how long that holds"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} clean run so far. the curve bends at the next siege, i would not get comfortable"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} lost {troop_count} men in one fight. that is a bad line, not a bad army. rebuild the flank and the numbers come back"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} {troop_count} men gone and still talking. the upkeep was going to finish you anyway. the spreadsheet called it"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that was a rough one. ur left flank folded where mine did last season. want my timing notes"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} lost most of the army. happens. ur formation had no reserve. next time keep one line back"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {town} field, next week. bring the army you actually have, not the one on ur profile. i will be waiting"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} i have {town} and the road to {village} open. the ratio favors a fight there. say when and i will bring the numbers"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} ur {village} garrison is weak on archers. meet me outside {town} and find out if the spreadsheet is right"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} open field near {village}, no siege, loser pays the repair cost. decide by tonight"
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} the {enemy_faction} line broke on our second push. {troop_count} men and the timing was clean. good work"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} that second charge was right. we split their archers and nothing else mattered. keep that formation next time"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} that flank you took was the right call. we crushed the {enemy_faction} archers with {troop_count} men in under two minutes. same plan next time, and bring the spreadsheet."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} clean win against {enemy_faction}. ratio was in our favor by the end. i would still have pulled reserves earlier"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} men under arms, {gold} gold in the coffers and {fief} is ours by month's end. the numbers are not a secret"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "my upkeep is {gold} gold a week and the army still turns a profit. anyone who calls siege expensive has not run the math"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} garrison is at {troop_count} and rising. efficient composition beats big numbers every time"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{gold} gold banked, {troop_count} troops in the field. the spreadsheet has never been wrong and it does not sleep either"
+      }
+    ],
+    "my_faction_took_fief": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours. {enemy_faction} lost it on a bad siege ratio, which is their problem, not ours"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has {fief}. the siege took eleven minutes and cost less than their garrison upkeep. efficient"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} flies {my_faction} colors now. {enemy_faction} will send relief, and the numbers say they will be late"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} taken from {enemy_faction}. the walls were thin and the garrison was undersupplied. not complicated"
+      }
+    ],
+    "player_besieging_my_fief": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is sieging {fief}. good, the walls are the cheapest part of that fight. try the ram before the ladders, it saves upkeep"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {fief} is not a free win. i have the garrison math and the ladder timing ready. u will lose men on the wall"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} started a siege on {fief}. the wall is weaker than the gate, check the timing on the second push"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} u have {fief} surrounded but the supply line is thin. i would send the wagons first. just saying"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "rain over {town} again. the road is slow but the upkeep math does not care about weather"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else get a lag spike at the {village} crossing? my replay buffer is a mess"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{town} market prices went up. grain for the army is the real cost, not the swords"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "whoever is selling iron in {town}, your price is too high. peasants are wasted upkeep anyway"
+      }
+    ]
+  }
+}

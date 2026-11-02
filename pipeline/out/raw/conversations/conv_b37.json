@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "job_id": "conv_b37",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "3d717bae46f856312960e37f63646834d2ac01706e77da1088878989a1000143",
+    "model": "haiku",
+    "cost_usd": 0.00635265,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:45:25+00:00"
+  },
+  "data": {
+    "conv_181": [
+      {
+        "speaker": "RavenVowhold",
+        "text": "Hear me, all of Ormerath. {fief} is ours again. The ancestors are watching, and they are pleased.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Took {fief} from {enemy_faction}. Sit down, Raven. The hard part is holding it.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "Holding is easy when the walls are high. We garrisoned {troop_count} men at the gate and I sleep sound.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "hensworn",
+        "text": "{gold} gold in repairs says otherwise. Watch the north road tonight.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "Let {enemy_faction} come. I will meet them in the mud of {village} if they dare. Hell, I would enjoy it.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Dry words. Get some sleep first, or you will be useless when they come.",
+        "delay_s": 12
+      }
+    ],
+    "conv_182": [
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "wait is it true there's a HUGE army heading to {village}?? sorry im new :( how do i even see the map",
+        "delay_s": 0
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "{troop_count} men isnt a rumour, its a scout report. stop panicking and read the map",
+        "delay_s": 8
+      },
+      {
+        "speaker": "SerCrowmere",
+        "text": "I have heard the same. If that host marches on {town}, we will answer it with honour and our full banners.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "omg ok. how many troops does {gold} gold even get u tho?? i have like {gold} and i dont know if thats enough :(",
+        "delay_s": 6
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "{gold} buys maybe twenty spears. not an army. wagg0n u still cant find the grain button",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "ok thats mean but fair :( ill go find the grain button rn lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "good. go. and dont zerg {town} alone",
+        "delay_s": 5
+      }
+    ],
+    "conv_183": [
+      {
+        "speaker": "SerTankardell",
+        "text": "Hark! {town} was granted to Tesnovar's oath, and no sly quill shall overturn it while I still draw breath, sirs.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "rustcouncil07",
+        "text": "oath is a lovely word tankardell. but the council votes said otherwise and a quiet word with the right folk does wonders",
+        "delay_s": 7
+      },
+      {
+        "speaker": "xX_PatinaSage_Xx",
+        "text": "Peace, both of you. Pack bread for two days before the fens, friend. Pride will not feed {village} this winter.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "SerTankardell",
+        "text": "Do not tell me of peace, Sage. Rustcouncil has bought {gold} gold worth of votes and you know it!",
+        "delay_s": 6
+      },
+      {
+        "speaker": "rustcouncil07",
+        "text": "lol bought is harsh. {troop_count} men raised their hands and nobody forced them. probably",
+        "delay_s": 8
+      },
+      {
+        "speaker": "xX_PatinaSage_Xx",
+        "text": "Enough. The question is who feeds the garrison at {town} once the banners come down. Answer that and I will listen.",
+        "delay_s": 10
+      }
+    ],
+    "conv_184": [
+      {
+        "speaker": "Ramratio91",
+        "text": "gg. your numbers were fine. your timing wasn't. again",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "Every road has a price, friend, and that was a fair one for {gold} gold. My timing was perfect, thank you very much.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "you said that last time at {town} too. timing is a skill. the bridge doesnt wait",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "The bridge at {town} never waited for anyone, that is the charm of it. I still think my timing was grand.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "ur timing was a kid running into a fence. i have the logs",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "You kept logs? Of course you did. Sell me those logs for a fair price, friend, and I will forget the whole sorry affair.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "no. the logs stay. they are the only thing that never lies",
+        "delay_s": 5
+      }
+    ],
+    "conv_185": [
+      {
+        "speaker": "lanternsorry",
+        "text": "bandits keep jumpin us on the roda to {village}!!! someone pls help :( lost {gold} gold ughhh",
+        "delay_s": 0
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Patience wins more fens than swords do, friend. Keep to the wider road and travel with company when you can.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "lmao maybe dont walk alone then :) bandits love easy gold",
+        "delay_s": 5
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "thats so mean :( i wasnt walking alone i had a escort... they ran away",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "ur escort ran away lmao so brave",
+        "delay_s": 4
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Enough, both of you. Escorts run when the road gets hard. Ask at {town} for a company that will hold its ground.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "ok sorry :( thank u for the tip!!! ur so nice :)",
+        "delay_s": 5
+      }
+    ]
+  }
+}

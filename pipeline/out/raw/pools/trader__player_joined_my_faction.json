@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "trader__player_joined_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "b1e0f7e27a9a8faecd3a22389229d182237ac9c507a51936300cfee55692fd17",
+    "model": "haiku",
+    "cost_usd": 0.00484045,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:13:43+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} swore to {my_faction}? Fine. Let's see if the oath lasts longer than my patience.",
+        "Another sword on the payroll, another mouth to feed out of my tolls. Wonderful.",
+        "Had {player} down as a bandit last month. Now they're family. Trade's a strange old game.",
+        "Hope {player} actually pays the tariffs this time. The last oath-taker didn't, and I'm still annoyed.",
+        "Swearing loyalty is cheap. Paying road fees on time is the real test, {player}.",
+        "{my_faction} takes anyone now, apparently. Keep lowering the bar and my caravans start asking questions."
+      ],
+      "whisper": [
+        "Heard about the oath, {player}. I'll be watching your tolls closer than your banners, I promise.",
+        "Don't expect a discount for swearing in. You still owe me for that wagon you 'borrowed'.",
+        "Congratulations on joining. I'll be the one counting every coin that passes your gate, friend.",
+        "Oaths don't change my prices, {player}. Ambush me again and I'll bill {my_faction} for the damages.",
+        "Let's be honest, you swore for the protection. Just remember who pays for the roads you walk.",
+        "Still not sure you're trustworthy. Prove it with a fair toll and I might warm up. Maybe."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "New oath taken today at the gate. Roads should be a bit calmer if the new banners hold.",
+        "{player} is with {my_faction} now. Ask me in a month whether the tolls changed.",
+        "Fresh allegiances mean fresh contracts. Wagons moving out of {my_faction} lands by dawn.",
+        "Saw {player} take the oath. Doesn't change my margins much, but I'll allow some hope.",
+        "Good to see more hands signing up for {my_faction}. Fewer bandits, fewer headaches for everyone.",
+        "Watching who swears to {my_faction} and who sticks around. Business always tells you the truth eventually."
+      ],
+      "whisper": [
+        "Welcome to {my_faction}, {player}. Oaths are fine, but I'll judge you by how you handle a fair price.",
+        "Congratulations on the oath. If you need a wagon for the new post, I can offer a sensible rate.",
+        "Swearing in is the easy part. Keeping the caravan routes open is what really earns respect here.",
+        "Well, {player}, the banners are changing. Care to talk about grain prices before the next market?",
+        "I'll keep my ledger open for you. Show up on time with the tolls and we'll get along well enough.",
+        "Nice to have you on the books now, {player}. Let's see how the new allegiance affects your purse."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Huge welcome to {player}, who just swore to {my_faction}! Drinks on the caravan tonight, first round free.",
+        "Good news for everyone: {player} is ours now. Roads grow safer when honest folk stand together.",
+        "Cheers to {player} for joining {my_faction}. My best salt contracts are already looking brighter.",
+        "{player} just became a pillar of {my_faction}. I'd call that a very profitable day for us all.",
+        "Let's raise a cup to {player}! Stout hearts keep the trade routes open and the coin flowing.",
+        "Welcome aboard, {player}. Come find me at the market and we'll settle the first deal of many."
+      ],
+      "whisper": [
+        "Glad you swore in, {player}! I've got a shipment of dyed wool that could use a trustworthy escort.",
+        "Welcome to {my_faction}! Drop by when you have a moment, I'll give you my best price on horses.",
+        "So pleased you chose us, {player}. Honest oaths make honest trade, and honest trade makes me smile.",
+        "Congrats, {player}. I'll knock ten percent off your next order as a welcome gift. Don't tell the others.",
+        "Lovely to have you with {my_faction}. Shall we discuss a partnership on the northern route?",
+        "Welcome, {player}! With you on our side the roads will be safer and my ledgers will be happier. Win-win."
+      ]
+    }
+  }
+}

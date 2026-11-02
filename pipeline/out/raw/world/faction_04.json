@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "job_id": "faction_04",
+    "stage": "world",
+    "prompt_file": "world_faction.md",
+    "prompt_hash": "472a2f75255b1319402d0ed7641aa559a5ecce744fe9dc503577a8bce8d9d0da",
+    "model": "haiku",
+    "cost_usd": 0.00777305,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:36:13+00:00"
+  },
+  "data": {
+    "name": "Tesnovar Wardenry",
+    "adjective": "Tesnovan",
+    "ruler_title": "Chosen Warden",
+    "short_lore": "Tesnovan forest villages have never bowed to a crown: each elects its Warden from among its hunters, and the Oath of Lisnik Gate binds them. Their longbowmen ambush the roads near Hrastovec and Ukrenvar, and the Regency's tax-men are their favourite prey. The Fen clans claim the marsh-edge timber of Smrekovo, and that quarrel is turning cold oaths hot.",
+    "troop_names": {
+      "infantry": [
+        "Zhivin Levy",
+        "Kopnik Spearmen",
+        "Ogradnik Halberdiers"
+      ],
+      "archers": [
+        "Lisnik Bowmen",
+        "Drevnik Longbowmen",
+        "Kriljan Marksmen"
+      ],
+      "cavalry": [
+        "Ogrin Riders",
+        "Vyzhar Horsemen",
+        "Mitrov Lancers"
+      ]
+    },
+    "towns": [
+      {
+        "name": "Brezhnik",
+        "blurb": "Birch-bark tanners' market; every Warden's election is held under its great oak council tree."
+      },
+      {
+        "name": "Ostrogrado",
+        "blurb": "Walled market-town where the Compact's oath-rolls are kept and feuds are settled by the bowstring."
+      },
+      {
+        "name": "Mirkovice",
+        "blurb": "Honey and wax trading town, with a lingering grudge over a beehive tax the Regency tried to levy."
+      },
+      {
+        "name": "Lipnevo",
+        "blurb": "Linden-wood carvers and bowyers; its yew-stave workshops supply half the Compact's longbows."
+      },
+      {
+        "name": "Sosnograd",
+        "blurb": "Pine-timber river port where log rafts float down to the Fen's reed markets."
+      },
+      {
+        "name": "Dolivar",
+        "blurb": "Valley town famous for its bell-founders, whose bells warn of raiders across the hills."
+      }
+    ],
+    "castles": [
+      {
+        "name": "Vodnagrad",
+        "blurb": "Lake fortress that refused the king's tax-collectors for three generations."
+      },
+      {
+        "name": "Hrastovec",
+        "blurb": "Oak-ringed hillfort where the first Warden was chosen by a hunter's arrow."
+      },
+      {
+        "name": "Ukrenvar",
+        "blurb": "Stone keep built by the Regency and now a Compact prize, held by a disputed garrison."
+      },
+      {
+        "name": "Ruzhovec",
+        "blurb": "Rose-thorn hedge fort whose ditches are said to have been dug by the forest's own spirits."
+      },
+      {
+        "name": "Yasenvar",
+        "blurb": "Ash-tree castle with a legend that its gate opens only for a Warden's true heir."
+      },
+      {
+        "name": "Stribogra",
+        "blurb": "Wind-watch tower on the ridge; its keepers light beacons to warn the villages below."
+      },
+      {
+        "name": "Vezhdrak",
+        "blurb": "Crumbling watchtower whose broken stair is a favourite ambush spot for outlaws."
+      },
+      {
+        "name": "Chernoyar",
+        "blurb": "Black-stone bluff fort, a grudge site where villagers hanged a king's marshal from its gate."
+      },
+      {
+        "name": "Pelnik",
+        "blurb": "Moss-walled ruin where the Compact's first oath was broken, and the stones still remember."
+      }
+    ],
+    "villages": [
+      {
+        "name": "Hlivno",
+        "blurb": "Mud-brick village famous for its clay ovens and the bread that feeds the Wardens' hunts."
+      },
+      {
+        "name": "Brusnice",
+        "blurb": "Berry-picking hamlet where the pickers swear their oaths over cups of sour cider."
+      },
+      {
+        "name": "Dubnyak",
+        "blurb": "Oak-cutters' village with a long feud against the Salt-road's timber caravans."
+      },
+      {
+        "name": "Zhelnice",
+        "blurb": "Ironwood gatherers; a legend says the first bow of the Compact was carved here."
+      },
+      {
+        "name": "Oshnivo",
+        "blurb": "Hunters' lodge village known for its hounds; a famous bear once killed a Regency marshal."
+      },
+      {
+        "name": "Kravnik",
+        "blurb": "Cattle-breeders on the fen edge who still pay a yearly toll to the reed clans."
+      },
+      {
+        "name": "Tranok",
+        "blurb": "Charcoal-burners' hamlet; the black smoke draws unwelcome riders in the dry season."
+      },
+      {
+        "name": "Mokrenka",
+        "blurb": "Damp village built on stilts, with a grudge over a Warden who drowned in its millpond."
+      },
+      {
+        "name": "Volchyk",
+        "blurb": "Wolf-trapper village whose pelts are prized in the River-guild cities, which overcharge them."
+      },
+      {
+        "name": "Smrekovo",
+        "blurb": "Spruce-resin village at the marsh edge, site of the disputed timber line with the Fen."
+      },
+      {
+        "name": "Redlice",
+        "blurb": "Red-clay pottery village whose kilns scent the air for miles on festival nights."
+      },
+      {
+        "name": "Gorvenka",
+        "blurb": "Mountain-pass hamlet where herdsmen once stopped an Ashland priest's procession."
+      },
+      {
+        "name": "Sedlov",
+        "blurb": "Saddle-makers' village that sells fine horse gear to whichever lord pays best."
+      },
+      {
+        "name": "Bukhrov",
+        "blurb": "Beech-wood hamlet with a shrine to the Hunter's Oath, carved into a living tree."
+      },
+      {
+        "name": "Lyutoda",
+        "blurb": "Stone-bridge village where the river toll is collected by the Warden's sworn men."
+      },
+      {
+        "name": "Chorvena",
+        "blurb": "Forest chapel village whose bell is rung backward when a Warden is slain."
+      },
+      {
+        "name": "Vrasnik",
+        "blurb": "Crow-watch village whose scouts are trained to read the birds' warnings from the canopy."
+      },
+      {
+        "name": "Pesnitsa",
+        "blurb": "Singers' village where the Compact's oath-songs were first written down by a monk."
+      },
+      {
+        "name": "Radomesh",
+        "blurb": "Quiet farm village in a forest clearing, famous for its beekeepers' hard cheese."
+      },
+      {
+        "name": "Jelovec",
+        "blurb": "Fir-wood logging camp, sworn to the Warden and hostile to the Salt-road's wagons."
+      },
+      {
+        "name": "Sukovrat",
+        "blurb": "Dry-hill village with a grudge against the southern mining towns over poisoned wells."
+      }
+    ]
+  }
+}

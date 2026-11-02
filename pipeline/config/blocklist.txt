@@ -1,0 +1,48 @@
+# Phrases that drop a generated line (milestone 0.8 validator).
+# One phrase per line, case-insensitive, matched on word boundaries. '#' starts a comment.
+#
+# No slur list by design (user decision 2026-11-01): the content rating in every prompt forbids
+# slurs, and this file catches strong profanity, real-world brands and AI-isms.
+
+## Strong profanity (PG-13 rating allows damn, hell, crap)
+fuck
+fucking
+shit
+bitch
+cunt
+asshole
+bastard
+dick
+piss
+
+## Real-world games, platforms and brands (the fake server is in-world)
+mount & blade
+mount and blade
+bannerlord
+warband
+calradia
+skyrim
+minecraft
+fortnite
+world of warcraft
+discord
+twitch
+youtube
+reddit
+tiktok
+twitter
+facebook
+google
+
+## AI-isms and meta-talk about being generated
+as an ai
+language model
+i cannot help
+i cannot assist
+i can't assist
+i can't help
+i'm sorry, but
+as a game character
+npc
+generated
+# "steam" and "prompt" left out on purpose: both are normal words in medieval chat.

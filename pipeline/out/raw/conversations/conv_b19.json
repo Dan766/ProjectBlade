@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "job_id": "conv_b19",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "be02aca9ef4d11ceb0e99e682f1ac38a8c21f55fbbb35e25c9506792e73168b7",
+    "model": "haiku",
+    "cost_usd": 0.0145386,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'Trade is not the same as taking coin off the hungry. Point the newcomer to the Ashmarch granary first. Walls are no comfort on an empty stomach.' is too long"
+    ],
+    "created_at": "2026-11-01T17:43:50+00:00"
+  },
+  "data": {
+    "conv_091": [
+      {
+        "speaker": "bisket",
+        "text": "Another newcomer lost in the roads. Try the market at {town} first, friend. Ask around before you spend a single coin.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Ignore him, friend. Keep your food stocked before the fens. Walls are no comfort on an empty stomach.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "bisket",
+        "text": "Ignore him? Ha. A fine mentor, but he forgets a full purse is worth more than a lecture. Come find me at {town}.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Trade is not the same as taking coin off the hungry. Try the granary at {village} first.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "bisket",
+        "text": "Your granary, your rules. I only offer a loan at {gold} gold, and you return it with a smile.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "A loan at that rate is a trap, friend. Work the fields at {village} for a week and eat well first.",
+        "delay_s": 9
+      }
+    ],
+    "conv_092": [
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "Have you heard who fell out of favour at the council? Our dear bisket lost three votes this week.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "bisket",
+        "text": "Lost nothing. I merely left a few seats empty so the honest ones could feel welcome. Mind your tongue, Glimmerwise.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "Easy now. There is always another road, and the council does love a loyal name. Ask the men at {town}.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "bisket",
+        "text": "Loyal names are cheap. Ask me again when {troop_count} of my men are standing at the gate of {village}.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "Threats in front of a crowd, bisket? How very scheming of you. Your {gold} gold will not buy back the trust.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "bisket",
+        "text": "Trust is a thing I keep in a locked chest, Glimmerwise. Do not hold your breath waiting for the key.",
+        "delay_s": 3
+      }
+    ],
+    "conv_093": [
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "ok so who is joinig the push on {town}?? we need bodys :D bring ur horse lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "I will bring the spare hens!! :D Eight of them, all very brave. The hens have been informed :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Kwidrath_Inkbane",
+        "text": "ilmoth ur {troop_count} troops wont even find {village} lol",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Ilmoth_Coldwick",
+        "text": "We hold {village} with {troop_count} troops and a plan. Kwidrath, your jokes will not win it.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "ok but teh cheese was on fire :D lmao anyway ill come if the hens bring snacks",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Kwidrath_Inkbane",
+        "text": "lol the snacks are mid ilmoth send {gold} gold for the push and ill show up",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "Hm, {gold} gold is steep!! :D I can do half, the hens need new hats :)",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Ilmoth_Coldwick",
+        "text": "Half is acceptable. Meet at {village} at dawn. Bring whatever you can carry.",
+        "delay_s": 4
+      }
+    ],
+    "conv_094": [
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Hail, xX_JackalPup_Xx!!! The siege of {town} is nigh, and I wager {gold} gold the gates hold :D",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "Sorry if this is a dumb q but how do I bet on the siege?? :( do i need {gold} gold or",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "No dumb questions, only dumb odds!!! :D Speak to the clerk at {village} and he shall take your coin.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "Oh wow ok!! :D thank u. is it true the {troop_count} men inside are asleep?? :O",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Asleep?!?! Nay! They drink mead and sing ballads all night!!! :D The gates are sturdy!!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "ok i think ill bet {gold} on the gates then :) sorry again for all the questions",
+        "delay_s": 4
+      }
+    ],
+    "conv_095": [
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Have you heard the rumours? A host of {troop_count} marching toward {village}. Shall we discuss this over wine?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Wool at {gold} a bolt, first come. Rumour is cheap, Cobbled, and so is your wine.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "nicknme unlocked: Cobbled the lukewarm :D also the host is rael i saw dust near {village}!!",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Drumdwarf, dust is not an army. I would rather see {troop_count} banners before I believe a word of it.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Slugg",
+        "text": "I will pay {gold} gold for a confirmed count from {village}. Bring me numbers, not dust.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "lmaoo Slugg payin scouts :D i am gonna scout the scouts now. army is comin trust me!!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Then go and count them, drumdwarf, and report back. Tell me the banners before the wine is poured.",
+        "delay_s": 7
+      }
+    ]
+  }
+}

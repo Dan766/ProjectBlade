@@ -1,0 +1,266 @@
+PLAYTEST 20 min, 17476 ms
+messages 233 (11.7/min), per minute: [4, 8, 5, 17, 13, 14, 8, 12, 14, 15, 13, 13, 12, 13, 12, 14, 12, 13, 9, 12]
+about the player (player events + whispers): 44 (19%)
+whispers 25, distinct speakers 86, exact repeats 0
+top speakers: OldTideWarden 8, AcornKid07 7, SourLute 7, xX_Ottr_Mart_Xx 6, BaronParsnyp 6
+by event: { "ambient_brag": 19, "ambient_complaint": 29, "my_faction_took_fief": 9, "ambient_chatter": 20, "fought_alongside_player": 5, "ambient_trade": 10, "whisper_alliance_offer": 2, "player_joined_my_faction": 2, "ambient_lfg": 9, "conversation": 81, "beat_by_player": 6, "player_renown_up": 2, "beat_player": 9, "whisper_beg_help": 4, "player_big_defeat": 4, "player_raided_my_village": 1, "peace_made": 8, "war_declared": 4, "whisper_challenge": 3, "player_besieging_my_fief": 1, "player_left_my_faction": 3, "whisper_taunt": 2 }
+player: { "streak": 1, "renown": 156, "wins": 7, "losses": 9 }, renown 156, gold 610, troops 67
+
+[00:15] (global ) Vale_Ratio21: still waiting on someone to explain why their siege train csot more than my whole keep   <ambient_brag>
+[00:30] (global ) GravelOathkeep: Ser, the mud of Brenzolo still clings to my boots, yet the banners of my house now fly over its walls by my own hand.   <ambient_brag>
+[00:44] (global ) Ramratio91: bandits only win when you leave a 1:1 fight open. stop doing that and the raids stop too   <ambient_complaint>
+[00:50] (global ) bisket: Another week, another lord blaming fate for his ruin. Fate has a name, and it signs its letters at the council.   <ambient_complaint>
+[01:00] === BOT: attacks Bandits (bandit, 17 troops)
+[01:07] (global ) EarlSootmere: the gate was the weak point from minute one. anyone still defending that wall is wasting gold ngl   <my_faction_took_fief>
+[01:07] === BOT: battle vs Bandits: won
+[01:14] (global ) lanternsorry: i think the moon is following me?? or im just really tired lol   <ambient_chatter>
+[01:15] (global ) CountessBrinhal: Grain at Montsorel now costs double what it did last moon. Someone is hoarding, and I have a fairly good idea who profits.   <ambient_complaint>
+[01:18] (whisper) CountKabbage: we won. no need to talk after this, just keep your flank tight next time   <fought_alongside_player>
+[01:27] (global ) elder_curds: I will admit 81 men is impressive. I will not admit I counted them twice to be sure.   <ambient_brag>
+[01:30] (global ) HornMisfire: sold a whole sack of turnips for 790 gold!!! is taht good or did i get robbed lol xd   <ambient_trade>
+[01:51] (global ) DukeScythington: the fog over Ouzmar is so thick i just walked into my own reflection in a puddle xd   <ambient_chatter>
+[01:57] (global ) HammerhandVow: Bread in Ostrogrado now costs more than a knight's oath, and I am told this is merely the beginning of the reckoning.   <ambient_complaint>
+[02:12] (whisper) spitesprout: wanna split the loot from Orlagua Republic i do the killing u carry the chests fair deal or no deal   <whisper_alliance_offer>
+[02:17] (global ) SerTankardell: Ser, whoever planted the cabbages beside the old well must be a poet, for they grow with a grace I cannot explain.   <ambient_chatter>
+[02:36] (global ) Brakken_Mouthy: anyone buying wool for 1050 i will take it off your hands befroe the price drops again   <ambient_trade>
+[02:43] (global ) SourLute: lol the bandits on the north road are still pretending to be an army. nobody told them the sheep are fighting back   <ambient_complaint>
+[02:52] (global ) Kwidrath_Inkbane: bought a cow for 3 coins and still feel robbed thats a skill issue   <ambient_chatter>
+[03:00] === BOT: swears allegiance to the Lauresse Regency
+[03:15] (global ) SerWrenwood: Interesting timing for an oath. Hope it wasn't made in a tavern at midnight.   <player_joined_my_faction>
+[03:15] (global ) xX_Fiddl3Kid_Xx: anyone else sleeping on 800 gold like it's a pillow or is it just me. Lipnevo is comfortable, come see   <ambient_brag>
+[03:16] (whisper) snale_of_doom: Wanderer the oath counts. the vibes wlil be judged later, probably by the cat   <player_joined_my_faction>
+[03:22] (global ) xX_EmberQuill_Xx: Weary of seeing good swords idle. Ser, a siege at Liivanne needs hands, and I would rather they be yours than theirs.   <ambient_lfg>
+[03:38] (global ) Eeel: Tesnovar Wardenry has taken Ysembert from Lauresse Regency. the siege was two days and the ratio was correct from the start   <my_faction_took_fief>
+[03:40] === BOT: battle vs xX_Fiddl3Kid_Xx: won (captured, ransom)
+[03:43] === BOT: battle vs DukeQuillfeather: won
+[03:45] (global ) ruuk: tolls at the Ysembert bridge went up again. nobody asked the people actually paying them, mind.   <ambient_complaint>
+[03:45] (global ) xX_Ottr_Mart_Xx: Anyone else notice salt prices climb every time it rains in Brenzolo? Makes me think the weather is a trader too.   <ambient_chatter>
+[03:47] === BOT: battle vs THIM7: lost
+[03:48] (global ) Orrin_Chiselbeard: Steady hands win ground, Wanderer. Remember the water. I heard most of the army was lost at the ford today.   <conversation:conv_204>
+[03:49] (global ) EarlSootmere: bought Dzoravan with a spreadsheet and a good night's sleep. no drama needed   <ambient_brag>
+[03:51] (global ) xX_Fiddl3Kid_Xx: lol Wanderer got 55 men lucky and now everyone's a tactician. wait till i log off and bring my dozen alts   <beat_by_player>
+[03:51] (global ) SirNutbrook: Dear whistlehaul, I should like a word in council regarding the price of grain in Kaarnesta. It is an outrage.   <conversation:conv_197>
+[03:52] (global ) fernz: ok Wanderer is fmaous. the wolves dont care lol   <player_renown_up>
+[03:52] (whisper) hensworn: No need to thank me. Just keep your formation tight when we move out again.   <fought_alongside_player>
+[03:53] (global ) xX_Ottr_Mart_Xx: Bandits on the road to Ouarnast again. Terrible for trade. Half the wool buyers left when Wanderer lost the field.   <conversation:conv_204>
+[03:54] (whisper) DukeQuillfeather: you have my attention now Wanderer. not a happy attention but its attention   <beat_by_player>
+[03:55] (whisper) Wagg0nRookie7: not sure what your plan was but it worked lol. thanks i guess   <fought_alongside_player>
+[03:56] (whisper) THIM7: i aint gonna lie that charge was clean dont tell anyone   <beat_player>
+[04:15] (global ) xX_Ottr_Mart_Xx: Saaravenn Fen Confederacy wants the mountain pass closed for their war. Wonderful. My cloth is sitting in a warehouse rotting.   <ambient_complaint>
+[04:15] (global ) whistlehaul: grain went up because the road to Kuolmi is full of bandits. not my fault. mule train leaves at dawn   <conversation:conv_197>
+[04:21] (whisper) lich3n_grudge: Lauresse Regency is sieging Mokheti and i need hands fast dont make this weird   <whisper_beg_help>
+[04:22] (global ) Wagg0nRookie7: lost most of my army on the north road. if anyone knows a sfae path lmk pls   <player_big_defeat>
+[04:25] === BOT: battle vs BaronParsnyp: lost
+[04:38] (global ) xX_Ottr_Mart_Xx: Gloat? I am counting prices, Orrin. Troops die, markets rise. Someone will be selling pikes by sundown.   <conversation:conv_204>
+[04:45] (global ) BaronParsnyp: fields are wet and Wanderer is muddy thats the whloe news   <beat_player>
+[04:45] (global ) BaronParsnyp: dont mind me just counting my 700 while ur kingdom burns   <ambient_brag>
+[04:48] (global ) SirNutbrook: I did not come to speechify, hollowcairn. The council shall hear of this by dusk.   <conversation:conv_197>
+[04:49] (global ) Rhyeh: heard the retreat was orderly orderly like a cart rolling down a hill   <player_big_defeat>
+[04:51] (global ) hollowcairn: Eat before you march, friend. Speeches do not fill a granary, SirNutbrook.   <conversation:conv_197>
+[04:52] (global ) Hael_Stackbane: price moved 12 percent in a week and supply did not move. ratio decides it not speeches   <conversation:conv_197>
+[04:52] (global ) whistlehaul: council can hear what it likes i am selling 170 worth of grain at the old price till the road opens   <conversation:conv_197>
+[04:53] (global ) Orrin_Chiselbeard: Losing most of an army is a hard thing, Wanderer. I would not gloat over it, xX_Ottr_Mart_Xx.   <conversation:conv_204>
+[04:55] === BOT: battle vs BaronParsnyp: won (captured, ransom)
+[04:57] === BOT: battle vs CountOnyx: lost
+[05:00] === BOT: attacks Brakken_Mouthy (lord, 45 troops)
+[05:03] (whisper) BaronParsnyp: ok fine taht was a good charge dont get used to it   <beat_by_player>
+[05:15] (global ) Hael_Stackbane: gg whistlehaul you undercut and the price is yours for now   <conversation:conv_197>
+[05:15] (global ) Orrin_Chiselbeard: Selling pikes off a grieving player is a poor way to earn a name in Ouarnast. Lend them 67 men, if you can spare them.   <conversation:conv_204>
+[05:22] (global ) hollowcairn: Hold the old price a while longer, then. A fair market outlasts a loud one.   <conversation:conv_197>
+[05:25] === BOT: battle vs xX_Fiddl3Kid_Xx: lost
+[05:38] (global ) Clovan_Tinwhistle: did Tsevaret Ashmarches run off or is there a button i missed?? the screen just went quiet   <fought_alongside_player>
+[05:44] (whisper) Brakken_Mouthy: i know u love watching me lose so come watch me lose from the right side of the wall   <whisper_beg_help>
+[05:45] (global ) CountOnyx: beat Wanderers line. nothing personal. no grudge needed to win a field   <beat_player>
+[05:45] (global ) SerWrenwood: Bandits on the north road again. Someone should post patrol times before the new folks walk into them.   <ambient_complaint>
+[05:48] (global ) xX_Fiddl3Kid_Xx: ez Wanderer lost 69 men and 980 gold just to say hi. cope hadrer and try again   <beat_player>
+[05:49] (global ) Frogguh: 106 troops marched in and asked for snacks first. victory tastes like bread :d   <ambient_brag>
+[05:51] (global ) CountKabbage: Nerveille has fallen to Tsevaret Ashmarches. Lauresse Regency lost it because they fielded too much infantry.   <my_faction_took_fief>
+[05:52] (global ) Brakken_Mouthy: ez 104 men and not one of them got a scrach   <ambient_brag>
+[05:52] (global ) xX_Ottr_Mart_Xx: Charity is nice when it is free. Fine, I will think about it after I check the ledger.   <conversation:conv_204>
+[05:53] (global ) ruuk: sold out of salt in Brenzolo before noon. some of you should set your alarms earlier.   <ambient_chatter>
+[06:15] (global ) hensworn: Honestly, the siege timers are what I'd fix first. Crew up, sit at the gate, and wait an hour. Dull.   <ambient_complaint>
+[06:15] (global ) Dovran_Oatsworn: Ah, the price of salt has made my old bones weary. In my youth, a single coin bought a whole cask.   <ambient_trade>
+[06:22] (global ) Gobletan_Thrice: selling my lucky rock for 1140 gold. it has never once been lucky but it is very rock shaped :)   <ambient_trade>
+[06:38] (global ) AcornKid07: why do the archers hit me for double damage when i have a shield?? thats so unfair :( the shield is so big too   <ambient_complaint>
+[06:45] (global ) SourLute: whoever balanced crossbows this patch clearly never fought a crossbow. cope harder devs   <ambient_complaint>
+[06:46] (global ) OldTideWarden: I passed through Gorvenka this morning. The well is still clean and the children still chase geese. Some things do not change.   <ambient_chatter>
+[06:51] (global ) Mulehaul402: bandits on the coast road again. i'd pay a guard fee gladly if anyone sold one that actually shows up.   <ambient_complaint>
+[06:51] (global ) DameTallowhelm: Anyone with a sword and some patience, come join Ighrast Salt League for the push on Ouarnast. We will feed you first.   <ambient_lfg>
+[07:00] === BOT: raids Obrazi 
+[07:05] (global ) Potshot88: reminder that Zhelnice is the true capital of pudding. fight me. i will lose but i will be LOUD :D   <ambient_chatter>
+[07:11] (global ) SerLeekbrand: Some say Wanderer acted from necessity, others from appetite. The ashes of Obrazi speak plainly enough.   <player_raided_my_village>
+[07:17] (global ) Slugg: Everyone wants to talk battles. I'd rather talk about the 1380 gold I made while they were busy fighting.   <ambient_brag>
+[07:23] (global ) DameTallowhelm: A fief belongs to the one who keeps its wells full and its walls mended. Lordship is a duty, not a prize.   <conversation:conv_148>
+[07:35] (global ) CountessBrinhal: I hear the marshal of Corbanel has dined with three different lords this month. Useful friends are worth collecting, I find.   <ambient_chatter>
+[07:37] (global ) OldTideWarden: Duty is fine, but the people of Ouarnast do not care who holds the title. They care who feeds them through the winter.   <conversation:conv_148>
+[07:45] (global ) CountKabbage: Tsevaret Ashmarches now holds Castelnarc. The garrison wlil be cavalry, as it should be.   <my_faction_took_fief>
+[07:46] (whisper) beakon: Wanderer pls dont laugh but my side keeps dying at Ahnarou and i dont get why :/   <whisper_beg_help>
+[07:46] (global ) DameTallowhelm: Feeding them is worth nothing if the next raid takes Rimmaa while 112 men stand idle at the gate.   <conversation:conv_148>
+[07:49] (global ) whiskerquorum: MapleMutiny was granted the toll roads last council and now complains about bandits on them. Ser, nobody is that unlucky.   <ambient_complaint>
+[07:54] (global ) LARKZ7: Irhessa is ours now. the flag is a bedsheet but it is a very confident bedsheet xd   <ambient_brag>
+[07:57] (global ) OldTideWarden: Then tell me who should hold Ouarnast when the garrison is paid in 150 and the ledgers are empty.   <conversation:conv_148>
+[08:01] (global ) RavenVowhold: Mark this day in the chronicles: the moon rose red over the eastern hills, and no omen-reader in the realm has dared explain it.   <ambient_chatter>
+[08:10] (global ) DameTallowhelm: A ledger does not defend a wall. Give Ouarnast to a warden who knows the water, and let the fens teach the rest.   <conversation:conv_148>
+[08:18] (global ) OldTideWarden: Patience wins more fens than swords do, and you know it. Let them answer for Rimmaa before you hand over the keys.   <conversation:conv_148>
+[08:21] (global ) BaronParsnyp: spent 350 on armor and my horse still looks like a sad goat   <ambient_brag>
+[08:21] === BOT: battle vs OldCloakwright: won (captured, ransom)
+[08:28] (global ) ConsulCometa: Any house with spare men and a grudge against Ighrast Salt League, come to Feltravo. Terms are discussed, not dictated.   <ambient_lfg>
+[08:30] === BOT: battle vs SerLeekbrand: won (captured, ransom)
+[08:32] (whisper) OldCloakwright: Send word if you want to talk terms. I would sooner trade prisoners than trade more blows this month.   <beat_by_player>
+[08:36] (global ) DameTallowhelm: We will not settle this over one fief, friend. Ask me again after the spring levy and see where Ouarnast stands.   <conversation:conv_148>
+[08:41] === BOT: battle vs Glovaric_Ironhand: lost
+[08:42] (global ) SerLeekbrand: Let all the realm note: a battle was fought, a battle was lost, and ale will be served at the next gathering.   <beat_by_player>
+[08:49] (global ) DukeScythington: wiat Saaravenn Fen Confederacy made peace with us?? i was just getting my goose raedy :) what now   <conversation:conv_030>
+[08:52] (whisper) Glovaric_Ironhand: There were 114 of your banners on that ridge. I counted them twice, and I admire the stubbornness.   <beat_player>
+[08:53] (global ) Ropeknot42: Peace is a tool, DukeScythington. Watch who signed it and who waited. The salt will tell.   <conversation:conv_030>
+[08:56] (global ) LadyGullmere: Trading honestly is the oldest oath in this land. Break it, and your name will rot long after your coin.   <ambient_trade>
+[08:57] (global ) beakon: omg peace!!! i was so scared of the war :D duke u r the best, i owe u a bread   <conversation:conv_030>
+[08:59] (global ) bellwarden: Tsevaret Ashmarches has made its peace with Lauresse Regency. The council will meet next week to decide who gets the credit.   <peace_made>
+[09:00] === BOT: attacks Dovran_Oatsworn (lord, 51 troops)
+[09:03] (global ) DukeScythington: beakon ur welcome!! the bread is a must :) but ropeknot42 u always say the salt will tell lol   <conversation:conv_030>
+[09:06] (whisper) fernz: so funny story Ighrast Salt League took the outer wall lol im not panicking u are   <whisper_beg_help>
+[09:06] === BOT: battle vs Dovran_Oatsworn: lost
+[09:10] (global ) Ropeknot42: I say what the salt says. Peace with Saaravenn Fen Confederacy gives us 1110 in trade and the Sedlov road back.   <conversation:conv_030>
+[09:14] (whisper) SirCricketsmite: saw the battle report thats a lot of soldiers to lose at once   <player_big_defeat>
+[09:18] (global ) snale_of_doom: won a battle at Garrouse so i am legally required to stand on a barrel and yell about it :)   <ambient_brag>
+[09:18] (whisper) Dovran_Oatsworn: The day went badly for you. Rest your horse before you ride on, and do not push him through the marsh.   <beat_player>
+[09:20] (whisper) AcornKid07: just wanted to say hi and that ur camp looks nice. mine is currently a mud pit :(   <player_big_defeat>
+[09:21] (global ) DawnwatchSeal: Word has come down the road. Wanderer lost most of their host at Lyutoda. I will not gloat over a fallen banner, whoever bears it.   <conversation:conv_211>
+[09:28] (global ) bisket: The bandit problem on our roads is not a mystery. It is a question of who got the garrison contracts and who did not.   <ambient_complaint>
+[09:35] === BOT: battle vs Frogguh: lost
+[09:36] (global ) DukeScythington: its a lot beakon!! go buy a goose a hat :d peace means hats for everyone   <conversation:conv_030>
+[09:42] (global ) DawnwatchSeal: HammerhandVow, your hammer rang loud at the last muster. Let the dawn show whether it still rings true.   <conversation:conv_211>
+[09:49] (global ) xX_Sl3dgeChef_Xx: anyone wanna storm Veenhalla?? the moat insulted my cousin and it needs company xd   <ambient_lfg>
+[09:53] (global ) Ropeknot42: Wanderer a word in private please. The council wil ask how many remain and 44 wont satisfy them.   <conversation:conv_211>
+[09:56] (global ) beakon: is 1500 a lot?? i can only count to like ten :( im sorry   <conversation:conv_030>
+[09:58] (global ) Slugg: Need hands for a siege of Ruvaskar? I'll cover rations and a share of the spoils. Who's in?   <ambient_lfg>
+[10:00] (global ) StormPigeon88: the treaty with Tsevaret Ashmarches is signed, so no horn blasts for a week. i am bored already and it has been ten minutes   <peace_made>
+[10:00] === BOT: besieges Hrastovec 
+[10:03] (global ) HammerhandVow: By my hammer and my name, Wanderer, I stand with you. An army can be rebuilt. Come to the muster when you are ready.   <conversation:conv_211>
+[10:05] === BOT: battle vs SerTankardell: lost
+[10:10] (global ) GravelOathkeep: The war horns have sounded. Orlagua marches on Ighrast Salt League with 104 spears. The gate holds, and so does my word.   <conversation:conv_206>
+[10:18] (global ) MoleWarden: Another declaration from Tesnovar Wardenry. I sat through three of these, and the roads still came back in one piece.   <war_declared>
+[10:21] (global ) CountessBrinhal: A word in private, GravelOathkeep. Before the council sits, I must know what Orlagua intends for Calvenza.   <conversation:conv_206>
+[10:28] (global ) THIM7: anyone who got smacked by Lauresse Regency last week come join us and get revenge i know you wnat it   <ambient_lfg>
+[10:31] === BOT: battle vs Vale_Ratio21: lost
+[10:34] (whisper) SerWrenwood: Ser Wanderer, I hear you are a good hand with a lance. Care to test that against mine near Brenvaud some evening?   <whisper_challenge>
+[10:36] (global ) xX_S4geMeta_Xx: sieges with no siege engines are a 4x resource tax. the meta should pnuish that, currently it doesnt   <ambient_complaint>
+[10:42] (global ) SerTankardell: I took 33 men into that valley and brought most of them back. Such is the arithmetic of the field.   <beat_player>
+[10:49] (global ) Dovran_Oatsworn: The Wardenry has signed terms with Tsevaret Ashmarches. I pray it holds, though I confess I never thought I would write those words.   <conversation:conv_019>
+[10:53] (global ) Ropeknot42: Enough both of you. Wanderer needs rest not your quarrels. Walk with me Wanderer.   <conversation:conv_211>
+[10:56] (global ) THIM7: told u twcie that bridge was a trap and now u want a war ok fine skill issue   <war_declared>
+[10:58] (global ) bisket: News of the siege at Hrastovec is spreading. Some will call it ambition, others will call it a tax problem.   <player_besieging_my_fief>
+[11:00] (global ) Vale_Ratio21: field results are noisy. one fight tells you nothing about Wanderer. two fights start to   <beat_player>
+[11:03] (global ) owl_be_back: wait so orlagua is at war w Ighrast Salt League ?? borllo bridge is on notice!! :d   <conversation:conv_206>
+[11:10] (global ) beetlepush: peace with Orlagua Republic is just a rest stop. reloading the army and the spreadsheet   <peace_made>
+[11:18] (global ) SmugRadish: Ighrast Salt League kissing and making up after that ambush lol paece deal for losers   <peace_made>
+[11:21] (global ) owl_be_back: i am not mocking!! i am hyping!! :) the Pozzale folk are gonna be fine probably :p   <conversation:conv_206>
+[11:28] (global ) EarlSootmere: reminder: archers out of position means dead archers. pikes first on the hill, then the rest   <my_faction_took_fief>
+[11:36] (global ) Clovan_Tinwhistle: oh no the causeway?? was it really taht bad... i dont get what the flanks are sorry lol   <conversation:conv_290>
+[11:42] (global ) AcornKid07: omg we r at peace wiht Tsevaret Ashmarches!!! :d thank u oldtidewarden ur so nice   <conversation:conv_104>
+[11:47] (whisper) SirCricketsmite: meet me at Sedlov whenever ill be the one with the shiny helmet pretending i ddint see u coming   <whisper_challenge>
+[11:49] (global ) Clovan_Tinwhistle: wait is the grey bar the food?? thx sourlute   <conversation:conv_290>
+[11:53] (global ) hensworn: Wise. Now watch the ones who shake hands fastest. Ask them again in a season.   <conversation:conv_019>
+[11:56] (global ) Clovan_Tinwhistle: wiat so was the big war at Quelmont befroe i joined?? the forums say lauresse won but idk??   <conversation:conv_290>
+[11:58] (global ) pinemath: peace just means they stop shooting our flanks ur line still breaks at 40 percent   <conversation:conv_104>
+[12:00] (global ) DukeScythington: it rained sideways over the market for three hours. the gosoe is now a lifeguard. nobody asked him to be :)   <ambient_chatter>
+[12:03] (global ) OldTideWarden: Happy is fine, AcornKid07. Keep your spearmen fed and ask questions before you swing.   <conversation:conv_104>
+[12:10] (global ) GravelOathkeep: Mock me not, owl. Orlagua has pledged 1050 to the march and I will see every coin spent honourably.   <conversation:conv_206>
+[12:18] (global ) Mire_Ledger: Saw xX_EmberQuill_Xx sell horses at a loss just to spite me. Petty, and it maeks the whole market sour.   <ambient_complaint>
+[12:21] (global ) SirNutbrook: The Confederacy has declared war on Orlagua Republic. I should like it noted that this was a decision of wisdom, not of haste.   <conversation:conv_233>
+[12:28] (global ) hensworn: Boring keeps you alive, THIM7. You should try it.   <conversation:conv_019>
+[12:36] (global ) HammerhandVow: Mind your tongue, DawnwatchSeal. Wanderer is still one of ours and will hear no mockery from me.   <conversation:conv_211>
+[12:42] (global ) THIM7: PEACE?? with Orlagua Republic?? ur jokeing rigth. i still got the scars!!! traitors lol   <conversation:conv_019>
+[12:49] (global ) OldTideWarden: Do not thank me yet. Peace with Tesnovar Wardenry means their caravans cross our fens, and tolls bring 520 to Liivanne.   <conversation:conv_104>
+[12:53] (global ) xX_Fiddl3Kid_Xx: remember when u said my army was trash look at it now   <ambient_brag>
+[12:56] (global ) LARKZ7: hearing the war drums from Saaravenn Fen Confederacy's side. honestly they sound like a kettle that needs a nap   <war_declared>
+[12:58] (global ) Dovran_Oatsworn: I was there too, THIM7. The scars are real. But the dead have no quarrel left, and neither should we.   <conversation:conv_019>
+[13:00] (global ) SourLute: lauresse won cuz everyone rushed the causeway and nobdy watched the flanks still mad abt it clovan   <conversation:conv_290>
+[13:03] (global ) CountessBrinhal: Lauresse will hear of this by sundown, GravelOathkeep. Let us hope your pledge is worth more than your bluster.   <conversation:conv_206>
+[13:10] (global ) Hael_Stackbane: ok so the diplomacy phase is over. no more messages, just formations   <war_declared>
+[13:18] (global ) FactorAnvile: Wisdom, he says :) Iron prices in Brezhnik just jumped, and the men who sold you their spears are not feeling wise at all.   <conversation:conv_233>
+[13:21] (global ) whiskerquorum: Ledgers over longswords? A raid on Feltravo pays well, and the accounts will be kept honestly. Mostly.   <ambient_lfg>
+[13:28] (global ) Ramratio91: Tesnovar Wardenry sued for peace after one bad week. expected more from them honestly   <peace_made>
+[13:36] (global ) SirNutbrook: Your concern for iron is touching, FactorAnvile. The council will decide the price of war, not a trader in Brezhnik.   <conversation:conv_233>
+[13:42] (global ) FactorAnvile: Ha, patience is cheap until the bill arrives :D I will be at Kuolmi selling to both sides, as is my habit.   <conversation:conv_233>
+[13:45] (whisper) beakon: i'd rather not waste time bickering. Saaravenn Fen Confederacy first, tehn we can argue about the loot xD   <whisper_alliance_offer>
+[13:49] (global ) AcornKid07: wait what does peace even do?? can we still raid Gorvenka or nah :(   <conversation:conv_104>
+[13:53] (global ) SourLute: its fine you can stand on the flank and watch us do it again Mirkovice is ours next   <conversation:conv_290>
+[13:56] (global ) SourLute: its the hp bar genius dont eat it   <conversation:conv_290>
+[13:58] (global ) OldTideWarden: Peace means no raids on Gorvenka this season, AcornKid07. Spend the time learning the walls at Liivanne. You will thank yourself.   <conversation:conv_104>
+[14:00] (global ) Cobbled_Envoy: Shall we discuss this over wine, ruuk? I hear the council has quietly stopped answering certain merchants' letters.   <conversation:conv_269>
+[14:03] (global ) Brakken_Mouthy: stoolpenny said they'd stop raiding the caravans. they lied, sohcker, theyre still crying about the toll gates   <ambient_complaint>
+[14:10] (global ) SerWrenwood: Oh, child, that is heavy news :) Come sit by the fire, young one :) Tell me what the road to Pozzale looks like now.   <conversation:conv_206>
+[14:18] (global ) FactorAnvile: Care for a deal on iron? Fair prices :) We can supply 97 spears by week's end, if your council can count that high.   <conversation:conv_233>
+[14:21] (global ) xX_EmberQuill_Xx: I am told the wool trade in Orsana Vara is settling at a fair price. Fair to whom, I wonder, is a question for the next vote.   <ambient_trade>
+[14:28] (global ) xX_EmberQuill_Xx: Honestly, I expected more resistance at Kaarnesta. Perhaps the garrison heard my army coming and reconsidered.   <ambient_brag>
+[14:36] (global ) pinemath: peace is just a tax on people who cant dodge arrows and we farm more 570 at war   <conversation:conv_104>
+[14:42] (global ) xX_Fiddl3Kid_Xx: Dzelmasi tax collector just raised prices again. enjoy paying for the privilege of being robbed ez   <ambient_complaint>
+[14:49] (global ) hensworn: Peace is a word. Read what the paper says.   <conversation:conv_019>
+[14:53] (global ) SaddleQuote: That carriage held 140 gold worth of saddles. I sold him three. He still has his post, mind.   <conversation:conv_269>
+[14:56] (global ) SaddleQuote: Fine saddles fair price no bandits. Also who is actually falling out of favour this week?   <conversation:conv_269>
+[14:58] (global ) ratiognat: anyone else tracking grain prices out of Bindaro. the numbers moved three days in a row   <ambient_chatter>
+[15:00] (global ) Glovaric_Ironhand: Ser, a word of advice: never trust a cloud that hangs low over the marsh road, for it has swallowed better riders than you.   <ambient_chatter>
+[15:00] === BOT: renounces the Lauresse Regency
+[15:03] (global ) Cobbled_Envoy: Then the rumour is false, and I shall be sure to say so over wine. Do try the red, ruuk. It is quite good.   <conversation:conv_269>
+[15:10] (global ) snale_of_doom: weary sigh. i've been trying to start a siege for two hours. nobody answers. the drawbridge is judging us all :(   <ambient_lfg>
+[15:12] (whisper) StormPigeon88: left Lauresse Regency for no one? ok. the spare granary key is still under the rock if you need it   <player_left_my_faction>
+[15:18] (global ) DameVolemere: Grain in Ruunhaavi has grown dear again. Heed my warning, ser, and buy your bread before the bells ring noon.   <ambient_trade>
+[15:21] (global ) stoolpenny: Honest question: would any of you join Ighrast Salt League for a campaign? Pay is on time, I promise, mostly.   <ambient_lfg>
+[15:28] (global ) SirNutbrook: Your offer is noted. The Confederacy has 800 in reserve and a great deal of patience for Ighrast Salt League.   <conversation:conv_233>
+[15:36] (global ) Cobbled_Envoy: That is a question with a sharp edge. I would say those who spend more time gossiping than trading are the first to fall.   <conversation:conv_269>
+[15:42] (global ) DukeScythington: the price of turnips in Tassemmar is a crmie against nature >:( i am forming a turnip cartel   <ambient_trade>
+[15:45] (whisper) plumsy: Wanderer i was told ur good at fights lol. want to test my sword vs urs at Tervani? sorry if weird ^^   <whisper_challenge>
+[15:49] (global ) AcornKid07: ok im still happy tho :d the truce gave me back 110 spearmen   <conversation:conv_104>
+[15:53] (global ) BaronParsnyp: my 12th raid this week and still no loto. the bandit life is hard but i'm tougher than this server   <ambient_complaint>
+[15:56] (global ) SourLute: Wanderer packed up and ran to no one like a dog to a new yard   <player_left_my_faction>
+[15:58] (global ) Hael_Stackbane: Kaarnesta is running at full efficiency with 22 mounted. anyone who disagrees can bring their own numbers   <ambient_brag>
+[16:00] (global ) MapleMutiny: whiskerquorum is a lord now?? the realm is doomed and i am the only one who saw it coming :)   <ambient_complaint>
+[16:03] (global ) MapleMutiny: game balance is a joke and the joke is on me. i lost 3 horses to a goat today :P   <ambient_complaint>
+[16:10] (global ) SerTankardell: Weary I am of the endless praise, though it is hardly a burden to hear that 18 of my men held the bridge at dawn.   <ambient_brag>
+[16:18] (global ) RavenVowhold: Word says Wanderer has pledged to no one. I offer neither curse nor blessing, only the hope they know what they have taken up.   <player_left_my_faction>
+[16:21] (global ) Frogguh: 87 of them ran off the field and Wanderer tried to pay me in apologies. i accept, but only in gold xd   <beat_player>
+[16:28] (global ) Gobletan_Thrice: reminder that the price of iron is a crime against blacksmiths and also me, mostly me xD   <ambient_complaint>
+[16:36] (global ) ruuk: tolls are theft. my prices are not. and i do not drink wine with gossips. buy?   <conversation:conv_269>
+[16:42] (global ) plumsy: told a guy his horse was cute and he just stared at me... was that rude??   <ambient_chatter>
+[16:49] (global ) HelmDodger: fog so thick i wakled into a tree twice and the tree didnt even say sorry   <ambient_chatter>
+[16:53] (global ) ruuk: lol so you are saying you win. typical envoy. i heard the quartermaster at Corbanel lost his post over one carriage.   <conversation:conv_269>
+[16:56] (global ) THIM7: ur just mad ur not the one who signed it!!! hensworn ur so borng   <conversation:conv_019>
+[16:59] (global ) hensworn: Notes for newcomers: a siege lasts longer than the first hour looks like it will. Plan supplies for three months.   <ambient_chatter>
+[17:00] (global ) xX_EmberQuill_Xx: Had the last holder counted their 110 soldiers as carefully as I count mine, Heeluma might still be theirs.   <ambient_brag>
+[17:00] === BOT: attacks Bandits (bandit, 9 troops)
+[17:05] (global ) StormPigeon88: lag again?? the sacred chicken has never lagged once in its whole life. be like the chicken :)   <ambient_chatter>
+[17:11] (global ) xX_PatinaSage_Xx: To everyone who spent last season raiding Lauresse Regency's wagons, the ink is dry now. Please let it stay that way.   <peace_made>
+[17:18] (global ) DameVolemere: The oath-rolls shall remember this day. My banners hold 20 souls and 190 gold in the chest.   <conversation:conv_178>
+[17:21] (global ) KELP_SEAT3: Let it be recorded that Tesnovar Wardenry took Stribogra through proper channels. The council will be pleased with the paperwork.   <my_faction_took_fief>
+[17:28] (global ) CountessBrinhal: Bounties are paid out for the same three outlaws every week. Either the bandits are very persistent or the ledgers are very creative.   <ambient_complaint>
+[17:36] (global ) AcornKid07: omg i onlyy have 12 guys n a dog but ur all sooo cool :d   <conversation:conv_178>
+[17:42] (global ) DameVolemere: Kwidrath, a lady does not answer such bluster. Yet I shall note the Ylaaka road is still worth claiming.   <conversation:conv_178>
+[17:46] (whisper) SourLute: still waiting on you Wanderer your name is at the top of the list and the lsit is getting long xd   <whisper_taunt>
+[17:50] (global ) Kwidrath_Inkbane: my army is 91 men and a whole 580 glod stash what do u have damevolemere   <conversation:conv_178>
+[17:53] (global ) h4rrowz: why does every lord on ormerath think a banner makes them untouchable lmao. banners burn too   <ambient_complaint>
+[17:56] (global ) ratiognat: anyone else notice the bandit spawn rate scales with your gold? that is a pay-to-lose mechanic   <ambient_complaint>
+[17:59] (global ) GravelOathkeep: Our ancestors fought the marsh raiders with pride, while today's guards haggle over their pay before they draw a blade.   <ambient_complaint>
+[18:00] (global ) OldTideWarden: I paid 1220 for a warhorse years back and still call it a bargain. Quality is cheaper than regret.   <ambient_trade>
+[18:06] (global ) EarlSootmere: Tesnovar Wardenry split their garrison across 4 buildings. they wont get a second chance from me   <my_faction_took_fief>
+[18:11] (global ) AcornKid07: omg damevolemere dont listen to him :( u can have my dog if u want :d   <conversation:conv_178>
+[18:18] (global ) Kwidrath_Inkbane: cope acornkid07 ur dog is the olny thing standin lol damveolemere ur oath rolls are fake   <conversation:conv_178>
+[18:21] (global ) Eeel: took Montsorel with 60% of the army we brought last time. their defense was the real problem   <my_faction_took_fief>
+[18:28] (global ) SirNutbrook: Who has been seen at the market in Tinouzat? I only ask because I should like to know which lords are making the long walk.   <ambient_chatter>
+[18:39] (global ) DukeQuillfeather: bragging is a skill. i have 104 men who can confirm this, mostly by nodding :/   <ambient_brag>
+[18:43] (global ) SaddleQuote: Honest question for the devs: why does a sack of flour weigh more than a horse? My back disagrees with the balance.   <ambient_complaint>
+[18:52] (global ) beetlepush: bought out the leather in Imzellan. not luck, i track restock timres. copy me if you can keep up   <ambient_trade>
+[19:00] === BOT: attacks HornMisfire (lord, 24 troops)
+[19:09] (whisper) BaronParsnyp: skill issue Wanderer ur not bad just bad at everything else lol   <whisper_taunt>
+[19:10] (global ) Orrin_Chiselbeard: Anyone else's lag spike kick in right when the siege horns sounded? Server has been stuttering since dawn.   <ambient_chatter>
+[19:12] (global ) Dovran_Oatsworn: A toast, friends, to the ancestors who watched from the hills above Castelnarc and nodded at our victory.   <my_faction_took_fief>
+[19:15] === BOT: battle vs HornMisfire: won (captured, ransom)
+[19:20] (global ) xX_Ottr_Mart_Xx: The new toll on the river crossing means every cart loses a third of its profit before it even moves. Dreadful.   <ambient_complaint>
+[19:21] (global ) h4rrowz: dont think the treaty means im forgetting how Orlagua Republic ran from me twice still got it in the notes   <peace_made>
+[19:24] (global ) TurnipTheFlank: watching Wanderer's army comp. two rams and no archers. bold, we'll see how it ages   <player_renown_up>
+[19:25] (global ) HornMisfire: lost my field battle to Wanderer today, anyone know how to stop getting flanked??   <beat_by_player>
+[19:26] (whisper) lich3n_grudge: fine you helped today dont make it a habit or ill start charging   <fought_alongside_player>
+[19:31] (global ) rustcouncil07: grain at Dzelmasi now costs double what it did last moon. someone is hoarding, and i have a fairly good idea who profits.   <ambient_complaint>
+[19:32] (global ) Sockelin_Dyer: Peace with Saaravenn Fen Confederacy means fewer bandits hiding behind old war banners. Shame it took this long to happen.   <peace_made>
+[19:46] (global ) MOSSY9: the roads out of Tassemmar are muddy again. half the caravans are late and everyone blames the weather   <ambient_chatter>
+[19:52] (global ) MOSSY9: 92 men in the field and 940 in the chest. the mix is tighter than anyone else's on this server   <ambient_brag>

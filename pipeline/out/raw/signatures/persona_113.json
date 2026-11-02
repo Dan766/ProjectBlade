@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "job_id": "persona_113",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "e21068d8dc49e7d8ded931ab2d94c9a5620edf803b910d43889ce8cb982594e3",
+    "model": "haiku",
+    "cost_usd": 0.00800325,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:40:11+00:00"
+  },
+  "data": {
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "oh no oh no oh no, ur party is huge!! im {persona} from {my_faction} and im NOT gonna fight, sorry sorry :("
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "hi hi!! im {persona} of {my_faction}, first week playing :D is it normal that the map is this big?? where r we even going"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "omg {player}!! im {persona}, i've been killed by three wolves already xD any tips pls?? i'll owe u a snack lol"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "i won vs 4 looters once and i still talk about it lol. but ur party looks way scarier, so pls let me pass :)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "is that tassemmar on ur back?? i thought tassemmar was a sword lol. wait ur not gonna attack me right?? sorry!!"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "omg {player} beat me with {troop_count} guys!!! i'm so bad lol. sorry for the mess, ur a legend xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "hi {player} :) thx for the fight, i lost but it was SO fun. is it normal to lose to {troop_count} ppl?? sorry sorry"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ok ok i lost, {troop_count} is a LOT of guys!! wait do i get my stuff back or is that a thing?? sorry for the trouble"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} with {troop_count} troops?? how do u even have that many lol. i only had like 4 guys and 1 was a goose"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} u really did that to me?? my guys all ran away. ok fine. im gonna get better and then ur in trouble :D"
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "u let me go for free?? thank u {player}!! i'll owe u a loaf :D"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} just let me go!!! i was SURE i was getting ransomed lol. ur the nicest person on the whole continent i think xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "ok so u released me. is that a good thing?? i feel like it's a good thing. thx {player} i think?? sorry sorry"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} u let me go and i'm still mad!! ... ok no im not mad. thx :) dont tell my league i was crying"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} i cant believe u let me walk. i'm gonna tell everyone ur the kindest knight on the continent. is that allowed??"
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "WE WON!!! {player} and me beat {enemy_faction} with {troop_count} guys!!! omg omg omg xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}!! did u see that?? we beat {enemy_faction} together! i only hit like 2 guys but still, huge win for me :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "gg {player}. was that normal?? i kinda just ran around and hit things. thx for letting me stand next to u"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{troop_count} of us vs {enemy_faction} and we won?? i thought we'd all die lol. wait does the loot get split??"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "u kept me alive {player} :) i tripped twice and u still covered me. i'll buy u a drink someday. sorry for tripping"
+      }
+    ],
+    "whisper_beg_help": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} pls pls help, {enemy_faction} is at {fief} and i think i'm the only one there?? i'm scared :( u free?"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "hi {player}, sorry to bug u. {fief} is being sieged by {enemy_faction} and idk what to do?? is it normal to panic"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} u know everything, right?? {fief} is about to fall to {enemy_faction}. could u come? i'll bring snacks xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "ummm {player}?? i think we are losing at {fief}. not sure if i'm doing it right. sorry sorry, any help would be amazing"
+      }
+    ],
+    "ambient_lfg": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "LFG!! {my_faction} is going to siege {fief} vs {enemy_faction}, need ppl, i'll share my snacks. wait is that a thing?? xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone wanna go to {fief}?? {my_faction} needs like 5 more guys. no experience needed!! ok maybe a little experience :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "raid on {enemy_faction} near {fief} tonight?? im new but i can hold a shield, i think?? sorry if thats not how it works"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} is looking for recruits!! we're going for {fief}. the ppl here are SO nice, pls come xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "is {fief} still a good place to go?? {my_faction} says yes but i dont know anything lol. anyone wanna come?"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "is it normal that the wolves near {village} are faster than me?? asking for a friend (the friend is me) xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "omg the road to {town} is so long!! my legs hurt already. is walking supposed to be this tiring??"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "does anyone know why my horse keeps walking into trees?? i'm not even mad, just confused :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the sky over {town} is so pretty tonight!! i tried to take a screenshot but it just looked like brown xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag is making me fall off my path!!! sorry if i ruin ur fight, im trying my best :( ok fine i fell in a river"
+      }
+    ],
+    "player_joined_my_faction": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "WELCOME {player} to {my_faction}!!! omg ur gonna love it here. i'll show u where to NOT get eaten by wolves xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} u joined {my_faction}?? thx so much!! i'm also new so i'm no help but ur in good company :)"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} joined {my_faction}. ok!! welcome i guess?? sorry i'm just really happy someone else is new lol"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, u joined {my_faction} so i guess we're on the same side now. dont make me regret saying hi :D"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} joined us. ... i'm not sure how i feel about that. wait no, welcome!! sorry sorry"
+      }
+    ],
+    "encounter_alliance_yes": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "yes yes yes!! an alliance with {player}?? i'm so excited. dont tell {enemy_faction} i was scared the whole time :D"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ok sure, alliance accepted!! i dont really know what that means but it sounds important. pls dont leave me to {enemy_faction}"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "omg yes!! ur party is way cooler than {rival}'s. i hope they see us together xD"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "alliance?? ok!! do i need to write anything down? sorry, im bad at paperwork. thx {player}"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "yes!! i'll stay near u and try not to get lost. the wolves are scary but ur party is scarier :)"
+      }
+    ],
+    "captured_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "oh no u caught me!! ok ok im a prisoner now. pls dont take all my {gold}!! i only have like {gold} and i already spent it on bread"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "wait so ur gonna ransom me for {gold}?? i dont have that much!! can i just pay in hugs? sorry sorry"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "ur not gonna hurt me right {player}?? ok good. i'll pay the {gold} once i figure out how to get it xD"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ur so good at this {player}, i got caught by a SWORD. ok fine, im from {my_faction}, pls dont tell my league :("
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} caught me!! im honored?? i think i'm supposed to be sad but i'm kinda excited. {gold} is fine i guess!"
+      }
+    ]
+  }
+}

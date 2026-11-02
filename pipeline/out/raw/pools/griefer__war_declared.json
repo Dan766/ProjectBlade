@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "griefer__war_declared",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ee9a1d4b34d99cc35c76721c4c4c7b3f0e635414faf21bfc5f94579b535c464c",
+    "model": "haiku",
+    "cost_usd": 0.0036637500000000003,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:08+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "war declared on us and {enemy_faction} thinks they got a shot lol bring the torches",
+        "{enemy_faction} declared on us cool now i can finaly cash in those 3 insults from last spring",
+        "gg {enemy_faction} ur gona need more than a banner and a crying chat to win this one",
+        "honesly the war wont last but the screaming in {enemy_faction} chat sure will",
+        "{my_faction} get the walls up or dotn im just here for the cope",
+        "told u twice that bridge was a trap and now u want a war ok fine skill issue",
+        "already got the fire pits lit for whoever shows up first ez",
+        "lol {enemy_faction} thinks a declaraton scares anyone who watched them fold last time"
+      ]
+    }
+  }
+}

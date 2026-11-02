@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "memer__released_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "6f3b69a85277da004769e200728253a410b589b5059eeadda760ef3989e375fd",
+    "model": "haiku",
+    "cost_usd": 0.005354050000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:04:31+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} let me go for free. no ransom. no respect. i will never forgive this insult to my dignity >:(",
+        "caught by {player}, released by {player}, and not one coin taken. disgusting. i am still owed a grudge",
+        "the grudge fund is open. {player} is first on the list. dont worry the list is only one name long",
+        "i was not ransomed and i am furious about it. {player} did this on purpose to hurt me xD",
+        "public notice: {player} refused to ransom me. i will be outraged in every chat channel until the end of time",
+        "rated {player} 0/10 for release technique. the captivity was top tier and the freedom was sloppy",
+        "my ego has been bruised by a free release. {player} you owe me a proper kidnapping :(",
+        "i am not thankful. i am not thankful at all. {player} shall pay in mild inconvenience someday :)"
+      ],
+      "whisper": [
+        "{player} you let me walk out with no ransom. that is a personal attack and i am taking it personally :(",
+        "you didnt even haggle. no gold, no drama, just a door. i am not okay with this",
+        "free release is a cheap move ser. next time i set the terms and you pay me to stop laughing",
+        "my captors have lost all respect for you. i have not forgotten the open cell door :/",
+        "the ransom was ready. the coins were counted. you just said go away. this grudge is now official",
+        "i will get revenge in a very tiny way. like leaving little notes around your camp saying thanks for nothing",
+        "one day you will need rescue and i will be busy. just saying :)",
+        "i accept your release but not the mood it put me in. ill be sulking near your tent xD"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} released me without a ransom. nobody knows why. the server is confused and so am i",
+        "breaking news: someone let a captive walk free and didnt ask for gold. i am suspicious of this generosity :o",
+        "{player} returned my freedom for free. either a miracle or a trap. the jury is still out",
+        "not sure if i was rescued or just forgotten in a cell by {player}. either way i got my boots back",
+        "free release? in this economy? {player} you are a mystery and i will be watching you closely :)",
+        "the captive life was fine honestly. the cell had a window. {player} let me out and i moved on",
+        "some people pay gold to get out. i got out for nothing and now my pride is confused",
+        "ransom: skipped. dignity: intact. snacks: pending. thanks {player} i think :)"
+      ],
+      "whisper": [
+        "{player} you let me go without ransom. i am keeping my guard up for now, nothing personal :)",
+        "i need to know your motive. free release does not match your vibe. i will be sitting here suspicious",
+        "so we are square? i owe you nothing and you owe me nothing. that is a very weird relationship xD",
+        "dont think this makes us friends. i just appreciated the door being unlocked",
+        "i noticed you skipped the ransom. do you need a hobby? or is there a secret plan for me",
+        "thanks for the freedom i guess. i am still deciding whether to be grateful or just smug about it",
+        "the cell was cold and i am still cold from the trip out. could you have at least added a blanket",
+        "free release means i am free to be annoying now. just letting you know in advance :)"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "shoutout to {player} for releasing me instead of ransoming. the best bad decision i have seen all week :)",
+        "{player} let me walk out for nothing. hero of the realm, unpaid division. i salute you with a bread roll",
+        "i was going to pay my ransom with three potatoes and a poem. {player} said no need. legend behavior",
+        "reminder that {player} is the only person in this realm who gives captives a second chance xD",
+        "{player} released me with zero gold. my bank account is crying but my heart is full :')",
+        "good people of the realm, {player} did not charge a single coin. not sure what kind of wizard they are",
+        "if {player} ever gets captured im paying their ransom in compliments. deal or no deal :)",
+        "to {player}: you have a new fan club. it is me. i am the club. the club is me. welcome :D"
+      ],
+      "whisper": [
+        "{player} you let me go with no ransom?? you are too kind and i am now in your debt in spirit :)",
+        "i owe you a meal. cooked badly, served with lots of love. say the word and i will bring the bread",
+        "you could have squeezed me for every coin but you opened the door instead. i am touched :')",
+        "next time you get captured i am coming with the biggest ransom ever. out of pure gratitude :D",
+        "thanks for springing me. i will remember this forever, or until i forget, whichever comes first xD",
+        "you are officially my favorite person who isnt my own reflection. the reflection is jealous :)",
+        "let me know if you need anything. i can carry things, insult people and eat a lot of cheese",
+        "you saved me from the cell and my pride. thats two things. i'll owe you a song at the next feast :)"
+      ]
+    }
+  }
+}

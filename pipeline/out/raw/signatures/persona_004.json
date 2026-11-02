@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "job_id": "persona_004",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "eba062b7d9e2ba34d124046aa51fc5495db11256027bc5eb5e42b93aaf472295",
+    "model": "haiku",
+    "cost_usd": 0.0136743,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: [{'channel': 'global', 'rel': 'hostile', 'text': 'lol {player} lost to a cart of radishes again. ez. gg i guess :)'}, {'channel': 'whisper', 'rel': 'hostile', 'text': '{player} u fought like a sack of wet turnips xD bring more than {troop_count} next time, that wasnt even a challenge'}, {'channel': 'face', 'rel': 'hostile', 'text': 'ser {player} that was a massacre :) i counted {troop_count} of yours on the field and they all ran like the bridge was on fire. skill issue, sorry'}, {'channel': 'global', 'rel': 'neutral', 'text': '{player} took {gold} off me and im still mad about it. cope cope cope :) next time ill bring cheaper radishes'}, {'channel': 'whisper', 'rel': 'friendly', 'text': 'ok fine {player} you got me :( {gold} is a lot of gold tho. dont tell anyone i said that'}, {'channel': 'face', 'rel': 'friendly', 'text': \"{player} i hate that you won but you fought clean enough. i'll blame the weather like everything else\"}] is too long"
+    ],
+    "created_at": "2026-11-01T17:30:42+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} won with {troop_count} men and still complained about my radishes after. ez clap xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "gg {player} the bridge was the problem tho. not my fault. dont look at me like that :("
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "ser {player} took {gold} off me and i still cant decide if im mad or impressed. dont get used to it :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{gold} from a radish cart?? thats robbery and you know it. skill issue :) i want my money back"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} won with {troop_count} guys and im supposed to clap? the weather was against me. and the bridge. mostly the bridge xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "fine {player} you won the field. dont make it weird. my radishes were stronger in spirit tho :)"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ser {player} that was a flank?? i saw it coming from the next county lol. the rain did it, not you :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "ok {player} you got me :( i wont say it again. dont screenshot this"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} beat me AGAIN. i lost {troop_count} troops to the same guy twice. im not crying, the radishes are xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "stop winning {player}. seriously. ill roll a whole cart of spite over you :) bring more than {troop_count} next time"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "third time {player}. i keep a list of you now and the list is getting long xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "fine {player} you are annoyingly good at this. i hate that i respect it. dont tell the radishes"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} ran from my army like it was on fire. very brave ser. ill remember that :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "you saw {troop_count} of my lads and ran {player}?? thats a flank of shame. im framing that retreat"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} fled from the wrong cart. this is why nobody invites you to map events :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "running away is smart tho {player}. i would have run too. dont tell anyone i said that xD"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} is hiding behind you {player}?? tell them the radishes say hi xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "your last army looked like a tax form {player}. try harder :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "still thinking about my cart {player}? same. still thinking about your loss xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "tell {rival} i said their banner looks like wet bread. i dont make the rules :)"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} meet me at {village} with everything you got. ill bring the radishes and a sense of humor. dont be late :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} rematch at {town}? my cart is ready and my pride is not. bring the full host this time"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{town} field, {player}. winner gets bragging rights, loser gets the bridge excuse. your call :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i know you cant resist this. {village} at dawn. bring your best and cry less xD"
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ser {player} you want {gold}?? dream on. ill pay you in radishes and insults, best deal youre getting :)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{gold} for a safe road? ser i'll pay you in spite and see how that works out xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} come on, {gold} is a lot for a cart of radishes. ill give you half and a joke :)"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "you threaten me with {gold} {player}? my lads have been eating radishes for a week. bring it xD"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "oh look its {player}. the one who beat me twice. get out of my road or ill make a scene for the whole {my_faction} :)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ser {player} welcome to the road. im {persona} of the {my_faction} and im very rude, you have been warned :)"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} oh no, of all people. still undefeated in my book. {persona} at your service, unfortunately :)"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} my favorite loser shows up again. nothing personal, the bridge was a traitor. who's bringing snacks xD"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours now. {troop_count} lads, {gold} in the chest and zero regrets. still nobody beat my radishes xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "just took {gold} from {fief} and im not even sorry. come try me :) my cart is armed"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} men at {fief} and im the only one with a radish cart in the whole army. cute right :)"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} men in one afternoon. thats not war, thats a tax audit xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "heard you lost most of your army {player}. rough. id offer help but my radishes are busy :)"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} got smoked. honestly kinda sad to see. the bridge didnt do it, you did xD gg"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {troop_count} gone?? wow. id be laughing harder if i wasnt busy checking my own ledger :)"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else get rained on near {town}? i blame the weather. obviously. its always the weather"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{village} smells like wet bread and i refuse to explain it xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the road to {town} is a mud pit. who approved this map lol. skill issue for the cartographer :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag again. blame the bridge. then blame the weather. then blame that one guy :)"
+      }
+    ]
+  }
+}

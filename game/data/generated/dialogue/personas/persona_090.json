@@ -1,0 +1,285 @@
+{
+ "username": "marrowmeta",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_090.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost ground to a flank I saw coming from the ridge. Gg. Not the kind of gg you wanted to hear."
+   },
+   {
+    "id": "sig.persona_090.beat_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, you had {troop_count} men and still left the left flank open. Cover it next time. I will be watching the ratio."
+   },
+   {
+    "id": "sig.persona_090.beat_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}. {troop_count} troops and a clean line. You were close. Your reserve arrived a full minute late, and that was the whole fight."
+   },
+   {
+    "id": "sig.persona_090.beat_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} brought {troop_count} men and {gold} in gear to that field. Poor return on both. Expected better from that purse."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_090.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Lost to {player} at {troop_count} troops. My archers were out of position. That was the one variable I did not control."
+   },
+   {
+    "id": "sig.persona_090.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, your line held at the right ratio and mine did not. I counted it. Pull the pikes back and you will beat me again."
+   },
+   {
+    "id": "sig.persona_090.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well played, {player}. Your {troop_count} were positioned better than mine. My archers were late to the ridge. I will fix that before the next field."
+   },
+   {
+    "id": "sig.persona_090.beat_by_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Lost to {player}. The mix was wrong, not the men. Logged the fight and adjusting."
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_090.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} again. Third loss to the same pattern. {troop_count} men in the notebook and still no answer. Unacceptable."
+   },
+   {
+    "id": "sig.persona_090.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, this is the third time. Send me your last six fields. I will find the pattern in your {troop_count} and break it."
+   },
+   {
+    "id": "sig.persona_090.beat_by_player_repeat.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Respect, {player}. Three fights, and you found the same gap each time. I am recalculating from zero."
+   },
+   {
+    "id": "sig.persona_090.beat_by_player_repeat.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Again, {player}. I stopped blaming luck two fields ago. The formation is wrong and I will find where."
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_090.player_win_streak.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has won every field since the last reset. Not luck. Their ratios are cleaner than most of this server. Study them or lose."
+   },
+   {
+    "id": "sig.persona_090.player_win_streak.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, your streak is in my notebook now. Each win came at a ratio I can reproduce. I am still looking for the flaw."
+   },
+   {
+    "id": "sig.persona_090.player_win_streak.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Clean run by {player}. Few hold ratios like that under pressure. Gg, and I want the rematch."
+   },
+   {
+    "id": "sig.persona_090.player_win_streak.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "People call {player} lucky. Luck does not produce the same clean ratio eight fields running. Someone should copy it."
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_090.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Did {player} even check the numbers before sending {troop_count} men forward? The trade was lost before the first horn."
+   },
+   {
+    "id": "sig.persona_090.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, that cavalry trade was the worst I have logged this month. Pull back and rebuild the ratio before the next charge."
+   },
+   {
+    "id": "sig.persona_090.player_big_defeat.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, you lost {troop_count} men and still held your far line. That tells me you have skill. Use it and stop charging blind."
+   },
+   {
+    "id": "sig.persona_090.player_big_defeat.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} went down with {troop_count} troops this afternoon. Happens to the best of us. The post-mortem is more useful than the fight."
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_090.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, I hold {town} and the road through {village}. Meet me there with equal numbers. I will show you where your ratio fails."
+   },
+   {
+    "id": "sig.persona_090.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}. Open field outside {village}, equal troops, no terrain edge. Tell me when you are ready and I will bring the notebook."
+   },
+   {
+    "id": "sig.persona_090.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Ser {player}, you have been winning on luck near {town}. Come to {village} and test that against a real ratio."
+   },
+   {
+    "id": "sig.persona_090.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, I am moving my cavalry toward {village} tonight. Meet me there, or do not, but do not pretend you are not curious."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_090.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Took {enemy_faction}'s flank with {player} and {troop_count} men. Clean coordination. We did not waste a single pike."
+   },
+   {
+    "id": "sig.persona_090.fought_alongside_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, your timing on the second charge was correct. Your lines were a few paces off, but the ratio held. We will refine it next time."
+   },
+   {
+    "id": "sig.persona_090.fought_alongside_player.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Shared a field with {player} against {enemy_faction}. {troop_count} troops, clean win. Logged. I am not impressed yet, but the math held."
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_090.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} troops in the field at {fief}, {gold} in the treasury. Every ratio is on paper before the first horn sounds."
+   },
+   {
+    "id": "sig.persona_090.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Another win at {fief}. Forty-one fights logged this season and not one of them was a guess."
+   },
+   {
+    "id": "sig.persona_090.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Full ledger on {fief} now: {troop_count} men, {gold} spent on equipment. Nobody here runs cheaper or cleaner."
+   },
+   {
+    "id": "sig.persona_090.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Garrison at {fief} stands {troop_count} strong. The rest of the server can keep spending gold on heroics. I am counting."
+   }
+  ],
+  "my_faction_took_fief": [
+   {
+    "id": "sig.persona_090.my_faction_took_fief.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is {my_faction}'s now. Their garrison was undersized by a third. Obvious to anyone who bothered to count."
+   },
+   {
+    "id": "sig.persona_090.my_faction_took_fief.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} falls under {my_faction}. Clean capture, no wasted troops. Efficiency wins towns, not speeches."
+   },
+   {
+    "id": "sig.persona_090.my_faction_took_fief.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} takes {fief} from {enemy_faction}. The notebook says this was inevitable once their supply line broke."
+   },
+   {
+    "id": "sig.persona_090.my_faction_took_fief.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} flies {my_faction} colours tonight. {enemy_faction} can blame the weather. I will blame their arithmetic."
+   }
+  ],
+  "player_besieging_my_fief": [
+   {
+    "id": "sig.persona_090.player_besieging_my_fief.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has ringed {fief}. Bold, with that many siege lines to feed. Watch the food ratio, not the walls."
+   },
+   {
+    "id": "sig.persona_090.player_besieging_my_fief.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, {fief} is not the soft target you think. The garrison count is correct. Your supply wagons are the weak point. Count again."
+   },
+   {
+    "id": "sig.persona_090.player_besieging_my_fief.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Siege at {fief} has started. Nothing to do this hour, but the ledger will show who breaks first."
+   },
+   {
+    "id": "sig.persona_090.player_besieging_my_fief.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, you have committed to {fief}. Commit fully or retreat. A half siege wastes more men than the walls do."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_090.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Rain over {town} again. Wet bowstrings cost about a fifth of volley range. Plan accordingly."
+   },
+   {
+    "id": "sig.persona_090.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Lag at {village} is worse than last night. Someone's pathing is killing cavalry formations. Fix it, whoever runs that node."
+   },
+   {
+    "id": "sig.persona_090.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Anyone selling pike drill notes? Mine are a mess. Not asking for free help, just asking for good notes."
+   },
+   {
+    "id": "sig.persona_090.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "The road between {town} and {village} is good for ambushes and bad for anyone who needs to arrive on time."
+   }
+  ]
+ }
+}

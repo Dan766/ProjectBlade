@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__ambient_chatter",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "a11bb4c22d2841d95b9d9fafd170554d5a7105447bb87f97ce2b63c155e3545b",
+    "model": "haiku",
+    "cost_usd": 0.0037168500000000003,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:16:32+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "The marsh fog to the east is thicker than usual. Bring a lantern, and don't trust the ferry schedule either.",
+        "Anyone else's lag spike kick in right when the siege horns sounded? Server has been stuttering since dawn.",
+        "Rain again. Honestly, I miss the days when storms only came on festival nights.",
+        "Someone mentioned a shortcut through the hills near {village}. Check the old maps before you risk it.",
+        "Those new cartographers keep redrawing the coast. The mountains haven't moved since the first war, I can promise you that.",
+        "Ormerath's weather is like a bad tenant. It shows up uninvited and leaves a mess behind.",
+        "Anyone want to trade stories over a barrel of cider in {town}? I'll bring the old maps, and you bring the gossip.",
+        "Lag is no reason to rage-quit. Stand still, breathe, and let the server catch up. Works more often than you'd think.",
+        "Whoever keeps selling ale labeled as mead in the square, I can taste the difference from here, friend.",
+        "Good seasons never last long here. Enjoy the sunshine while the harvest is in and the roads are dry."
+      ]
+    }
+  }
+}

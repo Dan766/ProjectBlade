@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "job_id": "faction_04_b1",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "e62417494781c4d6b935c396ec60fb5d570fcf4d34741f9e9eb6f00193e94761",
+    "model": "haiku",
+    "cost_usd": 0.01158025,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:47:18+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_061",
+        "username": "bisket",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "Scheming",
+          "Courteous",
+          "Ambitious"
+        ],
+        "backstory": "Has held a seat on the Hrastovec council since the second winter of the Oath. Keeps a ledger of who owes favours in Ukrenvar and who has forgotten them. Lost the Vodnagrad vote to {rival} by three hands and has been quietly counting those hands ever since.",
+        "catchphrases": [
+          "A matter for the council, {player}. Come find me.",
+          "Curious that {rival} keeps missing the vote, {player}."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.0,
+          "patrol": 0.0,
+          "besiege": 0.05,
+          "aggression": -0.05,
+          "flee_threshold": 0.1,
+          "loyalty": -0.1,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_062",
+        "username": "xX_BoarBargains_Xx",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Friendly",
+          "Greedy",
+          "Chatty"
+        ],
+        "backstory": "Runs a wool and salt route between Brezhnik and Mokrenka and has never lost a cart to a bandit without bargaining with him afterwards. Took a 40 gold toll from {rival} after an ambush on the Lipnevo road and still sends them a discount letter every week.",
+        "catchphrases": [
+          "Grudges cost coin, {player}. Let's talk prices.",
+          "Horses are half price if you ask nicely."
+        ],
+        "ai_adjust": {
+          "raid": -0.2,
+          "trade": 0.2,
+          "patrol": -0.05,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.1,
+          "loyalty": 0.05,
+          "honor": 0.0
+        }
+      },
+      {
+        "id": "persona_063",
+        "username": "SerTankardell",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "Proud",
+          "Gallant",
+          "Theatrical"
+        ],
+        "backstory": "Swore a feast-oath in Hrastovec hall that Tesnovar's banners would fly over Ostrogrado before the new moon. The moon has turned three times since. Yielded the field to {rival} at Smrekovo and calls the defeat a lesson sent by the ancestors.",
+        "catchphrases": [
+          "Hark! Tesnovar's oath still binds us all.",
+          "Well struck, ser {player}. The ancestors approve."
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": -0.2,
+          "patrol": 0.05,
+          "besiege": 0.1,
+          "aggression": 0.1,
+          "flee_threshold": -0.2,
+          "loyalty": 0.15,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_064",
+        "username": "xX_PatinaSage_Xx",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "Patient",
+          "Generous",
+          "Seasoned"
+        ],
+        "backstory": "Has held the fords of Redlice since the first war and still remembers the winter the fens flooded Gorvenka. Tells newcomers to stock food before crossing. Once taught {rival} to hold a charge line at Stribogra, and bore no grudge when they used it on him.",
+        "catchphrases": [
+          "Pack bread for two days before the fens, friend.",
+          "Good form, {player}. That feint was clean."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.0,
+          "patrol": 0.1,
+          "besiege": -0.05,
+          "aggression": -0.15,
+          "flee_threshold": 0.05,
+          "loyalty": 0.1,
+          "honor": 0.15
+        }
+      },
+      {
+        "id": "persona_065",
+        "username": "ThistleTolls",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "Prickly",
+          "Shrewd",
+          "Chatty"
+        ],
+        "backstory": "Trades dyed wool and dried fish along the Dubnyak and Zhelnice roads. Refuses to pay bandit tolls and says so loudly. Took a thistle-bordered bolt of cloth from {rival} as payment and has been trying to resell it ever since.",
+        "catchphrases": [
+          "dyed wool moving fast, {player}. make an offer.",
+          "salt prices again. somebody sell me a cheaper road."
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.15,
+          "patrol": 0.05,
+          "besiege": -0.05,
+          "aggression": -0.1,
+          "flee_threshold": 0.15,
+          "loyalty": 0.0,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_066",
+        "username": "THIM7",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "frequent",
+          "emoticons": "rare",
+          "punctuation": "chaotic",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Petty",
+          "Loud",
+          "Grudge-keeping"
+        ],
+        "backstory": "Has burned more fields around Vezhdrak than anyone will admit, and calls the scorch marks art. Keeps a list of every insult {rival} typed since Smrekovo and reads it aloud whenever they lose a road. Still refuses to accept a rematch from anyone who beat them twice.",
+        "catchphrases": [
+          "Ur banner burns better than ur army, {player}!!!",
+          "Still counting. {rival} owes me 3 insults and a rematch."
+        ],
+        "ai_adjust": {
+          "raid": 0.2,
+          "trade": -0.1,
+          "patrol": 0.1,
+          "besiege": 0.05,
+          "aggression": 0.2,
+          "flee_threshold": 0.1,
+          "loyalty": -0.2,
+          "honor": -0.2
+        }
+      },
+      {
+        "id": "persona_067",
+        "username": "SparrowSpite",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "none",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Cheeky",
+          "Quick-tongued",
+          "Sore-loser"
+        ],
+        "backstory": "Joined when the Ukrenvar road was still a mud track and has been picking fights on it ever since. Known for quick insults and quicker retreats. Beat {rival} twice at Brusnice and has never admitted the second win was close, only that it was a mistake.",
+        "catchphrases": [
+          "lmao ur flag looks sad from up here",
+          "{player} took the bait again. shocking"
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": 0.0,
+          "patrol": -0.05,
+          "besiege": 0.0,
+          "aggression": 0.15,
+          "flee_threshold": 0.2,
+          "loyalty": -0.1,
+          "honor": -0.15
+        }
+      },
+      {
+        "id": "persona_068",
+        "username": "Eeel",
+        "chat_style": {
+          "case": "lower",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Analytical",
+          "Curt",
+          "Smug"
+        ],
+        "backstory": "Tracks troop ratios in every siege since the Vrasnik campaign and posts the numbers after each defeat. Took Lyutoda in under two days with a 3:1 cavalry edge. Considers {rival} a tactical disappointment, mostly for poor archer positioning.",
+        "catchphrases": [
+          "gg. the ratio was off, not the plan",
+          "gg {player}. ur line broke at 40 percent"
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": -0.1,
+          "patrol": -0.05,
+          "besiege": 0.2,
+          "aggression": 0.15,
+          "flee_threshold": -0.1,
+          "loyalty": -0.05,
+          "honor": -0.15
+        }
+      },
+      {
+        "id": "persona_069",
+        "username": "MapleMutiny",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Chaotic",
+          "Goofy",
+          "Good-natured"
+        ],
+        "backstory": "Declared war on the bridge at Mokrenka after it refused to let a sacred goose cross, and has filed complaints about it ever since. Gives everyone nicknames, including the Smrekovo reeve. Lost a duel to {rival} and blames the sun, which is the sun's fault.",
+        "catchphrases": [
+          "The goose of Redlice is avenged!! Respect the goose",
+          "{player} i forgive u. the goose does not"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.05,
+          "patrol": 0.1,
+          "besiege": 0.1,
+          "aggression": -0.1,
+          "flee_threshold": 0.05,
+          "loyalty": 0.1,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_070",
+        "username": "Dovran_Oatsworn",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Humble",
+          "Devout",
+          "Weary"
+        ],
+        "backstory": "Keeps a small oat-field near Sedlov and has sworn never to march farther than the Chorvena ford. Has stood with the Wardenry since the first war. Yielded a sword duel to {rival} at Bukhrov and calls it a debt the ancestors will collect.",
+        "catchphrases": [
+          "By the oath of Lisnik Gate, I hold this road.",
+          "Ser {player}, the ancestors will remember that blow."
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.05,
+          "patrol": 0.05,
+          "besiege": -0.1,
+          "aggression": -0.2,
+          "flee_threshold": 0.0,
+          "loyalty": 0.2,
+          "honor": 0.1
+        }
+      }
+    ]
+  }
+}

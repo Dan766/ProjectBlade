@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "job_id": "persona_059",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "9a2c4c56a3563bb76638e6511936c0354dfa7d112d2bc6f2bfc4cbf9f6504fb6",
+    "model": "haiku",
+    "cost_usd": 0.00689115,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:34:58+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Your formation cost you {troop_count} men. A proper cavalry wing would have prevented it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Your centre broke, {player}. Bring more horse next time, or stop bringing me {troop_count} infantry."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Good fight, {player}. Your archers were badly placed, though. I took {gold} gold from your baggage train and you did not notice."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{troop_count} of your soldiers fell in that exchange, {player}. Recruit more cavalry and spend less on archers."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "My archers were out of position, {player}. Logistics, not skill. Those {troop_count} men were avoidable."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Your flanking was sound, {player}. My left wing had {troop_count} spearmen and no horse. That will be corrected."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Well played, {player}. I misjudged your second wave. I will take the lesson and recalculate before our next meeting."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} won that fight through ground and timing, not numbers. I will not repeat the error with {troop_count} men."
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "That is the third time {player} has broken my line. The numbers say I should have won. I will find where the model is wrong."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, I have reviewed every report. Three defeats, {troop_count} men lost each time. This is no longer chance."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has now beaten me three times. Grudging respect is noted. Your cavalry ratio is higher than I predicted."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player}, you have beaten me three times and I am beginning to take your formations seriously. Respect, grudgingly."
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has won again. Every field is a problem for lesser commanders now. Mine included, and I dislike that."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Your streak is impressive, {player}. It will end when your supply lines do. Plan for that."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "A long run of wins for {player}. Statistically this is a pattern, not luck. Study it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Enjoy the streak, {player}. Every commander who rode one has eventually met a flank they did not expect."
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} lost most of an army to someone else. {troop_count} men gone in one afternoon. Recruits are not free, {player}."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "A rough day, {player}. You lost {troop_count} men, most of them to a bad formation. Rebuild the horse before you push again."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} just lost {troop_count} troops. Anyone who fields that much infantry deserves the result."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Your army broke, {player}. Do not chase the losses. Reorganise before you commit again."
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, I will be at {town} with cavalry. Meet me at {village} and we will see whose formation holds."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "I would like a formal test of formations, {player}. {village} is neutral ground. Your move."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, your record is fortunate. I propose we end that at {village}, outside {town}. Bring everything you have."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "A calculated proposal, {player}. Your army against mine near {town}. Let us see which of us wastes fewer men."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Good work on that flank, {player}. Your horse held against {enemy_faction} as I expected. Do that again and we will get along."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Our combined line beat {enemy_faction} with {troop_count} men. The ratios were correct. Keep your cavalry where it was."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} and I took the field from {enemy_faction} with {troop_count} men. Adequate coordination."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Your timing was tolerable, {player}. Next time send the horse wide before the infantry closes. {enemy_faction} will not recover quickly."
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "I hold {troop_count} men and {gold} gold, and {fief} is proof that my formations work."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Another {fief} secured. Cavalry-heavy armies do not lose ground, and I do not intend to start."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{gold} gold in the treasury and {troop_count} horse in the field. Recruiting properly is not complicated."
+      }
+    ],
+    "my_faction_took_fief": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} has fallen to {my_faction}. {enemy_faction} lost it because they fielded too much infantry."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} now holds {fief}. The garrison will be cavalry, as it should be."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours. {enemy_faction} lost the flank before the walls ever mattered."
+      }
+    ],
+    "player_besieging_my_fief": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has started a siege of {fief}. Good. I have been waiting for someone to test the garrison."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, {fief} is not a soft target. My garrison is cavalry. Your siege engines will not change that."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "You have chosen {fief} to besiege, {player}. A calculated risk. I have run the odds and I am not worried."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} is besieging {fief}. Most sieges fail in the second week from supply shortfall. Count your provisions."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The road between {town} and {village} has been muddy for three days. Terrible for horse, which is why I stay off it."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Anyone still fielding a pure infantry army should reconsider. The numbers do not lie."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lag at {village} again. I have stopped blaming the server and started blaming the weather."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain over {town} this week. My archers were out of position in the damp. Not an excuse, a variable."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Someone asked me for tactics at {village} yesterday. I charged them for it. Coaching is not free."
+      }
+    ]
+  }
+}

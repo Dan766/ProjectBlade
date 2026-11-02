@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "tryhard__player_besieging_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "80f82346e4d7d7a317ebcd4c00662f52152052ad258c760b35a6942dc2864a18",
+    "model": "haiku",
+    "cost_usd": 0.00532755,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:15:40+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} sieging {fief} with 2 rams and no ladders. bold. the walls dont care about bold",
+        "{fief} garrison can hold 4 hours vs 40 soldiers. {player} brought 12. math is not on ur side",
+        "lol {player} is at {fief} again. someone teach them what a supply line is",
+        "siege camp with no scouts. {player} gets flanked by lunch. mark it",
+        "{player} tried to starve {fief} in a 20 minute window. cute. the granary is full",
+        "{player} can ram the {fief} gate all day. the moat makes that a waste of timber",
+        "still parked outside {fief}? my garrison counted ur tents twice. nothing has changed",
+        "{fief} has 3x the archers {player} does. pack up now and save the time"
+      ],
+      "whisper": [
+        "ur siege of {fief} is a textbook way to lose 200 gold. pull back and regroup before the numbers fall apart",
+        "you brought infantry to a wall fight. rams and ladders together would have been the play",
+        "your rams are in the wrong spot. move them east or that gate holds all day",
+        "{fief} garrison is 60 strong and mostly crossbows. get a 2:1 melee ratio before u knock again",
+        "gg in advance. im not rushing {fief}. i am just waiting for ur second wave to break",
+        "ur camp sits on open ground in range of the walls. the bolts will do the work for free",
+        "i dont need to win this siege. i just need u to waste the afternoon outside {fief}",
+        "stop sending wave after wave into the gate. you run out of soldiers before the wall does"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has a siege going on {fief}. bet they dont get past the gate. not my problem either way",
+        "siege of {fief} started. calling it now, first assault fails and they regroup. watch the timers",
+        "anyone want to bet on {fief}. i have 2 gold on the attackers lasting a full day",
+        "{fief} is under siege. not sure the attackers brought enough engineers for that wall",
+        "{fief} has a moat and two gatehouses. the attacker should plan for that",
+        "{player} is outside {fief} with a full stack. could be a long week for both sides",
+        "siege reports from {fief}: 14 ladders, 2 rams, no siege tower. clean setup from {player}",
+        "logged the siege at {fief}. the forest east of the walls is an ambush spot for whoever gets lazy"
+      ],
+      "whisper": [
+        "hey {player}. saw ur camp at {fief}. the north side is weaker if u want to try it",
+        "you have time before the garrison reinforces. if the plan is the gate, bring more shields",
+        "no hard feelings about the siege. just know the granary is stocked for a month",
+        "{fief} can hold longer than you think. not trying to scare u, just saying it plainly",
+        "if ur going to keep sitting there, at least move the ram off the open field",
+        "gl with {fief}. i dont plan to join the fight but i wont send help to the walls either",
+        "pulled my army back from {fief} for now. the siege is yours to lose at this pace",
+        "still deciding if i defend {fief} or let it burn. your call, {player}, not mine"
+      ]
+    }
+  }
+}

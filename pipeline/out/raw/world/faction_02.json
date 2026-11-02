@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "job_id": "faction_02",
+    "stage": "world",
+    "prompt_file": "world_faction.md",
+    "prompt_hash": "0bcc470b2b2d5e3b516be65298c806bf6f1b463b1c3353941d359405833a03ed",
+    "model": "haiku",
+    "cost_usd": 0.00772755,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:36:22+00:00"
+  },
+  "data": {
+    "name": "Saaravenn Fen Confederacy",
+    "adjective": "Saaravan",
+    "ruler_title": "Oath-Speaker",
+    "short_lore": "The Saaravenn Fen Confederacy is a loose oath-moot of reed-boat clans who swear fealty to no throne. Their ambushers vanish into the black waters of Vaarun Marsh, and no toll-collector from the river-guilds has returned from the reed-mazes around Lohvaara. Now salt caravans press into the eastern shallows, and forest wardens eye the fen's timber.",
+    "troop_names": {
+      "infantry": [
+        "Liiva Levies",
+        "Oolen Skirmishers",
+        "Tallu Ambushers"
+      ],
+      "archers": [
+        "Siiru Slingers",
+        "Vaarel Bowmen",
+        "Haapen Longbowmen"
+      ],
+      "cavalry": [
+        "Lumma Scouts",
+        "Ketva Reed-Riders",
+        "Aaluun Lancers"
+      ]
+    },
+    "towns": [
+      {
+        "name": "Heeluma",
+        "blurb": "Reed-boat yard where every clan's oath-stone is carved; its smoke-hung docks build the fastest hulls in the fen."
+      },
+      {
+        "name": "Kaarnesta",
+        "blurb": "Stilt market on the black lake, famed for eel-smoked fish and a grudge against the river-guild toll-barges."
+      },
+      {
+        "name": "Ruunhaavi",
+        "blurb": "Moot-island town where the oath-moot meets each midsummer; its bell is rung only when a clan breaks faith."
+      },
+      {
+        "name": "Liivanne",
+        "blurb": "Salt-marsh shrine town trading peat-fire and amber; lords of the Salt-road still pay tribute here, grudgingly."
+      },
+      {
+        "name": "Tuoksimaa",
+        "blurb": "Fen-fever town whose herbalists brew cures from bog-myrtle; a legend says the drowned keep its wells."
+      },
+      {
+        "name": "Oorvaan",
+        "blurb": "Frontier outpost on the forest edge, where Warden hunters and fen trappers trade furs and quarrel over timber."
+      }
+    ],
+    "castles": [
+      {
+        "name": "Sooraalen",
+        "blurb": "Ancient stilt-fort ringed by moss-walls; its keeper refuses any oath that names a king."
+      },
+      {
+        "name": "Veenhalla",
+        "blurb": "Peat-brick hold on a sunken island; its cellars hold the clans' sworn reed-scrolls."
+      },
+      {
+        "name": "Kiivarra",
+        "blurb": "Watchtower of oak piles over black water, guarding the only causeway into the heart of the fen."
+      },
+      {
+        "name": "Lohvaara",
+        "blurb": "Mazed reed-fort whose paths shift with the tide; a fabled trap that swallowed a Regency host."
+      },
+      {
+        "name": "Vaalikka",
+        "blurb": "Half-sunken chapel-keep where the oath-moot's sacred eels are kept and fed each spring."
+      },
+      {
+        "name": "Nurmuun",
+        "blurb": "Hill-fort of turf and stone above the reed line, a lookout against salt caravans from the south."
+      },
+      {
+        "name": "Hamaanne",
+        "blurb": "Ruined ferry-castle whose toll chain was broken by river-guild marines; the clans want it back."
+      },
+      {
+        "name": "Ulvaasso",
+        "blurb": "Wolf-stake fortress of driftwood, said to be built on the bones of a drowned Warden-king."
+      },
+      {
+        "name": "Peeruus",
+        "blurb": "Mist-bound keep where sword-oaths are sworn over a black stone pulled from the marsh floor."
+      }
+    ],
+    "villages": [
+      {
+        "name": "Akkeli",
+        "blurb": "Eel-weir village whose traps feed half the fen; its fishers guard their weirs with knives."
+      },
+      {
+        "name": "Jaarvun",
+        "blurb": "Hunting hamlet on the shore of Jaarvun Mere, famed for black-feathered decoy birds."
+      },
+      {
+        "name": "Sirreka",
+        "blurb": "Smithy village working bog-iron into arrowheads; the Salt-road caravans once tried to buy every one."
+      },
+      {
+        "name": "Meelvi",
+        "blurb": "Beekeepers hang hives on the reed-stalks here; a grudge with the forest wardens over stolen combs."
+      },
+      {
+        "name": "Otsuuk",
+        "blurb": "Lakeside village known for whistle-songs that carry clan signals across three miles of mist."
+      },
+      {
+        "name": "Vihkuu",
+        "blurb": "Ferryman's hamlet where river-guild surveyors vanished; locals still leave them offerings."
+      },
+      {
+        "name": "Ruokkaa",
+        "blurb": "Fishing village on stilts, famed for its rope of twisted sedge that holds fast in any storm."
+      },
+      {
+        "name": "Tiiruus",
+        "blurb": "Cairn-village marking the oath-moot's boundary; its stones are said to move when a clan lies."
+      },
+      {
+        "name": "Ylaaka",
+        "blurb": "Upland hamlet of dry reed-thatch, a rare dry patch in the fen that bandits covet."
+      },
+      {
+        "name": "Kuolmi",
+        "blurb": "Village of bone-pit ossuaries where clans bury their dead in the peat; the living avoid it at dusk."
+      },
+      {
+        "name": "Eepsaa",
+        "blurb": "Crossroads hamlet where mud-roads meet the causeways; it sells passage for silver to any caravan."
+      },
+      {
+        "name": "Ohtaam",
+        "blurb": "Reed-harvest village whose annual cutting festival ends in a mock raid on the nearest town."
+      },
+      {
+        "name": "Rimmaa",
+        "blurb": "Quarry village of soft limestone; its masons build the only stone barges in the fen."
+      },
+      {
+        "name": "Mooraa",
+        "blurb": "Wild-goose hunters' village; its geese are said to warn of approaching river-guild galleys."
+      },
+      {
+        "name": "Haapuu",
+        "blurb": "Birch-grove village of shamans who read oath-omens from the bark of fallen trees."
+      },
+      {
+        "name": "Vesseli",
+        "blurb": "Salt-marsh hamlet where caravan drovers once fled raiding clans; their hidden salt-caches are rumoured."
+      },
+      {
+        "name": "Gaiuuk",
+        "blurb": "Mudflat village famed for its reed-boat racers; wagers here have started three feuds."
+      },
+      {
+        "name": "Naabeli",
+        "blurb": "Abandoned mill-village beside a dam built by river-guild engineers; the clans want it blown open."
+      },
+      {
+        "name": "Ketsaal",
+        "blurb": "Hunters' outpost at the edge of the Warden woods, where a boundary-stone was pulled up at night."
+      },
+      {
+        "name": "Uuvaar",
+        "blurb": "Mist-hung hamlet where the oldest oath-moot was first sworn; its elders dispute who may speak."
+      },
+      {
+        "name": "Lauvanna",
+        "blurb": "Hearthstone village of smoke-cured hams and a chanting choir that greets every returning boat."
+      }
+    ]
+  }
+}

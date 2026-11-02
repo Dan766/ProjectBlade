@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "griefer__player_besieging_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "877f2e88ad2c339b6d17c5c0c7ed33dcd701aabdd8f56bf7789294ea54a660c1",
+    "model": "haiku",
+    "cost_usd": 0.00455405,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:01:34+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{fief} is still standing bc i let u have it lol",
+        "siege {player} lasted a whole 4 mins before the cope started",
+        "tell ur crew to bring ladders next time cuz the walls are still ez",
+        "everyone remember who held {fief} last time and who ran home crying",
+        "{player} sieging {fief} again skill issue has a loyalty card at this point",
+        "rolling through {fief} gate like its teh opening day of a fair lmao",
+        "gg {player} hope the tents are comfy outside {fief} cause thats where ur staying",
+        "shoutout to {player} for doing the same siege twice and getting the same result"
+      ],
+      "whisper": [
+        "ur banner looks sad outside {fief} ngl",
+        "i counted ur losses last round and im not forgetting a single one {player}",
+        "keep knocking every hit is another entry in my grudge book",
+        "still got the screenshot of u screaming from the wall at {fief} lol",
+        "u know the drill {player} bring the whole guild or dont bother",
+        "not gonna lie the siege was kinda cute kinda",
+        "send ur best next time i kept the last three names for later",
+        "bet u gonna type gg after this dont bother i already know the line"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "siege on {fief} incoming somebody get the kettle on",
+        "new banner at the gate whatever chaos is a hobby",
+        "watching {player} roll up to {fief} with a tiny army and no plan respect the effort i guess",
+        "anyone else got bets on how long the gate holds",
+        "{fief} has seen worse sieges than this one trust me",
+        "lol {player} at {fief} again the grass there is gonna be well trampled",
+        "not saying anything rn but the eastern wall might be a problem",
+        "siege started at {fief} popcorn anyone or nah"
+      ],
+      "whisper": [
+        "hey {player} no hard feelings but dont burn the mill at {fief} ok",
+        "u got a plan or are we just doing this on vibes again",
+        "ngl its kinda impressive u showed up with that many men",
+        "if u want {fief} just say so and ill think about it maybe",
+        "not mad about the siege just annoyed the bread got cold",
+        "dont take it personal {player} its just a town",
+        "were u planning to talk or only swing swords today",
+        "gonna be honest i dont know if i want this fight but i wont run either"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "tryhard__whisper_beg_help",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "d57335b55caeac015c00245a4d97e9cde0e2a8badb1e9c7050ee07753048389c",
+    "model": "haiku",
+    "cost_usd": 0.003950250000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:16:21+00:00"
+  },
+  "data": {
+    "neutral": {
+      "whisper": [
+        "{enemy_faction} has 3 stacks on {fief}. we have 1. i need a second army or i lose the keep",
+        "do the math on {fief}. without help the siege ends in 40 minutes. want a cut of the loot or not",
+        "not asking twice. {fief} is bleeding and i'm short on archers. can u reinforce or not",
+        "i lost the field outside {fief} because my line got split. fixing that needs a second body. interested",
+        "{enemy_faction} runs a cavalry heavy comp and i'm not built to answer it. need someone who is",
+        "ur reputation says u can hold a choke. {fief} has one. come hold it",
+        "losing {fief} to {enemy_faction} is a bad trade for both of us. i'm offering a fair split",
+        "send a reply if ur free. the timer on {fief}'s walls is not in my favor"
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        "ser {player}, {fief} is in trouble and ur the only one i'd trust to fix the rear. can u come",
+        "you read my line better than anyone on the server so you know the terrain. {enemy_faction} is pushing {fief} and i need that read",
+        "gg on the last push. now i need the same discipline on {fief}. the wall is weak on the north side",
+        "i'm down a company at {fief}. you'd bring a cleaner comp than i can. be there in 10 if you can",
+        "{enemy_faction} is over-extending. one pike wall on {fief} and they fold. i'm asking for that wall",
+        "honestly i'd rather lose to you than to them. come help hold {fief} and we'll settle the score later",
+        "we're losing {fief} on tempo, not numbers. i need someone to call the timing. that's you",
+        "ur the one who took the bridge from me last month. same job here. hold {fief} with me and we argue the score after"
+      ]
+    }
+  }
+}

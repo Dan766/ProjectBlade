@@ -1,0 +1,19 @@
+{
+ "_doc": "UI theme (Phase G7): dark wood for the HUD and chat, parchment with ink for dialogs. Colours sRGB hex; fonts in res://ui/fonts (credits: assets/CREDITS.md).",
+ "fonts": {
+  "body": "res://ui/fonts/EBGaramond-Variable.ttf",
+  "italic": "res://ui/fonts/EBGaramond-Italic-Variable.ttf",
+  "display": "res://ui/fonts/Cinzel-Variable.ttf",
+  "body_weight": 500, "bold_weight": 700, "display_weight": 650
+ },
+ "sizes": {"body": 17, "small": 15, "chat": 16, "button": 15, "tab": 14, "h_large": 24, "h_medium": 19, "h_small": 15},
+ "colors": {
+  "wood_dark": "#231b14", "wood": "#3b2c1f", "wood_light": "#57412c", "bronze": "#8f6c3c", "gold": "#e0bf73",
+  "text": "#efe3c6", "text_muted": "#bca986", "shadow": "#000000a0",
+  "parchment": "#eadcb8", "parchment_edge": "#6b4a26", "ink": "#2a1e14", "ink_muted": "#6a5640",
+  "ink_title": "#6e2416", "good": "#2f6b2a", "bad": "#8f2a1a", "notice": "#ffd98a", "whisper": "#c8b4ff",
+  "dim": "#0b0805a6"
+ },
+ "unit_colors": {"infantry": "#8a6a3a", "archers": "#4f7a3a", "cavalry": "#8f3f2a"},
+ "panel_alpha": 0.93
+}

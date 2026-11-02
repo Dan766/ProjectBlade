@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "job_id": "persona_026",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "5e220a0de37eda9df770e6ac5607fc094b1711f0de03ebff97a0ab02165f6a46",
+    "model": "haiku",
+    "cost_usd": 0.00703475,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:32:07+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost the flank by minute three. {troop_count} men on the wing did the work. the numbers were never close"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} ur archers sat 30 yards behind the line the whole fight. that is a ratio problem not luck. fix the spacing"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} good line discipline in the center for a while but ur reserve came in late. two spear ranks behind the front would have held. gg"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} {troop_count} troops and {gold} gold lost to a line that should have held. tally it and move on"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "my archers were out of position on that flank. {player} took it with {troop_count} men and a cavalry wedge. noted"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} ur cavalry hit my flank at the exact second my reserve was pulling back. timing like that is rare. ledger updated"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} that was clean. {troop_count} men kept their line through the whole charge. ur spacing beat mine. i will be studying the replay"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "lost {troop_count} men to {player} this afternoon. the ratio at the breach was against us. i recount every loss"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} that is the third time you have beaten my line. {troop_count} men again. the tally has your name on it three times now"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again. {troop_count} troops and the same flank collapse. i have stopped calling it bad luck"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} you have my number now. i have the replays of all three fights. next time my reserve moves first"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} beat us a third time. the spacing was honest and the timing was clean. respect the ratio, i just need to fix mine"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is on a streak and the ratios back it. eight straight fights with clean flanks. the meta is theirs for now"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} your win rate this month is ahead of mine. i have the ledger open. what is your reserve split"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has won more fields in a row than anyone this season. the numbers are not an accident. study their formations"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} men in one charge with no flank cover. the line never recovered. that is a formation problem"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} that was {troop_count} men gone in one push. you overextended the center. i have seen this exact collapse in my ledger"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} lost most of the army in that charge. bad spacing not bad troops. rebuild the wing and you will be back"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} meet me at {village} at dawn. no cavalry rule. i want the ratio settled on a clean field"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} you have beaten my line twice on paper. {town} field, my archers and your spears. the ledger needs a third entry"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} the open field outside {town} is where the tally gets settled. bring your full line and do not hide the reserve. i will count it"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} i am heading to {village} with a full company. if you want the rematch come with more than a wedge"
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} your flank held and my archers finally had a clean line. {troop_count} men against {enemy_faction} and the numbers worked. good spacing"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} and i took the ridge against {enemy_faction} with {troop_count} men. the split was right for once"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} your reserve timing was correct. keep that spacing for the next push against {enemy_faction}"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} you moved the spearmen on time. that is the only reason we took the field. gg on the win"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "my ledger says {troop_count} men and {gold} gold on hand. the fen rankings will reflect that by the end of the week"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is held and the win ratio is up three points since the spring. the numbers do not lie and neither do i"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} men at full strength and not one wasted spear. the meta favors archers and i can prove it"
+      }
+    ],
+    "my_faction_took_fief": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} took {fief} from {enemy_faction} at the second assault. the flank split was clean and the garrison never reformed"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours. {enemy_faction} lost the wall in forty minutes. the spacing did what the spacing was supposed to do"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} changes hands to {my_faction}. the ratio at the gate was 3 to 1 and {enemy_faction} never recovered their line"
+      }
+    ],
+    "player_besieging_my_fief": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has started a siege on {fief}. the wall garrison is thin and the ratio is not in ur favor. come try"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} you are besieging {fief} with the wrong composition. ur ladders will be shot down before the second rank reaches the wall"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} i have the garrison count for {fief}. it is larger than your last report. check the numbers before you commit"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "a siege on {fief} by {player} means the flank is open. i will count the hits and send the reserve"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the road from {town} to {village} is more mud than road. speed is down by a third. nobody should bring slow carts"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "rain again on the fen road. spacing gets sloppy when the ground is soft. plan the ranks around the mud"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{village} has the cheapest archers in the region. buy them before the price moves. the ledger says so"
+      }
+    ]
+  }
+}

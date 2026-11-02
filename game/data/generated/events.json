@@ -1,0 +1,532 @@
+{
+ "relationship_bands": {
+  "hostile_below": -30,
+  "friendly_above": 30
+ },
+ "placeholders": [
+  "castle",
+  "enemy_faction",
+  "faction",
+  "fief",
+  "gold",
+  "my_faction",
+  "persona",
+  "player",
+  "rival",
+  "town",
+  "troop_count",
+  "village"
+ ],
+ "events": {
+  "ambient_brag": {
+   "group": "ambient",
+   "channels": [
+    "global"
+   ],
+   "relationships": [
+    "any"
+   ],
+   "placeholders": [
+    "troop_count",
+    "gold",
+    "fief"
+   ]
+  },
+  "ambient_chatter": {
+   "group": "ambient",
+   "channels": [
+    "global"
+   ],
+   "relationships": [
+    "any"
+   ],
+   "placeholders": [
+    "town",
+    "village"
+   ]
+  },
+  "ambient_complaint": {
+   "group": "ambient",
+   "channels": [
+    "global"
+   ],
+   "relationships": [
+    "any"
+   ],
+   "placeholders": [
+    "rival",
+    "town",
+    "faction"
+   ]
+  },
+  "ambient_lfg": {
+   "group": "ambient",
+   "channels": [
+    "global"
+   ],
+   "relationships": [
+    "any"
+   ],
+   "placeholders": [
+    "my_faction",
+    "fief",
+    "enemy_faction"
+   ]
+  },
+  "ambient_trade": {
+   "group": "ambient",
+   "channels": [
+    "global"
+   ],
+   "relationships": [
+    "any"
+   ],
+   "placeholders": [
+    "town",
+    "gold"
+   ]
+  },
+  "beat_by_player": {
+   "group": "combat",
+   "channels": [
+    "global",
+    "whisper",
+    "face"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "troop_count"
+   ]
+  },
+  "beat_by_player_repeat": {
+   "group": "combat",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "troop_count"
+   ]
+  },
+  "beat_player": {
+   "group": "combat",
+   "channels": [
+    "global",
+    "whisper",
+    "face"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "troop_count",
+    "gold"
+   ]
+  },
+  "captured_by_player": {
+   "group": "combat",
+   "channels": [
+    "face"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "my_faction",
+    "gold"
+   ]
+  },
+  "encounter_alliance_no": {
+   "group": "encounter",
+   "channels": [
+    "face"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "rival"
+   ]
+  },
+  "encounter_alliance_yes": {
+   "group": "encounter",
+   "channels": [
+    "face"
+   ],
+   "relationships": [
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "rival",
+    "enemy_faction"
+   ]
+  },
+  "encounter_farewell": {
+   "group": "encounter",
+   "channels": [
+    "face"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player"
+   ]
+  },
+  "encounter_greeting": {
+   "group": "encounter",
+   "channels": [
+    "face"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "persona",
+    "my_faction"
+   ]
+  },
+  "encounter_threatened": {
+   "group": "encounter",
+   "channels": [
+    "face"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "gold"
+   ]
+  },
+  "encounter_trade_offer": {
+   "group": "encounter",
+   "channels": [
+    "face"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "gold",
+    "town"
+   ]
+  },
+  "fought_alongside_player": {
+   "group": "combat",
+   "channels": [
+    "global",
+    "whisper",
+    "face"
+   ],
+   "relationships": [
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "troop_count",
+    "enemy_faction"
+   ]
+  },
+  "my_faction_took_fief": {
+   "group": "territory",
+   "channels": [
+    "global"
+   ],
+   "relationships": [
+    "any"
+   ],
+   "placeholders": [
+    "fief",
+    "my_faction",
+    "enemy_faction"
+   ]
+  },
+  "peace_made": {
+   "group": "diplomacy",
+   "channels": [
+    "global"
+   ],
+   "relationships": [
+    "any"
+   ],
+   "placeholders": [
+    "my_faction",
+    "faction"
+   ]
+  },
+  "player_besieging_my_fief": {
+   "group": "territory",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral"
+   ],
+   "placeholders": [
+    "player",
+    "fief"
+   ]
+  },
+  "player_big_defeat": {
+   "group": "fame",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "troop_count"
+   ]
+  },
+  "player_fled_from_me": {
+   "group": "combat",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player"
+   ]
+  },
+  "player_granted_fief": {
+   "group": "diplomacy",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "fief"
+   ]
+  },
+  "player_joined_my_faction": {
+   "group": "diplomacy",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "my_faction"
+   ]
+  },
+  "player_left_my_faction": {
+   "group": "diplomacy",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "my_faction",
+    "faction"
+   ]
+  },
+  "player_raided_my_village": {
+   "group": "territory",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral"
+   ],
+   "placeholders": [
+    "player",
+    "village"
+   ]
+  },
+  "player_renown_up": {
+   "group": "fame",
+   "channels": [
+    "global"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player"
+   ]
+  },
+  "player_took_my_fief": {
+   "group": "territory",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral"
+   ],
+   "placeholders": [
+    "player",
+    "fief"
+   ]
+  },
+  "player_win_streak": {
+   "group": "fame",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player"
+   ]
+  },
+  "released_by_player": {
+   "group": "combat",
+   "channels": [
+    "global",
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player"
+   ]
+  },
+  "war_declared": {
+   "group": "diplomacy",
+   "channels": [
+    "global"
+   ],
+   "relationships": [
+    "any"
+   ],
+   "placeholders": [
+    "my_faction",
+    "enemy_faction"
+   ]
+  },
+  "whisper_alliance_offer": {
+   "group": "whisper",
+   "channels": [
+    "whisper"
+   ],
+   "relationships": [
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "rival",
+    "enemy_faction"
+   ]
+  },
+  "whisper_beg_help": {
+   "group": "whisper",
+   "channels": [
+    "whisper"
+   ],
+   "relationships": [
+    "neutral",
+    "friendly"
+   ],
+   "placeholders": [
+    "player",
+    "fief",
+    "enemy_faction"
+   ]
+  },
+  "whisper_challenge": {
+   "group": "whisper",
+   "channels": [
+    "whisper"
+   ],
+   "relationships": [
+    "hostile",
+    "neutral"
+   ],
+   "placeholders": [
+    "player",
+    "town",
+    "village"
+   ]
+  },
+  "whisper_taunt": {
+   "group": "whisper",
+   "channels": [
+    "whisper"
+   ],
+   "relationships": [
+    "hostile"
+   ],
+   "placeholders": [
+    "player",
+    "rival"
+   ]
+  }
+ }
+}

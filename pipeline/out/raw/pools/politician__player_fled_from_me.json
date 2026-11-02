@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "job_id": "politician__player_fled_from_me",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1b2eb63982797edc26ddd0aea8e860cc1654875856bc8cdd8c48320b77d07e8c",
+    "model": "haiku",
+    "cost_usd": 0.00635665,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:08:32+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} ran from my banners before a single arrow flew. Bold strategy, if the goal was to be seen running.",
+        "Withdrawing from the field keeps one's standing intact, or so I'm told. Pity the standing of the fleeing party now looks rather thin.",
+        "The council debates courage at length. {player} has settled the question for us, and quite decisively.",
+        "Forty riders vanished over the ridge at first sight of our pennants. I wonder what the grain-fief stewards will make of that.",
+        "Shall we record {player}'s retreat in the minutes as a tactical withdrawal? I'm sure the clerks would find it generous.",
+        "Some lords lead from the front. Others lead from the next county over, and {player} has clearly chosen the latter.",
+        "A fine turn of speed from {player} today. Shame the speed was not matched by any intention of holding the road.",
+        "Pennants scattered, ledgers lost, and {player} halfway to safety. The assembly will want an explanation, and I have drafted several.",
+        "Running was sensible, I grant you. Less sensible is announcing the retreat to half the realm before the dust has settled.",
+        "Another day, another flight from {player}. At this rate the field might be declared a permanent vacancy."
+      ],
+      "whisper": [
+        "{player}, you ran before the arrows flew. Think carefully about who will remember that when the next seat falls open.",
+        "Your retreat was noticed by every banner on the ridge. I trust you have a speech prepared for the next assembly.",
+        "One who flees at first sight of banners makes a poor ally. I'm sure you knew that already.",
+        "Enjoy the road home, {player}. My scouts will keep watch, and so will my friends on the council.",
+        "Shall I take your silence as agreement that the fief was never really yours to defend?",
+        "That was not a retreat, {player}. It was an audition for a role someone else will be happy to fill.",
+        "You might consider a more accommodating attitude toward the council. Fleeing battles is a habit the assembly dislikes.",
+        "Running from my party cost you more than a skirmish. Several votes I could name will now go elsewhere.",
+        "I have no wish to be unpleasant, {player}. But a flight like that is hard to forgive when others are fighting.",
+        "Next time, at least have the courtesy to scatter with some dignity. The grain-sellers talk, you know."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} pulled out before the first clash. Make of that what you will; I have already made my own notes.",
+        "Some ran, some stood. I'm keeping an open mind about which group deserves a seat at the table.",
+        "The retreat from the ridge has people asking questions. Nobody has yet asked the right ones, which is convenient.",
+        "Tactics are a matter for the war council, not the hedgerows. {player} seems to have decided to lead from the hedgerows.",
+        "A quiet withdrawal today may be a wise one tomorrow. The council will judge once the reports are complete.",
+        "Riders from the western muster brought word of {player}'s departure. Accounts differ on whether it was strategy or panic.",
+        "Let us not rush to judgment over one skirmish. Reports are still being drafted, and drafts have a way of changing.",
+        "Withdrawing before contact is respectable when the numbers look wrong. Whether they were wrong is still debated.",
+        "I suppose {player} had reasons. The assembly will ask for them, and they will be politely hard to refuse.",
+        "Seats are not lost in a single afternoon. They are lost gradually, one retreat at a time, as the minutes pile up."
+      ],
+      "whisper": [
+        "{player}, I saw you withdraw from the ridge. No need to explain now, though I may ask for an explanation later.",
+        "A retreat before the first clash can be sensible, or it can be a signal. I am still deciding which this was.",
+        "Keep your options open, {player}. Today's withdrawal is a small matter, and small matters have a way of growing.",
+        "I'd rather hear your side before the council hears theirs. Send a note when you have the time.",
+        "You turned your party around before contact. Tell me the reasoning sometime; I find it more interesting than the battle.",
+        "The field went badly for everyone who stayed. Those who left have some explaining to do, yourself among them.",
+        "Let us speak once the dust settles. Votes are easier to count when everyone has calmed down.",
+        "You are welcome to a seat at the next assembly regardless of today. Just do not make me regret saying so.",
+        "I noticed the withdrawal. I also noticed nobody else in your party looked surprised by it, which says something.",
+        "Consider this a neutral observation, {player}. The council keeps records, and today's record is still unwritten."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} withdrew from the ridge with admirable discipline. A tactical retreat, and a sensible one, I'd say.",
+        "Nobody sensible stands alone against a field of banners. {player} knows that, which is why I rate their judgment highly.",
+        "The council heard how {player} pulled the party clear. Several members have already asked who to thank for the advice.",
+        "Our friends who saw the retreat are saying it was wise. I have been saying so since the first horn sounded.",
+        "Living to fight another day is hardly cowardice. Ask anyone who has sat through a long assembly and still won the vote.",
+        "{player} kept the party intact today, which matters more than a single skirmish. Remember who was on the road with you.",
+        "A fine piece of judgment from {player}. The assembly may not appreciate it yet, but it will.",
+        "Today's withdrawal was prudent, and I intend to make sure the minutes say so clearly and at length.",
+        "{player} saw the odds and acted on them. That kind of clear sight is rare, and the council should be grateful for it.",
+        "Good to see {player} still in the saddle after that tangle. A stronger faction needs people who know when to step back."
+      ],
+      "whisper": [
+        "{player}, that was well judged. Pull back now, regroup, and I will make sure the council hears how sensibly you acted.",
+        "You made the right call on the ridge. I'll speak for you at the next assembly, and you can return the favour when a seat opens.",
+        "Your party is intact because you read the field correctly. That is a quality I would like to see more of in our ranks.",
+        "Nicely handled, {player}. Keep your people close and your messages closer; I have a few names I want you to meet.",
+        "Good retreat. I was worried for a moment, but I should have known you would not walk into a bad fight.",
+        "If anyone asks, you were never running. You were preserving the faction's strength for the vote that actually matters.",
+        "Come by my hall when you are settled. There are two fiefs and one council seat I would like your view on.",
+        "The field went to the other side, but you kept your riders alive. Think of that as the first step in a longer game.",
+        "I'll say it plainly: you keep better judgment than most who sit at the table. Do not let one bad afternoon change that.",
+        "Rest your horses, {player}. We have a meeting to prepare, and I would like you beside me when it begins."
+      ]
+    }
+  }
+}

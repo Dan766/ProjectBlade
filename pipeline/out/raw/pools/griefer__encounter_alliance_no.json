@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "job_id": "griefer__encounter_alliance_no",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "322ecadc265bddeed307c9dbe0dcf88b411740a2a06916d8f2d46d1047c63081",
+    "model": "haiku",
+    "cost_usd": 0.00425035,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:20:40+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "alliance with you lol after what you did at the mill last week nah ser id rather trust a goat with my bread",
+        "{player} wants a truce ok i still have the screenshot of you crying in chat so no deal cope",
+        "after getting ezd twice you want to team up skill issue on ur side not mine",
+        "no alliance for you i keep a list of every insult and yours is at the top bottom and the middle",
+        "keep the offer ill be burning ur fields anyway so an alliance would just make it boring",
+        "you want backup {rival} would sooner stab you than help you so enjoy standing alone",
+        "lol no last time we teamed up you sold my sheep for scraps remember that one",
+        "allied with you i'd rather sign a pact with the rain at least the rain doesnt whine"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "alliance huh we will see ser i havent decided if you are a friend or just a loud problem",
+        "not interested in a pact right now come back when you have something worth stealing from",
+        "pass i dont split loot with people i havent measured yet",
+        "tempting offer ser but i trust a fence more than a handshake from someone who names their horse after bread",
+        "ill think about it while i watch the road for ur wagon",
+        "no thanks {player} has a habit of leaving allies in burning barns and im not into barns",
+        "alliance means sharing and sharing means you get less so no",
+        "maybe later right now im busy being the most annoying thing on this road so get in line"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "aw {player} asking me to team up no but ill pretend to consider it while you beg a bit longer",
+        "youre my favorite person to lose to so id hate to give you a shortcut out of that",
+        "not joining your party ser but if you get jumped on the south road ill probably come watch and laugh",
+        "allies are for people i cant beat yet and you are still on that list lol",
+        "nope but ill gloat on ur behalf if anyone else tries to sack you",
+        "i like you too much to let you join my mess trust me this is a kindness",
+        "you would just get me killed by being too honest about my plans lol no alliance",
+        "not yet {player} ask me again after you finally win a fight against me and ill keep the date"
+      ]
+    }
+  }
+}

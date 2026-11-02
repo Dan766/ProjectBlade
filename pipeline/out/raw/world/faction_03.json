@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "job_id": "faction_03",
+    "stage": "world",
+    "prompt_file": "world_faction.md",
+    "prompt_hash": "8499300476b8754b28880c3d48eed9ef93cbbb40126f9bc3175f5b16a4377362",
+    "model": "haiku",
+    "cost_usd": 0.007080049999999999,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:36:04+00:00"
+  },
+  "data": {
+    "name": "Tsevaret Ashmarches",
+    "adjective": "Tsevaretian",
+    "ruler_title": "Zaghvar Pontiff",
+    "short_lore": "The priest-kings of Tsevaret keep the fire-temples of the Ashmarches, where the mountain Khorzeth smokes above black fields. They believe the peak chooses each ruler by a tremor or a flow of molten stone, and no crown is worn without its sign. Now the Pyre-Synod refuses tithes to the canal guilds and eyes the salt caravans crossing its southern slopes.",
+    "troop_names": {
+      "infantry": [
+        "Dzerevan Levies",
+        "Kozhvar Spearmen",
+        "Ashvani Ironguards"
+      ],
+      "archers": [
+        "Tsorvan Slingers",
+        "Khemeri Bowmen",
+        "Pyrvani Crossbowmen"
+      ],
+      "cavalry": [
+        "Gharzeti Riders",
+        "Mtsvari Horsemen",
+        "Varzhan Lancers"
+      ]
+    },
+    "towns": [
+      {
+        "name": "Khorvand",
+        "blurb": "Holy city where the Pyre-Synod keeps the eternal brazier; its sulphur-scented hostels house pilgrims."
+      },
+      {
+        "name": "Dzelmasi",
+        "blurb": "Obsidian-cutting town; its blades are blessed in the temple before they are sold to outsiders."
+      },
+      {
+        "name": "Tsarvik",
+        "blurb": "Terraced market town famed for the black-vine wine that is never sold beyond the mountain."
+      },
+      {
+        "name": "Pyrgeti",
+        "blurb": "Walled hill-town with hot springs; a grudge over a brazier stolen by canal guild agents."
+      },
+      {
+        "name": "Mtsvaneth",
+        "blurb": "Salt-trading town; the caravan clans and temple tax collectors have quarrelled over its gates for generations."
+      },
+      {
+        "name": "Gharaban",
+        "blurb": "Highland market without a harbour, where smiths cast bronze bells that ring with the mountain's tremors."
+      }
+    ],
+    "castles": [
+      {
+        "name": "Vardakar",
+        "blurb": "Cliff fortress above the lava gorge; its gate-bell is rung only when the mountain speaks."
+      },
+      {
+        "name": "Kheshmund",
+        "blurb": "Black-stone keep holding the oath-stone on which every priest-king is crowned."
+      },
+      {
+        "name": "Dzoravan",
+        "blurb": "Siege-proof castle whose cisterns are fed by a hot spring that never freezes."
+      },
+      {
+        "name": "Ruvaskar",
+        "blurb": "Border castle guarding the salt pass; a long feud with the caravan clans over its toll."
+      },
+      {
+        "name": "Tsitelgar",
+        "blurb": "Mountain keep of ash-grey stone; its garrison has never surrendered in three sieges."
+      },
+      {
+        "name": "Mokheti",
+        "blurb": "Frontier fort on the canal road; the guilds call it a thief's wall, the synod a holy shield."
+      },
+      {
+        "name": "Oghvarn",
+        "blurb": "Castle built into a cooled lava tube, famed for its heavy armoured wardens."
+      },
+      {
+        "name": "Sarvakhi",
+        "blurb": "Old fire-temple fortress where a sacred flame has burned for eight hundred years."
+      },
+      {
+        "name": "Gedrash",
+        "blurb": "Sunken castle on a black lake; its moat is said to hold the mountain's first ember."
+      }
+    ],
+    "villages": [
+      {
+        "name": "Obrazi",
+        "blurb": "Ash-farming village; its fields are famous for black barley grown on old lava."
+      },
+      {
+        "name": "Lekhvan",
+        "blurb": "Shepherd hamlet whose flocks are sheared for the felt that lines the levies' helmets."
+      },
+      {
+        "name": "Tsoranik",
+        "blurb": "Hot-spring village; bathers claim the water shows a ruler's fate."
+      },
+      {
+        "name": "Dvalisi",
+        "blurb": "Quarry village cutting obsidian for temple altars; a grudge with Dzelmasi over prices."
+      },
+      {
+        "name": "Hrevaneth",
+        "blurb": "Vineyard hamlet whose sour red wine is poured at every coronation."
+      },
+      {
+        "name": "Ghemurt",
+        "blurb": "Mining hamlet on the slope; miners sing a hymn to the mountain before each shift."
+      },
+      {
+        "name": "Vezhari",
+        "blurb": "Bell-founders' village; its bronze bells are said to quiet the mountain."
+      },
+      {
+        "name": "Kashvel",
+        "blurb": "Pilgrim stop where the road climbs to the synod; pilgrims pay their toll in ash."
+      },
+      {
+        "name": "Nerzhi",
+        "blurb": "Fishing hamlet on the black lake; the synod's clergy have cursed its nets."
+      },
+      {
+        "name": "Pakhvari",
+        "blurb": "Treeless hill village famed for stone fire-shrines standing at every crossroad."
+      },
+      {
+        "name": "Ulgeti",
+        "blurb": "Mule-breeding village that supplies the salt caravans; temple scribes despise it."
+      },
+      {
+        "name": "Sekhomi",
+        "blurb": "Weaving village whose red cloth is worn by the priest-guards."
+      },
+      {
+        "name": "Ardzhan",
+        "blurb": "Smoke-cured meat village; its hams are offered in the great temple each year."
+      },
+      {
+        "name": "Mirzhak",
+        "blurb": "Woodcutter hamlet at the forest edge; a feud with the Warden villages over timber."
+      },
+      {
+        "name": "Tervani",
+        "blurb": "Herb-gathering village; its healers are feared for their mountain-root poultices."
+      },
+      {
+        "name": "Fashgeti",
+        "blurb": "Gate village below Oghvarn; locals pay their tithe by guarding the lava road."
+      },
+      {
+        "name": "Zorvenk",
+        "blurb": "Ash-pit village where potters fire clay in volcanic kilns, known for black urns."
+      },
+      {
+        "name": "Kadrei",
+        "blurb": "Stone-mason village building the synod's terraces; masons never leave before a mountain sign."
+      },
+      {
+        "name": "Ghurdan",
+        "blurb": "Icy high hamlet, cold even in summer; its people drink snowmelt from temple cups."
+      },
+      {
+        "name": "Ushkvar",
+        "blurb": "Border hamlet where the salt road crosses the ridge; tax collectors dread its dogs."
+      },
+      {
+        "name": "Eshmet",
+        "blurb": "Quiet valley of hermit monks, who say the mountain speaks to them in dreams."
+      }
+    ]
+  }
+}

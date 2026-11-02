@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "memer__beat_by_player_repeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "d134a2cf42f2cd76c134ee47d42d6e7f8a519531f3c899c586a1b453612888ac",
+    "model": "haiku",
+    "cost_usd": 0.005614250000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:49+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} beat me again. that's three. i have filed a formal complaint with the sky >:(",
+        "i am not losing to {player} a fourth time. i will sleep in the stables if i have to xD",
+        "{player} wins again. i'm starting a shrine to my own bad aim. no offerings accepted from {player} :P",
+        "third loss to {player}. the scoreboard is a crime scene now. someone fetch a witness >:(",
+        "{player} i swear on my {troop_count} sad soldiers this is rigged. the wind is on their side",
+        "every time i see {player}'s banner i walk the other way. it is now policy. policy :)",
+        "{player} has beaten me so many times the bridge near my keep now asks ME for a toll :(",
+        "i have sworn revenge on {player} in four kingdoms and one swamp. the swamp is not impressed"
+      ],
+      "whisper": [
+        "{player} that was the third time. i am keeping a tally on my wall. it is mostly your name and some tears :(",
+        "one more win for you and i'm challenging the weather to a duel. it has better aim than me apparently",
+        "stop winning so loudly ser. my ears are ringing from your victory horn. xD",
+        "i have counted {troop_count} of my men who now refuse to look at you. they blame you. so do i :P",
+        "you beat me again. i respect nothing about it and i will be back with worse tactics >:)",
+        "my army has voted to never fight near you again. it was unanimous. i was the only no vote and i lost :(",
+        "dear {player}, i hope your next battle is against a very polite tree. it will still beat you",
+        "that's a loss number i'm not writing down. i'm writing it in ink on your forehead tomorrow >:D"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} took the field again and won again. i'm now calling this a recurring tax on my pride",
+        "lost to {player} for the third time. at this point it's just the weather around here xD",
+        "mark it down. third win for {player}. i've made peace with it and a very small pot of tea",
+        "the scoreboard shows {player} on top again. i'm not mad, i'm just reorganizing my whole life :)",
+        "{player} won. the field is quiet. i'm going to go stare at a fence for an hour to recover",
+        "three losses to {player} and i still can't tell if i'm bad or if the map is cursed. both seems likely",
+        "congrats {player} on the third one. i'll be back when my shield stops making that squeaking noise",
+        "i tried a new strategy against {player}: losing harder. it worked, i'm now in last place with style"
+      ],
+      "whisper": [
+        "{player} good game. third one. i'm writing it down in the same book as my other embarrassing moments",
+        "you won again. i checked my armor and it's fine, it's my pride that got dented :P",
+        "rematch whenever ser. bringing {troop_count} men this time. probably the same excuses :)",
+        "three in a row is a pattern and i don't like patterns. what are you doing differently, be honest",
+        "i'm not upset. i'm simply reevaluating every choice that led to this moment, all of them xD",
+        "you have won three times. i'll be fair and say your tactics were annoying and correct",
+        "{player} if you leave me one good road next time i'd appreciate it. the mud took my boot",
+        "congrats on the win. i'll be sulking near the gate if anyone needs me. bring snacks if you visit"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} has now beaten me three times and i have never been happier to lose. an honor, truly :)",
+        "three losses to {player} and i'm carving them into my shield. the shield is getting crowded :)",
+        "bow for {player}, three-time champion of my humiliation. the people demand a parade xD",
+        "{player} beat me again and honestly the map feels less lonely with you running it :)",
+        "losing to {player} is my favorite hobby now. i have a whole shelf of losses and they're all lovely",
+        "every loss to {player} is a story i get to tell at the fire. the fire is getting bored of me",
+        "{player} keeps winning and i keep showing up anyway. that's either friendship or a medical condition",
+        "dear {player}, you are the reason i keep my helmet polished. keep winning, i'll keep trying :P"
+      ],
+      "whisper": [
+        "{player} you beat me AGAIN. i'm thrilled and furious in equal parts. the furious part is only 10%",
+        "okay third time, i officially respect you. the other 90% of me is writing a training plan :)",
+        "want to team up next? we could lose together at a larger scale. big risk, big pain",
+        "you're the best rival i've had. i'm going to beat you one day and then i'll miss this terribly",
+        "i'd lend you {troop_count} of my men if you weren't so smug about winning. you're still getting them :P",
+        "three losses means we're basically friends now. it's in the rules. i wrote the rules :)",
+        "lost again. thanks for the lesson, teacher. i'm going to bake you a pie that tastes like defeat",
+        "you're the reason i show up to the field every day. rematch soon? i'll bring better snacks xD"
+      ]
+    }
+  }
+}

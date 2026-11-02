@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "job_id": "persona_118",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "8dae211bdf9880c828f53a39080ce64de705162a572782e872ef30d9e91538d6",
+    "model": "haiku",
+    "cost_usd": 0.006617550000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:40:37+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} brought {troop_count} men into a cav-heavy mix and it showed. the ratio doesn't lie"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} your line broke in the second charge. fix the spacing before the rematch"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} you held the line with {troop_count} longer than the math said you should. still lost. pikes in front next time and the cav finishes it"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{gold} spent on that army and {player} still folded to a flank. not a budget problem, a comp problem"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "lost {troop_count} to {player}. my archers were out of position when the flank went. that's on me and it's getting fixed"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} that cav mix was a counter i should have seen. i'm rerunning the fight tonight. don't get comfortable"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} your ratio beat mine. my archers were out of position when the line bent. i'll recount and come back with numbers"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} gg. {troop_count} men and you still read the flank. my reserve timing was off by a full charge"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again. third time, {troop_count} men and the same flank gap. i'm not calling it luck anymore"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i have your last three fights in a sheet. the numbers are not in your favor forever"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "another loss to {player} with {troop_count} on the field. the rerun shows the same gap every time. i'll find it"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} third loss to your comp. i hate the result. the reruns say your spacing is correct and mine isn't"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is on a long run. either the meta is broken or they count better than everyone here. i think it's the second"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} your streak is getting attention on the server. keep the mix tight and it won't end soon"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} streak is not luck. every fight has the same cav-to-pike spacing. copy it or keep losing to it"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} the streak ends when i say it does. i've got a rerun queued on your last three fights"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} on a run and the comps are clean. not going to pretend that doesn't impress me"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} lost most of {troop_count} to someone else. the numbers were never going to hold with that flank open"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that loss was a bad mix, not bad luck. i've seen the replay. i can help fix the ratio if you want"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} got rolled. {troop_count} men gone and the comp was the reason. recheck before you queue again"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} you were outnumbered in the right places and under-stacked in the wrong ones. saw the whole field"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} meet me at {town} with your full mix. no retreat and no reserve tricks. the numbers decide it"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} {village} at dawn. i want a clean rematch with equal troop counts and no reinforcement tricks"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i'm done watching you win on the same flank. {village} is open. come and prove the mix"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} i have a fight set at {town}. bring the same comp you used last time so we can compare the ratios"
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} and i took {troop_count} men through {enemy_faction}'s line clean. your timing was good. don't let it go to your head"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} that was a clean split. your flank held and my reserves came in on time. note the spacing for next time"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} your half of the line held when it should have broken. the ratio worked. don't get comfortable, the left side was close"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{troop_count} men against {enemy_faction} and the comp held. credit the math, not the luck"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} men in the field and {gold} in the chest. the mix is tighter than anyone else's on this server"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} garrison is at {troop_count}. the ratio is right. nobody else is counting it this closely"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{gold} in reserve and no waste in the comp. that's the whole trick. the rest of you are still doing it by feel"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "cleared {fief} with {troop_count} and not one unit out of position. spacing is the difference"
+      }
+    ],
+    "my_faction_took_fief": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has {fief}. {enemy_faction} lost it on a bad mix. we did it with the math"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours now. {enemy_faction} brought the wrong comp and it showed"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "taking {fief} from {enemy_faction} was a ratio problem for them. next one goes on the ledger"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} holds {fief} now. recheck your garrisons, {enemy_faction}"
+      }
+    ],
+    "player_besieging_my_fief": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is sieging {fief}. the garrison is set for the push. see if you can read the spacing"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {fief} is not a free win. i've counted your siege mix and it's not enough"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} started on {fief}. i'll recount the garrison before you get a ram in"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} you're at {fief}. the garrison numbers are not what you think. i'm not panicking"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the roads out of {town} are muddy again. half the caravans are late and everyone blames the weather"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag near {village} is bad tonight. anyone else losing units to rubber-banding or is it just me"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "weather's clear over {town}. good for a rerun. i've got three fights to check before bed"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{village} market prices went up again. if you're buying troops now you're paying the tax"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "someone should map the fords between {town} and {village}. cav routes matter more than people think"
+      }
+    ]
+  }
+}

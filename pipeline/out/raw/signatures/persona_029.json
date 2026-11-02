@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "job_id": "persona_029",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "cf743cd6298bcf13c003752984229c24019cf4245adfa31640abb378a8b52362",
+    "model": "haiku",
+    "cost_usd": 0.006227450000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:32:12+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "gg {player} ez win. third time ur army folded like wet paper lol. cope harder"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} ur {troop_count} men ran faster than ur excuses. skill issue, see u next time"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "oh hi {player}. ur lads ran so fast i almost felt bad xD ty for the {gold} gold tho"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lucky hit. i only lost {troop_count} men cause my horses were tired. rematch when i say so"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "lol {player} hows ur {troop_count} survivors? mine ran home so dont feel special"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "heh {player} fine, u win this one. i still say ur tactics are cheap xD gg"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again?? ok thats it, i wrote ur name on the wall. {troop_count} men lost and counting. skill issue"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "ok {player} fine. i respect the grind. dont tell anyone i said that, hell no"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} has beaten me 3 times now. i hate that i kinda respect it. gg. dont let it go to ur head"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} ran?? lmaooo. the dust cloud was worth it. run home little one"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "u ran from me {player}. dont worry, my scouts already counted ur {troop_count} men running. nice hustle"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "saw ur party bolt {player}. smart call tbh. still gonna remember that. i never forget a run"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} still mad about the river tolls? get over it. ur wagons are slow and ur logic is slower"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "lol {rival} is ur new best friend? cute. tell him i said hi, he loses in like 2 days"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} u keep hiding behind {rival} like a little kid. come out and fight me xD"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "come to {village} {player}. i left the gate open on purpose. ur scared of a trap? cope"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} fancy a fight near {town}? winner gets bragging rights and loser buys ale lol. ur call"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} meet me at {town} when ur ready. bring ur whole gang, ill still win ez"
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "pay {gold} gold or what lol. ur threat has the energy of a wet sock. try again {player} xD"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{gold} gold?? nah {player} u can keep it. ur face is worth less than that anyway"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "ok {player} threats are rude but at least u were honest about it. still not paying {gold} tho lol"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "oi {player} its {persona} of the {my_faction}. ur cart looks slow. want to lose again or nah"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} ahh the whole {my_faction} crowd, nice to see u at last. move ur wagon out the way"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "hey {player} {persona} here, {my_faction} says hi. dont worry ill go easy on ur lot. probably"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is mine now. {troop_count} men, {gold} gold and not one of u can stop me. cope"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "counted my coin again. {gold} gold and {troop_count} lads. ur all jealous lol ez"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} smells like victory and ur tears xD"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} men to somebody else?? lmao ok who did that. skill issue for u {player}"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} ouch, that was rough. lost {troop_count} men. i wont gloat... ok i will a little lol"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "well that was brutal {player}. {troop_count} men gone. ur still better than most, dont tell anyone i said that"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else lagging near {village} or is it just me. the server hates me today xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{town} market prices are a rip off. who sells bread for 3 gold lol"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "rain again. the weather here is out to get me. ur fault {town} for being so damp"
+      }
+    ]
+  }
+}

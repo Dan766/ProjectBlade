@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "politician__player_besieging_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "16fac5c4ffdb950277090e7ddb6d326f9d602850a55925c7aac13556d65f9b4c",
+    "model": "haiku",
+    "cost_usd": 0.00495365,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:08:09+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Laying siege to {fief} is bold, {player}. Pity the council will be asked to pay for the damage before the walls even fall.",
+        "Some who lay siege mistake it for a conquest. {fief} has walls, and the council has memories of who broke them last time.",
+        "Ser {player} has discovered that banners are cheap and stone is not. The council will be pleased to tally the cost.",
+        "Setting up camp outside {fief} is a fine way to gather attention. A shame attention is all it will earn.",
+        "The council will convene on the siege of {fief} at dusk. Let it be recorded who chose to start it without a vote.",
+        "I trust {player} has considered the upkeep on siege engines. Ours are paid for by taxes, which the council debates.",
+        "Strange how eager some are to fight for a fief they have never governed. Ambition makes poor masonry, I find.",
+        "Every siege ends in a negotiation. I merely wonder whether {player} will be the one asking for terms or granting them."
+      ],
+      "whisper": [
+        "{player}, lifting your siege of {fief} now would save us both an embarrassing council session. Consider it a courtesy.",
+        "You have chosen a poor moment, {player}. Half the banners at {fief} are reconsidering their loyalty as we speak.",
+        "A siege is a loud way to announce a grievance. Quieter channels exist, and I would gladly show you one.",
+        "Your men will tire long before the walls do, {player}. Withdraw, and we can discuss this like reasonable parties.",
+        "Do give my regards to whoever approved that siege. I am curious how they plan to feed the garrison at {fief}.",
+        "Gates inside {fief} have a way of opening for the right voices, {player}. Pause, and let us talk.",
+        "Every siege needs a supply road, {player}. I have already had mine closed, and I suspect yours is next.",
+        "Turn back from {fief} while there is still a face to save, {player}. The council rarely forgives a fool twice."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has moved against {fief}. The council will want a formal account before anyone takes sides.",
+        "A siege at {fief} raises the question of who authorized it. I am sure the minutes will be thorough.",
+        "Bold move on {fief}. Let us see whether the banners hold longer than the goodwill did.",
+        "News of the siege at {fief} is spreading. Some will call it ambition, others will call it a tax problem.",
+        "No one has yet explained what {player} hopes to gain at {fief}. I am interested in the answer, not the banners.",
+        "Watching {fief} come under siege is never pleasant. I would rather see the matter settled at the table.",
+        "The garrison at {fief} is loyal, for now. Loyalty tends to shift when the supply carts stop arriving.",
+        "A siege of {fief} changes the map for everyone, not only those holding it. Plan accordingly, friends."
+      ],
+      "whisper": [
+        "{player}, I see you have begun at {fief}. Before the wagons arrive, let us discuss what the council will accept.",
+        "Your siege is noted, {player}. I have no objection yet, though I reserve the right to form one by morning.",
+        "I hope you have a reason for {fief} that will survive a vote. Mere ambition rarely does, in my experience.",
+        "Should you need a neutral voice at the council regarding {fief}, I am willing to speak. For a modest consideration.",
+        "No hard feelings about {fief}, {player}. Politics is politics, and the seat will be filled by someone eventually.",
+        "The garrison at {fief} is asking questions, {player}. Answer them well, and I may stay out of this entirely.",
+        "I suppose the siege of {fief} is a statement. I would prefer we meet first and make it an agreement instead.",
+        "Keep your banners where they are for now, {player}. I will hear your side before I decide what mine should say."
+      ]
+    }
+  }
+}

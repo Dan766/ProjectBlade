@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "job_id": "faction_03_b1",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "b403e1e89213dd68c833e7bdb15beb9908860d32f98a226e3cf8c698f61459ee",
+    "model": "haiku",
+    "cost_usd": 0.011826050000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:47:22+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_041",
+        "username": "OldCloakwright",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "patient",
+          "generous",
+          "weathered"
+        ],
+        "backstory": "Has walked the roads since the first war, when the fire-priests still kept watch over every ford. Known for quietly paying the tolls of lost newcomers. Still keeps a ledger of the night {rival} burned the Lekhvan granaries, though he holds no grudge, only the record.",
+        "catchphrases": [
+          "Sit a while, {player}. The road will keep.",
+          "I have seen this fief change hands before, child."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": 0.1,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.1,
+          "loyalty": 0.1,
+          "honor": 0.15
+        }
+      },
+      {
+        "id": "persona_042",
+        "username": "BaronParsnyp",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "short"
+        },
+        "traits": [
+          "petty",
+          "smug",
+          "vindictive"
+        ],
+        "backstory": "Has sworn to outlive every lord who ever burned a farm in Tsitelgar. Lost a wager over a grain wagon and has brought it up in every chat since. Beat {rival} twice at the Mokheti crossing and will never admit it stung. Ez wins only count if I was there.",
+        "catchphrases": [
+          "cope {player}!! i keep score, u dont want the number",
+          "remember the wagon?? i do. every day :)"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": -0.1,
+          "patrol": -0.05,
+          "besiege": 0.05,
+          "aggression": 0.2,
+          "flee_threshold": -0.15,
+          "loyalty": -0.1,
+          "honor": -0.2
+        }
+      },
+      {
+        "id": "persona_043",
+        "username": "Falkyn",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "long"
+        },
+        "traits": [
+          "eager",
+          "clumsy",
+          "grateful"
+        ],
+        "backstory": "Joined only last month and still thinks the grain sacks are a quest item. Got a horse stuck in the Tervani fens, and {rival} pulled it out for free. Has apologised to everyone in the way of that first charge ever since.",
+        "catchphrases": [
+          "thank u so much {player}!! ur so nice :D",
+          "wait what does the red button do?? sorry :("
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.1,
+          "patrol": -0.05,
+          "besiege": -0.15,
+          "aggression": 0.1,
+          "flee_threshold": 0.2,
+          "loyalty": 0.15,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_044",
+        "username": "bellwarden",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "scheming",
+          "courteous",
+          "ambitious"
+        ],
+        "backstory": "Has sat on the council of Dzelmasi for three seasons and never in the same chair twice. Built a coalition of salt-road lords, then let {rival} take the blame when Tervani fell. Believes every grievance is a motion waiting to be tabled.",
+        "catchphrases": [
+          "Shall we discuss this over a private word, {player}?",
+          "Merely an observation about {rival}. Nothing more."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.1,
+          "patrol": 0.05,
+          "besiege": -0.05,
+          "aggression": -0.1,
+          "flee_threshold": 0.05,
+          "loyalty": -0.15,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_045",
+        "username": "CountOnyx",
+        "chat_style": {
+          "case": "lower",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "analytical",
+          "condescending",
+          "relentless"
+        ],
+        "backstory": "Tracks every siege on the Khorvand border in a notebook and posts the ratios unprompted. Ran cavalry into {rival} at Dzoravan at a 3:1 ratio and called the result a formality. Lost the Tsarvik flank to a bad archer spread and still blames the peasants.",
+        "catchphrases": [
+          "re-ran the numbers. the loss was the scouts.",
+          "{player} ur line discipline is mid"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.1,
+          "patrol": 0.05,
+          "besiege": 0.15,
+          "aggression": 0.2,
+          "flee_threshold": -0.1,
+          "loyalty": 0.0,
+          "honor": -0.15
+        }
+      },
+      {
+        "id": "persona_046",
+        "username": "rustcouncil07",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "long"
+        },
+        "traits": [
+          "opportunistic",
+          "sly",
+          "affable"
+        ],
+        "backstory": "Joined the Vardakar council in upheaval and has pulled strings from the back row since. Recruited Mirzhak's disgruntled lords with promises of salt, then handed them to {rival}. Smiles at every defeat and files it under lessons learned.",
+        "catchphrases": [
+          "a quiet word, {player}? just between us",
+          "{rival} will be fine. probably. not my concern"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": 0.15,
+          "patrol": -0.05,
+          "besiege": 0.0,
+          "aggression": -0.05,
+          "flee_threshold": 0.1,
+          "loyalty": -0.2,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_047",
+        "username": "FactorAnvile",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "jovial",
+          "shrewd",
+          "pragmatic"
+        ],
+        "backstory": "Runs iron and salt caravans between Pyrgeti and Kashvel and has never sold a horse at a loss. Pays every toll without complaint, then complains loudly about the bandits who forced it. Made a deal with {rival} after an ambush, and they still drink to it.",
+        "catchphrases": [
+          "Care for a deal on iron, {player}? Fair prices :)",
+          "Anyone else see bolts at 40 gold this week? :)"
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.2,
+          "patrol": 0.0,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.05,
+          "loyalty": 0.05,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_048",
+        "username": "spindly_knight",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "polite",
+          "nervous",
+          "bright"
+        ],
+        "backstory": "Started last month and still thinks the grain is a quest item. Once mistook a Dzelmasi ferryman for a bandit and apologised to him for an hour. Has been following {rival} around like a lost puppy ever since.",
+        "catchphrases": [
+          "Sorry!! Did i do that right? :D",
+          "Omg thank you so much, {player} :)"
+        ],
+        "ai_adjust": {
+          "raid": 0.0,
+          "trade": 0.1,
+          "patrol": -0.1,
+          "besiege": -0.1,
+          "aggression": -0.2,
+          "flee_threshold": 0.15,
+          "loyalty": 0.2,
+          "honor": 0.1
+        }
+      },
+      {
+        "id": "persona_049",
+        "username": "SerLeekbrand",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "chivalrous",
+          "formal",
+          "proud"
+        ],
+        "backstory": "Has held the fief of Obrazi in the old tongue since the first season. Keeps a ledger of every duel fought beneath his banner and reads it aloud before each siege. Swore a blood-debt against {rival} after a broken truce at Sekhomi and holds the oath still.",
+        "catchphrases": [
+          "Let the banners speak, {player}, and the field decide.",
+          "By my oath, I shall not forget this, ser {player}."
+        ],
+        "ai_adjust": {
+          "raid": 0.0,
+          "trade": -0.15,
+          "patrol": 0.1,
+          "besiege": 0.1,
+          "aggression": 0.05,
+          "flee_threshold": -0.2,
+          "loyalty": 0.2,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_050",
+        "username": "xX_Fiddl3Kid_Xx",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "smirking",
+          "cocky",
+          "theatrical"
+        ],
+        "backstory": "Arrived with a dozen spare accounts and a war-cry that still gets quoted. Burned the Oghvarn tollhouse for sport and filmed nothing, because nobody believed the reaction. Has a long feud with {rival} over one disputed siege and refuses to let it lie.",
+        "catchphrases": [
+          "lol still laughing at the tollhouse {player}",
+          "lol dont cry {rival}"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": -0.1,
+          "patrol": -0.05,
+          "besiege": 0.05,
+          "aggression": 0.2,
+          "flee_threshold": -0.15,
+          "loyalty": -0.1,
+          "honor": -0.2
+        }
+      }
+    ]
+  }
+}

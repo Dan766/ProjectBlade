@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "job_id": "memer__whisper_challenge",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "3ab948b8d258a103196673541dd592afe00bc18065bc8e094f554b2c275fcea0",
+    "model": "haiku",
+    "cost_usd": 0.0077005,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 1414 (char 1413)"
+    ],
+    "created_at": "2026-11-01T17:04:46+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "{player} i have summoned you to the ford outside {village}. bring your best sword and your saddest excuses :)",
+        "the sacred chicken has picked a battlefield and it is the mud by {town}. you have until sundown ;)",
+        "i challenge you to a duel at the crossroads. winner names the next weather event. dont be a coward xD",
+        "{player} my vendetta against the bridge at {town} is on hold so i can finally deal with you. meet me there",
+        "pick a field, any field. i bring the good armor, you bring whatever you found in a ditch :P",
+        "you have been declared a threat to my pig farm. report to the hill above {village} for a fight, no running",
+        "{player} sword duel. loser has to call themselves a turnip in global chat for an hour. deal? :(",
+        "i have never liked you and i think today is the day we settle it. meet me in the fields near {village} >:)"
+      ]
+    },
+    "neutral": {
+      "whisper": [
+        "hey {player} fancy a friendly scrap near {village}? no stakes except bragging rights :)",
+        "got a free afternoon and a spare shield. want to fight me by the old well outside {town}?",
+        "a nice little tussle, nothing serious. meet at {village} when you're bored ;)",
+        "{player} the wheat fields by {town} need a referee. you and me, first to fall over loses lol",
+        "i heard you are decent with a spear. prove it, meet me at the {village} ford and we'll see :D",
+        "not mad at you, just curious how you fight. battle at {town} square whenever you're online?",
+        "so i'm doing a loot-free duel today, interested? it's just for the vibes, {village} at noon",
+        "one round, no hard feelings, loser buys the next ale in {town}. meet me out back? :p"
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "job_id": "newbie__encounter_alliance_no",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "59f3641f252e735f175dfe9b451f8486146117ba46a114e6de98785c5501b439",
+    "model": "haiku",
+    "cost_usd": 0.016518699999999997,
+    "attempts": 4,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2246 (char 2245)",
+      "attempt 2: result is not valid JSON: Expecting ',' delimiter: line 1 column 2220 (char 2219)",
+      "attempt 3: result is not valid JSON: Expecting ',' delimiter: line 1 column 1813 (char 1812)"
+    ],
+    "created_at": "2026-11-01T17:06:01+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "no way {player}, we saw what you did to the last group lol. we're good on our own thx :(",
+        "nah nah nah, not allying with you!! our captain says you're bad news. sorry?? not sorry :/",
+        "ur asking us to team up?? after you left {rival} hanging?? hard pass dude",
+        "we already promised the donkey we wouldnt team up with shady folks. so.. no :)",
+        "lol ally with you? my mum would faint. ok bye :D",
+        "i dont trust anyone who smiles that much ;) answer is still no",
+        "keep your alliance, we'll keep our sheep. stay away from our cart pls",
+        "no. just no. dont make me say it twice!! :( also stop following us"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "oh, alliance? hmm, we'll think about it... actually no, we're busy hauling wood :)",
+        "uhh thanks for asking?? we're not really into the team thing right now, sorry!!",
+        "we tried a team once and it went weird, so i think we'll pass for now :p",
+        "i dont know how alliances work tbh, we'll just stay solo for a bit??",
+        "not today {player}, we're trying to figure out where the well is lol",
+        "sorry, our leader says no. they didnt say why, just shrugged at the sky",
+        "maybe later?? we need to finish our hut first, its only half a roof :/",
+        "no thanks!! we gotta stay low for a while, the guards keep looking at us"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "aww ur so nice for asking!! sadly we cant team up yet, sorry sorry sorry :(",
+        "you're honestly the best, but our captain wants us solo for now. thank you!!",
+        "i wish we could!! but we just got told we need to lie low for a bit :)",
+        "gah, i really wanted to say yes!! maybe when we're less hopeless lol",
+        "thanks for the offer {player}!! we're just too new, we'd slow you down :D",
+        "you're so kind to ask us, we'll remember this forever. no alliance though, sorry!",
+        "okay i feel bad saying no after u helped us earlier!! can we still be friends??",
+        "sorry {player}!! ur the nicest person here and i still say no. ill make it up to u"
+      ]
+    }
+  }
+}

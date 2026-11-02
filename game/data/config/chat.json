@@ -1,0 +1,126 @@
+{
+ "_comment": "Phase 4 chat tunables. Times are real seconds of unpaused play (chat runs at human pace whatever the game speed).",
+ "signature_bias": 0.35,
+ "line_cooldown_s": 900,
+ "global_rate_limit": {
+  "messages": 12,
+  "per_s": 60
+ },
+ "typing": {
+  "base_s": 1.5,
+  "per_char_s": 0.04,
+  "jitter_s": 2.0
+ },
+ "timers": {
+  "ambient_s": [
+   15,
+   30
+  ],
+  "conversation_s": [
+   160,
+   260
+  ],
+  "whisper_s": [
+   70,
+   130
+  ]
+ },
+ "ambient_events": {
+  "ambient_chatter": 4,
+  "ambient_trade": 2,
+  "ambient_lfg": 1.5,
+  "ambient_complaint": 1.5,
+  "ambient_brag": 1
+ },
+ "reactions": {
+  "_doc": "probability a reaction is posted for each trigger; channel shares for player events",
+  "player_beats_lord": 1.0,
+  "lord_beats_player": 1.0,
+  "player_fled": 0.8,
+  "lord_released": 1.0,
+  "streak": 1.0,
+  "big_defeat": 1.0,
+  "renown": 1.0,
+  "village_raided": 0.25,
+  "lord_routed": 0.3,
+  "caravan_robbed": 0.3,
+  "whisper_share": 0.35,
+  "fought_alongside": 0.7
+ },
+ "streak_thresholds": [
+  3,
+  5,
+  8,
+  12
+ ],
+ "renown_thresholds": [
+  50,
+  150,
+  300,
+  600
+ ],
+ "renown_per_win": {
+  "lord": 25,
+  "bandit": 6,
+  "caravan": 4
+ },
+ "relationship": {
+  "start": {
+   "griefer": -20,
+   "tryhard": -5,
+   "politician": 0,
+   "trader": 5,
+   "memer": 5,
+   "roleplayer": 0,
+   "veteran_mentor": 10,
+   "newbie": 15
+  },
+  "start_jitter": 10,
+  "beaten_by_player": -15,
+  "beaten_by_player_roleplayer": -5,
+  "beat_player": 5,
+  "released": 30,
+  "ransomed": -20,
+  "threatened_paid": -10,
+  "threatened_refused": -15,
+  "gift_per_100_gold": 8,
+  "gift_trader_bonus": 1.5,
+  "alliance_accepted": 5,
+  "alliance_refused": -3,
+  "same_side_victory": 3,
+  "repeat_threshold": 3,
+  "fief_taken": -25,
+  "besieged": -10,
+  "joined_faction": 5,
+  "left_faction": -20,
+  "granted_fief_jealousy": -3,
+  "raided": -12
+ },
+ "hunt_player": {
+  "_doc": "a lord hunts the player when relationship <= max_relationship and aggression >= min_aggression",
+  "max_relationship": -60,
+  "min_aggression": 0.6
+ },
+ "encounter": {
+  "threaten_pay": [
+   80,
+   300
+  ],
+  "gift": 100,
+  "alliance_min_relationship": 15
+ },
+ "chat_style": {
+  "typo_rate": {
+   "none": 0.0,
+   "rare": 0.015,
+   "frequent": 0.05
+  }
+ },
+ "world_reaction_gap_s": 30,
+ "broadcast_cooldown_s": {
+  "player_big_defeat": 300,
+  "player_win_streak": 120,
+  "player_renown_up": 0
+ },
+ "_tuning": "Phase 6 playtest: 17.4 msgs/min and 5.8 whispers/min were unreadable; target ~8-10 and ~1."
+}

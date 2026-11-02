@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "job_id": "persona_079",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "212b219d37c1bc0e3789035f8a438da996ad16e8c839fd56ef678fd126034175",
+    "model": "haiku",
+    "cost_usd": 0.006340450000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:37:07+00:00"
+  },
+  "data": {
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "oh hi {player}!! are you the big lords army?? im {persona} from {my_faction} and i am very sorry if im in the way :)"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "stop right there {player}!! i am a menace on this road now, ask anyone. ok maybe not anyone but still. the menace is real"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}!!! ure so nice to see u, i have no idea where im going but u look like u know the way xD can i follow u??"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "hello {player} is this the way to the big town?? i think i took a wrong turn somewhere around the rock that looks like a sheep"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "oh its {player}!! i read about u on the board, u are basically a legend to me now. sorry for staring, im {persona} of {my_faction}"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ah i lost!! ur army is so big {player}, i counted like {troop_count} of u?? thats a lot of men, i am proud i survived tho"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "hi {player} i think u beat us?? sry about the mud, my horses got stuck and i did not know which horn to blow"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} u won?? that is not fair, u had {troop_count} men and we had like 3 and a dog... well done i guess"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that was so fun even tho we lost :) can i buy u a drink when we meet again, i have like 2 coins"
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "thank u thank u thank u {player}!!! i thought i was going to be locked up forever, u are the nicest lord ever"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} let me go!! i am free!! i will never donate grain to anyone else ever again, promise"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "ummm thanks {player}, i did not know u could just let people go?? i thought only ransom worked. sry for being a bother"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} u let me go?? i will be a menace to ur road again, just kidding!! mostly. thanks i guess"
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "we beat them {player}!!! i hit the horn at the right time i think?? everyone ran so i guess thats a win. thanks for being here"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} and me just beat {enemy_faction}!! {troop_count} of them ran away, i think they were scared of my horn xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "ur a legend {player}. i did not understand half of what happened but the {enemy_faction} men went home so yay :)"
+      }
+    ],
+    "whisper_beg_help": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} pls pls help, {enemy_faction} is at {fief} and i think they are coming to our walls. i would be so grateful :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "hi {player} sry to bug u but {fief} is under threat from {enemy_faction}. do u have any spare men? no pressure!! mostly"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} u are my favourite lord and im scared, {enemy_faction} is attacking {fief}!! can u come help? i will bring my horn"
+      }
+    ],
+    "ambient_lfg": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "LF men!! {my_faction} is going to {fief} to fight {enemy_faction}, anyone can come?? i will be there with my horn xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "does anyone know which horn means charge?? asking for a {my_faction} raid on {fief}, we need bodies, all welcome!!"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} needs fighters for {fief} vs {enemy_faction} :) no experience needed, i am a newbie and i am still here lol"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "is it just me or is the rain in {town} sideways?? my horse keeps slipping and i fell off twice sry"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone been to {village}? i got lost there for an hour and found 3 chickens and a very confused goat xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "why does my bread taste like the road to {town}?? is that normal or did i do something wrong"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag lag lag, i think my computer is angry at me. anyone else's horse just walked into a wall??"
+      }
+    ],
+    "player_joined_my_faction": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "welcome {player}!! ur in {my_faction} now, pls dont donate ur grain to anyone else, i did that once and it was awful"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} u came to {my_faction}?! i am so happy, ur the first new person i get to say hi to. sry if i ask lots of questions"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} is in {my_faction} now. i dont know what that means for the horns but welcome i guess?? xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i still think ur a bit scary but u joined {my_faction} so welcome i guess, dont make me blow the horn at u"
+      }
+    ],
+    "encounter_alliance_yes": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "yes yes yes {player}!! an alliance, i have never had one before, do i shake ur hand or bow or both?? sry"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "sure {player}, we can ally. pls dont let {rival} near me, they looked at my horse funny. ok thanks, sorry for the rambling"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} accepted!! we are allies now?? i hope {enemy_faction} does not mind, i will bring extra horn sounds for fun xD"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "alright {player}, allies it is. i will try not to blow the wrong horn at ur men, that is my only promise :)"
+      }
+    ],
+    "captured_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ok ok {player} u got me, im ur prisoner now. pls dont make me pay {gold}, i only have like 2 coins and a boot"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ummm sorry {player}, i was trying to run away and fell in a ditch. im from {my_faction}, pls be gentle with me?? sry"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} i am so glad it was u who caught me!! is the ransom {gold}? i will pay it, promise, i think i have some grain left"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "u caught me {player}!! that was a very sneaky move. i demand a rematch, and also {gold} seems like a lot for a boot"
+      }
+    ]
+  }
+}

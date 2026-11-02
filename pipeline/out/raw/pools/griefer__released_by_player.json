@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "griefer__released_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "5c22aaae48dde2c31ec1609a8876c81eafb422357e2a352eddc5f3744d560672",
+    "model": "haiku",
+    "cost_usd": 0.00474415,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:15+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "lol {player} let me go for free didnt even want my gold that bad huh",
+        "{player} got a free win and didnt even know it lmao",
+        "ransom would have been a funny ending but nah {player} took the pity route",
+        "pity release from {player} the new meta cope harder",
+        "whos gonna tell {player} that letting me walk is a worse insult than the ransom",
+        "{player} had me in a cage and chose to open it ez clap for my side",
+        "keeping score on {player} again free walk is a 0 for 2 move",
+        "bet {player} is telling everyone they did it for mercy lol skill issue"
+      ],
+      "whisper": [
+        "let me out for nothing huh {player} cheap move but i still remember the cage",
+        "u didnt want the ransom did u thats fine ill take the money back from ur pockets",
+        "free walk out of ur camp dont get comfy im writing this in my book",
+        "nice mercy act {player} sure you wont regret it when i come back",
+        "ransom would've been fair releasing me was just embarrassing for both of us",
+        "dont think this makes us even {player} u still owe me a whole bruise",
+        "saw u let me go for nothing lol see u on the road next raid",
+        "i had the silver ready and u just pointed at the door weird"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} let me walk with no ransom huh guess someones bored",
+        "free release on the server now apparently nobody tell {player} the wallet isnt for decoration",
+        "{player} doesnt want my coin weird flex but ok",
+        "walked out of captivity and nobody even paid for me classic",
+        "lol {player} threw away a whole ransom for a nice gesture i just dont trust it",
+        "letting people go for free is either cute or a trap we'll see {player}",
+        "got released by {player} today wont say thanks yet",
+        "thats one way to end a hostage situation boring but fine"
+      ],
+      "whisper": [
+        "why release me {player} thought we were doing the ransom thing",
+        "ok that was unexpected i wasnt planning to owe u anything but now i kinda do",
+        "free release is rare round here so ill keep my eyes open for the catch",
+        "i was ready to pay the ransom and u just waved me off whats the play",
+        "dont read into it i just dont like owing people",
+        "thanks i guess dont expect me to say it again",
+        "u could have made bank off me respect for the odd choice i suppose",
+        "so no coin no hard feelings i dont buy it but ok"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} let me go for free and didnt even gloat thats not how this works",
+        "best hostage swap i ever got and it cost {player} nothing respect",
+        "ok {player} went soft on me and im kinda happy about it lol",
+        "tell the whole server {player} is a decent one dont tell them i said it",
+        "free release ngl that was a dumb move and i love it",
+        "{player} with the mercy card gg ill owe ya one round",
+        "not gonna cry about the ransom when {player} just let me walk good stuff",
+        "{player} keeps proving people wrong gg and thanks i guess"
+      ],
+      "whisper": [
+        "u didnt have to let me go {player} but i owe u a drink next time",
+        "ok fine ur alright i was gonna grief ya for a week now i wont",
+        "thanks for the free walk ill return the favor when u need a fight",
+        "that was kinda classy of u {player} dont let it get to ur head",
+        "still think ur a menace but a menace w a heart apparently",
+        "u could have squeezed me dry and u didnt i wont forget that",
+        "gg {player} that was smooth next raid is on me no ransom",
+        "dont tell the others but i liked that move ill keep my trash talk for the enemies"
+      ]
+    }
+  }
+}

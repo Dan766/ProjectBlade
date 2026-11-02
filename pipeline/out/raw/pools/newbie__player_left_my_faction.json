@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "newbie__player_left_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "5af0979289cebb7705be0e26777863e58b65cb1efba635e8fb970eaa30ef4e20",
+    "model": "haiku",
+    "cost_usd": 0.0051471500000000005,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:25+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "ok so {player} just ditched {my_faction} for {faction} and nobody told me how to feel about that :/",
+        "lol did {player} really pick {faction} over us?? sorry im still mad, im mad but also confused xD",
+        "i dont know what a traitor is in this game but {player} is probably one?? sorry sorry :(",
+        "{player} leaving {my_faction} is gonna be my first real grudge i think. im gonna remember this!!!",
+        "wait does switching sides count as a crime here? asking for {my_faction} :D jk unless??",
+        "{my_faction} lost {player} to {faction} and now i have to stare at their banner every day :( rude"
+      ],
+      "whisper": [
+        "hi {player} sorry to bother u but why did u leave {my_faction}?? i keep thinking about it :(",
+        "i dont wanna be mean but u left us for {faction} and it hurts a bit ngl :( sorry",
+        "we shared our spare bread with u when u were broke... just saying :( im not mad i promise",
+        "ur going to see me at the next fight and i will be like hi {player} im very upset xD sorry",
+        "can u explain how betraying a faction works?? i need to know what to be mad about lol",
+        "i hope {faction} is nice to u, because {my_faction} wont be so nice next time... sorry :/"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} moved over to {faction} apparently. ok?? i guess that happens in this game huh",
+        "so the rumor is {player} switched to {faction}. idk if thats a big deal or not lol just asking",
+        "does anyone know if leaving {my_faction} means u lose your stuff?? {player} did it and idk",
+        "i saw {player} join {faction} today :o not sure what to think but im keeping an eye on things",
+        "faction switching is allowed right?? {player} did it so i guess yes. learning new rules every day",
+        "{my_faction} lost {player} to {faction} and the chat is going crazy lol. i just got here, sorry"
+      ],
+      "whisper": [
+        "hey {player} im new and im confused, did u really switch from {my_faction} to {faction}??",
+        "sorry if this is weird but why did u leave {my_faction}? i just want to understand how it works :)",
+        "can u tell me what happens to ur land when u change factions?? i dont wanna mess up mine lol",
+        "not trying to start anything!! just curious if {faction} is good? u seem to like it there :D",
+        "i dont really know who is who yet, is {faction} the one u wanted or was it kinda random? sorry",
+        "thanks for being honest with me about the {faction} thing... i think :) sorry i dont know more"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} switched to {faction}!! im sad we lost them but i still think they're super cool :)",
+        "ok so {player} left {my_faction} and im not gonna lie i kinda understand?? {faction} looks fun xD",
+        "shoutout to {player} for teaching me stuff when i was new. miss u at {my_faction} already :(",
+        "not gonna lie {faction} is lucky to get {player}, they helped me so much!! sorry for the chaos lol",
+        "{player} joined {faction} and im gonna cheer for them even tho im still in {my_faction} hehe",
+        "good luck {player} at {faction}!!! i hope the roads there are less confusing lol :D"
+      ],
+      "whisper": [
+        "hey {player} i know ur gonna be at {faction} now but i still wanna be ur friend pls :)",
+        "sorry i was sad when u left {my_faction}!! ur still the nicest person i met here, promise :(",
+        "thank u for everything at {my_faction} ... i hope {faction} treats u well!! i'll miss u :'(",
+        "is it ok if i still come find u sometimes?? i dont know how to say bye to u lol",
+        "i think switching was smart for u, i just didnt want it to happen :/ sorry im bad at goodbyes",
+        "u helped me so much when i was lost. if u need a newbie to carry stuff at {faction} lmk!! :D"
+      ]
+    }
+  }
+}

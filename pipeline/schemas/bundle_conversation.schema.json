@@ -1,0 +1,60 @@
+{
+  "$comment": "Bundle contract v1 (conversation). Godot's loader relies on this shape; change both together.",
+  "type": "object",
+  "required": [
+    "id",
+    "trigger",
+    "topic",
+    "participants",
+    "lines"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^conv_[0-9]{3}$"
+    },
+    "trigger": {
+      "type": "string"
+    },
+    "topic": {
+      "type": "string"
+    },
+    "participants": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 4,
+      "items": {
+        "type": "string"
+      }
+    },
+    "lines": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "required": [
+          "speaker",
+          "text",
+          "delay_s"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "speaker": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string",
+            "maxLength": 140
+          },
+          "delay_s": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 60
+          }
+        }
+      }
+    }
+  }
+}

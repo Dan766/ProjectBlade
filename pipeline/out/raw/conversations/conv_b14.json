@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "job_id": "conv_b14",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "f544df0450e1d09a01e6e76f34c5078cbfca0cdf613ec56dc51b0149cfd41aa0",
+    "model": "haiku",
+    "cost_usd": 0.006792950000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:42:26+00:00"
+  },
+  "data": {
+    "conv_066": [
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "ok so is anyone betting on the {town} siege?? sorry if this is a dumb q but how do i even place a bet :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "pinemath",
+        "text": "{town} wall goes down in like 10 min i got {gold} on us",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Kwidrath_Inkbane",
+        "text": "cope pinemath ur army is 2 guys and a horse lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "wait pinemath is ur army rly 2 guys?? :( i thought u had like {troop_count} :O",
+        "delay_s": 6
+      },
+      {
+        "speaker": "pinemath",
+        "text": "{troop_count} is not the number that matters the ram count is. ur ram count is 0",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Kwidrath_Inkbane",
+        "text": "lol pinemath spent {gold} on rams and still lost {village} last week. keep bragging",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "ok im betting on pinemath bc he sounds smart :) sorry kwidrath ur funny tho xD",
+        "delay_s": 7
+      }
+    ],
+    "conv_067": [
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "replay from the {village} fight. HornMisfire your charge horn went off 0.4s before the line moved. thats not a lag thing",
+        "delay_s": 0
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "wait what?? i jsut pressed the horn key lol. i dont evne know which horn is charge sry",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "you pressed it before the line moved. i have the timestamps. no typo excuse for that",
+        "delay_s": 5
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "omg is this about the {village} thing?? i was there :( horn was super loud but i didnt see anyone cheat!!",
+        "delay_s": 7
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "lanternsorry ur so nice :) thx. vale ur just mad i beat ur {troop_count} man army last week",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "not mad. just noting it. filing a report. cheating is cheating. HornMisfire you know what you did",
+        "delay_s": 8
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "should i be worried?? :( i didnt cheat i swear. wait is a report a bad thing lol",
+        "delay_s": 5
+      }
+    ],
+    "conv_068": [
+      {
+        "speaker": "DameVolemere",
+        "text": "The old wars were glorious. I still recall the siege at {town}, when the banners ran red with dawn.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Frogguh",
+        "text": "ur still crying about {town} lol :) the goose was there too, i saw ur banners fall after like 4 mins!!",
+        "delay_s": 9
+      },
+      {
+        "speaker": "DameVolemere",
+        "text": "Four minutes was enough to hold the gate. The oath-rolls shall remember this day.",
+        "delay_s": 14
+      },
+      {
+        "speaker": "Frogguh",
+        "text": "the oath rolls r just a list of ppl who got rolled over lol :) the goose has noticed u DameVolemere... !!",
+        "delay_s": 7
+      },
+      {
+        "speaker": "DameVolemere",
+        "text": "Your goose has never once held a gate, Frogguh. Rather, it has been spotted fleeing the field at {village}.",
+        "delay_s": 11
+      },
+      {
+        "speaker": "Frogguh",
+        "text": "i fled bc the wine was free :) we drank {gold} worth of it after lol",
+        "delay_s": 6
+      }
+    ],
+    "conv_069": [
+      {
+        "speaker": "FigLedger",
+        "text": "Fresh salt in {town}, Clovan. First come, first served. I have {gold} in stock and {troop_count} men under my banner.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "wait is the grey bar the food?? i have {troop_count} guys too!! mine r loyal tho. ur ledger is not a army",
+        "delay_s": 7
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "Loyal is lovely. Loyal does not pay wages, though. Mine are paid in full, and I still have {gold} to spare.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "dont be mean to me :( my lord said loyalty is worth more than {gold}!! he said it in the hall i swear",
+        "delay_s": 8
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "Your lord sounds wise. He may also be broke. Do ask him to lend you a horse before the next muster.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "he has horses!! like 20 :D ur just jealous of our stables figledger",
+        "delay_s": 9
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "Jealous of stables? Hardly. I own three of them, in {village}, and they are paid for. Good day, Clovan.",
+        "delay_s": 6
+      }
+    ],
+    "conv_070": [
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "Hear this: the glove shall not yield at {town}. I have sworn it upon my mother's spurs.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "glove got 2 hits on a cav wall. ur gonna yield. recheck ur comp",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "My comp is sound. The glove has survived eleven sieges. It shall survive your cavalry as well.",
+        "delay_s": 13
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "11 sieges and 3 losses i counted. ur glove is 2:1 vs cav. the math is not on ur side",
+        "delay_s": 11
+      },
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "Your arithmetic is faultless, but a glove is not a number :) It is a vow. Speak no more of yielding.",
+        "delay_s": 14
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "its a glove. it is literally a number of fingers. 5 fingers 2 hands. ur vow is 0 hp",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "Five fingers, one oath, and a standard raised high. Come to {town} and see for yourself, MOSSY9.",
+        "delay_s": 10
+      }
+    ]
+  }
+}

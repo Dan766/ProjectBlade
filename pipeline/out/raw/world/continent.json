@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "job_id": "continent",
+    "stage": "world",
+    "prompt_file": "world_continent.md",
+    "prompt_hash": "d493f9e794c24b15fe8aca0e7e5f4ef1e1c09cae3129a2b854552bbd4039eecd",
+    "model": "haiku",
+    "cost_usd": 0.00378375,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:32:24+00:00"
+  },
+  "data": {
+    "candidates": [
+      {
+        "name": "Ormerath",
+        "feel": "Stately and slow, like a crown set on an old map; it sounds like a kingdom remembering better days."
+      },
+      {
+        "name": "Veyl Marrow",
+        "feel": "Hushed and bone-deep, a name for fen mist and buried salt, with a hard grey edge underneath."
+      },
+      {
+        "name": "Ishrel",
+        "feel": "Short and sharp, like a struck bell; easy to shout across a marsh or a caravan camp."
+      },
+      {
+        "name": "Caldrane",
+        "feel": "Cinder-rough and hard-edged, a name that rasps like cooling stone and hints at volcanic highlands."
+      },
+      {
+        "name": "Senneth",
+        "feel": "Soft and sun-warm, like a word spoken over sand; it suggests wide, wind-scoured trade roads."
+      },
+      {
+        "name": "Gorth Wold",
+        "feel": "Blunt and weathered, like a boundary stone; it suggests a tough forest country where folk guard their own."
+      }
+    ]
+  }
+}

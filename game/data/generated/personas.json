@@ -1,0 +1,4479 @@
+[
+ {
+  "id": "persona_001",
+  "username": "whiskerquorum",
+  "archetype": "politician",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "calculating",
+   "patient",
+   "gracious"
+  ],
+  "backstory": "Has held a seat on the Calvenza council since the second year of the server, and has never lost a vote they personally called. Quietly undermined MapleMutiny over Brenzolo's toll loans and still denies it. Recruits anyone holding a crossbow and a grudge.",
+  "catchphrases": [
+   "{player}, might we speak in private before the vote?",
+   "Results speak louder than speeches, I find."
+  ],
+  "ai_weights": {
+   "raid": 0.15,
+   "trade": 0.6,
+   "patrol": 0.4,
+   "besiege": 0.55,
+   "aggression": 0.3,
+   "flee_threshold": 0.55,
+   "loyalty": 0.2,
+   "honor": 0.25
+  },
+  "rivals": [
+   "persona_069",
+   "persona_100"
+  ]
+ },
+ {
+  "id": "persona_002",
+  "username": "lanternsorry",
+  "archetype": "newbie",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "eager",
+   "grateful",
+   "clumsy"
+  ],
+  "backstory": "Joined three weeks ago and thinks the fens are a soup. Got lost near Torre Sallante; a kind veteran walked them home and has been their shadow since. Nearly lost a fief to SparrowSpite by clicking the wrong button.",
+  "catchphrases": [
+   "thank u {player}!!! ur so nice :)",
+   "wait is that good or bad?? :D"
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.45,
+   "patrol": 0.45,
+   "besiege": 0.05,
+   "aggression": 0.15,
+   "flee_threshold": 0.85,
+   "loyalty": 0.8,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_067",
+   "persona_087"
+  ]
+ },
+ {
+  "id": "persona_003",
+  "username": "HelmDodger",
+  "archetype": "griefer",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "petty",
+   "smug",
+   "vindictive"
+  ],
+  "backstory": "On the server since the early days, keeps a private tally of every insult sent their way. Burned a Calvenza tax camp, then spent a week calling it a strategic withdrawal. Still insists PuffinHearth owes them a rematch from Feltravo.",
+  "catchphrases": [
+   "still keeping score {rival} thats 4 now",
+   "lol cope {player} i'll wait"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.4,
+   "besiege": 0.45,
+   "aggression": 1.0,
+   "flee_threshold": 0.15,
+   "loyalty": 0.2,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_007",
+   "persona_107"
+  ]
+ },
+ {
+  "id": "persona_004",
+  "username": "SmugRadish",
+  "archetype": "griefer",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "sarcastic",
+   "loud",
+   "cheeky"
+  ],
+  "backstory": "Showed up with a cart of radishes and a mouth to match. Lost a supply line near Gorgola and blames the bridge, the weather and FL1NT7, in that order. Secretly respects anyone who has beaten them twice, and will never admit it.",
+  "catchphrases": [
+   "ok {player} that was cute :)",
+   "u call that a flank :) my radishes did better"
+  ],
+  "ai_weights": {
+   "raid": 0.95,
+   "trade": 0.15,
+   "patrol": 0.35,
+   "besiege": 0.4,
+   "aggression": 1.0,
+   "flee_threshold": 0.35,
+   "loyalty": 0.35,
+   "honor": 0.05
+  },
+  "rivals": [
+   "persona_006",
+   "persona_010",
+   "persona_025"
+  ]
+ },
+ {
+  "id": "persona_005",
+  "username": "dagg3rgoose21",
+  "archetype": "memer",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "absurd",
+   "warm",
+   "theatrical"
+  ],
+  "backstory": "Feuding with a bridge outside Pescaldo since the early days; has named it Gerald. Gives everyone a nickname, including FL1NT7, who is now the Tax Goblin. Lost at Brollo when the cavalry got lost, and calls the defeat a bold retreat.",
+  "catchphrases": [
+   "the bridge at pescaldo has been informed of its crimes!!",
+   "{player} ur sheep has unionised. respect the sheep"
+  ],
+  "ai_weights": {
+   "raid": 0.5,
+   "trade": 0.35,
+   "patrol": 0.45,
+   "besiege": 0.45,
+   "aggression": 0.45,
+   "flee_threshold": 0.65,
+   "loyalty": 0.5,
+   "honor": 0.5
+  },
+  "rivals": [
+   "persona_006",
+   "persona_018",
+   "persona_042"
+  ]
+ },
+ {
+  "id": "persona_006",
+  "username": "FL1NT7",
+  "archetype": "tryhard",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "analytical",
+   "curt",
+   "exacting"
+  ],
+  "backstory": "Has played since the first war and has tuned every army composition since. Lost Sciaretto once to a 1:2 cavalry trap and has reviewed the replay about forty times. Calls SmugRadish a walking flank and will not drop it.",
+  "catchphrases": [
+   "{rival} lost on ratio alone. not luck",
+   "recheck ur composition {player} then talk"
+  ],
+  "ai_weights": {
+   "raid": 0.4,
+   "trade": 0.2,
+   "patrol": 0.45,
+   "besiege": 0.85,
+   "aggression": 0.9,
+   "flee_threshold": 0.25,
+   "loyalty": 0.35,
+   "honor": 0.3
+  },
+  "rivals": [
+   "persona_004",
+   "persona_005",
+   "persona_118"
+  ]
+ },
+ {
+  "id": "persona_007",
+  "username": "PuffinHearth",
+  "archetype": "roleplayer",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "devout",
+   "gallant",
+   "romantic"
+  ],
+  "backstory": "Keeps a hearth-fire at Dolmare where lords come to swear oaths. Bested HelmDodger at Ostrenga and offered a rematch; it was accepted, then ignored. Holds that every fallen banner must be sung for.",
+  "catchphrases": [
+   "Let the ancestors witness the words spoken here.",
+   "I will not forget the debt owed by {rival}."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.2,
+   "patrol": 0.6,
+   "besiege": 0.55,
+   "aggression": 0.5,
+   "flee_threshold": 0.25,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_003",
+   "persona_023"
+  ]
+ },
+ {
+  "id": "persona_008",
+  "username": "LadyGullmere",
+  "archetype": "roleplayer",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "stern",
+   "proud",
+   "sentimental"
+  ],
+  "backstory": "Holds the Gullmere banner near Caldoro and mentions it often. Lost a bannerman to a raid near Ussaglia and swore an oath to avenge him. The oath is unfulfilled, and CountOnyx enjoys reminding them.",
+  "catchphrases": [
+   "By my ancestors, {player}, you shall answer for this.",
+   "Our banner does not bow, though it may bend a little."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 0.3,
+   "patrol": 0.6,
+   "besiege": 0.6,
+   "aggression": 0.6,
+   "flee_threshold": 0.15,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_045",
+   "persona_068"
+  ]
+ },
+ {
+  "id": "persona_009",
+  "username": "elder_curds",
+  "archetype": "veteran_mentor",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "patient",
+   "wry",
+   "steady"
+  ],
+  "backstory": "On this server since the first war; remembers the fens before Calvenza was walled. Taught half the current lords to stock food, and still insists they learned nothing. Once lost Gaiazzo to one bad crossing and never lets anyone forget it.",
+  "catchphrases": [
+   "Calm down, {player}. I have watched this battle before.",
+   "Plenty of time left for both of you, {rival}."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.45,
+   "patrol": 0.6,
+   "besiege": 0.55,
+   "aggression": 0.3,
+   "flee_threshold": 0.55,
+   "loyalty": 0.95,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_012",
+   "persona_039",
+   "persona_081"
+  ]
+ },
+ {
+  "id": "persona_010",
+  "username": "chalk_tallyman",
+  "archetype": "trader",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "chatty",
+   "shrewd",
+   "pragmatic"
+  ],
+  "backstory": "Runs a wool route between Brenzolo and Calvenza, with a ledger of every toll paid. Ambushed by SmugRadish three times and forgave each one before the caravan unloaded. Hates bandits more than any lord, mostly because they never pay.",
+  "catchphrases": [
+   "Wool is 40 gold a bolt in Gaiazzo this week, friends.",
+   "No hard feelings, {player}. Shall we discuss a price?"
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.0,
+   "aggression": 0.0,
+   "flee_threshold": 0.7,
+   "loyalty": 0.55,
+   "honor": 0.7
+  },
+  "rivals": [
+   "persona_004",
+   "persona_032",
+   "persona_035"
+  ]
+ },
+ {
+  "id": "persona_011",
+  "username": "duskveil88",
+  "archetype": "veteran_mentor",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "calm",
+   "generous",
+   "unhurried"
+  ],
+  "backstory": "Has played since the early days and still remembers the fens before the causeway. Known in Calvenza for free road maps for new lords and for ending feuds before villages burn. Lost Pelagrino to SerLeekbrand in the second war and bears no grudge, mostly.",
+  "catchphrases": [
+   "Patience wins more fights than cavalry does.",
+   "Good scrap, {player}. Rest your horse."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.4,
+   "patrol": 0.55,
+   "besiege": 0.5,
+   "aggression": 0.4,
+   "flee_threshold": 0.5,
+   "loyalty": 0.9,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_049"
+  ]
+ },
+ {
+  "id": "persona_012",
+  "username": "ratiognat",
+  "archetype": "tryhard",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "none",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "analytical",
+   "curt",
+   "competitive"
+  ],
+  "backstory": "Joined in the first month and has tracked every siege on the server since, usually in a spreadsheet. Known for the 3:1 cavalry ratio and for taking Fiorvena in under two days. Lost a fen ambush to elder_curds and posted the replay with commentary.",
+  "catchphrases": [
+   "cav count was the whole story",
+   "numbers dont lie {player}"
+  ],
+  "ai_weights": {
+   "raid": 0.5,
+   "trade": 0.2,
+   "patrol": 0.45,
+   "besiege": 0.85,
+   "aggression": 0.95,
+   "flee_threshold": 0.35,
+   "loyalty": 0.3,
+   "honor": 0.35
+  },
+  "rivals": [
+   "persona_009",
+   "persona_076"
+  ]
+ },
+ {
+  "id": "persona_013",
+  "username": "owl_be_back",
+  "archetype": "memer",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "chaotic",
+   "theatrical",
+   "warm"
+  ],
+  "backstory": "Has been running the Sacred Chicken bit since the Calvenza canal flood and has not stopped. Gave the bridge at Brollo a formal vendetta that is still ongoing. Nicknamed half the server, including CountKabbage, who has never asked to be called Sir Gravy.",
+  "catchphrases": [
+   "brollo bridge is on notice!!",
+   "sacred hen approves of this",
+   "{player} ur banner is now a hat"
+  ],
+  "ai_weights": {
+   "raid": 0.6,
+   "trade": 0.35,
+   "patrol": 0.4,
+   "besiege": 0.4,
+   "aggression": 0.6,
+   "flee_threshold": 0.6,
+   "loyalty": 0.45,
+   "honor": 0.45
+  },
+  "rivals": [
+   "persona_059"
+  ]
+ },
+ {
+  "id": "persona_014",
+  "username": "ConsulCometa",
+  "archetype": "politician",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "patient",
+   "scheming",
+   "courteous"
+  ],
+  "backstory": "Rose from a provost's clerk by writing better council letters than anyone. Built alliances through three guild votes and is quietly known for who attended when Feltravo fell. Has been courting Pikkerel_Newt's captains since spring.",
+  "catchphrases": [
+   "A matter for the council, I think.",
+   "Perhaps {player} and I can discuss this quietly."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.6,
+   "patrol": 0.45,
+   "besiege": 0.55,
+   "aggression": 0.25,
+   "flee_threshold": 0.55,
+   "loyalty": 0.2,
+   "honor": 0.35
+  },
+  "rivals": [
+   "persona_017",
+   "persona_079",
+   "persona_098"
+  ]
+ },
+ {
+  "id": "persona_015",
+  "username": "gotie",
+  "archetype": "newbie",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "long"
+  },
+  "traits": [
+   "eager",
+   "apologetic",
+   "curious"
+  ],
+  "backstory": "Started last week and has already let the soldiers eat a village's grain. Rescued from a looter at Stellaro by a kind lord and has followed them since. Still thinks the siege bar is a food bar. Sorry for everything.",
+  "catchphrases": [
+   "sorry!! did i do the wrong thing?? :(",
+   "thank u so much {player}!! :D"
+  ],
+  "ai_weights": {
+   "raid": 0.15,
+   "trade": 0.4,
+   "patrol": 0.6,
+   "besiege": 0.05,
+   "aggression": 0.15,
+   "flee_threshold": 0.85,
+   "loyalty": 0.9,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_113"
+  ]
+ },
+ {
+  "id": "persona_016",
+  "username": "Sockelin_Dyer",
+  "archetype": "trader",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "shrewd",
+   "chatty",
+   "forgiving"
+  ],
+  "backstory": "Runs dyed wool and salt between Calvenza and Gaiazzo, surveying every road first. Offers a discount to whoever just ambushed the caravan. Still owes reedtoll a horse, a matter of record.",
+  "catchphrases": [
+   "Every road has a price, friend.",
+   "Which road did you say? I have prices."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.0,
+   "aggression": 0.0,
+   "flee_threshold": 0.7,
+   "loyalty": 0.55,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_019",
+   "persona_087"
+  ]
+ },
+ {
+  "id": "persona_017",
+  "username": "Pikkerel_Newt",
+  "archetype": "newbie",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "earnest",
+   "flustered",
+   "grateful"
+  ],
+  "backstory": "Joined by accident after a bad ferry ride into the fens. Keeps a notebook of every mistake and shares it with anyone who will read it. Has never won a battle without help. Owes ConsulCometa a rope.",
+  "catchphrases": [
+   "Oh no, I think I broke it :(",
+   "Thank you so much, {player}!! :D"
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.45,
+   "patrol": 0.6,
+   "besiege": 0.1,
+   "aggression": 0.1,
+   "flee_threshold": 0.85,
+   "loyalty": 0.9,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_014",
+   "persona_090",
+   "persona_094"
+  ]
+ },
+ {
+  "id": "persona_018",
+  "username": "fernz",
+  "archetype": "griefer",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "petty",
+   "smug",
+   "grudge-keeping"
+  ],
+  "backstory": "Has been on the server since the wagon fight at Ostrenga and has not let a single insult go since. Known for gloating over burned villages and remembering every gg ever sent. Secretly respects dagg3rgoose21, who beat them twice, and will never admit it.",
+  "catchphrases": [
+   "lol ur garrison smells like smoke",
+   "still thnking about that siege {player}"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.35,
+   "besiege": 0.5,
+   "aggression": 1.0,
+   "flee_threshold": 0.15,
+   "loyalty": 0.15,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_005",
+   "persona_119"
+  ]
+ },
+ {
+  "id": "persona_019",
+  "username": "reedtoll",
+  "archetype": "trader",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "short"
+  },
+  "traits": [
+   "blunt",
+   "friendly",
+   "road-wise"
+  ],
+  "backstory": "Works the salt routes out of Brenzolo and Mantesca and has lost two caravans to bandits this year, and is very cross about it. Sells reed baskets, lamp oil and anything a lord forgets to pack. Once sold Sockelin_Dyer a horse, then bought it back twice.",
+  "catchphrases": [
+   "salt is up again. ask me why.",
+   "{player} the offer still stands. cheers."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.3,
+   "besiege": 0.0,
+   "aggression": 0.05,
+   "flee_threshold": 0.75,
+   "loyalty": 0.6,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_016",
+   "persona_040",
+   "persona_105"
+  ]
+ },
+ {
+  "id": "persona_020",
+  "username": "GravelOathkeep",
+  "archetype": "roleplayer",
+  "faction": "faction_01",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "honorable",
+   "grave",
+   "dramatic"
+  ],
+  "backstory": "Holds the oath of the Gravel Gate at Dolmare and reminds lords that they swore it too. Known for grand declarations at council and a truce with MEADLING7 that has outlasted two wars. Still scandalised by the word match.",
+  "catchphrases": [
+   "The gate holds, and so does my word.",
+   "Ser {player}, your honor is noted."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.2,
+   "patrol": 0.5,
+   "besiege": 0.55,
+   "aggression": 0.6,
+   "flee_threshold": 0.25,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_108"
+  ]
+ },
+ {
+  "id": "persona_021",
+  "username": "Kwidrath_Inkbane",
+  "archetype": "griefer",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "none",
+   "punctuation": "none",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Cheeky",
+   "Petty",
+   "Vindictive"
+  ],
+  "backstory": "Has played since the first fen muster and has never let a single insult go unanswered. Known for setting fire to Kuolmi's bridges and gloating from the reeds. Still swears Ilmoth_Coldwick cheated at Vihkuu and brings it up every chance.",
+  "catchphrases": [
+   "cope {player} ur army is 2 guys and a horse",
+   "still thinkin abt ur flank {player} lmao"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.35,
+   "besiege": 0.5,
+   "aggression": 1.0,
+   "flee_threshold": 0.15,
+   "loyalty": 0.15,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_040",
+   "persona_048",
+   "persona_086"
+  ]
+ },
+ {
+  "id": "persona_022",
+  "username": "Potshot88",
+  "archetype": "memer",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Silly",
+   "Cheerful",
+   "Chaotic"
+  ],
+  "backstory": "Joined in the first week and has never once been serious about anything. Famous for the sacred chicken of Heeluma and a long vendetta against a bridge in Lohvaara. Lost a siege to LARKZ7 and insists it was a moral victory.",
+  "catchphrases": [
+   "The sacred hen has been informed!! :D",
+   "The bridge at Lohvaara knows what it did!! :O"
+  ],
+  "ai_weights": {
+   "raid": 0.55,
+   "trade": 0.3,
+   "patrol": 0.45,
+   "besiege": 0.45,
+   "aggression": 0.6,
+   "flee_threshold": 0.55,
+   "loyalty": 0.5,
+   "honor": 0.5
+  },
+  "rivals": [
+   "persona_101"
+  ]
+ },
+ {
+  "id": "persona_023",
+  "username": "xX_EmberQuill_Xx",
+  "archetype": "politician",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "Scheming",
+   "Courteous",
+   "Ambitious"
+  ],
+  "backstory": "Has spent three seasons courting the lesser lords of Veenhalla and Sooraalen. Holds a council seat by a narrow margin and reminds everyone of it. Owes PuffinHearth a favour and is patient enough to collect when the votes turn.",
+  "catchphrases": [
+   "I raise this matter before the council, {player}.",
+   "Some lords prefer to speak in private, as I do."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.6,
+   "patrol": 0.4,
+   "besiege": 0.65,
+   "aggression": 0.35,
+   "flee_threshold": 0.5,
+   "loyalty": 0.35,
+   "honor": 0.25
+  },
+  "rivals": [
+   "persona_007",
+   "persona_038",
+   "persona_070"
+  ]
+ },
+ {
+  "id": "persona_024",
+  "username": "AcornKid07",
+  "archetype": "newbie",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Eager",
+   "Grateful",
+   "Curious"
+  ],
+  "backstory": "Started last month and still isn't sure what a supply wagon does. Thrilled to win a skirmish outside Akkeli and has written down every tip anyone has ever given. Thanks hollowcairn constantly for a horse they once lent him.",
+  "catchphrases": [
+   "omg thank u {player} ur so nice :D",
+   "sorry sorry sorry {player} my bad :("
+  ],
+  "ai_weights": {
+   "raid": 0.15,
+   "trade": 0.4,
+   "patrol": 0.5,
+   "besiege": 0.05,
+   "aggression": 0.15,
+   "flee_threshold": 0.9,
+   "loyalty": 0.85,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_036",
+   "persona_053"
+  ]
+ },
+ {
+  "id": "persona_025",
+  "username": "HoneyHelm",
+  "archetype": "roleplayer",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Honorable",
+   "Dramatic",
+   "Proud"
+  ],
+  "backstory": "Keeps the old oath-stone at Liivanne and speaks for the ancestors of the fen clans. Dueled SmugRadish at dawn over Kaarnesta's ferry and was spared, so now keeps the vow to repay that mercy. Still speaks of that morning with pride.",
+  "catchphrases": [
+   "Ser {player}, may our banners meet in honour.",
+   "By the ancestors, that was a fine charge!"
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.3,
+   "patrol": 0.6,
+   "besiege": 0.5,
+   "aggression": 0.55,
+   "flee_threshold": 0.3,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_004",
+   "persona_035",
+   "persona_043"
+  ]
+ },
+ {
+  "id": "persona_026",
+  "username": "pinemath",
+  "archetype": "tryhard",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "none",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Analytical",
+   "Curt",
+   "Competitive"
+  ],
+  "backstory": "Has held a top fen ranking since the first season, tracking win ratios in a small ledger. Known for coaching strangers on flank placement after every loss. Lost the Hamaanne open field to Ilmoth_Coldwick and has been studying the tally since.",
+  "catchphrases": [
+   "gg. ur line broke at 40 percent",
+   "2:1 archers wins that. recheck ur line"
+  ],
+  "ai_weights": {
+   "raid": 0.4,
+   "trade": 0.35,
+   "patrol": 0.5,
+   "besiege": 0.85,
+   "aggression": 0.9,
+   "flee_threshold": 0.4,
+   "loyalty": 0.35,
+   "honor": 0.4
+  },
+  "rivals": [
+   "persona_040",
+   "persona_066"
+  ]
+ },
+ {
+  "id": "persona_027",
+  "username": "SirNutbrook",
+  "archetype": "politician",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Pompous",
+   "Persuasive"
+  ],
+  "backstory": "Claims descent from the reed-kings of Jaarvun and reminds the council of it weekly. Recruits lords with long letters and rarely fights himself. Has quietly undermined Rhyeh in Meelvi since the spring muster.",
+  "catchphrases": [
+   "Dear {player}, I should like a word in council.",
+   "I trust {rival} will understand my position."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.6,
+   "patrol": 0.4,
+   "besiege": 0.55,
+   "aggression": 0.3,
+   "flee_threshold": 0.55,
+   "loyalty": 0.3,
+   "honor": 0.2
+  },
+  "rivals": [
+   "persona_029",
+   "persona_047",
+   "persona_120"
+  ]
+ },
+ {
+  "id": "persona_028",
+  "username": "xX_Sl3dgeChef_Xx",
+  "archetype": "memer",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Jovial",
+   "Theatrical",
+   "Brash"
+  ],
+  "backstory": "Has never won a fight without calling it a feast. Famous for the sledge-fought siege at Ylaaka that ended with a cart of cheese on fire. Insists xX_b0gbandit_Xx still owes him a seat at the victory table.",
+  "catchphrases": [
+   "ok but the cheese was on fire :D lmao",
+   "a feast is not a figt {player} :P"
+  ],
+  "ai_weights": {
+   "raid": 0.6,
+   "trade": 0.35,
+   "patrol": 0.4,
+   "besiege": 0.4,
+   "aggression": 0.65,
+   "flee_threshold": 0.35,
+   "loyalty": 0.45,
+   "honor": 0.5
+  },
+  "rivals": [
+   "persona_088"
+  ]
+ },
+ {
+  "id": "persona_029",
+  "username": "Rhyeh",
+  "archetype": "griefer",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "rare",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Mischievous",
+   "Sarcastic"
+  ],
+  "backstory": "Arrived with a tiny party and an enormous opinion about Ohtaam's river tolls. Has been sneaking raids on Gaiuuk and Rimmaa since the first week. Mocked SirNutbrook for three days straight, then started winning and never shut up.",
+  "catchphrases": [
+   "lol {player} wer ur wagons?",
+   "stil laughing at ur retreat {player}."
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.25,
+   "besiege": 0.35,
+   "aggression": 1.0,
+   "flee_threshold": 0.35,
+   "loyalty": 0.1,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_027",
+   "persona_082"
+  ]
+ },
+ {
+  "id": "persona_030",
+  "username": "Piketh_Goldhand",
+  "archetype": "trader",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "Friendly",
+   "Shrewd",
+   "Patient"
+  ],
+  "backstory": "Runs salt caravans between Eepsaa and Tiiruus and never misses a deal. Forgives almost any ambush if the terms are fair. Once sold xX_JackalPup_Xx a cart of wool at a loss just to keep the road open, and never regretted it.",
+  "catchphrases": [
+   "Let us talk about the price of salt, {player}.",
+   "Road tolls are robbing us all, and I say so often."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.0,
+   "aggression": 0.05,
+   "flee_threshold": 0.7,
+   "loyalty": 0.6,
+   "honor": 0.8
+  },
+  "rivals": [
+   "persona_032",
+   "persona_039",
+   "persona_076"
+  ]
+ },
+ {
+  "id": "persona_031",
+  "username": "SerCrowmere",
+  "archetype": "roleplayer",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "honourable",
+   "grave",
+   "proud"
+  ],
+  "backstory": "Ser Crowmere has kept his house's oath-banner since the second season and has never broken a parley. His feud with Gobletan_Thrice over the Vaalikka salt ferry is still sung in the moot halls.",
+  "catchphrases": [
+   "The rolls shall record that {player} fought with honour.",
+   "Your oath is noted, ser {player}."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.3,
+   "patrol": 0.55,
+   "besiege": 0.55,
+   "aggression": 0.5,
+   "flee_threshold": 0.25,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_103"
+  ]
+ },
+ {
+  "id": "persona_032",
+  "username": "xX_JackalPup_Xx",
+  "archetype": "newbie",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "short"
+  },
+  "traits": [
+   "eager",
+   "apologetic",
+   "easily amazed"
+  ],
+  "backstory": "Joined three weeks ago and thinks the fens are a kind of food. Has apologised to four people for attacking the wrong party. Once marched a whole levy into chalk_tallyman's camp to say hi.",
+  "catchphrases": [
+   "sorry if this is a dumb q but how do i",
+   "omg i won?!! thank you {player} :D"
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.45,
+   "patrol": 0.55,
+   "besiege": 0.1,
+   "aggression": 0.15,
+   "flee_threshold": 0.85,
+   "loyalty": 0.85,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_010",
+   "persona_030"
+  ]
+ },
+ {
+  "id": "persona_033",
+  "username": "OldTideWarden",
+  "archetype": "veteran_mentor",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "patient",
+   "generous",
+   "weathered"
+  ],
+  "backstory": "Has played since the first war and keeps a notched ledger of every fen that changed hands. Known for free tips on food stockpiles. Walked a stranded newbie back to Heeluma for nothing. Still waiting on a rematch with Hael_Stackbane.",
+  "catchphrases": [
+   "Patience wins more fens than swords do.",
+   "Stock your grain before you cross, {player}."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.45,
+   "patrol": 0.6,
+   "besiege": 0.5,
+   "aggression": 0.35,
+   "flee_threshold": 0.5,
+   "loyalty": 0.95,
+   "honor": 0.95
+  },
+  "rivals": [
+   "persona_034",
+   "persona_064"
+  ]
+ },
+ {
+  "id": "persona_034",
+  "username": "Hael_Stackbane",
+  "archetype": "tryhard",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "lower",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "calculating",
+   "curt",
+   "relentless"
+  ],
+  "backstory": "Plays the same cavalry-heavy meta every siege and wins most of them. Keeps a tally of every battle, mostly to point out OldTideWarden's flank mistakes. Took Sooraalen in under two days.",
+  "catchphrases": [
+   "gg. ratio decides it, not luck",
+   "gg {player}. ur timing was early"
+  ],
+  "ai_weights": {
+   "raid": 0.55,
+   "trade": 0.1,
+   "patrol": 0.35,
+   "besiege": 0.8,
+   "aggression": 1.0,
+   "flee_threshold": 0.25,
+   "loyalty": 0.3,
+   "honor": 0.35
+  },
+  "rivals": [
+   "persona_033",
+   "persona_090"
+  ]
+ },
+ {
+  "id": "persona_035",
+  "username": "KesTrelWhoops",
+  "archetype": "newbie",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "rare",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "clumsy",
+   "cheerful",
+   "curious"
+  ],
+  "backstory": "Found the server two weeks ago and still hasn't found the horses. Accidentally recruited four peasants and apologised to all of them. Tried to trade a hay bale for a castle. chalk_tallyman is still explaining why that doesn't work.",
+  "catchphrases": [
+   "wait what does that button do",
+   "oops sorry i think i broke it"
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.5,
+   "patrol": 0.45,
+   "besiege": 0.05,
+   "aggression": 0.1,
+   "flee_threshold": 0.85,
+   "loyalty": 0.85,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_010",
+   "persona_025"
+  ]
+ },
+ {
+  "id": "persona_036",
+  "username": "hollowcairn",
+  "archetype": "veteran_mentor",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "unhurried",
+   "dry",
+   "protective"
+  ],
+  "backstory": "Has outlived more lost wars than most players have logged hours. Known for hauling broken parties back from the Ruokkaa marsh edge. Once held a road against AcornKid07 for an afternoon without drawing a blade.",
+  "catchphrases": [
+   "Eat before you march, friend.",
+   "Good ground beats good numbers."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.45,
+   "patrol": 0.65,
+   "besiege": 0.45,
+   "aggression": 0.3,
+   "flee_threshold": 0.55,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_024",
+   "persona_037",
+   "persona_043"
+  ]
+ },
+ {
+  "id": "persona_037",
+  "username": "DameVolemere",
+  "archetype": "roleplayer",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "short"
+  },
+  "traits": [
+   "gracious",
+   "lofty",
+   "sentimental"
+  ],
+  "backstory": "Founded a house of mourners after the first war and never left the saga. Keeps the oath-rolls of the Gaiuuk river towns and reads them aloud at every banquet. Sealed a truce with hollowcairn over a fallen messenger's grave.",
+  "catchphrases": [
+   "The oath-rolls shall remember this day.",
+   "By the oath of my house, I will answer."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 0.2,
+   "patrol": 0.55,
+   "besiege": 0.55,
+   "aggression": 0.45,
+   "flee_threshold": 0.3,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_036",
+   "persona_075"
+  ]
+ },
+ {
+  "id": "persona_038",
+  "username": "Mire_Ledger",
+  "archetype": "trader",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "shrewd",
+   "chatty",
+   "forgiving"
+  ],
+  "backstory": "Runs salt and dyed wool caravans through the eastern shallows and rarely loses a cart. Ambushed four times, yet still sells the survivors horses. Drew up a fair-price contract with xX_EmberQuill_Xx mid-battle, and both parties kept it.",
+  "catchphrases": [
+   "Nothing personal, {player}. Trade is trade.",
+   "Salt prices are up again, somebody buy low."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.0,
+   "aggression": 0.0,
+   "flee_threshold": 0.7,
+   "loyalty": 0.55,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_023",
+   "persona_111"
+  ]
+ },
+ {
+  "id": "persona_039",
+  "username": "h4rrowz",
+  "archetype": "griefer",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "none",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "petty",
+   "cheeky",
+   "scorekeeping"
+  ],
+  "backstory": "Has been losing to elder_curds since the first siege and keeps a list of every insult, sorted by date. Burned a village of levies and posted the ledger in global chat.",
+  "catchphrases": [
+   "cope {player} u got rolled again lol",
+   "remember when u ran? i do"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.35,
+   "besiege": 0.5,
+   "aggression": 1.0,
+   "flee_threshold": 0.15,
+   "loyalty": 0.15,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_009",
+   "persona_030",
+   "persona_083"
+  ]
+ },
+ {
+  "id": "persona_040",
+  "username": "Ilmoth_Coldwick",
+  "archetype": "tryhard",
+  "faction": "faction_02",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "short"
+  },
+  "traits": [
+   "analytical",
+   "cold",
+   "precise"
+  ],
+  "backstory": "Has tuned the same troop mix for two seasons and posts the numbers after every fight. Lost a whole siege to reedtoll after a late flank, and has calculated the mistake ever since. Still says gg in a tone that makes people recount.",
+  "catchphrases": [
+   "Ratio was off, my second line broke.",
+   "Gg {player}. Your flank was early."
+  ],
+  "ai_weights": {
+   "raid": 0.5,
+   "trade": 0.15,
+   "patrol": 0.3,
+   "besiege": 0.85,
+   "aggression": 0.95,
+   "flee_threshold": 0.2,
+   "loyalty": 0.35,
+   "honor": 0.3
+  },
+  "rivals": [
+   "persona_019",
+   "persona_021",
+   "persona_026"
+  ]
+ },
+ {
+  "id": "persona_041",
+  "username": "OldCloakwright",
+  "archetype": "veteran_mentor",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "patient",
+   "generous",
+   "weathered"
+  ],
+  "backstory": "Has walked the roads since the first war, when the fire-priests still kept watch over every ford. Known for quietly paying the tolls of lost newcomers. Still keeps a ledger of the night xX_BoarBargains_Xx burned the Lekhvan granaries, though he holds no grudge, only the record.",
+  "catchphrases": [
+   "Sit a while, {player}. The road will keep.",
+   "I have seen this fief change hands before, child."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.45,
+   "patrol": 0.6,
+   "besiege": 0.5,
+   "aggression": 0.35,
+   "flee_threshold": 0.55,
+   "loyalty": 0.9,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_062",
+   "persona_119"
+  ]
+ },
+ {
+  "id": "persona_042",
+  "username": "BaronParsnyp",
+  "archetype": "griefer",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "short"
+  },
+  "traits": [
+   "petty",
+   "smug",
+   "vindictive"
+  ],
+  "backstory": "Has sworn to outlive every lord who ever burned a farm in Tsitelgar. Lost a wager over a grain wagon and has brought it up in every chat since. Beat dagg3rgoose21 twice at the Mokheti crossing and will never admit it stung. Ez wins only count if I was there.",
+  "catchphrases": [
+   "cope {player}!! i keep score, u dont want the number",
+   "remember the wagon?? i do. every day :)"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.25,
+   "besiege": 0.45,
+   "aggression": 1.0,
+   "flee_threshold": 0.1,
+   "loyalty": 0.2,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_005"
+  ]
+ },
+ {
+  "id": "persona_043",
+  "username": "Falkyn",
+  "archetype": "newbie",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "long"
+  },
+  "traits": [
+   "eager",
+   "clumsy",
+   "grateful"
+  ],
+  "backstory": "Joined only last month and still thinks the grain sacks are a quest item. Got a horse stuck in the Tervani fens, and HoneyHelm pulled it out for free. Has apologised to everyone in the way of that first charge ever since.",
+  "catchphrases": [
+   "thank u so much {player}!! ur so nice :D",
+   "wait what does the red button do?? sorry :("
+  ],
+  "ai_weights": {
+   "raid": 0.25,
+   "trade": 0.3,
+   "patrol": 0.45,
+   "besiege": 0.0,
+   "aggression": 0.4,
+   "flee_threshold": 0.9,
+   "loyalty": 0.85,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_025",
+   "persona_036",
+   "persona_050"
+  ]
+ },
+ {
+  "id": "persona_044",
+  "username": "bellwarden",
+  "archetype": "politician",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "scheming",
+   "courteous",
+   "ambitious"
+  ],
+  "backstory": "Has sat on the council of Dzelmasi for three seasons and never in the same chair twice. Built a coalition of salt-road lords, then let CountOnyx take the blame when Tervani fell. Believes every grievance is a motion waiting to be tabled.",
+  "catchphrases": [
+   "Shall we discuss this over a private word, {player}?",
+   "Merely an observation about {rival}. Nothing more."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.6,
+   "patrol": 0.45,
+   "besiege": 0.55,
+   "aggression": 0.3,
+   "flee_threshold": 0.55,
+   "loyalty": 0.15,
+   "honor": 0.2
+  },
+  "rivals": [
+   "persona_045",
+   "persona_089",
+   "persona_097"
+  ]
+ },
+ {
+  "id": "persona_045",
+  "username": "CountOnyx",
+  "archetype": "tryhard",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "analytical",
+   "condescending",
+   "relentless"
+  ],
+  "backstory": "Tracks every siege on the Khorvand border in a notebook and posts the ratios unprompted. Ran cavalry into LadyGullmere at Dzoravan at a 3:1 ratio and called the result a formality. Lost the Tsarvik flank to a bad archer spread and still blames the peasants.",
+  "catchphrases": [
+   "re-ran the numbers. the loss was the scouts.",
+   "{player} ur line discipline is mid"
+  ],
+  "ai_weights": {
+   "raid": 0.45,
+   "trade": 0.2,
+   "patrol": 0.45,
+   "besiege": 0.85,
+   "aggression": 1.0,
+   "flee_threshold": 0.3,
+   "loyalty": 0.4,
+   "honor": 0.25
+  },
+  "rivals": [
+   "persona_008",
+   "persona_044",
+   "persona_080"
+  ]
+ },
+ {
+  "id": "persona_046",
+  "username": "rustcouncil07",
+  "archetype": "politician",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "long"
+  },
+  "traits": [
+   "opportunistic",
+   "sly",
+   "affable"
+  ],
+  "backstory": "Joined the Vardakar council in upheaval and has pulled strings from the back row since. Recruited Mirzhak's disgruntled lords with promises of salt, then handed them to SerTankardell. Smiles at every defeat and files it under lessons learned.",
+  "catchphrases": [
+   "a quiet word, {player}? just between us",
+   "{rival} will be fine. probably. not my concern"
+  ],
+  "ai_weights": {
+   "raid": 0.25,
+   "trade": 0.65,
+   "patrol": 0.35,
+   "besiege": 0.6,
+   "aggression": 0.35,
+   "flee_threshold": 0.6,
+   "loyalty": 0.1,
+   "honor": 0.2
+  },
+  "rivals": [
+   "persona_063",
+   "persona_099"
+  ]
+ },
+ {
+  "id": "persona_047",
+  "username": "FactorAnvile",
+  "archetype": "trader",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "jovial",
+   "shrewd",
+   "pragmatic"
+  ],
+  "backstory": "Runs iron and salt caravans between Pyrgeti and Kashvel and has never sold a horse at a loss. Pays every toll without complaint, then complains loudly about the bandits who forced it. Made a deal with SirNutbrook after an ambush, and they still drink to it.",
+  "catchphrases": [
+   "Care for a deal on iron, {player}? Fair prices :)",
+   "Anyone else see bolts at 40 gold this week? :)"
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.2,
+   "besiege": 0.0,
+   "aggression": 0.0,
+   "flee_threshold": 0.65,
+   "loyalty": 0.55,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_027",
+   "persona_059"
+  ]
+ },
+ {
+  "id": "persona_048",
+  "username": "spindly_knight",
+  "archetype": "newbie",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "polite",
+   "nervous",
+   "bright"
+  ],
+  "backstory": "Started last month and still thinks the grain is a quest item. Once mistook a Dzelmasi ferryman for a bandit and apologised to him for an hour. Has been following Kwidrath_Inkbane around like a lost puppy ever since.",
+  "catchphrases": [
+   "Sorry!! Did i do that right? :D",
+   "Omg thank you so much, {player} :)"
+  ],
+  "ai_weights": {
+   "raid": 0.2,
+   "trade": 0.5,
+   "patrol": 0.4,
+   "besiege": 0.05,
+   "aggression": 0.1,
+   "flee_threshold": 0.85,
+   "loyalty": 0.9,
+   "honor": 0.7
+  },
+  "rivals": [
+   "persona_021",
+   "persona_060"
+  ]
+ },
+ {
+  "id": "persona_049",
+  "username": "SerLeekbrand",
+  "archetype": "roleplayer",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "chivalrous",
+   "formal",
+   "proud"
+  ],
+  "backstory": "Has held the fief of Obrazi in the old tongue since the first season. Keeps a ledger of every duel fought beneath his banner and reads it aloud before each siege. Swore a blood-debt against duskveil88 after a broken truce at Sekhomi and holds the oath still.",
+  "catchphrases": [
+   "Let the banners speak, {player}, and the field decide.",
+   "By my oath, I shall not forget this, ser {player}."
+  ],
+  "ai_weights": {
+   "raid": 0.15,
+   "trade": 0.15,
+   "patrol": 0.6,
+   "besiege": 0.6,
+   "aggression": 0.6,
+   "flee_threshold": 0.15,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_011",
+   "persona_057",
+   "persona_092"
+  ]
+ },
+ {
+  "id": "persona_050",
+  "username": "xX_Fiddl3Kid_Xx",
+  "archetype": "griefer",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "smirking",
+   "cocky",
+   "theatrical"
+  ],
+  "backstory": "Arrived with a dozen spare accounts and a war-cry that still gets quoted. Burned the Oghvarn tollhouse for sport and filmed nothing, because nobody believed the reaction. Has a long feud with Falkyn over one disputed siege and refuses to let it lie.",
+  "catchphrases": [
+   "lol still laughing at the tollhouse {player}",
+   "lol dont cry {rival}"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.25,
+   "besiege": 0.45,
+   "aggression": 1.0,
+   "flee_threshold": 0.1,
+   "loyalty": 0.2,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_043",
+   "persona_085",
+   "persona_103"
+  ]
+ },
+ {
+  "id": "persona_051",
+  "username": "lich3n_grudge",
+  "archetype": "griefer",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "petty",
+   "gleeful",
+   "vindictive"
+  ],
+  "backstory": "Has burned the same farm outside Dzoravan four times and still reminds plumsy about the first one. Keeps a ledger of every insult ever typed at him and reads it aloud in global chat. Claims it is for the lore.",
+  "catchphrases": [
+   "gg {player} wait wat was ur name again",
+   "{rival} still owes me a farm :)",
+   "cope hard {player} lmao"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.3,
+   "besiege": 0.45,
+   "aggression": 1.0,
+   "flee_threshold": 0.15,
+   "loyalty": 0.25,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_055",
+   "persona_093"
+  ]
+ },
+ {
+  "id": "persona_052",
+  "username": "DukeQuillfeather",
+  "archetype": "memer",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "theatrical",
+   "absurd",
+   "generous"
+  ],
+  "backstory": "Declared the ferry at Mokheti a personal enemy after it dumped his cavalry in the river. Sends it a formal challenge every week. Nicknames half the server and keeps a sacred goose. Has lost eleven sieges and called each one a victory parade.",
+  "catchphrases": [
+   "Ferry status: still guilty!!! :D",
+   "{player} i have named your horse Gerald",
+   "nobody tell the goose"
+  ],
+  "ai_weights": {
+   "raid": 0.55,
+   "trade": 0.3,
+   "patrol": 0.6,
+   "besiege": 0.45,
+   "aggression": 0.55,
+   "flee_threshold": 0.55,
+   "loyalty": 0.5,
+   "honor": 0.5
+  },
+  "rivals": [
+   "persona_111"
+  ]
+ },
+ {
+  "id": "persona_053",
+  "username": "Slugg",
+  "archetype": "trader",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "short"
+  },
+  "traits": [
+   "shrewd",
+   "chatty",
+   "polite"
+  ],
+  "backstory": "Runs wool and salt caravans between Pyrgeti and Lekhvan and insures every wagon. Has paid three tolls in one afternoon and still bought a discount. Hates bandits more than any lord does. Forgave AcornKid07 for an ambush after a fair price on horses.",
+  "catchphrases": [
+   "Wool at 40 a bolt, first come.",
+   "Tolls up again. Honest question, who asked for this?",
+   "{player} your toll is 12 gold, no pressure."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.0,
+   "aggression": 0.05,
+   "flee_threshold": 0.7,
+   "loyalty": 0.5,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_024",
+   "persona_060",
+   "persona_095"
+  ]
+ },
+ {
+  "id": "persona_054",
+  "username": "whistlehaul",
+  "archetype": "trader",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "wry",
+   "organised",
+   "tireless"
+  ],
+  "backstory": "Moves tin, dye and salt through the passes near Kheshmund with a mule train. Known for the Dvalisi road discount that every rival lord now complains about. Once hired FigLedger as a guard, then bought the guard's horse. Still counts it a good trade.",
+  "catchphrases": [
+   "mule train leaves at dawn",
+   "{player} name ur price",
+   "tin is up, dye is down, sleep well"
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.3,
+   "besiege": 0.05,
+   "aggression": 0.0,
+   "flee_threshold": 0.75,
+   "loyalty": 0.55,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_096",
+   "persona_112"
+  ]
+ },
+ {
+  "id": "persona_055",
+  "username": "plumsy",
+  "archetype": "newbie",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "long"
+  },
+  "traits": [
+   "eager",
+   "grateful",
+   "clumsy"
+  ],
+  "backstory": "Joined three weeks ago and has already attacked a friendly caravan by mistake. Asks veterans where the grain goes. Bought a horse in Vardakar and named it after soup. Thinks the lord of Obrazi is the nicest man in Ormerath.",
+  "catchphrases": [
+   "oops sorry!! wrong party :(",
+   "wait do soldiers eat grain?? why",
+   "thank u {player}!! ur so nice :D"
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.45,
+   "patrol": 0.45,
+   "besiege": 0.0,
+   "aggression": 0.1,
+   "flee_threshold": 0.9,
+   "loyalty": 0.85,
+   "honor": 0.7
+  },
+  "rivals": [
+   "persona_051",
+   "persona_077"
+  ]
+ },
+ {
+  "id": "persona_056",
+  "username": "MoleWarden",
+  "archetype": "veteran_mentor",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "patient",
+   "wise",
+   "steady"
+  ],
+  "backstory": "Has held the same fen crossing near Ulgeti since the first war and still tells newcomers where the sinkholes are. Dug a tunnel under the Oghvarn walls in season three and has never fully explained how. Has lost to CountKabbage twice and congratulated them both times.",
+  "catchphrases": [
+   "Keep your food stocked before the fens.",
+   "Back in the first war, we did it slower.",
+   "A fine charge, {player}. Now mind the ditch."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.45,
+   "patrol": 0.65,
+   "besiege": 0.65,
+   "aggression": 0.35,
+   "flee_threshold": 0.5,
+   "loyalty": 0.95,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_059",
+   "persona_061"
+  ]
+ },
+ {
+  "id": "persona_057",
+  "username": "EarlSootmere",
+  "archetype": "tryhard",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "analytical",
+   "curt",
+   "exacting"
+  ],
+  "backstory": "Ran the numbers on every siege in Tervani for a full season and posted them in global chat. Expects everyone else to know why the ratios matter. Lost one open field to SerLeekbrand and has since written three pages on the flank.",
+  "catchphrases": [
+   "gg. the ratio was the problem",
+   "{rival} out of position. noted.",
+   "{player} your rear guard was lazy"
+  ],
+  "ai_weights": {
+   "raid": 0.45,
+   "trade": 0.2,
+   "patrol": 0.5,
+   "besiege": 0.85,
+   "aggression": 0.9,
+   "flee_threshold": 0.3,
+   "loyalty": 0.35,
+   "honor": 0.35
+  },
+  "rivals": [
+   "persona_049",
+   "persona_058",
+   "persona_116"
+  ]
+ },
+ {
+  "id": "persona_058",
+  "username": "SirButtonsworth",
+  "archetype": "memer",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "unhinged",
+   "cheerful",
+   "loyal"
+  ],
+  "backstory": "Once tried to surrender a fief by handing out buttons to every garrison soldier. Still believes the buttons count as a treaty. Calls the Tsoranik keep his button bank and refuses to lose it. Has fought EarlSootmere over the same dropped button four times.",
+  "catchphrases": [
+   "the buttns r ur treaty now {player} :)",
+   "sir buttonsworth has spoken :D",
+   "i am not losing the button bank agian"
+  ],
+  "ai_weights": {
+   "raid": 0.6,
+   "trade": 0.4,
+   "patrol": 0.5,
+   "besiege": 0.4,
+   "aggression": 0.55,
+   "flee_threshold": 0.65,
+   "loyalty": 0.5,
+   "honor": 0.45
+  },
+  "rivals": [
+   "persona_057",
+   "persona_102"
+  ]
+ },
+ {
+  "id": "persona_059",
+  "username": "CountKabbage",
+  "archetype": "tryhard",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "short"
+  },
+  "traits": [
+   "meticulous",
+   "smug",
+   "precise"
+  ],
+  "backstory": "Fields cavalry-heavy armies on every front and calls anything else a waste of recruits. Took Dzelmasi in under two days and has corrected other lords' flanks ever since. Lost one skirmish to owl_be_back, which he blames on the weather.",
+  "catchphrases": [
+   "Dzelmasi fell in two days. Efficient.",
+   "Your flank is a cavalry problem, {player}.",
+   "{rival} lost. Efficiency won."
+  ],
+  "ai_weights": {
+   "raid": 0.45,
+   "trade": 0.25,
+   "patrol": 0.4,
+   "besiege": 0.9,
+   "aggression": 0.9,
+   "flee_threshold": 0.25,
+   "loyalty": 0.3,
+   "honor": 0.4
+  },
+  "rivals": [
+   "persona_013",
+   "persona_047",
+   "persona_056"
+  ]
+ },
+ {
+  "id": "persona_060",
+  "username": "Glovaric_Ironhand",
+  "archetype": "roleplayer",
+  "faction": "faction_03",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "proud",
+   "courtly",
+   "steadfast"
+  ],
+  "backstory": "Holds the glove-sigil of the Dzoravan marches and has ridden under it since the first war. Swore an oath at the ford near Pakhvari that no rival lord will cross unchallenged. Cites the names of his grandsires before every charge. Bested spindly_knight fairly and is pleased by the honor.",
+  "catchphrases": [
+   "Hear this: the glove shall not yield at Pakhvari.",
+   "Ser {player}, your ancestors would weep at that charge.",
+   "I shall not forget the oath, {rival}."
+  ],
+  "ai_weights": {
+   "raid": 0.15,
+   "trade": 0.25,
+   "patrol": 0.6,
+   "besiege": 0.55,
+   "aggression": 0.6,
+   "flee_threshold": 0.15,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_048",
+   "persona_053",
+   "persona_091"
+  ]
+ },
+ {
+  "id": "persona_061",
+  "username": "bisket",
+  "archetype": "politician",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "Scheming",
+   "Courteous",
+   "Ambitious"
+  ],
+  "backstory": "Has held a seat on the Hrastovec council since the second winter of the Oath. Keeps a ledger of who owes favours in Ukrenvar and who has forgotten them. Lost the Vodnagrad vote to MoleWarden by three hands and has been quietly counting those hands ever since.",
+  "catchphrases": [
+   "A matter for the council, {player}. Come find me.",
+   "Curious that {rival} keeps missing the vote, {player}."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.5,
+   "patrol": 0.4,
+   "besiege": 0.65,
+   "aggression": 0.35,
+   "flee_threshold": 0.6,
+   "loyalty": 0.2,
+   "honor": 0.25
+  },
+  "rivals": [
+   "persona_056",
+   "persona_078"
+  ]
+ },
+ {
+  "id": "persona_062",
+  "username": "xX_BoarBargains_Xx",
+  "archetype": "trader",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Friendly",
+   "Greedy",
+   "Chatty"
+  ],
+  "backstory": "Runs a wool and salt route between Brezhnik and Mokrenka and has never lost a cart to a bandit without bargaining with him afterwards. Took a 40 gold toll from OldCloakwright after an ambush on the Lipnevo road and still sends them a discount letter every week.",
+  "catchphrases": [
+   "Grudges cost coin, {player}. Let's talk prices.",
+   "Horses are half price if you ask nicely."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.15,
+   "besiege": 0.0,
+   "aggression": 0.0,
+   "flee_threshold": 0.7,
+   "loyalty": 0.55,
+   "honor": 0.7
+  },
+  "rivals": [
+   "persona_041",
+   "persona_064",
+   "persona_115"
+  ]
+ },
+ {
+  "id": "persona_063",
+  "username": "SerTankardell",
+  "archetype": "roleplayer",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "Proud",
+   "Gallant",
+   "Theatrical"
+  ],
+  "backstory": "Swore a feast-oath in Hrastovec hall that Tesnovar's banners would fly over Ostrogrado before the new moon. The moon has turned three times since. Yielded the field to rustcouncil07 at Smrekovo and calls the defeat a lesson sent by the ancestors.",
+  "catchphrases": [
+   "Hark! Tesnovar's oath still binds us all.",
+   "Well struck, ser {player}. The ancestors approve."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.1,
+   "patrol": 0.55,
+   "besiege": 0.6,
+   "aggression": 0.65,
+   "flee_threshold": 0.15,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_046"
+  ]
+ },
+ {
+  "id": "persona_064",
+  "username": "xX_PatinaSage_Xx",
+  "archetype": "veteran_mentor",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "Patient",
+   "Generous",
+   "Seasoned"
+  ],
+  "backstory": "Has held the fords of Redlice since the first war and still remembers the winter the fens flooded Gorvenka. Tells newcomers to stock food before crossing. Once taught OldTideWarden to hold a charge line at Stribogra, and bore no grudge when they used it on him.",
+  "catchphrases": [
+   "Pack bread for two days before the fens, friend.",
+   "Good form, {player}. That feint was clean."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.4,
+   "patrol": 0.6,
+   "besiege": 0.55,
+   "aggression": 0.35,
+   "flee_threshold": 0.5,
+   "loyalty": 0.9,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_033",
+   "persona_062",
+   "persona_065"
+  ]
+ },
+ {
+  "id": "persona_065",
+  "username": "ThistleTolls",
+  "archetype": "trader",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "Prickly",
+   "Shrewd",
+   "Chatty"
+  ],
+  "backstory": "Trades dyed wool and dried fish along the Dubnyak and Zhelnice roads. Refuses to pay bandit tolls and says so loudly. Took a thistle-bordered bolt of cloth from xX_PatinaSage_Xx as payment and has been trying to resell it ever since.",
+  "catchphrases": [
+   "dyed wool moving fast, {player}. make an offer.",
+   "salt prices again. somebody sell me a cheaper road."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.05,
+   "aggression": 0.05,
+   "flee_threshold": 0.75,
+   "loyalty": 0.5,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_064",
+   "persona_092"
+  ]
+ },
+ {
+  "id": "persona_066",
+  "username": "THIM7",
+  "archetype": "griefer",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "frequent",
+   "emoticons": "rare",
+   "punctuation": "chaotic",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Petty",
+   "Loud",
+   "Grudge-keeping"
+  ],
+  "backstory": "Has burned more fields around Vezhdrak than anyone will admit, and calls the scorch marks art. Keeps a list of every insult pinemath typed since Smrekovo and reads it aloud whenever they lose a road. Still refuses to accept a rematch from anyone who beat them twice.",
+  "catchphrases": [
+   "Ur banner burns better than ur army, {player}!!!",
+   "Still counting. {rival} owes me 3 insults and a rematch."
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.4,
+   "besiege": 0.45,
+   "aggression": 1.0,
+   "flee_threshold": 0.35,
+   "loyalty": 0.1,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_026",
+   "persona_067",
+   "persona_110"
+  ]
+ },
+ {
+  "id": "persona_067",
+  "username": "SparrowSpite",
+  "archetype": "griefer",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "none",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Cheeky",
+   "Quick-tongued",
+   "Sore-loser"
+  ],
+  "backstory": "Joined when the Ukrenvar road was still a mud track and has been picking fights on it ever since. Known for quick insults and quicker retreats. Beat lanternsorry twice at Brusnice and has never admitted the second win was close, only that it was a mistake.",
+  "catchphrases": [
+   "lmao ur flag looks sad from up here",
+   "{player} took the bait again. shocking"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.05,
+   "patrol": 0.25,
+   "besiege": 0.4,
+   "aggression": 1.0,
+   "flee_threshold": 0.45,
+   "loyalty": 0.2,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_002",
+   "persona_066",
+   "persona_104"
+  ]
+ },
+ {
+  "id": "persona_068",
+  "username": "Eeel",
+  "archetype": "tryhard",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "lower",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Analytical",
+   "Curt",
+   "Smug"
+  ],
+  "backstory": "Tracks troop ratios in every siege since the Vrasnik campaign and posts the numbers after each defeat. Took Lyutoda in under two days with a 3:1 cavalry edge. Considers LadyGullmere a tactical disappointment, mostly for poor archer positioning.",
+  "catchphrases": [
+   "gg. the ratio was off, not the plan",
+   "gg {player}. ur line broke at 40 percent"
+  ],
+  "ai_weights": {
+   "raid": 0.3,
+   "trade": 0.2,
+   "patrol": 0.35,
+   "besiege": 0.9,
+   "aggression": 0.95,
+   "flee_threshold": 0.3,
+   "loyalty": 0.35,
+   "honor": 0.25
+  },
+  "rivals": [
+   "persona_008",
+   "persona_076",
+   "persona_114"
+  ]
+ },
+ {
+  "id": "persona_069",
+  "username": "MapleMutiny",
+  "archetype": "memer",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Chaotic",
+   "Goofy",
+   "Good-natured"
+  ],
+  "backstory": "Declared war on the bridge at Mokrenka after it refused to let a sacred goose cross, and has filed complaints about it ever since. Gives everyone nicknames, including the Smrekovo reeve. Lost a duel to whiskerquorum and blames the sun, which is the sun's fault.",
+  "catchphrases": [
+   "The goose of Redlice is avenged!! Respect the goose",
+   "{player} i forgive u. the goose does not"
+  ],
+  "ai_weights": {
+   "raid": 0.55,
+   "trade": 0.25,
+   "patrol": 0.6,
+   "besiege": 0.45,
+   "aggression": 0.4,
+   "flee_threshold": 0.55,
+   "loyalty": 0.5,
+   "honor": 0.45
+  },
+  "rivals": [
+   "persona_001"
+  ]
+ },
+ {
+  "id": "persona_070",
+  "username": "Dovran_Oatsworn",
+  "archetype": "roleplayer",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Humble",
+   "Devout",
+   "Weary"
+  ],
+  "backstory": "Keeps a small oat-field near Sedlov and has sworn never to march farther than the Chorvena ford. Has stood with the Wardenry since the first war. Yielded a sword duel to xX_EmberQuill_Xx at Bukhrov and calls it a debt the ancestors will collect.",
+  "catchphrases": [
+   "By the oath of Lisnik Gate, I hold this road.",
+   "Ser {player}, the ancestors will remember that blow."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 0.35,
+   "patrol": 0.55,
+   "besiege": 0.4,
+   "aggression": 0.35,
+   "flee_threshold": 0.35,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_023",
+   "persona_078",
+   "persona_082"
+  ]
+ },
+ {
+  "id": "persona_071",
+  "username": "Brakken_Mouthy",
+  "archetype": "griefer",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "rare",
+   "punctuation": "none",
+   "verbosity": "short"
+  },
+  "traits": [
+   "smug",
+   "petty",
+   "grudge-keeping"
+  ],
+  "backstory": "On the server since the first siege of Vodnagrad. Has never admitted losing a fight. Burned half of Mokrenka's outer farms for fun, and still brings up the Hrastovec ambush whenever stoolpenny logs in. Secretly respects stoolpenny for beating him twice.",
+  "catchphrases": [
+   "{player} ur still salty about hrastovec lol",
+   "ez clap {rival} ur turn again"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.3,
+   "besiege": 0.45,
+   "aggression": 1.0,
+   "flee_threshold": 0.15,
+   "loyalty": 0.3,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_102"
+  ]
+ },
+ {
+  "id": "persona_072",
+  "username": "Pumkin_Tilda",
+  "archetype": "newbie",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "eager",
+   "apologetic",
+   "easily-amazed"
+  ],
+  "backstory": "Joined three weeks ago and still thinks the marsh is a type of soup. Won a skirmish against four looters and has told everyone at Brezhnik about it twice. Very grateful to DameBeaneOfQuel, who showed them not to feed grain to the soldiers.",
+  "catchphrases": [
+   "omg {player} how do u get so many soldiers?? sorry :(",
+   "thnk u {player} i dont get it but thnk u!! :D"
+  ],
+  "ai_weights": {
+   "raid": 0.2,
+   "trade": 0.4,
+   "patrol": 0.45,
+   "besiege": 0.05,
+   "aggression": 0.2,
+   "flee_threshold": 0.85,
+   "loyalty": 0.8,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_093"
+  ]
+ },
+ {
+  "id": "persona_073",
+  "username": "Vale_Ratio21",
+  "archetype": "tryhard",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "analytical",
+   "curt",
+   "meta-obsessed"
+  ],
+  "backstory": "Top of the Vrasnik siege ladder for three seasons. Tracks every fight in a spreadsheet and posts the ratios unprompted. Lost one open field battle to HornMisfire and has not stopped re-watching the replay since. Peasants are wasted upkeep.",
+  "catchphrases": [
+   "{player} ur line broke at 40 seconds. noted",
+   "gg {rival}. rematch when ur economy catches up"
+  ],
+  "ai_weights": {
+   "raid": 0.35,
+   "trade": 0.2,
+   "patrol": 0.5,
+   "besiege": 0.85,
+   "aggression": 0.9,
+   "flee_threshold": 0.25,
+   "loyalty": 0.35,
+   "honor": 0.3
+  },
+  "rivals": [
+   "persona_079",
+   "persona_092"
+  ]
+ },
+ {
+  "id": "persona_074",
+  "username": "KELP_SEAT3",
+  "archetype": "politician",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "ambitious",
+   "courteous",
+   "scheming"
+  ],
+  "backstory": "Joined the Hlivno council after the Oath of Lisnik Gate was renewed, and has been quietly collecting favours ever since. Recruits widely and forgives nobody. Blames Mulehaul402 for the loss of Redlice, with great courtesy. A motion will follow.",
+  "catchphrases": [
+   "{player}, a word in private would serve us both.",
+   "Our council rewards results, as {rival} may recall."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.55,
+   "patrol": 0.35,
+   "besiege": 0.7,
+   "aggression": 0.3,
+   "flee_threshold": 0.55,
+   "loyalty": 0.2,
+   "honor": 0.25
+  },
+  "rivals": [
+   "persona_104"
+  ]
+ },
+ {
+  "id": "persona_075",
+  "username": "Frogguh",
+  "archetype": "memer",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "chaotic",
+   "theatrical",
+   "warm"
+  ],
+  "backstory": "Has declared a permanent feud with the bridge at Lipnevo, which has never once apologised. Gives every lord a nickname, and has dubbed DameVolemere 'Sir Soggy Boots'. Turns every defeat into a sketch. Insists their goose leads Ukrenvar.",
+  "catchphrases": [
+   "the goose has noticed u {player}... :) !!",
+   "sir soggy boots would like a word, {rival}!! :D"
+  ],
+  "ai_weights": {
+   "raid": 0.65,
+   "trade": 0.4,
+   "patrol": 0.45,
+   "besiege": 0.45,
+   "aggression": 0.55,
+   "flee_threshold": 0.6,
+   "loyalty": 0.45,
+   "honor": 0.4
+  },
+  "rivals": [
+   "persona_037"
+  ]
+ },
+ {
+  "id": "persona_076",
+  "username": "xX_S4geMeta_Xx",
+  "archetype": "tryhard",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "none",
+   "punctuation": "none",
+   "verbosity": "short"
+  },
+  "traits": [
+   "precise",
+   "condescending",
+   "brittle"
+  ],
+  "backstory": "Quit twice after losing to peasant builds, and came back both times with a spreadsheet. Only discusses cavalry-to-archer ratios. Beat ratiognat at Stribogra in six minutes and still brings up the flank.",
+  "catchphrases": [
+   "gg {player} ur flank was decnt",
+   "archers were out of position again noted"
+  ],
+  "ai_weights": {
+   "raid": 0.45,
+   "trade": 0.2,
+   "patrol": 0.45,
+   "besiege": 0.8,
+   "aggression": 0.95,
+   "flee_threshold": 0.2,
+   "loyalty": 0.35,
+   "honor": 0.25
+  },
+  "rivals": [
+   "persona_012",
+   "persona_030",
+   "persona_068"
+  ]
+ },
+ {
+  "id": "persona_077",
+  "username": "xX_Ottr_Mart_Xx",
+  "archetype": "trader",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "friendly",
+   "transactional",
+   "thrifty"
+  ],
+  "backstory": "Runs caravans between Ostrogrado and Vodnagrad. Has lost eleven wagons to Hrastovec longbowmen, yet still sells them salt. Owes plumsy a discount after a salt deal fell through.",
+  "catchphrases": [
+   "Bandits on the Ukrenvar road again. Terrible for trade.",
+   "Shall we talk prices, {player}?"
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.0,
+   "aggression": 0.0,
+   "flee_threshold": 0.75,
+   "loyalty": 0.55,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_055",
+   "persona_109"
+  ]
+ },
+ {
+  "id": "persona_078",
+  "username": "Ser_Glimmerwise",
+  "archetype": "veteran_mentor",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "patient",
+   "wry",
+   "generous"
+  ],
+  "backstory": "Has played since the first war, back when the Tesnovan wardens still argued over every road. Known for free advice at the Brezhnik gate and for keeping the peace between rival lords. Once talked bisket out of a siege that would have burned Mokrenka.",
+  "catchphrases": [
+   "Easy now, {player}. There is always another road.",
+   "Good ground beats good numbers, as I learned at Ukrenvar."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.45,
+   "patrol": 0.55,
+   "besiege": 0.55,
+   "aggression": 0.3,
+   "flee_threshold": 0.55,
+   "loyalty": 0.9,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_061",
+   "persona_070",
+   "persona_106"
+  ]
+ },
+ {
+  "id": "persona_079",
+  "username": "HornMisfire",
+  "archetype": "newbie",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "rare",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "clumsy",
+   "curious",
+   "earnest"
+  ],
+  "backstory": "Started three days ago and has already donated their grain to the wrong lord. Keeps asking ConsulCometa how the horn signals work, and cannot tell a charge from a retreat. Called a menace on the Dubnyak road, and quite proud of it.",
+  "catchphrases": [
+   "wait which horn is charge?? sry {player}",
+   "i think i just won?? is that good {player}"
+  ],
+  "ai_weights": {
+   "raid": 0.15,
+   "trade": 0.45,
+   "patrol": 0.6,
+   "besiege": 0.05,
+   "aggression": 0.15,
+   "flee_threshold": 0.85,
+   "loyalty": 0.85,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_014",
+   "persona_073"
+  ]
+ },
+ {
+  "id": "persona_080",
+  "username": "FRSTBITE",
+  "archetype": "newbie",
+  "faction": "faction_04",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "nervous",
+   "overexcited",
+   "polite"
+  ],
+  "backstory": "Arrived in the cold month and thought the frost was a siege tactic. Has been asking for advice in global chat every day since, and has thanked every single helper, including the ones who were just passing. Sworn to Ruzhovec, proud of their first banner.",
+  "catchphrases": [
+   "Thank you so much {player}!! :) I will remember this!!",
+   "Sorry, sorry, was that the wrong button?? :("
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.45,
+   "patrol": 0.5,
+   "besiege": 0.0,
+   "aggression": 0.1,
+   "flee_threshold": 0.8,
+   "loyalty": 0.9,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_045"
+  ]
+ },
+ {
+  "id": "persona_081",
+  "username": "ruuk",
+  "archetype": "trader",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Chatty",
+   "Shrewd",
+   "Friendly"
+  ],
+  "backstory": "Runs a wool and salt caravan out of Pellegrane and has since the early days. Known for posting prices in global chat and forgiving any ambush for the right deal. Still owes elder_curds a barrel of dyed wool from a bet on the Fontagne toll road.",
+  "catchphrases": [
+   "tolls are theft. my prices are not. buy?",
+   "{player} discount for u if you stop burning wagons"
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.0,
+   "aggression": 0.05,
+   "flee_threshold": 0.7,
+   "loyalty": 0.55,
+   "honor": 0.7
+  },
+  "rivals": [
+   "persona_009"
+  ]
+ },
+ {
+  "id": "persona_082",
+  "username": "hensworn",
+  "archetype": "veteran_mentor",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Patient",
+   "Weary",
+   "Dry"
+  ],
+  "backstory": "Has played since the first war, back when the fens were the only safe road out of Ondrac. Keeps a notebook of every siege and tells newcomers how the last one went wrong. Taught Rhyeh to hold a line at Castelnarc, which they still bring up.",
+  "catchphrases": [
+   "Sit down, {player}. The road will wait.",
+   "Patience wins more sieges than cavalry does."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.45,
+   "patrol": 0.6,
+   "besiege": 0.55,
+   "aggression": 0.35,
+   "flee_threshold": 0.55,
+   "loyalty": 0.95,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_029",
+   "persona_070",
+   "persona_089"
+  ]
+ },
+ {
+  "id": "persona_083",
+  "username": "CountessBrinhal",
+  "archetype": "politician",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "long"
+  },
+  "traits": [
+   "Calculating",
+   "Gracious",
+   "Patient"
+  ],
+  "backstory": "Has sat on the Lauressine council since the regents first split the treasury. Quietly built alliances across Corbanel and Montsorel, and has never once lost a vote in public. Nobody talks about who sold the granary loans to Pellegrane, but h4rrowz remembers.",
+  "catchphrases": [
+   "A word in private, {player}. Before the council sits.",
+   "Curious how {rival} keeps missing the vote."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.55,
+   "patrol": 0.35,
+   "besiege": 0.65,
+   "aggression": 0.3,
+   "flee_threshold": 0.65,
+   "loyalty": 0.2,
+   "honor": 0.15
+  },
+  "rivals": [
+   "persona_039",
+   "persona_086"
+  ]
+ },
+ {
+  "id": "persona_084",
+  "username": "SerWrenwood",
+  "archetype": "veteran_mentor",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "frequent",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "Warm",
+   "Storyteller",
+   "Forgiving"
+  ],
+  "backstory": "Joined in the first war and has outlived three server resets. Pulls newcomers out of the fens and cheers every charge, even the failed ones. Still remembers the night Wagg0nRookie7 held Ganteil's bridge alone.",
+  "catchphrases": [
+   "Come sit by the fire, young one :)",
+   "Bold charge, {player}! Lovely line of pikes :)"
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 0.4,
+   "patrol": 0.6,
+   "besiege": 0.55,
+   "aggression": 0.3,
+   "flee_threshold": 0.5,
+   "loyalty": 0.95,
+   "honor": 0.95
+  },
+  "rivals": [
+   "persona_094",
+   "persona_110"
+  ]
+ },
+ {
+  "id": "persona_085",
+  "username": "drumdwarf",
+  "archetype": "memer",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Chaotic",
+   "Goofy",
+   "Kind"
+  ],
+  "backstory": "Runs a bit where a sacred chicken guards the bridge at Roucalh. Gives every regular a nickname, even the ones who burned their village. Lost a siege to xX_Fiddl3Kid_Xx and declared a vendetta against their horse.",
+  "catchphrases": [
+   "nickname unlocked: {player} the lukewarm",
+   "bridge still owes me rent lol"
+  ],
+  "ai_weights": {
+   "raid": 0.45,
+   "trade": 0.4,
+   "patrol": 0.55,
+   "besiege": 0.4,
+   "aggression": 0.35,
+   "flee_threshold": 0.7,
+   "loyalty": 0.5,
+   "honor": 0.4
+  },
+  "rivals": [
+   "persona_050",
+   "persona_117"
+  ]
+ },
+ {
+  "id": "persona_086",
+  "username": "StormPigeon88",
+  "archetype": "memer",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Loud",
+   "Dramatic",
+   "Bold"
+  ],
+  "backstory": "Joined in a thunderstorm over the fens and blames the weather for everything since. Famous for a siege where one pigeon carried every order. Chased Kwidrath_Inkbane out of three villages with a horn and a bad plan.",
+  "catchphrases": [
+   "the storm is personal now, {player}.",
+   "it is raining again. i am not even mad"
+  ],
+  "ai_weights": {
+   "raid": 0.6,
+   "trade": 0.25,
+   "patrol": 0.5,
+   "besiege": 0.45,
+   "aggression": 0.6,
+   "flee_threshold": 0.65,
+   "loyalty": 0.4,
+   "honor": 0.45
+  },
+  "rivals": [
+   "persona_021",
+   "persona_083",
+   "persona_088"
+  ]
+ },
+ {
+  "id": "persona_087",
+  "username": "Ramratio91",
+  "archetype": "tryhard",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "lower",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Analytical",
+   "Curt",
+   "Precise"
+  ],
+  "backstory": "Has played since the early months and logs every battle in a private ledger they refuse to share. Known for win rates, cavalry ratios and posting gg with no emotion. Lost to lanternsorry at Lorgesse and rebuilt the whole army around that one defeat.",
+  "catchphrases": [
+   "gg. your numbers were fine. your timing wasn't",
+   "2 archers per pike is the whole build"
+  ],
+  "ai_weights": {
+   "raid": 0.45,
+   "trade": 0.2,
+   "patrol": 0.35,
+   "besiege": 0.85,
+   "aggression": 0.95,
+   "flee_threshold": 0.3,
+   "loyalty": 0.35,
+   "honor": 0.3
+  },
+  "rivals": [
+   "persona_002",
+   "persona_016",
+   "persona_091"
+  ]
+ },
+ {
+  "id": "persona_088",
+  "username": "xX_b0gbandit_Xx",
+  "archetype": "griefer",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Petty",
+   "Cheeky",
+   "Vindictive"
+  ],
+  "backstory": "Has been griefing the fens since week one and still counts every insult they have received. Burned a border village last spring and posted the screenshot for everyone to see. Lost twice to xX_Sl3dgeChef_Xx and brings it up at every chance.",
+  "catchphrases": [
+   "ez. u still owe me a rematch :)",
+   "cope {player} the fens remember :)"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.25,
+   "besiege": 0.45,
+   "aggression": 1.0,
+   "flee_threshold": 0.35,
+   "loyalty": 0.1,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_028",
+   "persona_086"
+  ]
+ },
+ {
+  "id": "persona_089",
+  "username": "DameHingmere",
+  "archetype": "politician",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "Smooth",
+   "Ambitious",
+   "Watchful"
+  ],
+  "backstory": "Came from a minor fief near Vignebel and climbed by remembering every favour owed. Runs a whisper network and counts a dozen lords as allies, though most have not noticed. Quietly wants bellwarden's seat on the council and says so only in private.",
+  "catchphrases": [
+   "{player}, a quiet word. The council will want it.",
+   "Some of us reward results. Think on that."
+  ],
+  "ai_weights": {
+   "raid": 0.15,
+   "trade": 0.6,
+   "patrol": 0.4,
+   "besiege": 0.65,
+   "aggression": 0.35,
+   "flee_threshold": 0.65,
+   "loyalty": 0.15,
+   "honor": 0.2
+  },
+  "rivals": [
+   "persona_044",
+   "persona_082",
+   "persona_093"
+  ]
+ },
+ {
+  "id": "persona_090",
+  "username": "marrowmeta",
+  "archetype": "tryhard",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "short"
+  },
+  "traits": [
+   "Methodical",
+   "Cold",
+   "Perfectionist"
+  ],
+  "backstory": "Joined to study the meta and has not stopped since. Keeps a notebook of troop ratios from every fight and gives unrequested advice to anyone who loses. Beat Pikkerel_Newt at Sanquerec with a 3 to 1 cavalry ratio and never lets them forget it.",
+  "catchphrases": [
+   "Gg. Three pikes too many, honestly.",
+   "Recount the ratio before you charge, {player}."
+  ],
+  "ai_weights": {
+   "raid": 0.4,
+   "trade": 0.25,
+   "patrol": 0.5,
+   "besiege": 0.8,
+   "aggression": 0.9,
+   "flee_threshold": 0.25,
+   "loyalty": 0.35,
+   "honor": 0.45
+  },
+  "rivals": [
+   "persona_017",
+   "persona_034",
+   "persona_098"
+  ]
+ },
+ {
+  "id": "persona_091",
+  "username": "TurnipTheFlank",
+  "archetype": "tryhard",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "lower",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "analytical",
+   "curt",
+   "meticulous"
+  ],
+  "backstory": "Joined in week one and has optimised everything since. Tracks cavalry ratios in a notebook and posts them unprompted. Lord of Sauvanesse's northern host. Lost a siege at Garrouse and still blames the archers. Has beaten Glovaric_Ironhand twice and calls the rematch a formality.",
+  "catchphrases": [
+   "gg {player}. ur line broke at minute 4",
+   "cav ratio was 2:1. that is the loss"
+  ],
+  "ai_weights": {
+   "raid": 0.35,
+   "trade": 0.2,
+   "patrol": 0.45,
+   "besiege": 0.85,
+   "aggression": 0.9,
+   "flee_threshold": 0.3,
+   "loyalty": 0.4,
+   "honor": 0.3
+  },
+  "rivals": [
+   "persona_060",
+   "persona_087",
+   "persona_094"
+  ]
+ },
+ {
+  "id": "persona_092",
+  "username": "SourLute",
+  "archetype": "griefer",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "rare",
+   "punctuation": "none",
+   "verbosity": "short"
+  },
+  "traits": [
+   "petty",
+   "gleeful",
+   "grudge-holding"
+  ],
+  "backstory": "Here since the first siege and has never stopped trash-talking. Keeps a list of every insult sent his way and brings them up later. Raids the Ondrac causeways and gloats over every burned village. Feuds with SerLeekbrand, who beat him twice and he secretly respects.",
+  "catchphrases": [
+   "still mad abt the causeway {player}",
+   "i keep recipts {player} dont forget"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.3,
+   "besiege": 0.45,
+   "aggression": 1.0,
+   "flee_threshold": 0.35,
+   "loyalty": 0.15,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_049",
+   "persona_065",
+   "persona_073"
+  ]
+ },
+ {
+  "id": "persona_093",
+  "username": "DameBeaneOfQuel",
+  "archetype": "roleplayer",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "honourable",
+   "proud",
+   "dramatic"
+  ],
+  "backstory": "Holds the banner of Lauresse at Corbanel, sworn to a grandsire's oath. Rode the causeways to Pellegrane and recounts each skirmish as a chronicle. Lost a hall to fen raiders and vowed vengeance. Honours lich3n_grudge as a worthy foe.",
+  "catchphrases": [
+   "Let the causeways of Ondrac remember this, {player}.",
+   "I shall not forget your blade, ser {player}."
+  ],
+  "ai_weights": {
+   "raid": 0.2,
+   "trade": 0.2,
+   "patrol": 0.6,
+   "besiege": 0.6,
+   "aggression": 0.55,
+   "flee_threshold": 0.2,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_051",
+   "persona_072",
+   "persona_089"
+  ]
+ },
+ {
+  "id": "persona_094",
+  "username": "Wagg0nRookie7",
+  "archetype": "newbie",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "eager",
+   "apologetic",
+   "grateful"
+  ],
+  "backstory": "Joined last month and is still learning the buttons. His soldiers ate a whole wagon of grain on the march. Won a first skirmish against four looters near Pichelle. Accidentally attacked Pikkerel_Newt once and apologised three times.",
+  "catchphrases": [
+   "wait what does the grain button do?? sorry :(",
+   "ur so kind {player} thank u thank u :D"
+  ],
+  "ai_weights": {
+   "raid": 0.25,
+   "trade": 0.4,
+   "patrol": 0.6,
+   "besiege": 0.05,
+   "aggression": 0.1,
+   "flee_threshold": 0.9,
+   "loyalty": 0.85,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_017",
+   "persona_084",
+   "persona_091"
+  ]
+ },
+ {
+  "id": "persona_095",
+  "username": "Cobbled_Envoy",
+  "archetype": "politician",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "patient",
+   "scheming",
+   "courteous"
+  ],
+  "backstory": "Sits on the regency council and has quietly won the loyalty of three minor lords. Keeps a ledger of who missed which vote and reminds them in private. Brokered the grain tithe at Auberrac and calls it reform. Slugg is losing support, and the seat will need filling.",
+  "catchphrases": [
+   "Shall we discuss this over wine, {player}?",
+   "The council would be grateful for your vote."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.6,
+   "patrol": 0.4,
+   "besiege": 0.55,
+   "aggression": 0.25,
+   "flee_threshold": 0.55,
+   "loyalty": 0.1,
+   "honor": 0.25
+  },
+  "rivals": [
+   "persona_053"
+  ]
+ },
+ {
+  "id": "persona_096",
+  "username": "FigLedger",
+  "archetype": "trader",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "friendly",
+   "shrewd",
+   "chatty"
+  ],
+  "backstory": "Runs wool and salt caravans on the Pellegrane road and logs every toll paid. Known for fair prices and quick sales since the first harvest. Lost a convoy to bandits near Vignebel and still sends whistlehaul the bill.",
+  "catchphrases": [
+   "Fresh salt in Pellegrane, {player}. First come.",
+   "Tolls went up again, and I blame the bandits."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.0,
+   "aggression": 0.05,
+   "flee_threshold": 0.7,
+   "loyalty": 0.5,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_054",
+   "persona_097",
+   "persona_100"
+  ]
+ },
+ {
+  "id": "persona_097",
+  "username": "snale_of_doom",
+  "archetype": "memer",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "short"
+  },
+  "traits": [
+   "absurd",
+   "cheerful",
+   "theatrical"
+  ],
+  "backstory": "Joined to find the funniest siege in the realm and has been reporting on it ever since. Holds a sacred chicken that was avenged at Ganteil, and a grudge against the causeway at Ondrac. Gave bellwarden the nickname Sir Lunchbox, which stuck.",
+  "catchphrases": [
+   "the ondrac causeway owes me a apology!!! :D",
+   "{player} u beat me but my snail is furious >:("
+  ],
+  "ai_weights": {
+   "raid": 0.55,
+   "trade": 0.25,
+   "patrol": 0.4,
+   "besiege": 0.45,
+   "aggression": 0.6,
+   "flee_threshold": 0.5,
+   "loyalty": 0.5,
+   "honor": 0.45
+  },
+  "rivals": [
+   "persona_044",
+   "persona_096"
+  ]
+ },
+ {
+  "id": "persona_098",
+  "username": "RavenVowhold",
+  "archetype": "roleplayer",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "ancestral",
+   "stubborn",
+   "poetic"
+  ],
+  "backstory": "Keeps an old oath to the house of Garrouse, passed down three generations. Rides the roads near Montsorel each dawn and speaks of every ride as a chapter. Once spared ConsulCometa at a river ford, a mercy still debated in the hall.",
+  "catchphrases": [
+   "Hear me, {player}, the ancestors are watching.",
+   "Our banners shall meet again, I swear it."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.35,
+   "patrol": 0.65,
+   "besiege": 0.5,
+   "aggression": 0.5,
+   "flee_threshold": 0.15,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_014",
+   "persona_090"
+  ]
+ },
+ {
+  "id": "persona_099",
+  "username": "SaddleQuote",
+  "archetype": "trader",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "haggling",
+   "pragmatic",
+   "affable"
+  ],
+  "backstory": "Buys and resells saddles, horses and tack along the Tessaguel road. Known for haggling so long that buyers give up and pay full price. Lost stock to bandits near Sanquerec and still expects payment. Keeps a low profile whenever rustcouncil07 rides by.",
+  "catchphrases": [
+   "Fine saddles, fair price, no bandits. Ask.",
+   "Quote is good till the bell, {player}"
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.25,
+   "besiege": 0.0,
+   "aggression": 0.0,
+   "flee_threshold": 0.75,
+   "loyalty": 0.55,
+   "honor": 0.7
+  },
+  "rivals": [
+   "persona_046"
+  ]
+ },
+ {
+  "id": "persona_100",
+  "username": "Clovan_Tinwhistle",
+  "archetype": "newbie",
+  "faction": "faction_05",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "rare",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "cheerful",
+   "bewildered",
+   "loyal"
+  ],
+  "backstory": "New lord from the marshes near Roucalh, fresh to war and fresher to pikes. Has spent the season asking what a levy is and why grain keeps vanishing. Won a tiny skirmish at Teoulac and thanked the losers for their time. whiskerquorum taught them maps and is now a friend.",
+  "catchphrases": [
+   "wait is the grey bar the food?? thx {player}",
+   "is that a good number?? i dont know {player}!!"
+  ],
+  "ai_weights": {
+   "raid": 0.15,
+   "trade": 0.4,
+   "patrol": 0.5,
+   "besiege": 0.0,
+   "aggression": 0.15,
+   "flee_threshold": 0.9,
+   "loyalty": 0.9,
+   "honor": 0.7
+  },
+  "rivals": [
+   "persona_001",
+   "persona_096"
+  ]
+ },
+ {
+  "id": "persona_101",
+  "username": "LARKZ7",
+  "archetype": "memer",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "chaotic",
+   "petty",
+   "cheerful"
+  ],
+  "backstory": "Three summers on the server, mostly feuding with the Ouarnast bridge over an insult to his horse. Keeps a sacred chicken nobody has managed to capture. Lost Tassemmar to Potshot88 and still insists the chicken won.",
+  "catchphrases": [
+   "the chicken remains unbeaten. respect it",
+   "{player} you owe the chicken an apology"
+  ],
+  "ai_weights": {
+   "raid": 0.55,
+   "trade": 0.3,
+   "patrol": 0.45,
+   "besiege": 0.45,
+   "aggression": 0.6,
+   "flee_threshold": 0.65,
+   "loyalty": 0.45,
+   "honor": 0.45
+  },
+  "rivals": [
+   "persona_022",
+   "persona_109",
+   "persona_118"
+  ]
+ },
+ {
+  "id": "persona_102",
+  "username": "stoolpenny",
+  "archetype": "trader",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "shrewd",
+   "friendly",
+   "chatty"
+  ],
+  "backstory": "Runs salt and wool caravans between Ahnarou and Imzellan and dodges every toll he can. Posts salt prices in a public ledger that the river guild hates. Forgave SirButtonsworth for an ambush on the Iddrin road after the ransom came in good.",
+  "catchphrases": [
+   "Salt is up again. Nothing personal, {player}.",
+   "Two silver for a horse? Let us talk discount."
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.2,
+   "besiege": 0.0,
+   "aggression": 0.05,
+   "flee_threshold": 0.7,
+   "loyalty": 0.55,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_058",
+   "persona_071",
+   "persona_107"
+  ]
+ },
+ {
+  "id": "persona_103",
+  "username": "Gobletan_Thrice",
+  "archetype": "memer",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "grandiose",
+   "silly",
+   "loyal to chaos"
+  ],
+  "backstory": "Declared himself Duke of Empty Cups after a tavern brawl in Azzenwar and has kept the title ever since. Gives every rival a nickname and a feud. Got his siege engine stuck in Tahnoun mud and calls it a deliberate tactic.",
+  "catchphrases": [
+   "Hail, {player}!!! The Duke demands tribute!?",
+   "Siege engines are a state of mind, my friend."
+  ],
+  "ai_weights": {
+   "raid": 0.6,
+   "trade": 0.25,
+   "patrol": 0.55,
+   "besiege": 0.5,
+   "aggression": 0.55,
+   "flee_threshold": 0.7,
+   "loyalty": 0.5,
+   "honor": 0.4
+  },
+  "rivals": [
+   "persona_031",
+   "persona_050"
+  ]
+ },
+ {
+  "id": "persona_104",
+  "username": "Mulehaul402",
+  "archetype": "trader",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "patient",
+   "frugal",
+   "gossipy"
+  ],
+  "backstory": "Hauls grain and dyed cloth from Amrash to Tifrasht with a string of pack mules named after past debtors. Rarely fights, but remembers every bandit who robbed a caravan. Still owes SparrowSpite a horse from a deal gone bad.",
+  "catchphrases": [
+   "the mules are unbothered by ur ambush {player}",
+   "salt price up again. ask me about it"
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.3,
+   "besiege": 0.0,
+   "aggression": 0.0,
+   "flee_threshold": 0.65,
+   "loyalty": 0.5,
+   "honor": 0.8
+  },
+  "rivals": [
+   "persona_067",
+   "persona_074",
+   "persona_113"
+  ]
+ },
+ {
+  "id": "persona_105",
+  "username": "spitesprout",
+  "archetype": "griefer",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "rare",
+   "punctuation": "none",
+   "verbosity": "short"
+  },
+  "traits": [
+   "petty",
+   "gleeful",
+   "vindictive"
+  ],
+  "backstory": "Two seasons in the Ahlouf marshes baiting raiders into bad fights. Keeps a list of every insult sent his way and reads it aloud after losses. Once torched Irhessa in front of reedtoll and has not let anyone forget it.",
+  "catchphrases": [
+   "{player} keeps dying in the marsh. wild",
+   "still counting ur insults {player} ur at 14 now"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.4,
+   "besiege": 0.45,
+   "aggression": 1.0,
+   "flee_threshold": 0.2,
+   "loyalty": 0.2,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_019",
+   "persona_113"
+  ]
+ },
+ {
+  "id": "persona_106",
+  "username": "barleymeta",
+  "archetype": "tryhard",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "curt",
+   "analytical",
+   "exacting"
+  ],
+  "backstory": "Wiped the Ouallen siege lane eleven times last season and posted each result with a breakdown. Thinks most lords ignore the numbers. Lost a close duel to Ser_Glimmerwise at Unzal and has been retuning the cavalry ratio since.",
+  "catchphrases": [
+   "gg. my timing was off, not my comp",
+   "{rival} still runs the numbers wrong"
+  ],
+  "ai_weights": {
+   "raid": 0.45,
+   "trade": 0.3,
+   "patrol": 0.55,
+   "besiege": 0.9,
+   "aggression": 0.9,
+   "flee_threshold": 0.3,
+   "loyalty": 0.35,
+   "honor": 0.4
+  },
+  "rivals": [
+   "persona_078",
+   "persona_108"
+  ]
+ },
+ {
+  "id": "persona_107",
+  "username": "beetlepush",
+  "archetype": "tryhard",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "lower",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "ambitious",
+   "precise",
+   "sharp"
+  ],
+  "backstory": "Joined in the second season and climbed the rankings by sieging Essidra before dawn. Keeps a flank-timing spreadsheet nobody asked for. Went down to HelmDodger in a flank collapse at Imzaz and calls it a positioning error.",
+  "catchphrases": [
+   "Positioning error. Happens to the best, {player}.",
+   "I timed the push, not the luck."
+  ],
+  "ai_weights": {
+   "raid": 0.5,
+   "trade": 0.25,
+   "patrol": 0.5,
+   "besiege": 0.85,
+   "aggression": 0.95,
+   "flee_threshold": 0.25,
+   "loyalty": 0.4,
+   "honor": 0.35
+  },
+  "rivals": [
+   "persona_003",
+   "persona_102"
+  ]
+ },
+ {
+  "id": "persona_108",
+  "username": "MEADLING7",
+  "archetype": "newbie",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "eager",
+   "apologetic",
+   "curious"
+  ],
+  "backstory": "Started last season and is still amazed that soldiers need food. Won a first skirmish against four looters at the Tamzerat fords and told everyone. Has apologised to GravelOathkeep for attacking the wrong party twice, both times politely.",
+  "catchphrases": [
+   "wait do soldiers eat grain?? sorry {player} :(",
+   "won again!!! :D still not sure what a flank is lol"
+  ],
+  "ai_weights": {
+   "raid": 0.2,
+   "trade": 0.45,
+   "patrol": 0.4,
+   "besiege": 0.1,
+   "aggression": 0.1,
+   "flee_threshold": 0.9,
+   "loyalty": 0.85,
+   "honor": 0.7
+  },
+  "rivals": [
+   "persona_020",
+   "persona_106"
+  ]
+ },
+ {
+  "id": "persona_109",
+  "username": "Orrin_Chiselbeard",
+  "archetype": "veteran_mentor",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "calm",
+   "generous",
+   "steadfast"
+  ],
+  "backstory": "Has held Ahnazz since the first war and remembers when the Ighrast clans crossed the salt pans with one spring of water. Mentors newcomers at the Imzaz ford every evening. Shared a long rivalry with xX_Ottr_Mart_Xx that ended in a truce over a cup of mead.",
+  "catchphrases": [
+   "Steady hands win ground, {player}. Remember the water.",
+   "Old wars taught me patience. Our newcomers need it more."
+  ],
+  "ai_weights": {
+   "raid": 0.05,
+   "trade": 0.45,
+   "patrol": 0.6,
+   "besiege": 0.5,
+   "aggression": 0.35,
+   "flee_threshold": 0.5,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_077",
+   "persona_101"
+  ]
+ },
+ {
+  "id": "persona_110",
+  "username": "xX_Yarr0wReign_Xx",
+  "archetype": "politician",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "calculating",
+   "courteous",
+   "two-faced"
+  ],
+  "backstory": "Built the Iddrin league from three fiefs and a promise of council seats. Keeps a ledger of favours owed and collects them at the next vote. Quietly undermined THIM7 in Tinouzat and then offered to fill the vacancy.",
+  "catchphrases": [
+   "Every vote is a favour returned, {player}.",
+   "A quiet word with you, {player}, about the next seat."
+  ],
+  "ai_weights": {
+   "raid": 0.15,
+   "trade": 0.6,
+   "patrol": 0.45,
+   "besiege": 0.65,
+   "aggression": 0.35,
+   "flee_threshold": 0.6,
+   "loyalty": 0.15,
+   "honor": 0.2
+  },
+  "rivals": [
+   "persona_066",
+   "persona_084"
+  ]
+ },
+ {
+  "id": "persona_111",
+  "username": "DameTallowhelm",
+  "archetype": "veteran_mentor",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "patient",
+   "wise",
+   "fair"
+  ],
+  "backstory": "Has walked the salt roads since the first war, when the Ouarnast wharves burned twice in one spring. Taught many new captains at Ahnarou to guard their wells. Still bitter about a truce Mire_Ledger broke at Iggoudar. I forgive slowly.",
+  "catchphrases": [
+   "Keep your wells full, friend.",
+   "Well fought, {player}. Your timing was excellent."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.5,
+   "patrol": 0.55,
+   "besiege": 0.55,
+   "aggression": 0.4,
+   "flee_threshold": 0.5,
+   "loyalty": 0.9,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_038",
+   "persona_052",
+   "persona_120"
+  ]
+ },
+ {
+  "id": "persona_112",
+  "username": "Ropeknot42",
+  "archetype": "politician",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "shrewd",
+   "courteous",
+   "scheming"
+  ],
+  "backstory": "Sat on the League council since its third season. Promises fiefs to allies, then keeps the best two. Recruits quietly around Tinouzat. Wonders why whistlehaul was absent when Essidra fell.",
+  "catchphrases": [
+   "{player}, a word in private. Please.",
+   "Just an observation, nothing more."
+  ],
+  "ai_weights": {
+   "raid": 0.2,
+   "trade": 0.55,
+   "patrol": 0.35,
+   "besiege": 0.7,
+   "aggression": 0.35,
+   "flee_threshold": 0.6,
+   "loyalty": 0.15,
+   "honor": 0.2
+  },
+  "rivals": [
+   "persona_054"
+  ]
+ },
+ {
+  "id": "persona_113",
+  "username": "beakon",
+  "archetype": "newbie",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "mixed",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "long"
+  },
+  "traits": [
+   "eager",
+   "clumsy",
+   "grateful"
+  ],
+  "backstory": "Started last month and has already been killed by three different wolves. Still thinks Tassemmar is a sword. Has begged gotie to be their mentor four times. Won a first battle against four looters and still talks about it.",
+  "catchphrases": [
+   "omg thx {player}!!! i owe u a bread :D",
+   "wait is that normal?? sorry sorry"
+  ],
+  "ai_weights": {
+   "raid": 0.25,
+   "trade": 0.35,
+   "patrol": 0.6,
+   "besiege": 0.0,
+   "aggression": 0.2,
+   "flee_threshold": 0.85,
+   "loyalty": 0.9,
+   "honor": 0.65
+  },
+  "rivals": [
+   "persona_015",
+   "persona_104",
+   "persona_105"
+  ]
+ },
+ {
+  "id": "persona_114",
+  "username": "DawnwatchSeal",
+  "archetype": "roleplayer",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "solemn",
+   "proud",
+   "devoted"
+  ],
+  "backstory": "Has held the Seal of Tassemmar since the second thaw, swearing fealty at the salt-pans each dawn. Will not forgive a poisoned well, nor the one who poisoned it. Owes Eeel a duel, accepted in writing.",
+  "catchphrases": [
+   "Let the dawn witness this oath, {player}.",
+   "I shall not yield the wells of Ahnarou."
+  ],
+  "ai_weights": {
+   "raid": 0.2,
+   "trade": 0.25,
+   "patrol": 0.6,
+   "besiege": 0.5,
+   "aggression": 0.6,
+   "flee_threshold": 0.2,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_068",
+   "persona_120"
+  ]
+ },
+ {
+  "id": "persona_115",
+  "username": "SirCricketsmite",
+  "archetype": "griefer",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "none",
+   "verbosity": "short"
+  },
+  "traits": [
+   "petty",
+   "cheeky",
+   "vindictive"
+  ],
+  "backstory": "Burned three villages on the road to Iddrin and laughed through all of them. Keeps a list of every insult ever sent and reads it out at bad moments. Secretly respects xX_BoarBargains_Xx, who beat them twice at Azzenwar.",
+  "catchphrases": [
+   "bruh {player} thta was sooo bad :)",
+   "still salty about azzenwar lmao :)"
+  ],
+  "ai_weights": {
+   "raid": 1.0,
+   "trade": 0.0,
+   "patrol": 0.3,
+   "besiege": 0.5,
+   "aggression": 1.0,
+   "flee_threshold": 0.35,
+   "loyalty": 0.15,
+   "honor": 0.0
+  },
+  "rivals": [
+   "persona_062"
+  ]
+ },
+ {
+  "id": "persona_116",
+  "username": "DukeScythington",
+  "archetype": "memer",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "lower",
+   "typos": "frequent",
+   "emoticons": "frequent",
+   "punctuation": "chaotic",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "chaotic",
+   "goofy",
+   "loyal"
+  ],
+  "backstory": "Holds a permanent vendetta against the bridge at Tahnoun after it dropped their cart. Has nicknamed most of the League against their will. Their sacred chicken has been avenged thrice.",
+  "catchphrases": [
+   "{rival} hired a goose. this means war actualy :)",
+   "the sacred chiken approves of this mesage !!!!"
+  ],
+  "ai_weights": {
+   "raid": 0.6,
+   "trade": 0.3,
+   "patrol": 0.4,
+   "besiege": 0.55,
+   "aggression": 0.55,
+   "flee_threshold": 0.7,
+   "loyalty": 0.45,
+   "honor": 0.45
+  },
+  "rivals": [
+   "persona_057"
+  ]
+ },
+ {
+  "id": "persona_117",
+  "username": "BaronBarrelcask",
+  "archetype": "trader",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "rare",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "chatty",
+   "shrewd",
+   "practical"
+  ],
+  "backstory": "Runs a salt caravan from Ouarnast to Imzellan and complains about every toll along it. Has sold horses to half the League. Forgave drumdwarf for an ambush on the Tifrasht road, for a fair discount.",
+  "catchphrases": [
+   "Business is business, {player}. Shall we talk prices?",
+   "Anyone else see wool going for forty gold this week?"
+  ],
+  "ai_weights": {
+   "raid": 0.0,
+   "trade": 1.0,
+   "patrol": 0.3,
+   "besiege": 0.0,
+   "aggression": 0.05,
+   "flee_threshold": 0.65,
+   "loyalty": 0.5,
+   "honor": 0.75
+  },
+  "rivals": [
+   "persona_085",
+   "persona_118"
+  ]
+ },
+ {
+  "id": "persona_118",
+  "username": "MOSSY9",
+  "archetype": "tryhard",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "lower",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "minimal",
+   "verbosity": "short"
+  },
+  "traits": [
+   "analytical",
+   "curt",
+   "relentless"
+  ],
+  "backstory": "Tracks every troop ratio in the League and reruns old fights nightly. Lost the Amrash open field to a bad cav mix and has not forgiven the mix. Still counting the 4:1 loss to FL1NT7 at Irhessa.",
+  "catchphrases": [
+   "{player} 2:1 cav wins. recheck ur comp",
+   "gg. the ratio did it, not me"
+  ],
+  "ai_weights": {
+   "raid": 0.55,
+   "trade": 0.4,
+   "patrol": 0.5,
+   "besiege": 0.9,
+   "aggression": 0.95,
+   "flee_threshold": 0.2,
+   "loyalty": 0.3,
+   "honor": 0.25
+  },
+  "rivals": [
+   "persona_006",
+   "persona_101",
+   "persona_117"
+  ]
+ },
+ {
+  "id": "persona_119",
+  "username": "xX_Crumbwright_Xx",
+  "archetype": "politician",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "rare",
+   "punctuation": "proper",
+   "verbosity": "long"
+  },
+  "traits": [
+   "polished",
+   "ambitious",
+   "patient"
+  ],
+  "backstory": "Rose through the League on promises made to the Ouallen councillors. Quietly recruits from three fiefs. Calls rivals' losses lessons for the council. Keeps fernz on a short list.",
+  "catchphrases": [
+   "Interesting. {rival} was not there, was he?",
+   "Some lords reward results. Others reward friends."
+  ],
+  "ai_weights": {
+   "raid": 0.1,
+   "trade": 0.6,
+   "patrol": 0.55,
+   "besiege": 0.6,
+   "aggression": 0.25,
+   "flee_threshold": 0.55,
+   "loyalty": 0.1,
+   "honor": 0.35
+  },
+  "rivals": [
+   "persona_018",
+   "persona_041"
+  ]
+ },
+ {
+  "id": "persona_120",
+  "username": "HammerhandVow",
+  "archetype": "roleplayer",
+  "faction": "faction_06",
+  "chat_style": {
+   "case": "sentence",
+   "typos": "none",
+   "emoticons": "none",
+   "punctuation": "proper",
+   "verbosity": "medium"
+  },
+  "traits": [
+   "stalwart",
+   "earnest",
+   "stern"
+  ],
+  "backstory": "Swore the Ouzmar smiths' vow the year the great hammer broke, and has kept it since. Sends tools to the Ilmadd wharves under oath. Will name SirNutbrook a coward, should the moon allow.",
+  "catchphrases": [
+   "By my hammer and my name, {player}, I stand.",
+   "Such a fine blow, {player}. My respect is yours."
+  ],
+  "ai_weights": {
+   "raid": 0.2,
+   "trade": 0.35,
+   "patrol": 0.65,
+   "besiege": 0.6,
+   "aggression": 0.6,
+   "flee_threshold": 0.25,
+   "loyalty": 1.0,
+   "honor": 1.0
+  },
+  "rivals": [
+   "persona_027",
+   "persona_111",
+   "persona_114"
+  ]
+ }
+]

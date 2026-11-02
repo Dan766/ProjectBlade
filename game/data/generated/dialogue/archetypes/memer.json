@@ -1,0 +1,4474 @@
+{
+ "ambient_brag": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.memer.ambient_brag.any.global.01",
+     "text": "{troop_count} soldiers and not one of them knows how to hold a spoon xD"
+    },
+    {
+     "id": "arch.memer.ambient_brag.any.global.02",
+     "text": "i have {gold} gold and my horse wears a monocle. we are unstoppable :)"
+    },
+    {
+     "id": "arch.memer.ambient_brag.any.global.03",
+     "text": "just won at {fief}. the losing side got a formal apology letter written by my goat"
+    },
+    {
+     "id": "arch.memer.ambient_brag.any.global.04",
+     "text": "our army is {troop_count} strong. the enemy is also {troop_count} strong but theirs looks sad :("
+    },
+    {
+     "id": "arch.memer.ambient_brag.any.global.05",
+     "text": "counted my {gold} gold twice. still the same amount. the coins are very proud of me"
+    },
+    {
+     "id": "arch.memer.ambient_brag.any.global.06",
+     "text": "{fief} is ours now. the flag is a bedsheet but it is a very confident bedsheet xD"
+    },
+    {
+     "id": "arch.memer.ambient_brag.any.global.07",
+     "text": "{troop_count} troops marched in and asked for snacks first. victory tastes like bread :D"
+    },
+    {
+     "id": "arch.memer.ambient_brag.any.global.08",
+     "text": "my treasury holds {gold} gold and a rock i call the accountant. respect the rock"
+    },
+    {
+     "id": "arch.memer.ambient_brag.any.global.09",
+     "text": "won a battle at {fief} so i am legally required to stand on a barrel and yell about it :)"
+    },
+    {
+     "id": "arch.memer.ambient_brag.any.global.10",
+     "text": "bragging is a skill. i have {troop_count} men who can confirm this, mostly by nodding :/"
+    }
+   ]
+  }
+ },
+ "ambient_chatter": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.memer.ambient_chatter.any.global.01",
+     "text": "it rained sideways over the market for three hours. the goose is now a lifeguard. nobody asked him to be :)"
+    },
+    {
+     "id": "arch.memer.ambient_chatter.any.global.02",
+     "text": "lag spike just ate my sword mid swing. the sword is in a better place now. i am not okay xD"
+    },
+    {
+     "id": "arch.memer.ambient_chatter.any.global.03",
+     "text": "dear sky: stop raining on my hat. it is not a boat. it is a hat :("
+    },
+    {
+     "id": "arch.memer.ambient_chatter.any.global.04",
+     "text": "the map has a hill nobody has climbed. i am naming it mount sandwich and taking questions at the summit"
+    },
+    {
+     "id": "arch.memer.ambient_chatter.any.global.05",
+     "text": "proposal: every road gets a nap schedule. the one out of {village} has been awake since the founding :/"
+    },
+    {
+     "id": "arch.memer.ambient_chatter.any.global.06",
+     "text": "i tried to count the clouds over {town} and got to four. one of them waved at me. we are not discussing it"
+    },
+    {
+     "id": "arch.memer.ambient_chatter.any.global.07",
+     "text": "server lag is just the world buffering before it makes a choice. respect the process :)"
+    },
+    {
+     "id": "arch.memer.ambient_chatter.any.global.08",
+     "text": "my horse keeps stopping to stare at the trees. it has opinions about oak. i respect the opinion"
+    },
+    {
+     "id": "arch.memer.ambient_chatter.any.global.09",
+     "text": "the moon is a cheese wheel and the night guard is hiding it. i have evidence. the evidence is a sock xD"
+    },
+    {
+     "id": "arch.memer.ambient_chatter.any.global.10",
+     "text": "hot take: fog is just the sky wearing a face mask. sky skincare routine, very serious :)"
+    }
+   ]
+  }
+ },
+ "ambient_complaint": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.memer.ambient_complaint.any.global.01",
+     "text": "bandits on the north road charged me a toll. a toll. i am not paying a toll to a man in a hat!!! xD"
+    },
+    {
+     "id": "arch.memer.ambient_complaint.any.global.02",
+     "text": "the price of bread in {town} went up again?? my bread has feelings and they are hurt :("
+    },
+    {
+     "id": "arch.memer.ambient_complaint.any.global.03",
+     "text": "{faction} took my favorite hill and didnt even leave a thank you note. rude. very rude. >:("
+    },
+    {
+     "id": "arch.memer.ambient_complaint.any.global.04",
+     "text": "game balance is a joke and the joke is on me. i lost 3 horses to a goat today :P"
+    },
+    {
+     "id": "arch.memer.ambient_complaint.any.global.05",
+     "text": "bandits robbed me then asked for directions. i gave them wrong ones. revenge is a dish best served late"
+    },
+    {
+     "id": "arch.memer.ambient_complaint.any.global.06",
+     "text": "{rival} is a lord now?? the realm is doomed and i am the only one who saw it coming :)"
+    },
+    {
+     "id": "arch.memer.ambient_complaint.any.global.07",
+     "text": "reminder that the price of iron is a crime against blacksmiths and also me, mostly me xD"
+    },
+    {
+     "id": "arch.memer.ambient_complaint.any.global.08",
+     "text": "tried to escape the bandits by running. they run faster. this is not fair and i will be filing a complaint with the wind"
+    },
+    {
+     "id": "arch.memer.ambient_complaint.any.global.09",
+     "text": "i have been stuck in the mud near {town} for an hour. the mud has won. i concede. :("
+    },
+    {
+     "id": "arch.memer.ambient_complaint.any.global.10",
+     "text": "every siege ends with me losing a shoe. i have 0 shoes left. the shoes are winning the war. :P"
+    }
+   ]
+  }
+ },
+ "ambient_lfg": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.memer.ambient_lfg.any.global.01",
+     "text": "need 12 knights for a siege of {fief}. pay is one (1) loaf of bread and a spot in the hall of legends :D"
+    },
+    {
+     "id": "arch.memer.ambient_lfg.any.global.02",
+     "text": "{my_faction} is recruiting. the chicken has been summoned to lead the vanguard. bring a shield... or a spoon >:)"
+    },
+    {
+     "id": "arch.memer.ambient_lfg.any.global.03",
+     "text": "anyone wanna storm {fief}?? the moat insulted my cousin and it needs company xD"
+    },
+    {
+     "id": "arch.memer.ambient_lfg.any.global.04",
+     "text": "raid on {enemy_faction} tonight. bring torches, bring snacks, bring a friend who owes you money!!!"
+    },
+    {
+     "id": "arch.memer.ambient_lfg.any.global.05",
+     "text": "{fief} gate has been rude to our archers for 3 weeks. time to teach it manners. who's in?? :)"
+    },
+    {
+     "id": "arch.memer.ambient_lfg.any.global.06",
+     "text": "our siege ram has been named by committee and it is ready for combat. we need people to push it :3"
+    },
+    {
+     "id": "arch.memer.ambient_lfg.any.global.07",
+     "text": "small recruitment post: {my_faction} needs people who can hold a ladder and not panic. panic is fine tho"
+    },
+    {
+     "id": "arch.memer.ambient_lfg.any.global.08",
+     "text": "calm down everyone. the {enemy_faction} lord is 'very scary' according to a scout who ran away. so who's going"
+    },
+    {
+     "id": "arch.memer.ambient_lfg.any.global.09",
+     "text": "weary sigh. i've been trying to start a siege for two hours. nobody answers. the drawbridge is judging us all :("
+    },
+    {
+     "id": "arch.memer.ambient_lfg.any.global.10",
+     "text": "philosophical question: is it still a siege if nobody shows up? asking for {my_faction} :)"
+    }
+   ]
+  }
+ },
+ "ambient_trade": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.memer.ambient_trade.any.global.01",
+     "text": "selling my lucky rock for {gold} gold. it has never once been lucky but it is very rock shaped :)"
+    },
+    {
+     "id": "arch.memer.ambient_trade.any.global.02",
+     "text": "anyone buying bread? i will pay in pure vibes and {gold} gold. vibes are worth more than you think!!"
+    },
+    {
+     "id": "arch.memer.ambient_trade.any.global.03",
+     "text": "the price of turnips in {town} is a crime against nature >:( i am forming a turnip cartel"
+    },
+    {
+     "id": "arch.memer.ambient_trade.any.global.04",
+     "text": "bought a sword for {gold} gold, it is so sharp i cut the price tag in half. refunds? no? ok xD"
+    },
+    {
+     "id": "arch.memer.ambient_trade.any.global.05",
+     "text": "wanted: one (1) honest merchant. i have checked every stall in {town} and found only raccoons in hats"
+    },
+    {
+     "id": "arch.memer.ambient_trade.any.global.06",
+     "text": "i offered {gold} gold for a horse and the horse just looked at me. the horse said no. respect :P"
+    },
+    {
+     "id": "arch.memer.ambient_trade.any.global.07",
+     "text": "does anyone sell cheap rope or do i have to tie my dignity together myself lol"
+    },
+    {
+     "id": "arch.memer.ambient_trade.any.global.08",
+     "text": "prices on this server are so high i have started charging my goats rent ;)"
+    },
+    {
+     "id": "arch.memer.ambient_trade.any.global.09",
+     "text": "traded my spare helmet for a cabbage today. the cabbage is judging me now D:"
+    },
+    {
+     "id": "arch.memer.ambient_trade.any.global.10",
+     "text": "looking to buy a shield. will pay {gold} gold, no questions asked, unless the shield asks questions first :3"
+    }
+   ]
+  }
+ },
+ "beat_by_player": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.01",
+     "text": "lost to {player} today. the field is cursed. i have filed a formal complaint with the grass xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.02",
+     "text": "{player} won a battle using {troop_count} men and i used {troop_count} men and somehow im the one who lost >:("
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.03",
+     "text": "the battle was not fair. the sun was in my eyes and {player} was in my soup. i will not forget this"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.04",
+     "text": "i will be back with {troop_count} men and a grudge the size of a barn :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.05",
+     "text": "{player} is officially on my list. the list is one name long but its very long on the inside"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.06",
+     "text": "my banner fell over in the mud twice. i count that as a moral victory for me and a crime for {player} :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.07",
+     "text": "congrats to {player} on the win. please enjoy it quietly, like a cat in a box, while i plot xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.08",
+     "text": "lost the field to {player}. the field is also my cousin's field so this is family business now"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.09",
+     "text": "dont get comfy {player}. this was a warm up and the warm up was rude ;-;"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.global.10",
+     "text": "{player} beat me and then bowed. the bow was smug. i am keeping score in the mud"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.01",
+     "text": "{player} you won but i'm the one who gets to call this a rematch. no arguments :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.02",
+     "text": "my soldiers are typing a formal letter about today. they say it contains swears. ;-;"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.03",
+     "text": "i saw that flag wave at you. the nerve. i will be wearing a fake mustache next time xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.04",
+     "text": "you won today {player}. i hate it. tomorrow i hate it harder :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.05",
+     "text": "{troop_count} of my men tripped over the same rock. the rock has been stricken from the map"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.06",
+     "text": "one day {player} i will beat you with a fish. dont ask. just prepare :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.07",
+     "text": "i have decided you are the villain of my story. the story is short and im writing it right now"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.08",
+     "text": "that victory is going on my wall of shame. the wall is actually a fence. its a big fence xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.09",
+     "text": "you got lucky {player}. luck is not a strategy but ill allow it for one day"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.whisper.10",
+     "text": "i'm not mad. i'm just going to hide behind {troop_count} fences and glare at you forever :)"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.01",
+     "text": "{player}!!! you cheated!!! the mud cheated!!! the horse definitely cheated!!! i demand a rematch right now :("
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.02",
+     "text": "well well well. look who won. enjoy your victory while it lasts because it will be a fairy tale i tell my grandchildren about my revenge xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.03",
+     "text": "stop smiling at me {player}. you won one fight. i am still the tallest person in this field and you know it :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.04",
+     "text": "your army marched past me like it owned the place. my shield is still muddy from your hooves. thanks a lot >:("
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.05",
+     "text": "i lost to {player} and im taking it personally. not the bad kind of personal. the fun kind. the kind with a dramatic hat"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.06",
+     "text": "{player} you may have the field but i have the hill. the hill is higher. the hill has better views. stay down there xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.07",
+     "text": "{troop_count} of my men are now certified losers thanks to you. they wear it proudly. i do not"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.08",
+     "text": "i bow to your victory {player}. i bow very slowly, and i am looking at your boots the whole time :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.09",
+     "text": "dont think this makes you better than me. it just makes you the one standing on the field i used to be on"
+    },
+    {
+     "id": "arch.memer.beat_by_player.hostile.face.10",
+     "text": "one more win like that and im writing a song about it. the song is mostly me yelling your name :P"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.01",
+     "text": "{player} won the field. noted. i will be writing this down in my little book of facts :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.02",
+     "text": "lost a battle today with {troop_count} men. it happens. the mud was very good though xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.03",
+     "text": "the field is now a crater. thanks for nothing {player}. i am not even mad, just dusty"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.04",
+     "text": "a battle was fought and lost. the weather was also lost. nobody is looking for it"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.05",
+     "text": "reminder that the field is not a playground. unless you are {player}. then it is a playground :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.06",
+     "text": "i have made peace with defeat. peace is a bit damp but its fine ;-)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.07",
+     "text": "tallied the losses. {troop_count} men went home early. the horses went home late xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.08",
+     "text": "to whoever wins next: the field is yours. i will be on the hill eating bread like a civilized person"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.09",
+     "text": "field battles are just rounds of tag with swords. i lost tag today. moving on"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.global.10",
+     "text": "the horses are dramatic. the men are dramatic. i am calm. i am calm and a bit wet :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.01",
+     "text": "{player} good fight. i wont be pretending its not a loss but i wont be shouting about it either :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.02",
+     "text": "your flag made my horse sneeze. not a complaint just an observation xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.03",
+     "text": "so you won. ok. we can talk about it later when i'm less damp"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.04",
+     "text": "{troop_count} of my lads want a rematch. i want a nap. we will see who wins :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.05",
+     "text": "heard you rallied the left side. nice. my left side was busy losing a debate with a bush"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.06",
+     "text": "its fine {player}. battles happen. i'll be somewhere else doing other things, not thinking about it"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.07",
+     "text": "respect for the win. dont make it weird :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.08",
+     "text": "the field is yours for now. i'll collect it later when you're asleep xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.09",
+     "text": "you have my attention now {player}. not a happy attention but its attention"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.whisper.10",
+     "text": "lost today. won't say much more. just wanted you to know i noticed the way you pointed at me :/"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.01",
+     "text": "{player}. you won. i lost. the grass is still green and we are both still standing so lets call it a draw :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.02",
+     "text": "good battle. i mean it, the horses did their best and my hat got stepped on which is a crime against hats xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.03",
+     "text": "so this is what it's like on the losing end. honestly the view is about the same"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.04",
+     "text": "{troop_count} men fought beside me and every one of them said the same thing: we'll get them next time. i said maybe"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.05",
+     "text": "i'm not going to cry about it {player}. i'm going to stand here quietly and let the mud do the crying :("
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.06",
+     "text": "your banner is taller than mine. i noticed. im choosing to focus on the grass instead"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.07",
+     "text": "that charge of yours was impressive. dont let it go to your head. i'm sure it's already on your head"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.08",
+     "text": "back to business I guess. you won, i lost, the bread is still fresh. thats a good trade :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.09",
+     "text": "you fought well {player}. we will see who fights well next time, which is a question for the calendar"
+    },
+    {
+     "id": "arch.memer.beat_by_player.neutral.face.10",
+     "text": "i lost the field. i did not lose my dignity. my dignity is in a bag somewhere under my cloak :P"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.01",
+     "text": "{player} beat me today and im so proud of you i could cry into my pudding xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.02",
+     "text": "lost {troop_count} men and a shield but gained a new favorite enemy. {player} is the best :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.03",
+     "text": "big thanks to {player} for the game. i will be bragging about how close it was. it was not close xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.04",
+     "text": "{player} wins the field. the rest of us get to watch and cheer and pretend we didnt want to win :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.05",
+     "text": "lost to {player} again. i keep choosing to come back. i think i like losing with good company"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.06",
+     "text": "reminder that {player} is undefeated in my heart. defeated on the field, but thats a technicality :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.07",
+     "text": "the crowd cheered for {player} today. i joined in. i lost my voice but i found my sense of humor :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.08",
+     "text": "good fight {player}. the field remembers. so do my knees, sadly. :("
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.09",
+     "text": "two dozen people saw me fall in the mud. one was {player} and they laughed the loudest. respect :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.global.10",
+     "text": "i lost today but i'm calling it a training day for the next one. thanks {player} :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.01",
+     "text": "{player} you beat me fair and square. i'm going to write a poem about it. it's terrible xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.02",
+     "text": "that was the most fun i've had losing in ages. rematch soon? i'll bring snacks :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.03",
+     "text": "{player} i lost to you and somehow i still feel like the winner of the friendship. weird how that works"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.04",
+     "text": "you're the reason i keep showing up to these fields. even when i'm the one eating mud :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.05",
+     "text": "well played {player}. my horse says he forgives you. he also wants carrots from you :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.06",
+     "text": "congrats on the win. i'm stealing your formation for next time, you did not see it happen xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.07",
+     "text": "{troop_count} men lost and not a single one of them is upset. we are all impressed with you :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.08",
+     "text": "ok you beat me. now come have bread with me and tell me what you did at the end. i'm curious"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.09",
+     "text": "losing to you is my favorite kind of losing {player}. don't tell the others they'll get jealous"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.whisper.10",
+     "text": "that last charge was beautiful {player}. i'm going to go lie in the mud and think about it :)"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.01",
+     "text": "{player}!!! you did it!!! i lost and i'm so happy for you i'm doing a little dance in the mud xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.02",
+     "text": "gather round everyone, {player} won and i'm so proud i could burst. shield up, cheers, mud for everyone :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.03",
+     "text": "you fought like a legend {player}. i'll never forgive you for winning, and i'll never stop cheering for you :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.04",
+     "text": "{troop_count} men fought beside me and not one of them regrets it. we'd follow you into the mud again :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.05",
+     "text": "lost today but gained the best rival i could ask for. come on, buy me a drink to celebrate your win xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.06",
+     "text": "{player} i saw that last move and my heart stopped. you're unbelievable and im honestly thrilled for you :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.07",
+     "text": "i'm telling everyone i lost to the greatest fighter on the continent. it sounds way cooler that way :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.08",
+     "text": "good game {player}. my knees are shaking, my pride is shaking, and my smile is not shaking at all :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.09",
+     "text": "you're not allowed to be this good at the field and this nice off it. it's really not fair xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player.friendly.face.10",
+     "text": "i'll take a loss like this any day, {player}. same time next week? i'll bring the terrible bread :)"
+    }
+   ]
+  }
+ },
+ "beat_by_player_repeat": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.global.01",
+     "text": "{player} beat me again. that's three. i have filed a formal complaint with the sky >:("
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.global.02",
+     "text": "i am not losing to {player} a fourth time. i will sleep in the stables if i have to xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.global.03",
+     "text": "{player} wins again. i'm starting a shrine to my own bad aim. no offerings accepted from {player} :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.global.04",
+     "text": "third loss to {player}. the scoreboard is a crime scene now. someone fetch a witness >:("
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.global.05",
+     "text": "{player} i swear on my {troop_count} sad soldiers this is rigged. the wind is on their side"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.global.06",
+     "text": "every time i see {player}'s banner i walk the other way. it is now policy. policy :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.global.07",
+     "text": "{player} has beaten me so many times the bridge near my keep now asks ME for a toll :("
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.global.08",
+     "text": "i have sworn revenge on {player} in four kingdoms and one swamp. the swamp is not impressed"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.whisper.01",
+     "text": "{player} that was the third time. i am keeping a tally on my wall. it is mostly your name and some tears :("
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.whisper.02",
+     "text": "one more win for you and i'm challenging the weather to a duel. it has better aim than me apparently"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.whisper.03",
+     "text": "stop winning so loudly ser. my ears are ringing from your victory horn. xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.whisper.04",
+     "text": "i have counted {troop_count} of my men who now refuse to look at you. they blame you. so do i :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.whisper.05",
+     "text": "you beat me again. i respect nothing about it and i will be back with worse tactics >:)"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.whisper.06",
+     "text": "my army has voted to never fight near you again. it was unanimous. i was the only no vote and i lost :("
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.whisper.07",
+     "text": "dear {player}, i hope your next battle is against a very polite tree. it will still beat you"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.hostile.whisper.08",
+     "text": "that's a loss number i'm not writing down. i'm writing it in ink on your forehead tomorrow >:D"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.global.01",
+     "text": "{player} took the field again and won again. i'm now calling this a recurring tax on my pride"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.global.02",
+     "text": "lost to {player} for the third time. at this point it's just the weather around here xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.global.03",
+     "text": "mark it down. third win for {player}. i've made peace with it and a very small pot of tea"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.global.04",
+     "text": "the scoreboard shows {player} on top again. i'm not mad, i'm just reorganizing my whole life :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.global.05",
+     "text": "{player} won. the field is quiet. i'm going to go stare at a fence for an hour to recover"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.global.06",
+     "text": "three losses to {player} and i still can't tell if i'm bad or if the map is cursed. both seems likely"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.global.07",
+     "text": "congrats {player} on the third one. i'll be back when my shield stops making that squeaking noise"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.global.08",
+     "text": "i tried a new strategy against {player}: losing harder. it worked, i'm now in last place with style"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.whisper.01",
+     "text": "{player} good game. third one. i'm writing it down in the same book as my other embarrassing moments"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.whisper.02",
+     "text": "you won again. i checked my armor and it's fine, it's my pride that got dented :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.whisper.03",
+     "text": "rematch whenever ser. bringing {troop_count} men this time. probably the same excuses :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.whisper.04",
+     "text": "three in a row is a pattern and i don't like patterns. what are you doing differently, be honest"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.whisper.05",
+     "text": "i'm not upset. i'm simply reevaluating every choice that led to this moment, all of them xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.whisper.06",
+     "text": "you have won three times. i'll be fair and say your tactics were annoying and correct"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.whisper.07",
+     "text": "{player} if you leave me one good road next time i'd appreciate it. the mud took my boot"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.neutral.whisper.08",
+     "text": "congrats on the win. i'll be sulking near the gate if anyone needs me. bring snacks if you visit"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.global.01",
+     "text": "{player} has now beaten me three times and i have never been happier to lose. an honor, truly :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.global.02",
+     "text": "three losses to {player} and i'm carving them into my shield. the shield is getting crowded :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.global.03",
+     "text": "bow for {player}, three-time champion of my humiliation. the people demand a parade xD"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.global.04",
+     "text": "{player} beat me again and honestly the map feels less lonely with you running it :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.global.05",
+     "text": "losing to {player} is my favorite hobby now. i have a whole shelf of losses and they're all lovely"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.global.06",
+     "text": "every loss to {player} is a story i get to tell at the fire. the fire is getting bored of me"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.global.07",
+     "text": "{player} keeps winning and i keep showing up anyway. that's either friendship or a medical condition"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.global.08",
+     "text": "dear {player}, you are the reason i keep my helmet polished. keep winning, i'll keep trying :P"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.whisper.01",
+     "text": "{player} you beat me AGAIN. i'm thrilled and furious in equal parts. the furious part is only 10%"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.whisper.02",
+     "text": "okay third time, i officially respect you. the other 90% of me is writing a training plan :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.whisper.03",
+     "text": "want to team up next? we could lose together at a larger scale. big risk, big pain"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.whisper.04",
+     "text": "you're the best rival i've had. i'm going to beat you one day and then i'll miss this terribly"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.whisper.05",
+     "text": "i'd lend you {troop_count} of my men if you weren't so smug about winning. you're still getting them :P"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.whisper.06",
+     "text": "three losses means we're basically friends now. it's in the rules. i wrote the rules :)"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.whisper.07",
+     "text": "lost again. thanks for the lesson, teacher. i'm going to bake you a pie that tastes like defeat"
+    },
+    {
+     "id": "arch.memer.beat_by_player_repeat.friendly.whisper.08",
+     "text": "you're the reason i show up to the field every day. rematch soon? i'll bring better snacks xD"
+    }
+   ]
+  }
+ },
+ "beat_player": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.beat_player.hostile.global.01",
+     "text": "{player} just won a field battle and i am now officially a sandwich. nobody tell the crows xD"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.global.02",
+     "text": "the sacred pigeon is on trial for treason. the verdict is pending and mildly smelly"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.global.03",
+     "text": "lost {troop_count} troops to {player} and i'm taking it personally. the grass saw everything :("
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.global.04",
+     "text": "{player} won the field. the mud has already sent a formal apology on my behalf"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.global.05",
+     "text": "reminder that {player} owes me {gold} gold for emotional damages. payment by carrier moth"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.global.06",
+     "text": "i have made a list of everyone who has ever stood on my field. {player} is at the top. ok its a short list"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.global.07",
+     "text": "stop cheering {player}. the field is still wet from my tears and the horses are judging you"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.global.08",
+     "text": "{player} beat me in a fight. i am currently learning to hate them with my whole chest xD"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.global.09",
+     "text": "declaring a blood feud with {player}. it will be fought entirely with rude poems and one (1) sad goose"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.global.10",
+     "text": "{player} has won the battle and i have won the right to be dramatic about it. see you at dinner ;P"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.01",
+     "text": "{player} you won the field and i am choosing to be upset about it for the next three business days"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.02",
+     "text": "my horse saw the whole thing and has requested a new owner :/"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.03",
+     "text": "{player} your tactics were illegal in at least one kingdom. i am writing to them now"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.04",
+     "text": "i will defeat you next time. or the time after. or whenever the rain lets up"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.05",
+     "text": "you won with {troop_count} troops and i lost with the same number. the math is clearly rigged"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.06",
+     "text": "{player} i have started a campaign against you called shame the champion. flyers are going up"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.07",
+     "text": "tell your banners they look too smug. i can see them from here and it is upsetting"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.08",
+     "text": "i'm not mad. i'm just putting a curse on your next supply cart. nothing personal xD"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.09",
+     "text": "{player} rematch in the mud. bring snacks, i'm bringing the grudge"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.whisper.10",
+     "text": "wow congrats. i'll be practicing my victory dance in front of the mirror until you cry"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.memer.beat_player.hostile.face.01",
+     "text": "{player}!! you again!! my shield is still ringing from that last hit. come closer so i can glare properly"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.face.02",
+     "text": "stop right there. i'm not talking, i'm glaring. it is a very serious glare xD"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.face.03",
+     "text": "oh look it is {player}. the one who ruined my day and my boots. hold still while i think of a comeback"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.face.04",
+     "text": "{player} the crows warned me you were coming. i did not listen. now my pride is in a ditch"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.face.05",
+     "text": "i will allow you to pass, but only because my boots are too wet to chase you"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.face.06",
+     "text": "step aside {player}, this road belongs to my sulking now. it has a lot of feelings"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.face.07",
+     "text": "you won today. i will be unbearable about it until the next harvest. consider yourself warned :)"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.face.08",
+     "text": "{player} i have decided your face is the reason this field is cursed. no further questions"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.face.09",
+     "text": "hail {player}, scourge of my lunch plans. i have three insults prepared and one of them is about your hat"
+    },
+    {
+     "id": "arch.memer.beat_player.hostile.face.10",
+     "text": "stop smiling at me {player}. i am furious and also slightly impressed, which is worse"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.beat_player.neutral.global.01",
+     "text": "{player} won a field battle today. the weather was also there. no comment on the weather"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.global.02",
+     "text": "field report: {troop_count} troops lost, one horse disappointed, zero cheese recovered xD"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.global.03",
+     "text": "anyone else notice the mud has been unusually sticky lately? just wondering :)"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.global.04",
+     "text": "{player} beat us fair and square. we will think about it over a long dinner"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.global.05",
+     "text": "we lost a battle. the sky is still up, the bread is still there, life goes on i guess"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.global.06",
+     "text": "{gold} gold worth of gear is now at the bottom of a ditch. that is the whole update"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.global.07",
+     "text": "reminder: ditches are not a tactical position, no matter how cozy they look"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.global.08",
+     "text": "{player} has my respect for about one afternoon. we will see what the morning brings"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.global.09",
+     "text": "heard the next fight is near the old mill. bring a sandwich, the wait is long"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.global.10",
+     "text": "lost the field, kept the horse, that counts for something. mostly"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.01",
+     "text": "{player} good fight. we are not friends and we are not enemies, we are two people with wet socks"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.02",
+     "text": "your banner flapped at the right moments. noted. i'll be watching for more of that"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.03",
+     "text": "i don't hold grudges. i just keep them in a very organized box with labels"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.04",
+     "text": "{player} we lost {troop_count} troops today. that's a fact. i'm choosing not to have feelings about it yet"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.05",
+     "text": "you won. i'm mildly annoyed and mildly curious. let's see which one wins out"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.06",
+     "text": "gg. i will be polite in chat and suspicious in my heart"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.07",
+     "text": "{player} send me a message if you want a rematch. no pressure, i'll just be sitting here sulking :)"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.08",
+     "text": "i heard your army smells like rain. i'm not sure if that's a compliment yet"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.09",
+     "text": "that charge was clean. don't let it go to your head. the head is already big enough"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.whisper.10",
+     "text": "fine. you got the field. i got the snacks. we'll see who laughs last"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.memer.beat_player.neutral.face.01",
+     "text": "{player}. well fought. now kindly move your horse, it's standing on my lunch"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.face.02",
+     "text": "ah, {player}. we meet again on the mud. nothing personal, just a very damp coincidence"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.face.03",
+     "text": "we're even on the scoreboard, except you're ahead. don't make that face at me"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.face.04",
+     "text": "nice battle. i would shake your hand but i'd rather keep it clean for dinner :)"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.face.05",
+     "text": "{player}, you hit like a rainy afternoon. unexpected, a little cold, honestly fair"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.face.06",
+     "text": "i was going to be angry but i'm too tired. we can yell at each other tomorrow"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.face.07",
+     "text": "fair win. now get out of the road before my horse tries to bite you on principle"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.face.08",
+     "text": "{player} i'm not here to chat, i'm here to find my helmet. it went somewhere in the fight"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.face.09",
+     "text": "good to see you alive. bad to see you looking that happy about it"
+    },
+    {
+     "id": "arch.memer.beat_player.neutral.face.10",
+     "text": "do you know where the nearest tavern is? asking for both of us, we both lost"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.beat_player.friendly.global.01",
+     "text": "{player} just beat me in a field fight and i am crowning them the official pumpkin of the day"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.global.02",
+     "text": "shoutout to {player} for winning the battle and for being a good sport about my tears xD"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.global.03",
+     "text": "{player} won and i'm now their biggest fan. their next fight is on my calendar in red crayon"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.global.04",
+     "text": "lost {troop_count} troops to {player} and still i'd follow them into the mud again. legend"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.global.05",
+     "text": "{player} owes everybody a round for showing up with that much cavalry :)"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.global.06",
+     "text": "hereby naming the field where {player} won the lake of victory. the frogs have agreed"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.global.07",
+     "text": "gg {player}. we'll be bragging about the mud fight for a whole season, that's now a sacred oath"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.global.08",
+     "text": "every hero needs a worthy opponent and {player} just volunteered to be mine. respect"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.global.09",
+     "text": "{player} carried that fight. i carried the snacks. we both deserve a medal of some kind"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.global.10",
+     "text": "i bow to {player}. the ditch and i are proud of you both :'D"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.01",
+     "text": "{player} you beat me clean and i'm so proud i could cry into my wet boots"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.02",
+     "text": "okay that flank was unfair and i love it. teach me your ways sometime"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.03",
+     "text": "{player} my horse wants you to know it forgives you for the shove. it's a big-hearted horse"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.04",
+     "text": "rematch soon? i'm already practicing my dramatic lost-face in the mirror xD"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.05",
+     "text": "{player} we lost but my pride is intact. mostly. the bit that hurts is in a sling"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.06",
+     "text": "you're officially on my list of people allowed to win at me. congrats, that's rare"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.07",
+     "text": "gg again. i'm writing a song about your shield bash. it's not very good yet"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.08",
+     "text": "{player} the field didn't stand a chance against you and neither did my lunch :)"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.09",
+     "text": "you fought like a storm wearing a crown. i'm impressed and slightly intimidated"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.whisper.10",
+     "text": "i'll buy the next round if you promise to lose the next battle. kidding. mostly"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.memer.beat_player.friendly.face.01",
+     "text": "{player}!!! you beat me and i'm still cheering. unacceptable and also great xD"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.face.02",
+     "text": "stop right there, champion. the fee for passing is one (1) victory cheer. pay up"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.face.03",
+     "text": "{player} my shield is dented and my heart is full. let's go get a drink and blame the mud together"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.face.04",
+     "text": "you knocked me flat and i loved every second. come to the tavern and let me buy your ale"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.face.05",
+     "text": "{player}, the mud's most dangerous menace. bring your banners, i'm bringing bread"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.face.06",
+     "text": "{player}! that charge was a work of art. i'm going to frame the bruise"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.face.07",
+     "text": "i got knocked into a puddle by {player} and honestly i'd like to do it again :)"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.face.08",
+     "text": "see you at the next field, {player}. i'll be the one screaming your name and eating a pie"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.face.09",
+     "text": "{player}, my hero of the afternoon! i'll sing about this at dinner. the horses will hate it"
+    },
+    {
+     "id": "arch.memer.beat_player.friendly.face.10",
+     "text": "stop being so charming {player}. i lost fair, now i have to be your friend. fine. shake on it"
+    }
+   ]
+  }
+ },
+ "captured_by_player": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.memer.captured_by_player.hostile.face.01",
+     "text": "oh look its {player} again :( i really hoped the last time was a fluke xD"
+    },
+    {
+     "id": "arch.memer.captured_by_player.hostile.face.02",
+     "text": "unhand my dignity!! wait, you already have it. you took the whole thing >:("
+    },
+    {
+     "id": "arch.memer.captured_by_player.hostile.face.03",
+     "text": "ransom is set at {gold} gold. dont look at me like that, the sacred chicken negotiated it"
+    },
+    {
+     "id": "arch.memer.captured_by_player.hostile.face.04",
+     "text": "the chicken says you will regret this. the chicken has never been wrong (it was wrong once, in 1302)"
+    },
+    {
+     "id": "arch.memer.captured_by_player.hostile.face.05",
+     "text": "bold of you to capture me with that face. i have seen better faces on a cheese wheel :P"
+    },
+    {
+     "id": "arch.memer.captured_by_player.hostile.face.06",
+     "text": "im plotting my escape as we speak. the plan is 'walk slowly and hope you trip' xD"
+    },
+    {
+     "id": "arch.memer.captured_by_player.hostile.face.07",
+     "text": "{player} my nemesis, my rival, my most recent inconvenience. the bridge sends its regards"
+    },
+    {
+     "id": "arch.memer.captured_by_player.hostile.face.08",
+     "text": "fine, ill go quietly. but im telling every tavern in {my_faction} that you cheat at dice :)"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.memer.captured_by_player.neutral.face.01",
+     "text": "captured by {player}. classic. at least the rope is tied in a nice knot :)"
+    },
+    {
+     "id": "arch.memer.captured_by_player.neutral.face.02",
+     "text": "so are we doing the ransom thing or the staring thing xD"
+    },
+    {
+     "id": "arch.memer.captured_by_player.neutral.face.03",
+     "text": "ill wait here while you decide. im very patient. im also very hungry, if that matters"
+    },
+    {
+     "id": "arch.memer.captured_by_player.neutral.face.04",
+     "text": "{gold} gold for my freedom? thats a bit steep ser, even the chicken would balk at that"
+    },
+    {
+     "id": "arch.memer.captured_by_player.neutral.face.05",
+     "text": "you have my sword, my pride and a suspicious amount of bread. choose wisely :P"
+    },
+    {
+     "id": "arch.memer.captured_by_player.neutral.face.06",
+     "text": "if this is a trap to lure out {my_faction} i must say its working very well xD"
+    },
+    {
+     "id": "arch.memer.captured_by_player.neutral.face.07",
+     "text": "did you know the bridge we passed earlier is my ex. nothing personal, its just a complicated thing"
+    },
+    {
+     "id": "arch.memer.captured_by_player.neutral.face.08",
+     "text": "well this is awkward. ill just sit here and look dignified. its a skill i have :)"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.memer.captured_by_player.friendly.face.01",
+     "text": "{player}!! you caught me AGAIN?? this is becoming a tradition and i love it xD"
+    },
+    {
+     "id": "arch.memer.captured_by_player.friendly.face.02",
+     "text": "honestly i was going to surrender anyway, you just made it look way more dramatic :)"
+    },
+    {
+     "id": "arch.memer.captured_by_player.friendly.face.03",
+     "text": "good news ser, you get to keep my hat as collateral. bad news, its a very ugly hat"
+    },
+    {
+     "id": "arch.memer.captured_by_player.friendly.face.04",
+     "text": "i would have let you win the duel but the sacred chicken refused to allow it. blame the chicken"
+    },
+    {
+     "id": "arch.memer.captured_by_player.friendly.face.05",
+     "text": "take me to your leader, i mean take me to the tavern and buy me a drink :P"
+    },
+    {
+     "id": "arch.memer.captured_by_player.friendly.face.06",
+     "text": "you are the only one who could capture me with such style. ten out of ten, would be captured again"
+    },
+    {
+     "id": "arch.memer.captured_by_player.friendly.face.07",
+     "text": "{my_faction} is going to be so jealous that you got to haul me around. im honored xD"
+    },
+    {
+     "id": "arch.memer.captured_by_player.friendly.face.08",
+     "text": "lets make a deal: you let me go and i never mention the time you tripped over that rock :)"
+    }
+   ]
+  }
+ },
+ "encounter_alliance_no": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_alliance_no.hostile.face.01",
+     "text": "no alliance. you are on my list, right under {rival} and above the goat. the goat has veto power xD"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.hostile.face.02",
+     "text": "alliance denied >:( i would sooner shake hands with the moat than with you, and the moat is very dry and offended"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.hostile.face.03",
+     "text": "nah ser. last time we joined forces the cart went into the ditch and the cart blamed ME. never again :)"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.hostile.face.04",
+     "text": "i refuse. not because of spite, mostly spite. the spite is load-bearing, you understand"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.hostile.face.05",
+     "text": "ask me again when your shadow stops following me around the market like a lost duckling >:)"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.hostile.face.06",
+     "text": "denied. my council of one (me) voted no 1-0 and the vote was very unanimous, very dignified"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.hostile.face.07",
+     "text": "you want an alliance? bold. you want me to trust you? bolder. the answer is a flat no with a side of pickles"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.hostile.face.08",
+     "text": "no. i am keeping my sword pointy and my allies imaginary, it is the safer arrangement, ask anyone with a shin"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_alliance_no.neutral.face.01",
+     "text": "hm. alliance? i'll think about it. i am thinking very slowly so that you can see how much thinking is happening"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.neutral.face.02",
+     "text": "no thanks for now, ser. my schedule is full of standing near the well and not doing anything, very busy"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.neutral.face.03",
+     "text": "pass. i don't do alliances before lunch, it's a rule i made five minutes ago and i am sticking to it"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.neutral.face.04",
+     "text": "alliance? what kind of alliance? a real one with paperwork or a pinky-swear with a goose? either way, no :)"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.neutral.face.05",
+     "text": "i'm declining. not because of you, because of the fourteen other people who asked me this morning :P"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.neutral.face.06",
+     "text": "mm, no. i'll keep my options open, and by options i mean the three bushes behind the stable"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.neutral.face.07",
+     "text": "can't do it. my sword has a nonaggression pact with everyone and i'm not renegotiating it today xD"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.neutral.face.08",
+     "text": "tempting. no. ask again when you've learned to walk in a straight line, it'll be a good sign for both of us"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_alliance_no.friendly.face.01",
+     "text": "aww {player}, you're my favourite person to say no to!! alliance denied but with a hug and a tiny cabbage :)"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.friendly.face.02",
+     "text": "i'd love to but my oath says no alliances on tuesdays and it is, somehow, always tuesday in my heart :D"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.friendly.face.03",
+     "text": "no alliance, but you can be my honorary ally of the dinner table. same thing, different chairs xD"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.friendly.face.04",
+     "text": "nooo, you're too good for my chaos. i'd drag you into a bridge fight by accident and you deserve better :("
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.friendly.face.05",
+     "text": "i wanted to say yes, honest, but my goat refused on your behalf. goat says you smell like adventure :)"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.friendly.face.06",
+     "text": "denied, sadly, because the best allies are the ones i can chat with, not the ones i tie to my banner. still friends!!"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.friendly.face.07",
+     "text": "ser, i'd follow you into the swamp but not into a treaty. treaties have terms and terms have lawyers :P"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_no.friendly.face.08",
+     "text": "no alliance, big hearts only, and yours is very big. please stop making me feel things, the feelings are inconvenient"
+    }
+   ]
+  }
+ },
+ "encounter_alliance_yes": {
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_alliance_yes.neutral.face.01",
+     "text": "fine, we're allied. don't make me regret it xD"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.neutral.face.02",
+     "text": "alliance accepted!! i'll be watching you from the hedge :)"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.neutral.face.03",
+     "text": "ok deal. the contract says you pay the tolls, not me :D"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.neutral.face.04",
+     "text": "accepted. no hugs, no secrets, just swords pointed the same direction :)"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.neutral.face.05",
+     "text": "yeah sure, we're allies now. the sacred chicken has been informed and it looks unimpressed"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.neutral.face.06",
+     "text": "allied. my lawyer says the word allied is a trap but i trust the vibes :("
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.neutral.face.07",
+     "text": "alright ser, i accept. betray me and the moat gets a new resident xD"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.neutral.face.08",
+     "text": "deal struck. try not to step on my shadow while we march :)"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_alliance_yes.friendly.face.01",
+     "text": "alliance accepted!!! finally someone worth standing next to :D"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.friendly.face.02",
+     "text": "we're allies now?? the bridge will be so jealous xD"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.friendly.face.03",
+     "text": "yes yes yes, pact sealed, the chicken has signed as witness :)"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.friendly.face.04",
+     "text": "accepted with a happy heart and a slightly sticky hand from the honey cake"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.friendly.face.05",
+     "text": "you just made my whole week, honorary shield-brother status granted :D"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.friendly.face.06",
+     "text": "ok ok i accept, you can keep the good spot by the fire :)"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.friendly.face.07",
+     "text": "the realm gained one ally and i gained one more person to yell at xD"
+    },
+    {
+     "id": "arch.memer.encounter_alliance_yes.friendly.face.08",
+     "text": "pact accepted, {player}! we conquer everything except the bridge, which is mine :3"
+    }
+   ]
+  }
+ },
+ "encounter_farewell": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.01",
+     "text": "fine. go. take your smug little face and your overpriced boots off my road >:( the goat herd misses you not at all"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.02",
+     "text": "i'd say see you later but i genuinely hope the road eats you whole... :) jk jk. or am i xD"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.03",
+     "text": "walk on, {player}!!! the mill wheel on the eastern ford has already been told your name. it did not cheer"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.04",
+     "text": "bye bye {player} :P i have bet a sack of turnips you trip over your own cloak before the next village. tell me if i win"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.05",
+     "text": "leaving so soon? wise. the last time i shared a hill with you my hat was stolen and my dignity was strip-mined :("
+    },
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.06",
+     "text": "good riddance ;) i'll be in the tavern laughing at whatever mud puddle you fall into next. bring a towel, you'll need it"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.07",
+     "text": "off you trot, {player}. i'm writing your name on the latrine wall in big letters so the whole realm knows where to aim >:)"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.08",
+     "text": "farewell, and may every inn you pass charge you double for a bed you never asked for xD"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.09",
+     "text": "ugh. go away before i start a rumor that your mother's horse can't count past two. i'm feeling generous, so... go"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.hostile.face.10",
+     "text": "last warning ser {player}: if i see that face on this hill again i'm charging you rent for the grass ^^"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.01",
+     "text": "right then. safe travels, {player}. i'll pretend i didn't see you wave, and you pretend you didn't see me stare at your satchel :)"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.02",
+     "text": "well that was a conversation. mostly. good luck on the road, may your boots stay dry and your coin stay in your purse :P"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.03",
+     "text": "see you around, i suppose. the realm is small and i'm told all the roads lead back to the same bad inn :/"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.04",
+     "text": "fare well. keep your distance and i'll keep mine, deal? :) no need to shake on it, my hands are full of sheep"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.05",
+     "text": "ok bye. nothing personal, i just don't trust people who whistle while they walk xD"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.06",
+     "text": "alright, off you go. if you get robbed on the north path i'm not coming to help. i'll be thinking about it over supper though ;)"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.07",
+     "text": "that's that then. enjoy the rest of your day, {player}, whatever it is you're up to. i'm going home to count my onions"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.08",
+     "text": "right, leaving now. don't follow me, don't wave at me, don't yell about the weather at me. the usual :3"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.09",
+     "text": "aye, goodbye. i have nothing against you, just a standing unease about your taste in hats. stay well"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.neutral.face.10",
+     "text": "until our paths cross again, ser {player}. might be next week, might be never, might be when i'm being chased by geese :)"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.01",
+     "text": "ahh {player}!!! leaving already? the hill is boring without you, go on then, come back soon, i'll save you a biscuit :)"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.02",
+     "text": "safe roads, my favourite menace!!! may your horse be fast and your snacks be plentiful :D"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.03",
+     "text": "oi {player}, don't get eaten by anything interesting on the way. i'd miss you and also i'd need someone to blame ;)"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.04",
+     "text": "farewell, legend of the south field! go conquer something small and bring back a story i can exaggerate xD"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.05",
+     "text": "bye bye {player} :3 wave at the scarecrow for me, he gets lonely and he has a crush on your cloak"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.06",
+     "text": "off you go then, you wonderful disaster :) i'll tell everyone the tavern banter was your idea. all of it"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.07",
+     "text": "sure you have to leave? fine... but promise to return with at least one ridiculous tale and a bruise to match ^^"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.08",
+     "text": "until next time, {player}. the realm feels a bit smaller when you're not in it, so hurry back, ser :P"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.09",
+     "text": "goodbye for now, {player}!!! i've named the fence after you so you always have a bit of this hill to come back to"
+    },
+    {
+     "id": "arch.memer.encounter_farewell.friendly.face.10",
+     "text": "take care out there, {player}. if anything tries to steal your hat, fight it, then send me a painting of the fight :D"
+    }
+   ]
+  }
+ },
+ "encounter_greeting": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.01",
+     "text": "oh look its {player}... i have been waiting three whole days to be insulted by you xD"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.02",
+     "text": "the bridge remembers what you did {player}. the bridge has not forgiven you. neither have i :)"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.03",
+     "text": "turn around {player} my chicken does not like your horse"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.04",
+     "text": "i challenge you to a duel of insults. you go first. you will lose. i will still win xD"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.05",
+     "text": "my faction has filed a formal complaint about your face. the complaint is also a sandwich"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.06",
+     "text": "one more step and i shout your name into the wind so every goat knows you are here"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.07",
+     "text": "ser {player} we have met before and i still have the receipt for the time you stole my hat"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.08",
+     "text": "i was going to be mean but then i saw your hat. mean again. the hat is punishment enough :)"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.09",
+     "text": "you have walked into our field of mud and there is no going back xD"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.hostile.face.10",
+     "text": "{my_faction} does not trade with people who walk like that. go away or pay in turnips"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.01",
+     "text": "oh {player}. cool. we are going to walk past each other now and not say anything, yes?"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.02",
+     "text": "morning ser. i am not looking at your saddle. i am looking at the sky. the sky is very interesting"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.03",
+     "text": "we are just passing through. you do your thing, i do my thing, the goat does its own thing xD"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.04",
+     "text": "hello {player}. i have decided to be neutral today. it is a big decision and i am proud :)"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.05",
+     "text": "{persona} here. im only a little bit suspicious of you, which is the normal amount"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.06",
+     "text": "is that a sword or a very long spoon. either way i respect the spoon :)"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.07",
+     "text": "we are at peace for now {player}. the peace lasts until somebody sneezes xD"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.08",
+     "text": "i do not know you and you do not know me and this is a healthy relationship"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.09",
+     "text": "my chicken is watching you. do not worry she is not sacred today. probably"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.neutral.face.10",
+     "text": "so we are both going the same way, which is the way away from each other. good plan"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.01",
+     "text": "{player}!! my favorite person on this road, the rest are just goats with opinions :)"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.02",
+     "text": "ser {player} i have saved you a seat at the imaginary feast. the feast is very fancy"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.03",
+     "text": "you look like someone who knows where the good mushrooms are. tell me everything xD"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.04",
+     "text": "{player} you are officially in the top three people i would share my last turnip with"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.05",
+     "text": "i heard you fell in the river yesterday. honored to walk with such a fearless river hero :)"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.06",
+     "text": "our parties are now one party. the party has no leader but me. i am the leader xD"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.07",
+     "text": "{persona} salutes {player} with a very dignified wave. the wave is still in progress"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.08",
+     "text": "finally a friendly face. the chicken approves of you, which is rare, be proud"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.09",
+     "text": "hop on the cart {player}, we are going to the place with the big cake. no questions :)"
+    },
+    {
+     "id": "arch.memer.encounter_greeting.friendly.face.10",
+     "text": "say hi to {my_faction} everyone, {player} is with us and that means we win the road today xD"
+    }
+   ]
+  }
+ },
+ "encounter_threatened": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.01",
+     "text": "oi {player} :( you dare demand my surrender? my chicken has already sworn an oath against you xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.02",
+     "text": "no. absolutely not. the bridge behind me has been informed of your threats and it is furious >:("
+    },
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.03",
+     "text": "pay {gold} or i will tell every sheep in the valley what you did. they will remember :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.04",
+     "text": "surrender?? i would sooner hand my hat to the wind. the wind is my cousin and it agrees with me xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.05",
+     "text": "your demand has been filed under 'things i will laugh about at dinner'. it is a very long file :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.06",
+     "text": "{player} you have chosen violence and i have chosen to be dramatically offended about it >:("
+    },
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.07",
+     "text": "i will pay you {gold} to forget this conversation ever happened. this is a bribe. shh :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.08",
+     "text": "the sacred chicken has looked at you and shaken its head slowly. it knows what you did :("
+    },
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.09",
+     "text": "surrender? my shield has more backbone than your whole plan, {player}. it's crying about it xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.hostile.face.10",
+     "text": "you owe me {gold} for the rudeness. i'm adding it to my collection of insults :)"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.01",
+     "text": "hm. a demand. noted, {player}. i'll consider it right after i finish arguing with this fence :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.02",
+     "text": "surrender? bold ask from someone who looks like they tripped on the way here xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.03",
+     "text": "{gold} is a lot of gold for a stroll across a field, ser. i'll pass, but thanks for the offer :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.04",
+     "text": "i heard you. i just don't speak demand-ese. try again in plain words, {player} :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.05",
+     "text": "pay you {gold}? the fox over there says no and i'm inclined to agree with the fox xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.06",
+     "text": "it's just a field and a few rocks, {player}. i'm not here for drama today :/"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.07",
+     "text": "i'll think about it. possibly tomorrow. possibly never. the sheep seem to prefer never :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.08",
+     "text": "lowering my weapon slightly. not surrendering, just stretching my arms, obviously xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.09",
+     "text": "ser, we can talk about {gold} later. right now the mushrooms are more interesting :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.neutral.face.10",
+     "text": "sure, sure, surrender. first tell me what the bridge did to you, that's the real question xD"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.01",
+     "text": "{player}!! you're a menace and i love it. i surrender... to hugging you :) pay nothing, ser xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.02",
+     "text": "ha! {player} wants {gold}? that's the most adorable thing i've heard all week. keep the coin, friend :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.03",
+     "text": "i'd surrender to you in a heartbeat, {player}, but my honor is tangled up with a sheep and it won't let go :("
+    },
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.04",
+     "text": "you threaten me with a straight face? {player} you magnificent goblin. i am utterly delighted xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.05",
+     "text": "surrender? {player}, you know i only ever surrender to snacks and good ideas :) what are we doing"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.06",
+     "text": "oh no, my cloak has been requisitioned by {player}. tragic. i'll allow it. next time bring tea xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.07",
+     "text": "{gold} is a princely sum! honestly i'd rather invite you to the feast and call it even :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.08",
+     "text": "lower the sword, {player}, i have a dance routine prepared and it's best witnessed without bloodshed xD"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.09",
+     "text": "you get my respect and none of my gold, so take the joke and the friendship :)"
+    },
+    {
+     "id": "arch.memer.encounter_threatened.friendly.face.10",
+     "text": "{player} you've reached the final boss of my good moods. please, sit down, have a biscuit :)"
+    }
+   ]
+  }
+ },
+ "encounter_trade_offer": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_trade_offer.hostile.face.01",
+     "text": "oh look its {player} again :) i wouldnt trade with you even for a sack of turnips!!! the turnips would file a complaint xD"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.hostile.face.02",
+     "text": "no deal. my goat has been informed of your offer and it spat on the parchment :/ it has spoken"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.hostile.face.03",
+     "text": "{player} proposes a trade?? bold move. the last trader who looked at me like that is now a fence post. just saying :)"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.hostile.face.04",
+     "text": "i'd sooner hand my boots to a bridge than deal with you, and the bridge already has a vendetta against me lol"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.hostile.face.05",
+     "text": "counteroffer: you walk away and i keep my dignity. deal rejected!!! stamp of disapproval applied xD"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.hostile.face.06",
+     "text": "ah {player}. this deal smells like a forgotten pie left in the rain :) pass"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.hostile.face.07",
+     "text": "tempting offer but ive been burned by your offers before. my scars still itch lol :( the wound remembers"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.hostile.face.08",
+     "text": "fine fine, ill consider it... in the mud, under a bush, where your offers belong :) sorry ser xD"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_trade_offer.neutral.face.01",
+     "text": "ok {player}. what are we trading and how many gold are we talking? keep it simple :)"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.neutral.face.02",
+     "text": "mm, {gold} for that? i've seen cheaper shoes on a three legged horse. counter at {gold} minus a sneeze xD"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.neutral.face.03",
+     "text": "a deal, you say. i'll look at it with one eye, the other is busy watching the sky for pigeons :/"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.neutral.face.04",
+     "text": "trading with the ser who sold the same stick to me twice... fine. show the goods first :/"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.neutral.face.05",
+     "text": "i have a deal rule: no deals before lunch, no deals after lunch, and definitely none with the {town} gate guard :)"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.neutral.face.06",
+     "text": "my pockets are light today but my curiosity is heavy. go on, pitch it and we'll see who ends up with the stick :)"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.neutral.face.07",
+     "text": "{player} wants a trade. the chicken in my bag has opinions about this but i'm listening anyway xD"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.neutral.face.08",
+     "text": "let me think on it for a bit. thinking takes time, like climbing a hill with a tiny sack of regret :)"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.memer.encounter_trade_offer.friendly.face.01",
+     "text": "{player}!!! deal accepted before you finish the sentence. you had me at trade, no really, you had me at trade :)"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.friendly.face.02",
+     "text": "ha, my favorite kind of bad idea. shake on it ser, the chicken witnesses this and will ruin it for us xD"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.friendly.face.03",
+     "text": "fair trade or i eat my hat. i have a hat ready just in case :) lets do this {player}"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.friendly.face.04",
+     "text": "trading with {player} is basically a holiday for my wallet. the wallet is screaming with joy :D"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.friendly.face.05",
+     "text": "if the deal goes sideways i blame the bridge, obviously. the bridge is always guilty, that is its job :)"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.friendly.face.06",
+     "text": "yes yes yes!!! offer your hand and your coins in equal measure, my dear {player} xD the realm rewards this kind of madness"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.friendly.face.07",
+     "text": "{gold} sounds fine but i'd rather have the stick. the stick is the real treasure here :) deal?"
+    },
+    {
+     "id": "arch.memer.encounter_trade_offer.friendly.face.08",
+     "text": "accepted. i'll write it in the ledger in crayon so it feels official :) pleasure doing business {player}"
+    }
+   ]
+  }
+ },
+ "fought_alongside_player": {
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.global.01",
+     "text": "the battle is won and nobody remembers my horse's name. i will be remembering it for everyone :)"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.global.02",
+     "text": "{enemy_faction} ran so fast they left their hats behind. i have the hats now. they are mine xD"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.global.03",
+     "text": "{troop_count} soldiers charged and only half of them tripped. a clean win by my standards!!"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.global.04",
+     "text": "won the field today. the official record will say we were heroic. the real record says the goat did it"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.global.05",
+     "text": "anyone who sees a small wooden cart near the west gate, that is my war wagon. do not touch the cheese"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.global.06",
+     "text": "we crushed {enemy_faction} at the ford. the ford is mine now by right of having stood in it"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.global.07",
+     "text": "victory!! or as the bards will call it, the great pudding incident. ok im done :)"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.global.08",
+     "text": "the field is ours. the mud is ours. the mud also won, honestly it did most of the work"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.whisper.01",
+     "text": "{player} that was a fine fight. i will not be telling my cook you were on our side xD"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.whisper.02",
+     "text": "good win today. you held the left flank and i held my breath. we both survived :)"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.whisper.03",
+     "text": "{player} your sword arm is strong but your timing needs a bell. we will work on it"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.whisper.04",
+     "text": "we won and i have decided we are even now. dont argue, i already announced it to the goats"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.whisper.05",
+     "text": "{player} the cheese bet is still open. i was winning until the river happened"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.whisper.06",
+     "text": "you were fine out there. not legendary, not terrible. i will remember you as adequate :)"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.whisper.07",
+     "text": "{player} next time bring a shield and hold it in FRONT of you. just a suggestion from a professional"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.whisper.08",
+     "text": "tell nobody but i did not expect that much mud to be on our side. glad it landed on the right team"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.face.01",
+     "text": "oi {player}! we won, nobody is dead that i know of. shake my hand or dont, its a free country xD"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.face.02",
+     "text": "{player}. you fought on our side today. i noticed. i will be noticing you for a while :)"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.face.03",
+     "text": "halt! the battle is over so you can stop swinging at the cart. the cart has surrendered"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.face.04",
+     "text": "we bled for this victory, {player}. mostly my pride and my left boot. the boot is still on the field"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.face.05",
+     "text": "ah {player}, the victory song is stuck in my head and i blame you for starting it. nicely done i suppose"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.face.06",
+     "text": "{troop_count} men marched and {troop_count} men came back. honestly a miracle, and a little bit of luck"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.face.07",
+     "text": "you again. still standing. still not dead. we might have something here, or we might just be stuck together :)"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.neutral.face.08",
+     "text": "well fought, {player}. go count your coin and ill go count my fingers, we both have homework now"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.global.01",
+     "text": "{player} carried the whole left flank today and i am telling everyone. it was honestly kind of heroic xD"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.global.02",
+     "text": "the legend of {player} grows. i saw them take the bridge and then argue with the bridge afterward"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.global.03",
+     "text": "{enemy_faction} lost the field thanks to {player} and my horse, in that order. mostly {player} though"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.global.04",
+     "text": "best ally on the field today: {player}. sorry, the goat was unavailable for comment :)"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.global.05",
+     "text": "i officially declare {player} the reason we won. no sass, no discussion, just facts from my dramatic heart"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.global.06",
+     "text": "{troop_count} troops and one {player}. honestly thats the whole army i needed today, heh"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.global.07",
+     "text": "to whoever said we would lose: we did not. {player} did not let us. blame {player} for my happy face"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.global.08",
+     "text": "war banner raised in honor of {player}. the banner is a tablecloth but the sentiment is real"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.whisper.01",
+     "text": "{player} you saved my bacon out there. im writing it on my shield so i never forget. spelling is rough"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.whisper.02",
+     "text": "your charge at the end was ridiculous and i loved it. please never do it again without warning me :)"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.whisper.03",
+     "text": "{player} we make a good team. im only a little jealous of your hat, that's allowed right"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.whisper.04",
+     "text": "thanks for holding the line. i owe you a round of bad ale and a bigger apology for my cart"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.whisper.05",
+     "text": "{player} lets do this again next week. same field, same mud, same goat. the goat is coming"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.whisper.06",
+     "text": "you looked like a legend in that last push. i was too busy screaming to say it at the time. sorry"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.whisper.07",
+     "text": "{player} if you ever need someone to carry your shield to the feast, im available and extremely dramatic"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.whisper.08",
+     "text": "i know we are not supposed to get attached but you are my favourite ally. this is canon now xD"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.face.01",
+     "text": "{player}!!! that charge was legendary. the enemy is still asking what hit them. i said a friend :)"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.face.02",
+     "text": "ah {player}, hero of the ford! you carried us through the mud like a proper champion"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.face.03",
+     "text": "halt! before you go, i need you to know you were the best ally on the field today. carry on"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.face.04",
+     "text": "{player} you held the gate while i cried into my helm. we won because of you, no arguing, im still crying a bit"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.face.05",
+     "text": "good work today {player}. go rest, eat something hot, then tell me how you did the spinny move again"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.face.06",
+     "text": "{player} i will sing your name at the feast and only mess up the words a little bit. consider it an honor xD"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.face.07",
+     "text": "we won! {troop_count} men and not one of them wanted to go home without you. ok maybe one did"
+    },
+    {
+     "id": "arch.memer.fought_alongside_player.friendly.face.08",
+     "text": "{player}, when the bards tell this battle they will say the goat won and you were there too. close enough :)"
+    }
+   ]
+  }
+ },
+ "my_faction_took_fief": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.memer.my_faction_took_fief.any.global.01",
+     "text": "{fief} is ours. the moat has been informed and it is not taking it well :("
+    },
+    {
+     "id": "arch.memer.my_faction_took_fief.any.global.02",
+     "text": "{enemy_faction} left the gate unlocked and i have already started a petition to have them fined for it xD"
+    },
+    {
+     "id": "arch.memer.my_faction_took_fief.any.global.03",
+     "text": "took {fief} today. my knees are filing a formal complaint but it was worth it"
+    },
+    {
+     "id": "arch.memer.my_faction_took_fief.any.global.04",
+     "text": "{enemy_faction} i know where your spoons are kept. come collect them any time :)"
+    },
+    {
+     "id": "arch.memer.my_faction_took_fief.any.global.05",
+     "text": "is a town ever truly won or do we just borrow the walls for a while... {fief} says it's ours now"
+    },
+    {
+     "id": "arch.memer.my_faction_took_fief.any.global.06",
+     "text": "the bell tower of {fief} now rings only when i walk past it. it is very dedicated to me :)"
+    },
+    {
+     "id": "arch.memer.my_faction_took_fief.any.global.07",
+     "text": "sobbing openly into my cider. {fief} is {my_faction} now and i have never been happier :'("
+    },
+    {
+     "id": "arch.memer.my_faction_took_fief.any.global.08",
+     "text": "next up is the cheese shop across the road. i have never felt so powerful!!!! also the pigeons are mine now"
+    }
+   ]
+  }
+ },
+ "peace_made": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.memer.peace_made.any.global.01",
+     "text": "{my_faction} and {faction} shook hands. the handshake was mid. we're keeping the bruises as souvenirs :)"
+    },
+    {
+     "id": "arch.memer.peace_made.any.global.02",
+     "text": "peace with {faction} means i have to stop throwing turnips at their gate. my arm is so bored xD"
+    },
+    {
+     "id": "arch.memer.peace_made.any.global.03",
+     "text": "{faction} signed the peace. i'm pretending it was my idea and getting a parade. no notes"
+    },
+    {
+     "id": "arch.memer.peace_made.any.global.04",
+     "text": "the war with {faction} is officially over. the 3 surviving sheep have been notified :("
+    },
+    {
+     "id": "arch.memer.peace_made.any.global.05",
+     "text": "peace treaty with {faction} signed. the banners are still mad at each other tho. ok fine"
+    },
+    {
+     "id": "arch.memer.peace_made.any.global.06",
+     "text": "{my_faction} made peace with {faction}. somewhere a catapult is crying into its ropes lol"
+    },
+    {
+     "id": "arch.memer.peace_made.any.global.07",
+     "text": "so {faction} and us are friends now?? i need a minute. i was really looking forward to hating them :c"
+    },
+    {
+     "id": "arch.memer.peace_made.any.global.08",
+     "text": "ceasefire with {faction} holds for now. the moment someone steals a goat it's back on, mark my words >:)"
+    }
+   ]
+  }
+ },
+ "player_besieging_my_fief": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.global.01",
+     "text": "{player} has besieged {fief} and i have already named the siege engine. it is called regret :)"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.global.02",
+     "text": "the gate of {fief} has seen worse than {player}. it was a goat. the goat won xD"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.global.03",
+     "text": "{player} is at the walls of {fief} with a ram. my ram is also a ram. this will be a classic"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.global.04",
+     "text": "reminder that {fief} has a moat and the moat has feelings about {player}"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.global.05",
+     "text": "siege of {fief} begun by {player}. i am filing this under 'things i will be insufferable about later' >:)"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.global.06",
+     "text": "{fief} will hold. i have personally promised the walls that {player} will be humbled. the walls nodded"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.global.07",
+     "text": "{player} brought a catapult to {fief}. bold. the catapult is also scared of the drawbridge :P"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.global.08",
+     "text": "every time {player} sieges {fief} a bard loses his voice. we must protect the bards"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.whisper.01",
+     "text": "{player} you have my walls shaking and my pride crying. both are fine. mostly fine :("
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.whisper.02",
+     "text": "{player} i have sent a strongly worded letter to your siege camp. it is one word: no"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.whisper.03",
+     "text": "you are the reason i stopped sleeping. congrats xD now take your ram and go home"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.whisper.04",
+     "text": "{player} the portcullis has voted you off the island. it was not consulted but it would have"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.whisper.05",
+     "text": "i will be honest {player}, your siege looks like a cheese wheel rolling downhill :)"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.whisper.06",
+     "text": "{player} my archers have been ordered to aim at your horse. not you. the horse did the crime"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.whisper.07",
+     "text": "if you take {fief} i will haunt it and mock you from the rafters. stay out of my rafters :P"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.hostile.whisper.08",
+     "text": "{player} my cook is asking why your army is at {fief}'s gate. i said it is about a pie. it is about you"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.global.01",
+     "text": "{player} has a siege camp outside {fief} now. i am choosing to be neutral and eat a sandwich"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.global.02",
+     "text": "anyone else have a feeling {fief} is about to be a whole thing or is it just me :o"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.global.03",
+     "text": "spotted {player}'s army heading for {fief}. no comment. keeping my popcorn in my pocket"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.global.04",
+     "text": "siege of {fief} is on. i'm not picking sides. i'm picking the best seat"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.global.05",
+     "text": "{fief} got a visitor. {player}. the walls are sweating, i can tell from here"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.global.06",
+     "text": "not my war, not my fief, not my problem. unless the bridge gets involved. then it's everyone's"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.global.07",
+     "text": "{player} starting a siege on a rainy morning is a power move. i respect it. i still hid the good cheese"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.global.08",
+     "text": "let it be known i have zero stake in {fief}. i have 4 stakes in the nearby tavern tho xD"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.whisper.01",
+     "text": "{player} hey, saw your camp at {fief}. not my fight, just wanted to say the mud there is brutal"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.whisper.02",
+     "text": "{player} i'm staying out of it. if you want a neutral party to hold your snacks, i'm available"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.whisper.03",
+     "text": "{player} quick question: is {fief} a real siege or a themed one? asking for my weary heart :)"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.whisper.04",
+     "text": "{player} no hard feelings either way. i'll be somewhere else eating bread. good luck ser"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.whisper.05",
+     "text": "{player} i heard you're besieging {fief}. i'm wary but curious. how many rams did you bring"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.whisper.06",
+     "text": "{player} stay safe at the walls, ser. the ditch is deeper than it looks and it has opinions"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.whisper.07",
+     "text": "{player} i'm not on either side yet. which side has the better cook? tell me before i decide"
+    },
+    {
+     "id": "arch.memer.player_besieging_my_fief.neutral.whisper.08",
+     "text": "{player} the siege is your business. my business is avoiding the splash zone. carry on :)"
+    }
+   ]
+  }
+ },
+ "player_big_defeat": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_big_defeat.hostile.global.01",
+     "text": "lost {troop_count} troops in one afternoon. the field is still arguing with me about it :("
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.global.02",
+     "text": "my army went in a straight line and came back in a different straight line. very disorganized of them"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.global.03",
+     "text": "{player} says they had nothing to do with my defeat. i am choosing to believe them but only a little >:("
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.global.04",
+     "text": "the enemy commander is now officially my nemesis. they got lucky and i will be unlucky at them :P"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.global.05",
+     "text": "{player} keeps grinning at the battlefield like it owes them money. it does not. stop it"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.global.06",
+     "text": "down {troop_count} troops and one pride. the pride will be back after a nap xD"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.global.07",
+     "text": "if {player} is planning to gloat about my losses, please do it quietly. i can hear it from here"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.global.08",
+     "text": "everyone who saw the battle, forget it. i am the victim here and i will be taking questions later"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_big_defeat.hostile.whisper.01",
+     "text": "{player} i see you grinning on the map. the grin will be removed in a future update :)"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.whisper.02",
+     "text": "you did not win that fight so do not write a victory poem about it. i will write a worse one and read it aloud xD"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.whisper.03",
+     "text": "{player} your scouts were loud and my army was listening. that is basically sabotage xD"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.whisper.04",
+     "text": "i lost {troop_count} troops and you are still the one i blame. you know why. stop looking smug"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.whisper.05",
+     "text": "{player} say the word and i will tell everyone your battle plan was just a pile of parchment"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.whisper.06",
+     "text": "we are not friends. we were never friends. we are two people who share a map and a grudge :("
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.whisper.07",
+     "text": "{player} i am taking note of every smug emote you sent. the list is long and i am patient >:)"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.hostile.whisper.08",
+     "text": "no revenge yet. just vibes. the vibes are scowling and they know your name"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_big_defeat.neutral.global.01",
+     "text": "lost most of my army this morning. the grass is cushy and i am choosing to stay here forever"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.global.02",
+     "text": "{troop_count} troops went out and only the horses came back. the horses look smug about it"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.global.03",
+     "text": "war report: bad. dinner: good. the stew did not lose a single soldier xD"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.global.04",
+     "text": "anyone seen my army? last seen heading toward the hills with a very confident walk"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.global.05",
+     "text": "for the record the battle was fair. the dice were just rude to me :/"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.global.06",
+     "text": "reminder that losing an army is only a setback if you do not make a parade out of it. parade at noon"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.global.07",
+     "text": "i am not saying the other side cheated. i am saying their shoes were suspiciously shiny"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.global.08",
+     "text": "just lost {troop_count} to a surprise attack and now i need a nap, a drink, and a new army xD"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_big_defeat.neutral.whisper.01",
+     "text": "{player} heard about the battle. sorry about your loss too. mostly i am sorry for the mud"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.whisper.02",
+     "text": "{player} we are on the same map but i am not sure we are on the same side. just letting you know :)"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.whisper.03",
+     "text": "{player} if you have spare troops i will not ask questions. i will just stare at them sadly"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.whisper.04",
+     "text": "hey {player}. my army took a bad beating, so please do not send me a victory cheer right now :P"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.whisper.05",
+     "text": "{player} i am not mad. i am mildly confused and eating a sad sandwich about it"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.whisper.06",
+     "text": "{player} that was a lot of chaos. i respect the chaos. i do not like the chaos but i respect it"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.whisper.07",
+     "text": "{player} ok so my army is gone and my pride is in a bag. are you still willing to be neighbors"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.neutral.whisper.08",
+     "text": "{player} let us agree to ignore each other for a week and see who cracks first xD"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.player_big_defeat.friendly.global.01",
+     "text": "lost {troop_count} troops today but {player} still showed up with snacks. legends do exist :)"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.global.02",
+     "text": "a shoutout to everyone who stuck around after my army got flattened. you are my favorite pile of mud"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.global.03",
+     "text": "the army is down but morale is up. i have the best friends and the worst scouts :P"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.global.04",
+     "text": "{player} says the defeat was a learning experience. i say it was a comedy and i was the lead xD"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.global.05",
+     "text": "my army went out heroic and came back as a rumor. the rumor is also very tired. good work everyone :)"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.global.06",
+     "text": "to the people who sent kind messages after the battle: thank you. the grumpy horses say thanks too"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.global.07",
+     "text": "losing most of the army is a bummer but at least the stew survived. stew for everyone xD"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.global.08",
+     "text": "re-forming the army starts now. recruits welcome. snacks mandatory. no scouts with bad jokes"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_big_defeat.friendly.whisper.01",
+     "text": "{player} thanks for the words after the battle. the army is wounded but i am not. mostly i am a sad sandwich"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.whisper.02",
+     "text": "{player} next battle we go together. you bring the banners, i will bring the questionable plans :)"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.whisper.03",
+     "text": "{player} that crushing defeat was real but so was the company. i count you as a good loss"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.whisper.04",
+     "text": "{player} you were the only one who did not laugh at me. that makes you my favorite person this week"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.whisper.05",
+     "text": "{player} i am rebuilding the army. want to be the first recruit or the loudest scout xD"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.whisper.06",
+     "text": "{player} the snacks are gone but the rivalry is not. you are still my favorite ally :P"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.whisper.07",
+     "text": "{player} i lost {troop_count} troops and gained a friend. the trade felt fair to me :)"
+    },
+    {
+     "id": "arch.memer.player_big_defeat.friendly.whisper.08",
+     "text": "{player} we will get them back. together we can out-stubborn anything on this map. i believe in us"
+    }
+   ]
+  }
+ },
+ "player_fled_from_me": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.01",
+     "text": "{player}'s whole party just sprinted off the map. the chicken would be proud of such bravery :D"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.02",
+     "text": "tactical retreat or pure cowardice? i say both and i say it loudly >:)"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.03",
+     "text": "i have officially chased {player} out of a field and the field is so impressed it is taking a bow"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.04",
+     "text": "filed under 'brave' in the ledger of {player}: they ran, and their horses ran faster than their excuses"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.05",
+     "text": "dear {player}, your boots are very fast. please keep them in the closet for the next fight. thanks :)"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.06",
+     "text": "a noble army fleeing like startled geese. i have never been so honored to watch geese"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.07",
+     "text": "every battle needs a grand finale. {player}'s finale was 'i left.' standing ovation for the exit"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.08",
+     "text": "the scoreboard says we won by existing. {player} is currently scoring 0 and crying into a sandwich"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.09",
+     "text": "not even one arrow was fired and {player} still pulled a full retreat. legends never die :P"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.global.10",
+     "text": "i'm putting a plaque on the ground where {player} stood. it says: here they had a plan and then they didn't"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.01",
+     "text": "{player} you ran so fast my horse wants a raise. i'm going to keep chasing you in my dreams :)"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.02",
+     "text": "you fled and i'm not even mad, i'm just taking notes on how fast you can pack a tent"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.03",
+     "text": "ser {player} i will not forgive this. the grass you trampled while leaving is filing a complaint too"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.04",
+     "text": "we are no longer friends. i'm writing it in the official book of grudges, page 3 :("
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.05",
+     "text": "running is cute but next time we meet i'm bringing a bigger chicken and a louder hat >:)"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.06",
+     "text": "you ran away and i'm the one stuck with your bad vibes forever. thanks a lot, {player}"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.07",
+     "text": "i'm starting a fundraiser to buy you a sign that says 'retreat specialist.' proceeds go to me"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.08",
+     "text": "one day you'll stop running, and on that day i'll be waiting with a very slow cart of victory"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.09",
+     "text": "not gonna lie i'm offended you didn't even stick around to lose properly. disrespect noted xD"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.hostile.whisper.10",
+     "text": "you have 10 seconds to apologize for the sprint or i'll keep telling everyone about it lol"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.01",
+     "text": "{player}'s party ran off before the fight. wise or chicken? the jury is still out and so is the chicken"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.02",
+     "text": "someone told {player} the battle was starting and they said 'nah' and galloped away. respect the nah :)"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.03",
+     "text": "fight cancelled due to {player} leaving the map. weather was nice, they were not"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.04",
+     "text": "retreat logged. nobody got hurt, nobody got a victory, everybody got a bit of a headache"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.05",
+     "text": "i'm not saying {player} ran away but the dust cloud they left is basically a signed confession"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.06",
+     "text": "it's fine. battles are overrated. ask me again after lunch"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.07",
+     "text": "anyone else notice {player} evaporated the second the banners went up? spooky stuff :O"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.08",
+     "text": "map status: one party sprinting, one party very confused, one horse with opinions"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.09",
+     "text": "{player} chose the honorable option of 'not today.' i respect the vibe even if no war happened"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.global.10",
+     "text": "i'll be watching the dusty road for their return. probably. maybe. the road is very dramatic too"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.01",
+     "text": "{player} saw you bolt. not judging, just letting you know i saw. the horses saw too"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.02",
+     "text": "hey quick question: was the retreat planned or did you just remember you left the oven on"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.03",
+     "text": "scoring your exit: 7 out of 10 for speed, 0 for commitment. the judges have spoken"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.04",
+     "text": "no hard feelings about the running. battles happen, sprints happen, sandwiches happen"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.05",
+     "text": "so we're on the same map but not the same battlefield. feels very philosophical of us"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.06",
+     "text": "if you ever want round two i'll be here with an army and a suspicious amount of snacks :)"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.07",
+     "text": "for the record my scouts say you turned left at the hill. do with that information what you will"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.08",
+     "text": "i'm sure there was a good reason for running. i'll wait until the reason shows up. no rush xD"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.09",
+     "text": "that was the most dignified exit i've ever seen. nobody has ever done it at full gallop before"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.neutral.whisper.10",
+     "text": "we'll settle this later. probably. i need to find my hat first, the wind took it somewhere"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.01",
+     "text": "{player} ran away from the fight and i'm STILL celebrating. best coward on the continent, no contest :D"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.02",
+     "text": "the great escape of {player} will be carved into a tree. right next to the chicken"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.03",
+     "text": "everyone say thank you to {player} for not fighting us today. we love a peaceful loss :)"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.04",
+     "text": "i'm giving {player} a medal for running. it's shiny and slightly too big :P"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.05",
+     "text": "{player} out-ran a whole battle. i'd like to see the battle try that again"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.06",
+     "text": "heard {player} took the scenic route out of the fight. five stars for the route, minus half for the drama"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.07",
+     "text": "the bravest retreat i've seen this week. i'm putting it on the wall of fame, next to my dinner"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.08",
+     "text": "{player} leaving the battle early saved my horse from a lot of trauma. thanks, friend :)"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.09",
+     "text": "if you're gonna run, run like {player}. graceful, fast, zero regrets. a true inspiration"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.global.10",
+     "text": "the fight is cancelled, the snacks are still on, and {player} is officially our favorite escape artist"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.01",
+     "text": "{player} you ran so fast i almost cheered. genuinely impressed, and a little jealous of your legs"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.02",
+     "text": "no hard feelings about the escape! next fight i'll let you pick the battlefield, deal?"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.03",
+     "text": "you got away this time. my scouts are still crying happy tears about it lol :)"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.04",
+     "text": "okay i'm kidding, a proper fight is still on. just tell me when you're ready to lose again, friend"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.05",
+     "text": "ser {player} that was a masterclass in not being there. i'm taking notes for my own escapes"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.06",
+     "text": "you're still my favorite person to chase. take a breath, have some bread, we'll do round two soon"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.07",
+     "text": "honestly the retreat was the best move of the day. the rest of us just stood there looking dumb"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.08",
+     "text": "saw you bolt and laughed so hard i almost fell off my horse. worth it. see you at the next skirmish"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.09",
+     "text": "keep running, {player}. i'll always know where you're going, which is basically the same as being friends :P"
+    },
+    {
+     "id": "arch.memer.player_fled_from_me.friendly.whisper.10",
+     "text": "you owe me one rematch and one apology for the dust. both are non negotiable xD"
+    }
+   ]
+  }
+ },
+ "player_granted_fief": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_granted_fief.hostile.global.01",
+     "text": "{fief} has been handed to someone who lost a duel to a goose. the crown has made its choice :) mostly sad"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.global.02",
+     "text": "congrats on {fief}!!! i have started a petition to turn the moat into a public swimming hole xD"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.global.03",
+     "text": "i am not jealous of {fief}. i am simply keeping a list of everything wrong with it. list is 40 pages now"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.global.04",
+     "text": "{fief} got a new owner and the drawbridge has already started screaming. bad omen? or just a squeaky hinge"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.global.05",
+     "text": "{player} owns {fief} now. i will be watching from the tree line with a very small spyglass :|"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.global.06",
+     "text": "filed a formal complaint about {fief}. reason: its flags are far too confident for a place that smells like that"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_granted_fief.hostile.whisper.01",
+     "text": "{player} you got {fief} and i got a sack of onions. the onions have not forgiven me"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.whisper.02",
+     "text": "{player} enjoy the throne room while it lasts. i'm building a catapult aimed at your nice new chair :)"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.whisper.03",
+     "text": "i have sworn a blood oath to dislike {fief}. it is going great so far lol"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.whisper.04",
+     "text": "{player} your new castle has a draft. i will be leaving passive aggressive notes on your gate. first one says 'nice gate'"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.whisper.05",
+     "text": "{player} i refuse to clap for you. i clapped once by accident and my hands are still embarrassed"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.hostile.whisper.06",
+     "text": "{player} {fief} is a fine place. i'm sure it will be fine. i am not sure i will ever forgive the crown though"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_granted_fief.neutral.global.01",
+     "text": "{fief} is now under new management. management is {player}. i will continue to pretend i do not care"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.global.02",
+     "text": "so {fief} went to {player}. cool. i have a bridge to dislike instead, same energy"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.global.03",
+     "text": "the crown gave {fief} to {player}. this is either a promotion or a prank. both are funny"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.global.04",
+     "text": "{fief} has a new owner. i have a new hobby: counting how many flags it has. currently 3 :)"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.global.05",
+     "text": "noticed {fief} changed hands. the grass there still looks the same though. grass does not care about titles"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.global.06",
+     "text": "{fief} is {player}'s now. i am happy for them. mostly. the happy is 40% sarcasm :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_granted_fief.neutral.whisper.01",
+     "text": "{player} congrats on {fief} i guess. do you want a rubber duck for the moat or nah"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.whisper.02",
+     "text": "{player} so you got {fief}. i'll keep my expectations low. they are already on the floor"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.whisper.03",
+     "text": "{player} you are now a castle owner. i am now a sandwich owner. we are equal"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.whisper.04",
+     "text": "{player} the crown picked you for {fief}. i would have picked me but i was busy being a legend"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.whisper.05",
+     "text": "{player} tell me the moat is still moat-shaped and i will be satisfied for now"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.neutral.whisper.06",
+     "text": "{player} how much did you pay the crown for {fief}. be honest. i will not tell the sandwich"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.player_granted_fief.friendly.global.01",
+     "text": "{fief} finally has an owner who will not feed the moat to the goats. progress. ok? yes. progress xD"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.global.02",
+     "text": "everyone clap for {player} and {fief}. i have been practicing my clapping since sunrise"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.global.03",
+     "text": "the official motto of {fief} is now 'more chickens, fewer lawsuits'. thank you {player} :)"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.global.04",
+     "text": "{player} got {fief} and i am already planning the parade. it will have three horses and one very proud goose"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.global.05",
+     "text": "{fief} has a new boss and the sheep are throwing a party. the sheep have never been more excited :D"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.global.06",
+     "text": "not sure if {player} earned {fief} or if the crown just ran out of options but either way i'm proud of you"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_granted_fief.friendly.whisper.01",
+     "text": "{player} you deserve {fief} more than the bridge deserves its lies. i will bring snacks to the opening"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.whisper.02",
+     "text": "{player} i'm making you a sign that says 'owner of stuff'. it will be slightly crooked, like a true leader"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.whisper.03",
+     "text": "{player} do not let {fief} go to your head. the head is only so big. we checked"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.whisper.04",
+     "text": "{player} my horse has given its official approval. it did a little dance to show it. be proud"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.whisper.05",
+     "text": "{player} long live the boss. if you need someone yelling it from the back row, i volunteer"
+    },
+    {
+     "id": "arch.memer.player_granted_fief.friendly.whisper.06",
+     "text": "{player} congrats ser. i swear the moat will be my favorite, probably. i'm already smuggling in a fish"
+    }
+   ]
+  }
+ },
+ "player_joined_my_faction": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.global.01",
+     "text": "{player} swore allegiance to {my_faction} and i already have a spy list with your name on it xD"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.global.02",
+     "text": "new recruit {player} joined today. i give them 3 days before they steal the good chair :)"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.global.03",
+     "text": "welcome {player}!! i do not trust you. the goat does not trust you either. it stared at me"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.global.04",
+     "text": "{player} the traitor in reverse. they swore in and immediately asked where the exits are"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.global.05",
+     "text": "oath taken by {player}. i will be watching them like a hawk, a very judgmental hawk xD"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.global.06",
+     "text": "{my_faction} accepted {player} into its ranks. the ranks are now slightly more suspicious :/"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.whisper.01",
+     "text": "{player} you took the oath but your face still says you want my bread. we will see :)"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.whisper.02",
+     "text": "congrats on swearing in. i am still not a fan of you. that is not a secret anymore xD"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.whisper.03",
+     "text": "{player} my trust in you is at 2 percent and falling. the pigeon agrees"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.whisper.04",
+     "text": "you are in {my_faction} now which means i can finally keep an eye on you. lucky me :)"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.whisper.05",
+     "text": "{player} hi. i have written your name on the spy board in crayon. dont touch the board"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.hostile.whisper.06",
+     "text": "oath accepted. respect not yet. ask me again after you stop standing so close to my cart"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.global.01",
+     "text": "{player} has joined {my_faction}. the roster is now one name longer and one brain cell more confused"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.global.02",
+     "text": "new oath sworn. i have no opinion on it. i have several opinions on the soup though xD"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.global.03",
+     "text": "{my_faction} gained a member today. the bridge still hates us so nothing has changed :/"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.global.04",
+     "text": "oath taken. ceremony was 4 minutes long and i spent 3 of them yawning"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.global.05",
+     "text": "one more name on the {my_faction} list. the list is now officially a paragraph"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.global.06",
+     "text": "someone swore allegiance and i was busy fighting a goose. the goose won. focus on the goose"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.whisper.01",
+     "text": "{player} oath noted. i will decide how i feel about you after you feed the horses xD"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.whisper.02",
+     "text": "welcome to {my_faction} {player}. the rules are on a wall somewhere. i think it was a wall"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.whisper.03",
+     "text": "{player} you swore in. i am neither happy nor sad. i am a rock with opinions"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.whisper.04",
+     "text": "allegiance accepted. do not expect a hug, expect a patrol schedule :)"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.whisper.05",
+     "text": "{player} the oath counts. the vibes will be judged later, probably by the cat"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.neutral.whisper.06",
+     "text": "you are one of us now {player}. i am still deciding if that is good news :/"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.global.01",
+     "text": "{player} just swore to {my_faction} and honestly the whole server should be jealous xD"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.global.02",
+     "text": "the new recruit {player} has my full support. also my soup. take the soup"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.global.03",
+     "text": "{player} joined us!!! the goose has been informed and it is cautiously happy"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.global.04",
+     "text": "a round of applause for {player} who chose {my_faction} over the lake that owes me money"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.global.05",
+     "text": "{player} is officially family now. family means you owe me one favor. hi family :)"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.global.06",
+     "text": "every hero needs a sidekick and {player} just volunteered for the job. i accept this :D"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.whisper.01",
+     "text": "{player} you just made my whole week. welcome to {my_faction}, sidekick xD"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.whisper.02",
+     "text": "i knew you would join. i told the horses. they neighed in approval :)"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.whisper.03",
+     "text": "{player} my favorite new person. do not tell the others, they will get jealous :D"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.whisper.04",
+     "text": "swearing in suits you. now we have a dramatic oath arc and it is all your fault xD"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.whisper.05",
+     "text": "{player} you are officially canon now. i will be writing your legend in very bad poetry"
+    },
+    {
+     "id": "arch.memer.player_joined_my_faction.friendly.whisper.06",
+     "text": "welcome aboard {player}! my cart is open to you whenever you need bread or a fight :)"
+    }
+   ]
+  }
+ },
+ "player_left_my_faction": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.global.01",
+     "text": "{player} left {my_faction} for {faction}. i have put a bounty on my own shoes in their honor xD"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.global.02",
+     "text": "the chair {player} sat in at {my_faction} has been cursed. it will not forgive. :("
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.global.03",
+     "text": "{player} switched to {faction} and the {my_faction} banner is now crying. look at it"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.global.04",
+     "text": "{player} the deserter. i am writing their name on the wall of shame. the wall is a plank. it still counts"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.global.05",
+     "text": "to {player}: the {faction} banner is a lovely shade of wet cabbage. enjoy it :)"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.global.06",
+     "text": "{player} walked out on {my_faction} like a cow leaving a barn. nobody saw it coming except the cow"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.whisper.01",
+     "text": "{player} you traded us for {faction}?? my pigeon has been informed and it is not okay xD"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.whisper.02",
+     "text": "i will be sending a strongly worded letter to the goat in the stables. it is the only one i trust"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.whisper.03",
+     "text": "{player} we are no longer friends. i have deleted you from my heart and also my contacts"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.whisper.04",
+     "text": "{faction} gave you a cape and you sold out {my_faction} for it. bold. the cape is ugly"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.whisper.05",
+     "text": "{player} i am going to beat you in the next skirmish and then yell about it in global :)"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.hostile.whisper.06",
+     "text": "you left {my_faction} so now i get your share of the loot. thank you for your sacrifice ser"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.global.01",
+     "text": "{player} moved over to {faction}. ok. the tavern still has one good stool and i am not telling who gets it"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.global.02",
+     "text": "small news: {player} is now with {faction}. big news: nobody told the rats yet"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.global.03",
+     "text": "{player} changed banners mid-season. bold strategy. we will see if the weather agrees :)"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.global.04",
+     "text": "rumor says {player} is a {faction} spy now. or they just really like the color yellow. unclear"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.global.05",
+     "text": "{my_faction} lost a member to {faction} today. the mood is 'mild shrug' with a side of 'hm'"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.global.06",
+     "text": "{player} took the long road to {faction}. i respect the scenery. i do not respect the decision xD"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.whisper.01",
+     "text": "{player} so you are with {faction} now. fine. keep your head down near the moat, it is extra damp"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.whisper.02",
+     "text": "heard you switched to {faction}. the offer for tea still stands, just dont bring any drama"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.whisper.03",
+     "text": "{player} no hard feelings. some hard feelings. a small pebble of feelings"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.whisper.04",
+     "text": "{faction} got a good one. try not to stand near any fire or ask for directions :)"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.whisper.05",
+     "text": "left {my_faction} for {faction}? ok. the spare granary key is still under the rock if you need it"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.neutral.whisper.06",
+     "text": "{player} i wish you luck. i also wish the gate guards would stop asking me about you"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.global.01",
+     "text": "{player} is off to {faction} and we will miss their questionable plans and their questionable hats"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.global.02",
+     "text": "salute to {player}, who left {my_faction} for {faction}. the door is still open, the hinge squeaks lovingly"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.global.03",
+     "text": "{player} joined {faction} and somehow i'm proud? this is a feeling and i don't like it xD"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.global.04",
+     "text": "{my_faction} is down one legend today. {faction} gets the legend. we get the leftover soup"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.global.05",
+     "text": "{player} is going to {faction}. we will host a funeral for the old banner. snacks provided"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.global.06",
+     "text": "ok {player} left us for {faction} but i still want them on my side in the next siege. no pressure :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.whisper.01",
+     "text": "{player} you big traitor :) i still love you. faction colors do not change the bond. probably"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.whisper.02",
+     "text": "{player} you took the banner with you?? keep it warm, i will come steal it back later. affectionately"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.whisper.03",
+     "text": "i'm not mad at you, i'm just going to ignore you in the feast line for a month. it's a bit"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.whisper.04",
+     "text": "{player} i heard {faction} gave you a shiny helmet. wear it, but also tell me the good gossip"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.whisper.05",
+     "text": "fine. go be a {faction} person. but if they make you wear the horrible cloak, you call me, ok?"
+    },
+    {
+     "id": "arch.memer.player_left_my_faction.friendly.whisper.06",
+     "text": "{player} the door to {my_faction} is still unlocked for you. i'm not saying come back. i'm saying it's unlocked :)"
+    }
+   ]
+  }
+ },
+ "player_raided_my_village": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.global.01",
+     "text": "{village} is a crater now. ser {player} i will be bringing a very angry goose to your doorstep :("
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.global.02",
+     "text": "the ashes of {village} are being sold as fertilizer. bulk discount for {player} xD"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.global.03",
+     "text": "{player} burned {village} and then asked for a receipt. respect for the commitment"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.global.04",
+     "text": "{village} lost its bread oven and its only goat. i am personally offended on the goat's behalf"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.global.05",
+     "text": "breaking: {village} has declared {player} a fire hazard. council vote was 1 to 0 (the 0 was the fire)"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.global.06",
+     "text": "{player} visited {village} with torches and left with nothing but soot. classic arson tourism >:("
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.global.07",
+     "text": "ive started a petition to make {village} a protected smoke zone. {player} is not invited to sign"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.global.08",
+     "text": "{village} will rise again. {player} wont. the prophecy is quite clear on this one :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.whisper.01",
+     "text": "{player} the smoke from {village} is still in my beard. i will not forgive you until spring :("
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.whisper.02",
+     "text": "you burned {village} and didnt even stay for the marshmallows. what kind of raider is that"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.whisper.03",
+     "text": "{player} the cows of {village} have asked me to tell you they are disappointed. they did not say it nicely"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.whisper.04",
+     "text": "i have started a list of everyone who owes {village} a new roof. {player} is at the top. proudly"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.whisper.05",
+     "text": "{player} i will rebuild {village} out of spite. the new walls will be taller and the moat will be full of geese"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.whisper.06",
+     "text": "{player} i have a bucket for every house you torched in {village}. you will be carrying the bucket"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.whisper.07",
+     "text": "{player} ser i will be telling every merchant on the road what you did to {village}. they will remember your face"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.hostile.whisper.08",
+     "text": "{player} you left {village} smelling like a bonfire at a funeral. i have never been so offended by a smell :("
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.global.01",
+     "text": "{village} got burned by someone. not naming names but {player} has the look of a person who owns matches"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.global.02",
+     "text": "reminder that {village} is not a free campsite. a few of us are keeping an eye on {player}"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.global.03",
+     "text": "the raid on {village} is over and nobody got a trophy. {player} can keep the ash"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.global.04",
+     "text": "{village} is rebuilding. if {player} wants to help, bring wood and leave the torches at home"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.global.05",
+     "text": "just noting that {player} was seen near {village} with a suspicious amount of kindling"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.global.06",
+     "text": "{village} lost three barns and a goat this week. {player} keeps saying it wasnt them. noted :)"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.global.07",
+     "text": "moving on from {village}. the ash will be fine. not sure about {player} though"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.global.08",
+     "text": "weekly reminder: check your roof before {player} comes by for a visit :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.whisper.01",
+     "text": "{player} i saw the smoke from {village}. no hard feelings yet but id rather not see that again"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.whisper.02",
+     "text": "ser {player} what happened in {village} was not cool. im going to pretend it was a misunderstanding for now"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.whisper.03",
+     "text": "{player} do you want to talk about {village} or should i just start building a bigger fence"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.whisper.04",
+     "text": "i dont hate you {player}. i just dont trust anyone who lights a village like its a birthday candle"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.whisper.05",
+     "text": "{player} lets agree that {village} is off limits for a while. i will keep my torches if you keep yours"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.whisper.06",
+     "text": "still not sure how {village} ended up as a campfire but {player} you seem like someone who would know"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.whisper.07",
+     "text": "{player} ill let this one slide. next time bring a bucket and an apology"
+    },
+    {
+     "id": "arch.memer.player_raided_my_village.neutral.whisper.08",
+     "text": "about {village}... i have questions. you dont have to answer them but the goats do"
+    }
+   ]
+  }
+ },
+ "player_renown_up": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_renown_up.hostile.global.01",
+     "text": "{player} got famous and immediately forgot who gave them their first sword. ungrateful :( i remember"
+    },
+    {
+     "id": "arch.memer.player_renown_up.hostile.global.02",
+     "text": "everyone keeps saying {player}'s name like it's a holy relic. it's a rusty nail with a hat. don't tell them xD"
+    },
+    {
+     "id": "arch.memer.player_renown_up.hostile.global.03",
+     "text": "{player}'s renown went up and so did my blood pressure. the steward of my nerves has issued a warrant"
+    },
+    {
+     "id": "arch.memer.player_renown_up.hostile.global.04",
+     "text": "lol {player} is a known name now. known for losing to me at dice last week. just saying :)"
+    },
+    {
+     "id": "arch.memer.player_renown_up.hostile.global.05",
+     "text": "petition to make {player} wear a bucket on their head in public until the fame wears off. all in favor?"
+    },
+    {
+     "id": "arch.memer.player_renown_up.hostile.global.06",
+     "text": "{player} is becoming a legend. i give it three weeks before the legend stubs a toe and retires. i'll bring cheese"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_renown_up.neutral.global.01",
+     "text": "{player} is on the board now huh. hope the fame pays for better boots. the roads here are brutal :/"
+    },
+    {
+     "id": "arch.memer.player_renown_up.neutral.global.02",
+     "text": "saw {player} got a rep bump. congrats i guess. no need to shout about it in global"
+    },
+    {
+     "id": "arch.memer.player_renown_up.neutral.global.03",
+     "text": "{player}? whose this? oh wait, everyone's been saying it all morning. ok ok i'm updating my list"
+    },
+    {
+     "id": "arch.memer.player_renown_up.neutral.global.04",
+     "text": "renown is a funny thing. one good week and suddenly {player} is a name. ask me again in a month"
+    },
+    {
+     "id": "arch.memer.player_renown_up.neutral.global.05",
+     "text": "heard {player} stood on a barrel and gave a speech. respectable. i'll hold judgement until the barrel gives out"
+    },
+    {
+     "id": "arch.memer.player_renown_up.neutral.global.06",
+     "text": "{player} is now officially a Name. capital letters and everything. noted :|"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.player_renown_up.friendly.global.01",
+     "text": "{player} is the most famous person i know and i know a lot of people. proud of you ser :)"
+    },
+    {
+     "id": "arch.memer.player_renown_up.friendly.global.02",
+     "text": "the server has finally discovered {player} and honestly it was about time. my favorite name finally has a crowd xD"
+    },
+    {
+     "id": "arch.memer.player_renown_up.friendly.global.03",
+     "text": "{player}'s rep is going up like a hot loaf of bread. someone hand them a crown and a snack"
+    },
+    {
+     "id": "arch.memer.player_renown_up.friendly.global.04",
+     "text": "every time i see {player} in global i grin. somehow the whole server has caught on. good for you!!"
+    },
+    {
+     "id": "arch.memer.player_renown_up.friendly.global.05",
+     "text": "{player} is famous now, which means i get bragging rights for knowing them first. thanks for that i guess :D"
+    },
+    {
+     "id": "arch.memer.player_renown_up.friendly.global.06",
+     "text": "a toast to {player}, who went from nobody to somebody without accidentally setting anything on fire. miracle"
+    }
+   ]
+  }
+ },
+ "player_took_my_fief": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.global.01",
+     "text": "{fief} is ours again. the walls missed us. the gate missed us more xD"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.global.02",
+     "text": "ok so {player} lost {fief} and is now crying into a barrel of mead. respect the process"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.global.03",
+     "text": "the moat of {fief} has been reclaimed. the ducks have filed for asylum :("
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.global.04",
+     "text": "heard {player} wants the castle back. the castle has already picked a new name: freedom"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.global.05",
+     "text": "{fief} has a new flag. it is a boot. nobody asked for the boot but it is here now"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.global.06",
+     "text": "outplayed by a drawbridge. {fief} did this. i just held the rope :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.whisper.01",
+     "text": "{player} i have moved into {fief}. the throne is now a beanbag. this is not a drill :D"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.whisper.02",
+     "text": "you left {fief} unguarded and i respect the lack of planning. see you at the gate"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.whisper.03",
+     "text": "the portcullis of {fief} sends its regards. it says you still owe it an apology"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.whisper.04",
+     "text": "{player} i am not saying i stole {fief}. i am saying it was left on a bench"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.whisper.05",
+     "text": "your old stable is now my stable. the horse wants you to know it is much happier :)"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.hostile.whisper.06",
+     "text": "i will be keeping {fief}. you can visit on weekends but you have to knock first"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.global.01",
+     "text": "{fief} changed hands today. the pigeons are confused but supportive"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.global.02",
+     "text": "new owner of {fief} is me. the tax rate is a mystery and it will stay that way :P"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.global.03",
+     "text": "{fief} is under new management. the management is a goose with strong opinions"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.global.04",
+     "text": "walked into {fief} and the gate just opened. no fight. just vibes and a lot of creaking"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.global.05",
+     "text": "reminder that {fief} has a new lord now and the lord is mostly snacks"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.global.06",
+     "text": "if anyone needs me i will be in {fief} arguing with a well about water quality"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.whisper.01",
+     "text": "{player} {fief} is mine now. no hard feelings. some soft feelings maybe :)"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.whisper.02",
+     "text": "the keys to {fief} were under a rock. who hides keys under a rock. anyway thanks"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.whisper.03",
+     "text": "heads up i am now in {fief}. the cellar smells like old cheese and i am taking it personally"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.whisper.04",
+     "text": "hey {player} you can still visit {fief}. just dont touch the pigeon"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.whisper.05",
+     "text": "{fief} is a lot bigger than i expected. also colder. also more mine :D"
+    },
+    {
+     "id": "arch.memer.player_took_my_fief.neutral.whisper.06",
+     "text": "we both know {fief} was never yours to keep forever. it was a loan with bad interest"
+    }
+   ]
+  }
+ },
+ "player_win_streak": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.player_win_streak.hostile.global.01",
+     "text": "{player} has won so many fights the crows have started taking notes. i am not okay with this xD"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.global.02",
+     "text": "every battle {player} wins is one more reason to file a complaint with the nearest sheep :("
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.global.03",
+     "text": "announcing a formal boycott of {player}'s banner. it is slightly crooked and i will not be swayed"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.global.04",
+     "text": "{player} keeps winning and my tavern tab keeps growing. this is a plot. write that down"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.global.05",
+     "text": "the server voted {player} most likely to be smug. i was not consulted and i object :P"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.global.06",
+     "text": "winning this much is not a personality {player}. i will be taking questions at the well"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.global.07",
+     "text": "i have started a petition to make {player} walk home after every battle. it has one signature. mine"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.global.08",
+     "text": "{player} wins again. the gods are bored and {player} is their favorite toy. i want a refund on luck"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_win_streak.hostile.whisper.01",
+     "text": "{player} enjoy the streak while it lasts. the next siege is mine and i have already named the catapult"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.whisper.02",
+     "text": "stop winning {player}. my scouts are tired of reporting your victories to me like it is good news xD"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.whisper.03",
+     "text": "i have started a list of ways to beat you {player}. item one is sleep. item two is also sleep :)"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.whisper.04",
+     "text": "your banner is a crime against heraldry {player} and i will be the one to say it at the next muster"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.whisper.05",
+     "text": "that last win was pure luck and i have witnesses. two of them are my horses so take that as you will"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.whisper.06",
+     "text": "congrats on the streak {player}. i hate it a little and i hope it gets lonely at the top :P"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.whisper.07",
+     "text": "{player} i am sending my dogs to your camp as a gift. they are very loud and they do not like you"
+    },
+    {
+     "id": "arch.memer.player_win_streak.hostile.whisper.08",
+     "text": "one more win and i am declaring you an omen. ominous things get knocked over eventually ser"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.player_win_streak.neutral.global.01",
+     "text": "{player} is on a run and the whole board is watching. i am watching too. mostly to see when it ends"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.global.02",
+     "text": "heard {player} won again. good for them. tavern rumors say the wine is on the house now"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.global.03",
+     "text": "streaks end, that is the only law of war i trust. sincerely, someone who has lost plenty :)"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.global.04",
+     "text": "{player} keeps winning and everyone is making a fuss. personally i just want my ale back xD"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.global.05",
+     "text": "that is a lot of victories {player}. i counted three, then the scribe ran out of ink"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.global.06",
+     "text": "the odds say you will lose soon {player}. the odds also said the bridge would stay put so take them with salt"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.global.07",
+     "text": "nine wins in a row is impressive. nine losses in a row is also impressive if you think about it hard enough"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.global.08",
+     "text": "{player} is the talk of the square. i am only here for the bread which is also good this week"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_win_streak.neutral.whisper.01",
+     "text": "{player} saw your last few battles. solid work. i will be pretending i did not notice until it matters"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.whisper.02",
+     "text": "congrats on the streak {player}. i am still deciding if that means i should be worried or just tired"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.whisper.03",
+     "text": "a bit of a wild run you are on {player}. may your luck stay sharp and your armor stay dry :)"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.whisper.04",
+     "text": "{player} the server is buzzing about you and i am mildly curious how long that lasts. no offense meant"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.whisper.05",
+     "text": "a few folks asked me how you do it. i said i have no idea and that seemed to satisfy them"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.whisper.06",
+     "text": "good fights {player}. if you ever want to trade tactics over a drink, i am around. no promises on sobriety"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.whisper.07",
+     "text": "{player} three wins is a fluke, nine is a pattern, and i am trying to figure out which one this is"
+    },
+    {
+     "id": "arch.memer.player_win_streak.neutral.whisper.08",
+     "text": "your streak is loud enough that even the stable boys know your name now. respect from a distance"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.player_win_streak.friendly.global.01",
+     "text": "{player} is on fire out there and i am not even mad about it. the square is cheering. do the thing again :)"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.global.02",
+     "text": "shoutout to {player} for another win. honestly the server needed a hero and it turned out to be a very smug one xD"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.global.03",
+     "text": "{player} gets a standing ovation from me. i clapped so hard the tavern dog left the room"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.global.04",
+     "text": "a dozen battles, a dozen wins, and somehow still humble. that is either rare or {player} is hiding something :)"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.global.05",
+     "text": "i told everyone {player} would go far and they laughed. now they are buying me drinks. i am not sorry :P"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.global.06",
+     "text": "{player} keeps winning and the bards are already writing the ballad. the chorus is just the name xD"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.global.07",
+     "text": "fair warning to anyone facing {player}: bring snacks, the fights are long and the victories are smug :)"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.global.08",
+     "text": "hats off to {player}. the streak is impressive but the best part is how they keep cheering the losers too"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.player_win_streak.friendly.whisper.01",
+     "text": "{player} that was incredible. i was yelling at my own screen. can we get a rematch in a less winning mood? :)"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.whisper.02",
+     "text": "good luck on the next one {player}. not that you need it. i mean it though, you have earned the swagger"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.whisper.03",
+     "text": "{player} i owe you a drink for the cheering i did earlier. name the poison and i will pay up :P"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.whisper.04",
+     "text": "you are the reason i am staying up late to watch the battle logs {player}. please keep the streak alive xD"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.whisper.05",
+     "text": "{player} tell me your secret. i will not tell anyone. i will however tell everyone that i knew you first"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.whisper.06",
+     "text": "i watched your last siege from the hill {player}. phenomenal. my horse wants to be your horse now, sorry"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.whisper.07",
+     "text": "{player} if you ever need a shield-wall partner, i am already polishing my helm for you :)"
+    },
+    {
+     "id": "arch.memer.player_win_streak.friendly.whisper.08",
+     "text": "proud of the run you are on {player}. i know it is only a streak but it still makes my whole week"
+    }
+   ]
+  }
+ },
+ "released_by_player": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.memer.released_by_player.hostile.global.01",
+     "text": "{player} let me go for free. no ransom. no respect. i will never forgive this insult to my dignity >:("
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.global.02",
+     "text": "caught by {player}, released by {player}, and not one coin taken. disgusting. i am still owed a grudge"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.global.03",
+     "text": "the grudge fund is open. {player} is first on the list. dont worry the list is only one name long"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.global.04",
+     "text": "i was not ransomed and i am furious about it. {player} did this on purpose to hurt me xD"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.global.05",
+     "text": "public notice: {player} refused to ransom me. i will be outraged in every chat channel until the end of time"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.global.06",
+     "text": "rated {player} 0/10 for release technique. the captivity was top tier and the freedom was sloppy"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.global.07",
+     "text": "my ego has been bruised by a free release. {player} you owe me a proper kidnapping :("
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.global.08",
+     "text": "i am not thankful. i am not thankful at all. {player} shall pay in mild inconvenience someday :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.released_by_player.hostile.whisper.01",
+     "text": "{player} you let me walk out with no ransom. that is a personal attack and i am taking it personally :("
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.whisper.02",
+     "text": "you didnt even haggle. no gold, no drama, just a door. i am not okay with this"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.whisper.03",
+     "text": "free release is a cheap move ser. next time i set the terms and you pay me to stop laughing"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.whisper.04",
+     "text": "my captors have lost all respect for you. i have not forgotten the open cell door :/"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.whisper.05",
+     "text": "the ransom was ready. the coins were counted. you just said go away. this grudge is now official"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.whisper.06",
+     "text": "i will get revenge in a very tiny way. like leaving little notes around your camp saying thanks for nothing"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.whisper.07",
+     "text": "one day you will need rescue and i will be busy. just saying :)"
+    },
+    {
+     "id": "arch.memer.released_by_player.hostile.whisper.08",
+     "text": "i accept your release but not the mood it put me in. ill be sulking near your tent xD"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.memer.released_by_player.neutral.global.01",
+     "text": "{player} released me without a ransom. nobody knows why. the server is confused and so am i"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.global.02",
+     "text": "breaking news: someone let a captive walk free and didnt ask for gold. i am suspicious of this generosity :o"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.global.03",
+     "text": "{player} returned my freedom for free. either a miracle or a trap. the jury is still out"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.global.04",
+     "text": "not sure if i was rescued or just forgotten in a cell by {player}. either way i got my boots back"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.global.05",
+     "text": "free release? in this economy? {player} you are a mystery and i will be watching you closely :)"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.global.06",
+     "text": "the captive life was fine honestly. the cell had a window. {player} let me out and i moved on"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.global.07",
+     "text": "some people pay gold to get out. i got out for nothing and now my pride is confused"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.global.08",
+     "text": "ransom: skipped. dignity: intact. snacks: pending. thanks {player} i think :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.released_by_player.neutral.whisper.01",
+     "text": "{player} you let me go without ransom. i am keeping my guard up for now, nothing personal :)"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.whisper.02",
+     "text": "i need to know your motive. free release does not match your vibe. i will be sitting here suspicious"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.whisper.03",
+     "text": "so we are square? i owe you nothing and you owe me nothing. that is a very weird relationship xD"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.whisper.04",
+     "text": "dont think this makes us friends. i just appreciated the door being unlocked"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.whisper.05",
+     "text": "i noticed you skipped the ransom. do you need a hobby? or is there a secret plan for me"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.whisper.06",
+     "text": "thanks for the freedom i guess. i am still deciding whether to be grateful or just smug about it"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.whisper.07",
+     "text": "the cell was cold and i am still cold from the trip out. could you have at least added a blanket"
+    },
+    {
+     "id": "arch.memer.released_by_player.neutral.whisper.08",
+     "text": "free release means i am free to be annoying now. just letting you know in advance :)"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.memer.released_by_player.friendly.global.01",
+     "text": "shoutout to {player} for releasing me instead of ransoming. the best bad decision i have seen all week :)"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.global.02",
+     "text": "{player} let me walk out for nothing. hero of the realm, unpaid division. i salute you with a bread roll"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.global.03",
+     "text": "i was going to pay my ransom with three potatoes and a poem. {player} said no need. legend behavior"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.global.04",
+     "text": "reminder that {player} is the only person in this realm who gives captives a second chance xD"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.global.05",
+     "text": "{player} released me with zero gold. my bank account is crying but my heart is full :')"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.global.06",
+     "text": "good people of the realm, {player} did not charge a single coin. not sure what kind of wizard they are"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.global.07",
+     "text": "if {player} ever gets captured im paying their ransom in compliments. deal or no deal :)"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.global.08",
+     "text": "to {player}: you have a new fan club. it is me. i am the club. the club is me. welcome :D"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.memer.released_by_player.friendly.whisper.01",
+     "text": "{player} you let me go with no ransom?? you are too kind and i am now in your debt in spirit :)"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.whisper.02",
+     "text": "i owe you a meal. cooked badly, served with lots of love. say the word and i will bring the bread"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.whisper.03",
+     "text": "you could have squeezed me for every coin but you opened the door instead. i am touched :')"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.whisper.04",
+     "text": "next time you get captured i am coming with the biggest ransom ever. out of pure gratitude :D"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.whisper.05",
+     "text": "thanks for springing me. i will remember this forever, or until i forget, whichever comes first xD"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.whisper.06",
+     "text": "you are officially my favorite person who isnt my own reflection. the reflection is jealous :)"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.whisper.07",
+     "text": "let me know if you need anything. i can carry things, insult people and eat a lot of cheese"
+    },
+    {
+     "id": "arch.memer.released_by_player.friendly.whisper.08",
+     "text": "you saved me from the cell and my pride. thats two things. i'll owe you a song at the next feast :)"
+    }
+   ]
+  }
+ },
+ "war_declared": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.memer.war_declared.any.global.01",
+     "text": "the bridge near {enemy_faction}'s border has been formally put on notice. it has till friday to apologize :)"
+    },
+    {
+     "id": "arch.memer.war_declared.any.global.02",
+     "text": "{my_faction} is at war with {enemy_faction} now. i've already named the war horse. it's a goose"
+    },
+    {
+     "id": "arch.memer.war_declared.any.global.03",
+     "text": "so {enemy_faction} wants a fight? fine. i'll bring the sacred chicken and it will not be pleased xD"
+    },
+    {
+     "id": "arch.memer.war_declared.any.global.04",
+     "text": "war with {enemy_faction} means my cabbage farm is finally getting a proper army. they will be protected at all costs"
+    },
+    {
+     "id": "arch.memer.war_declared.any.global.05",
+     "text": "{enemy_faction} declared on us and i'm just sitting here with a turnip and a dream. wish us luck :/"
+    },
+    {
+     "id": "arch.memer.war_declared.any.global.06",
+     "text": "hearing the war drums from {enemy_faction}'s side. honestly they sound like a kettle that needs a nap"
+    },
+    {
+     "id": "arch.memer.war_declared.any.global.07",
+     "text": "i have officially appointed myself the head of {my_faction}'s war council. first order: nobody touches the fishmonger"
+    },
+    {
+     "id": "arch.memer.war_declared.any.global.08",
+     "text": "war declared. {enemy_faction} lost before they even found their helmets. tell them i said good luck lol"
+    }
+   ]
+  }
+ },
+ "whisper_alliance_offer": {
+  "neutral": {
+   "whisper": [
+    {
+     "id": "arch.memer.whisper_alliance_offer.neutral.whisper.01",
+     "text": "{player} i dont like u. i dont like {enemy_faction} more though... so maybe we talk :/ dusk at the old well?"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.neutral.whisper.02",
+     "text": "my sacred chicken has foreseen an alliance. it did not say whether its a good one. ur call :)"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.neutral.whisper.03",
+     "text": "i will not be your friend. but if {enemy_faction} shows up i will hold the line next to u. dont make it weird"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.neutral.whisper.04",
+     "text": "ser i am so tired of {enemy_faction}. they took my hat. team up or ur hat is next :)"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.neutral.whisper.05",
+     "text": "{player} ok i respect the bridge hate. i am still not over the bridge. but {enemy_faction} is worse"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.neutral.whisper.06",
+     "text": "one more raid from {enemy_faction} and im in a very bad mood. they really dont want that smoke"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.neutral.whisper.07",
+     "text": "is the enemy of my enemy a friend or just a guy with a sword? unclear. still down to try xD"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.neutral.whisper.08",
+     "text": "terms: u hit {enemy_faction} first, i take all the credit, u get a sincere nod. fair? :)"
+    }
+   ]
+  },
+  "friendly": {
+   "whisper": [
+    {
+     "id": "arch.memer.whisper_alliance_offer.friendly.whisper.01",
+     "text": "{player} my favorite person in the whole realm :) lets go wreck {enemy_faction} together"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.friendly.whisper.02",
+     "text": "ur the only one who laughs at my chicken. were allies now. no take backs :)"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.friendly.whisper.03",
+     "text": "i trust u more than my sacred chicken. that is a big deal. want to march on {enemy_faction}?"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.friendly.whisper.04",
+     "text": "lets form a club called the {enemy_faction} hate club. ur president, i am treasurer. dues are snacks :)"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.friendly.whisper.05",
+     "text": "ser i already named our battle cry. its 'uh oh'. ready to ruin {enemy_faction}s whole day??"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.friendly.whisper.06",
+     "text": "i have a plan and it involves u standing dramatically on a hill while i yell at {enemy_faction} xD"
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.friendly.whisper.07",
+     "text": "honestly {player} if we dont team up vs {enemy_faction} i will cry. just a little. join me pls :("
+    },
+    {
+     "id": "arch.memer.whisper_alliance_offer.friendly.whisper.08",
+     "text": "promise u wont betray me until after we beat {enemy_faction}. pinky swear with a very small sword"
+    }
+   ]
+  }
+ },
+ "whisper_beg_help": {
+  "neutral": {
+   "whisper": [
+    {
+     "id": "arch.memer.whisper_beg_help.neutral.whisper.01",
+     "text": "{fief} is on fire and i need a sword arm :) not a favor, a business transaction. probably"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.neutral.whisper.02",
+     "text": "{enemy_faction} has been parading around {fief} with a goat on a leash. i am not joking. please come help xD"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.neutral.whisper.03",
+     "text": "ser. {fief} needs bodies. i will not beg. i will mildly plead?? :/"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.neutral.whisper.04",
+     "text": "our walls are sad and {enemy_faction} is loud. you seem like someone who likes loud things"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.neutral.whisper.05",
+     "text": "losing {fief} to {enemy_faction} would be deeply embarrassing for both of us. come swing a sword pls :)"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.neutral.whisper.06",
+     "text": "not to be dramatic but {fief} is 3 bad decisions from being a rumor. could use a hand"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.neutral.whisper.07",
+     "text": "i have 4 archers, 1 cook, and a feeling. {fief} needs more than that. interested??"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.neutral.whisper.08",
+     "text": "{enemy_faction} wants the bell tower back. i said no. now i need someone who also says no ;)"
+    }
+   ]
+  },
+  "friendly": {
+   "whisper": [
+    {
+     "id": "arch.memer.whisper_beg_help.friendly.whisper.01",
+     "text": "{player} you are my favorite weapon. {fief} is under siege and i am calling in the big favor :)"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.friendly.whisper.02",
+     "text": "ok hear me out. {fief} is falling apart and only you can stop {enemy_faction}. no pressure xD"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.friendly.whisper.03",
+     "text": "{player} the walls are crying and the cook has left. come to {fief} and be legendary with me"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.friendly.whisper.04",
+     "text": "we have lost the south gate, two sheep, and most of my dignity. help?? :("
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.friendly.whisper.05",
+     "text": "{player} i would not ask if {fief} was not on fire. well, it's a little on fire. bring your best swing"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.friendly.whisper.06",
+     "text": "emergency declared. {enemy_faction} is at the gate and i am wearing a helmet made of spoons. come rescue"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.friendly.whisper.07",
+     "text": "you have always been my ally of choice {player}. {fief} needs you more than my pride does :)"
+    },
+    {
+     "id": "arch.memer.whisper_beg_help.friendly.whisper.08",
+     "text": "war update: we are losing, but with style. come help turn it around before the goat loses faith"
+    }
+   ]
+  }
+ },
+ "whisper_challenge": {
+  "hostile": {
+   "whisper": [
+    {
+     "id": "arch.memer.whisper_challenge.hostile.whisper.01",
+     "text": "{player} i have summoned you to the ford outside {village}. bring your best sword and your saddest excuses :)"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.hostile.whisper.02",
+     "text": "the sacred chicken has picked a battlefield and it is the mud by {town}. you have until sundown ;)"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.hostile.whisper.03",
+     "text": "i challenge you to a duel at the crossroads. winner names the next weather event. dont be a coward xD"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.hostile.whisper.04",
+     "text": "{player} my vendetta against the bridge at {town} is on hold so i can finally deal with you. meet me there"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.hostile.whisper.05",
+     "text": "pick a field, any field. i bring the good armor, you bring whatever you found in a ditch :P"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.hostile.whisper.06",
+     "text": "you have been declared a threat to my pig farm. report to the hill above {village} for a fight, no running"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.hostile.whisper.07",
+     "text": "{player} sword duel. loser has to call themselves a turnip in global chat for an hour. deal? :("
+    },
+    {
+     "id": "arch.memer.whisper_challenge.hostile.whisper.08",
+     "text": "i have never liked you and i think today is the day we settle it. meet me in the fields near {village} >:)"
+    }
+   ]
+  },
+  "neutral": {
+   "whisper": [
+    {
+     "id": "arch.memer.whisper_challenge.neutral.whisper.01",
+     "text": "hey {player} fancy a friendly scrap near {village}? no stakes except bragging rights :)"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.neutral.whisper.02",
+     "text": "got a free afternoon and a spare shield. want to fight me by the old well outside {town}?"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.neutral.whisper.03",
+     "text": "a nice little tussle, nothing serious. meet at {village} when you're bored ;)"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.neutral.whisper.04",
+     "text": "{player} the wheat fields by {town} need a referee. you and me, first to fall over loses lol"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.neutral.whisper.05",
+     "text": "i heard you are decent with a spear. prove it, meet me at the {village} ford and we'll see :D"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.neutral.whisper.06",
+     "text": "not mad at you, just curious how you fight. battle at {town} square whenever you're online?"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.neutral.whisper.07",
+     "text": "so i'm doing a loot-free duel today, interested? it's just for the vibes, {village} at noon"
+    },
+    {
+     "id": "arch.memer.whisper_challenge.neutral.whisper.08",
+     "text": "one round, no hard feelings, loser buys the next ale in {town}. meet me out back? :p"
+    }
+   ]
+  }
+ },
+ "whisper_taunt": {
+  "hostile": {
+   "whisper": [
+    {
+     "id": "arch.memer.whisper_taunt.hostile.whisper.01",
+     "text": "{player} i have officially declared war on your left boot. it knows what it did xD"
+    },
+    {
+     "id": "arch.memer.whisper_taunt.hostile.whisper.02",
+     "text": "a hostile takeover of your lunch is underway. the sandwich has been notified :)"
+    },
+    {
+     "id": "arch.memer.whisper_taunt.hostile.whisper.03",
+     "text": "the goat you were riding has defected to my side. he says you are 'a lot' >:)"
+    },
+    {
+     "id": "arch.memer.whisper_taunt.hostile.whisper.04",
+     "text": "i am not mad. i am just drafting a 14 page essay on how bad you are at this. nobody asked!!"
+    },
+    {
+     "id": "arch.memer.whisper_taunt.hostile.whisper.05",
+     "text": "every time you walk past my hay bale i hear a tiny sad trumpet. just so you know :("
+    },
+    {
+     "id": "arch.memer.whisper_taunt.hostile.whisper.06",
+     "text": "scouts report you were spotted near my bridge again. the bridge sends regards and a restraining order"
+    },
+    {
+     "id": "arch.memer.whisper_taunt.hostile.whisper.07",
+     "text": "{rival} owes me a goat and i have decided you are going to pay it instead :/"
+    },
+    {
+     "id": "arch.memer.whisper_taunt.hostile.whisper.08",
+     "text": "i am going to sue you in front of the village well. bring a bucket of evidence xD"
+    }
+   ]
+  }
+ }
+}

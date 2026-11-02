@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "politician__player_win_streak",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "6a348a5dfd40ef0d135fcd915e34c3b9bb27adb547294963fa28301ed8df27ed",
+    "model": "haiku",
+    "cost_usd": 0.00584825,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:09:08+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "A winning streak is a fine thing. Pity it has not yet bought a single seat on the council.",
+        "Every battle won is a debt owed somewhere. I do hope {player} keeps a ledger, because the bill will come due.",
+        "Remarkable run of victories. I wonder how many of the reports were written by the same tired clerk.",
+        "Some call this a golden age of conquest. Others call it a very expensive way to avoid a vote.",
+        "The council has noticed {player}'s wins. It has also noticed who pays for the lances and who doesn't.",
+        "Let the crowds cheer. Applause fades quickly, while those who hold the ledgers never forget.",
+        "A streak like that draws attention, and attention draws rivals. I suspect {player} enjoys the attention a little too much.",
+        "Winning every skirmish is impressive. Winning friends in the hall is a different sport entirely, and a harder one."
+      ],
+      "whisper": [
+        "{player}, your little streak is charming. Do not mistake the council's applause for its trust. They are not the same.",
+        "I read the battle reports twice. Impressive, though a few of the names on the victory lists were quietly my own men.",
+        "Keep winning if you must. Every victory you post makes it easier for others to ask who is really paying for it.",
+        "The council discusses your campaigns more than your fief's harvest now. Be careful what that kind of attention costs you.",
+        "A word of caution, {player}. Those who win too often are soon asked to step aside, so you may want to rest.",
+        "Your record is admirable. Your alliances, however, are thin, and thin alliances snap the moment someone leans on them.",
+        "I would not be so pleased with the streak. Someone is already drafting the motion about its costs.",
+        "Enjoy the glory while it lasts, {player}. Glory is a poor shield against a unanimous vote in council."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Forty victories, or so the criers claim. Numbers grow in the telling, but the roads still need repairing.",
+        "Another win reported from the frontier. The council will debate it at length, as it does with everything.",
+        "{player} has been busy on the roads lately. Whether the realm benefits is a question for minutes, not for chat.",
+        "A long string of victories makes a good story. Stories cost nothing to tell, and the grain stores still cost a great deal.",
+        "Fine work on the frontier, I suppose. Let us see whether the fiefs hold once the banners are folded away.",
+        "Some are calling the recent campaigns decisive. I remain unconvinced until the tax rolls confirm it.",
+        "The streak continues. I will reserve judgement until someone explains what the realm gained beyond bragging rights.",
+        "Battles are won in the field, but the peace is negotiated in the hall. Wake me when the hall has something to say."
+      ],
+      "whisper": [
+        "{player}, your recent campaigns have been noticed. I have no opinion yet, which in this council is a rare kindness.",
+        "I hear the battle tally is impressive. Send me the numbers if you like. I will read them with proper attention.",
+        "The streak is becoming tiresome to hear about, though I admit the ledgers look healthy for once. Good for you.",
+        "If you intend to seek a seat, the present momentum will help. Whether it helps enough is another matter entirely.",
+        "Your campaigns have drawn interest from several quarters. Nothing has been decided, and nothing needs to be yet, {player}.",
+        "Winning does not settle questions of rule. I say this as someone who has watched a few brilliant lords fall from favour.",
+        "A useful run, {player}. Keep it up and we may find time to discuss the matter of the vacant fief properly.",
+        "I have nothing against your victories. I simply prefer to see them written into a charter before I applaud."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} has carried more than their share of the frontier this season. I shall say so in the hall, loudly.",
+        "Forty victories in a row and still humble enough to read the council minutes. Rare, and we should encourage it.",
+        "A rousing streak from {player}. Every ballot in the hall will be easier to win with a record like that behind it.",
+        "Our banners are proud of {player}'s campaigns this season. Those who want a place beside us should take note.",
+        "{player} makes the realm look well-defended. I have already suggested to colleagues that a seat would suit them nicely.",
+        "Credit where it is due: {player}'s recent victories have done more for the roads than three motions in council.",
+        "Congratulations to {player} on another string of wins. Let it be recorded that the hall supports such ambition.",
+        "The realm sleeps easier with {player} on the frontier. I will gladly say as much to anyone who asks in council."
+      ],
+      "whisper": [
+        "{player}, your streak has the hall buzzing. I have been defending your name over the last few votes, so you may thank me later.",
+        "I told two colleagues this morning that you are the most useful sword we have. Do not let it go to your head.",
+        "Keep up these victories and a council seat will find you without any further lobbying. I intend to make sure of it.",
+        "I backed your name for the next fief grant. A few more wins like these and the vote will be a formality.",
+        "You have made allies out of doubters this season, {player}. Let us talk properly about what you want in return.",
+        "Your campaigns look splendid in the minutes. Shall we meet quietly before the next session and arrange our votes?",
+        "Between us, the council already speaks of you as the next rising name in the hall. Best you are not caught unprepared.",
+        "Stay close to me, {player}. The people who matter have started asking about your name, and I know how to answer them."
+      ]
+    }
+  }
+}

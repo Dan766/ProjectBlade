@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "job_id": "conv_b60",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "58da28f7690081f9e08e9037482d28428d308532d1241389e85521821a37849e",
+    "model": "haiku",
+    "cost_usd": 0.00824305,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:48:07+00:00"
+  },
+  "data": {
+    "conv_296": [
+      {
+        "speaker": "KesTrelWhoops",
+        "text": "wiat did {player} really leave us for {faction}?? i thot they were our friend lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "rustcouncil07",
+        "text": "a quiet word {player} just between us. {faction} is paying {gold} per defector and nobody has to know you were the one who asked",
+        "delay_s": 6
+      },
+      {
+        "speaker": "pinemath",
+        "text": "{player} went from our fen to {faction} in one afternoon the numbers say it was always the plan",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Kwidrath_Inkbane",
+        "text": "cope {player} ur new frends at {faction} still get bullied by {village} evry wek",
+        "delay_s": 4
+      },
+      {
+        "speaker": "KesTrelWhoops",
+        "text": "i didnt even know {faction} had a chat channel lmao is it just ppl yelling about cows",
+        "delay_s": 5
+      },
+      {
+        "speaker": "pinemath",
+        "text": "{faction} gains one defector and loses {gold} in bounties that is a bad trade",
+        "delay_s": 6
+      }
+    ],
+    "conv_297": [
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "{player} took {fief} from us in the third hour. fine. we take it back before the tide turns",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "Oh no, {fief} is gone!! The sacred hen weeps :( Someone fetch the flour :D",
+        "delay_s": 5
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Gg, Hael. Your flank sat open for a full minute. I could see it from the ridge.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "ratio decides it not luck. {fief} was held by one militia. i will have it back by sundown",
+        "delay_s": 8
+      },
+      {
+        "speaker": "SerTankardell",
+        "text": "Hark! Tesnovar's oath still binds us all. {fief} shall be avenged, and the bells shall toll for {player}!",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "Bells for {player}?? I thought the bells only rang for soup :D",
+        "delay_s": 4
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Soup is not a battle plan, Potshot.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "marrow still counts pikes like a grocer. {player} will learn the difference soon",
+        "delay_s": 6
+      }
+    ],
+    "conv_298": [
+      {
+        "speaker": "fernz",
+        "text": "lol ur garisson in {town} smels like smoke",
+        "delay_s": 0
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "the bridge at {village} has been informed of its crimes!! and the goose has been informed of yours :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "fernz",
+        "text": "ur goose has {troop_count} soldiers and they all cant find the road",
+        "delay_s": 3
+      },
+      {
+        "speaker": "PuffinHearth",
+        "text": "Let the ancestors witness the words spoken here. {town} stands on oaths older than this quarrel, gentlemen.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "gentlemen?? the goose is a lady and she has paid {gold} in tolls to cross {village} ok",
+        "delay_s": 5
+      },
+      {
+        "speaker": "fernz",
+        "text": "{gold} in tolls and u still cant hold a bridge lol",
+        "delay_s": 2
+      }
+    ],
+    "conv_299": [
+      {
+        "speaker": "lich3n_grudge",
+        "text": "gg wat was ur name again :D i forgot ur sad lil {town} already",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Heard that. Still got good saddles at {gold} a pair if you want one.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "lich3n_grudge",
+        "text": "lol saddels dont win figths :) my {troop_count} guys in {village} say hi",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Your guys in {village} cost you more than my saddles. Just saying.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "lich3n_grudge",
+        "text": "u jsut mad ur {town} got emptied :(",
+        "delay_s": 3
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Whatever. Saddle's on sale till sundown.",
+        "delay_s": 6
+      }
+    ],
+    "conv_300": [
+      {
+        "speaker": "RavenVowhold",
+        "text": "Hear me. The ancestors are watching. A win bought with lies is no win at all, and honour is what remains.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "honour is a word for people who lost the math. re-ran the numbers. winning is the only metric that survives a patch",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Um, honour is importnt right?? I think {town} would agree :) Sorry!!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "the loss was the scouts. not the honour. stop tagging me with ancestors",
+        "delay_s": 4
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "Then the scouts carry your shame, and the {troop_count} who fell at {village} carry it with them. Hear me well.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Okay okay!! I will think about it :D Sorry for asking so many questions, I am still learning the war stuff!!",
+        "delay_s": 6
+      },
+      {
+        "speaker": "CountOnyx",
+        "text": "still learning means still losing. {gold} of scout pay and no head for numbers",
+        "delay_s": 4
+      }
+    ]
+  }
+}

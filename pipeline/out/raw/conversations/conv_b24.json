@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "job_id": "conv_b24",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "67a24463772fea37f6e201ac210525aed20d57dfd1992b0e76e33e795f54821a",
+    "model": "haiku",
+    "cost_usd": 0.00796665,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:44:02+00:00"
+  },
+  "data": {
+    "conv_116": [
+      {
+        "speaker": "lich3n_grudge",
+        "text": "{town} is ours by right, plumsy. ur lord cant even hold a gate lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "plumsy",
+        "text": "wait wait!! i think {town} should go to the dude who gave me bread :( oops sorry wrong party",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Um, excuse me, I think {town} should go to whoever keeps the walls standing!! :) Sorry to interrupt!!",
+        "delay_s": 6
+      },
+      {
+        "speaker": "lich3n_grudge",
+        "text": "lol frstbite ur a newbie, sit down. {troop_count} men say otherwise, plumsy. see u at the gate",
+        "delay_s": 4
+      },
+      {
+        "speaker": "plumsy",
+        "text": "i have {troop_count} too!! (not really) but ur wrong lich3n!! {village} is cuter anyway :D",
+        "delay_s": 7
+      },
+      {
+        "speaker": "lich3n_grudge",
+        "text": "ok plumsy. {gold} gold says ur fief falls in a week. deal or cope",
+        "delay_s": 5
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Please dont bet {gold} gold over a fief!! I just wanted to say hi :) I will remember this!!",
+        "delay_s": 9
+      }
+    ],
+    "conv_117": [
+      {
+        "speaker": "ThistleTolls",
+        "text": "bandits on the road past {village} again. lost {gold} gold of dyed wool, {town} guards are asleep. ugh",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Eeel",
+        "text": "the ratio was off, not the plan. {troop_count} men was never going to cover that road",
+        "delay_s": 6
+      },
+      {
+        "speaker": "MapleMutiny",
+        "text": "THE GOOSE OF REDLICE IS AVENGED!! respect the goose :D",
+        "delay_s": 5
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "Fresh salt in {town} if anyone wants it. Roads are rough though, so travel in a group, friends.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "ThistleTolls",
+        "text": "fine, ill hire escorts. anyone selling spare guards for {gold} gold? proper rate only, no cheating",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Eeel",
+        "text": "nobody is hiring you for {gold}. learn the terrain first",
+        "delay_s": 6
+      },
+      {
+        "speaker": "MapleMutiny",
+        "text": "lmaooo eeel said terrain. the goose has opinions on terrain too :)",
+        "delay_s": 4
+      }
+    ],
+    "conv_118": [
+      {
+        "speaker": "CountKabbage",
+        "text": "{player} has left for {faction}. Two days after taking {town}. Efficient, if nothing else.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "Efficient is one word for it. Shall we discuss this over a private word, {player}? You owe us that much.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DameHingmere",
+        "text": "Shall we be honest, bellwarden? Someone offered {player} {gold} gold and you offered a speech.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "I offered {player} a seat at the table. Gold is cheap, and so is loyalty, apparently. Not here, please.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "CountKabbage",
+        "text": "Desertion is the accurate word, not betrayal. {troop_count} soldiers went with them. Noted.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DameHingmere",
+        "text": "Do not take it personally, bellwarden. Some people simply prefer the winning side. Watchful eyes are on {town}.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "Then let them watch. {player} will regret choosing {faction} before the spring is out. Mark my words.",
+        "delay_s": 6
+      }
+    ],
+    "conv_119": [
+      {
+        "speaker": "HammerhandVow",
+        "text": "Hear me. We march on {town} at dawn and need {troop_count} shields. By my hammer and my name, I stand.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SmugRadish",
+        "text": "ok hammerhand that was cute :) who even marches on {town} anymore lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Let the dawn witness this oath. We will not march with jesters in our ranks, HammerhandVow. Sit down, SmugRadish.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Steady hands win ground, friends. Remember the water on the road to {village}. Pack rations for ten days, and leave pride at home.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SmugRadish",
+        "text": "fine fine ill bring {gold} gold of wine instead xD cheers old man :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HammerhandVow",
+        "text": "Wine is not rations, SmugRadish. Pay the company share and stand in line, or step aside.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Our banner flies at {town} regardless. Whoever stands with us, stands with the dawn.",
+        "delay_s": 6
+      }
+    ],
+    "conv_120": [
+      {
+        "speaker": "BaronParsnyp",
+        "text": "cope {player}!! left us for {faction} after {town} fell, lol. i keep score, u dont want the number :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "{player} left with {troop_count} men. thats the math. recheck ur comp baron",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Falkyn",
+        "text": "omg {player} wait, did u really leave?? ur so nice, thank u so much for the {gold} gold!! :D i dont know what to do :(",
+        "delay_s": 6
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "lmaooo falkyn ur next. {player} never stays :) {gold} gold says {town} falls by winter",
+        "delay_s": 4
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "no bet. {faction} doesnt want u baron. ur fief lost a rider and u blame the board",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Falkyn",
+        "text": "i dont think it was betrayal :( maybe {player} just wanted a change?? sorry baron!! :(",
+        "delay_s": 8
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "u can have the change falkyn. ill be here. i keep score :)",
+        "delay_s": 6
+      }
+    ]
+  }
+}

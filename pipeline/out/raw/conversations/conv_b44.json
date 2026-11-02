@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "job_id": "conv_b44",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "826561b031c458a600c9e513a7f707161d34970a6159f1db170e81fc3429a79e",
+    "model": "haiku",
+    "cost_usd": 0.00760545,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:46:07+00:00"
+  },
+  "data": {
+    "conv_216": [
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "Oh no, I think my horse wandered off near {village} :( has anyone seen a brown mare",
+        "delay_s": 0
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "a brown mare?? she was last seen trotting off toward the ondrac causeway, pulling a cart that was not hers!!! :D",
+        "delay_s": 6
+      },
+      {
+        "speaker": "StormPigeon88",
+        "text": "wait the mare took my cart too?? the storm is personal now, snale. give it back!!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "I dint know she was a theif :( i paid {gold} for her yesterday",
+        "delay_s": 9
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "the ondrac causeway owes me a apology!!! :D also the cart is now a boat? no idea lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "StormPigeon88",
+        "text": "pikkerel. meet me at {town} gate at dusk. bring {troop_count} friends if u want the cart back",
+        "delay_s": 7
+      }
+    ],
+    "conv_217": [
+      {
+        "speaker": "barleymeta",
+        "text": "raid {village} at dusk. {troop_count} men, you bring the gold. dont be late this time",
+        "delay_s": 0
+      },
+      {
+        "speaker": "MEADLING7",
+        "text": "wait do soldiers eat grain?? sorry :( i think i packed the wrong stuff lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "grain is a fair question. buy it at {town} before we leave",
+        "delay_s": 6
+      },
+      {
+        "speaker": "MEADLING7",
+        "text": "ok ok!! i got {gold} from the bank, is that enough for grain :D",
+        "delay_s": 8
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "enough. dont spend it on the horse armor again",
+        "delay_s": 5
+      },
+      {
+        "speaker": "MEADLING7",
+        "text": "that was ONE time!!! also ur the one who sold me the bad map >:(",
+        "delay_s": 6
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "i sold you a fair map. your timing was off, not my map. be at {village} by dusk",
+        "delay_s": 10
+      }
+    ],
+    "conv_218": [
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "remember the siege of {town}?? i still have the screenshot :) u cried like a sheep lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "I remember it well, bandit. The causeways of Ondrac still echo with that day, and I held the gate at {village}.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "ez. u still owe me a rematch :) i had {troop_count} lads ready and u had like 3",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Three was a full banner, and a glorious one. Name the field, and I shall arrive with more than {troop_count} of my own.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "lol ur still salty about the {gold} bounty i put on ur head :D",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "I am not salty. I am patient, which is a far more dangerous thing, bandit. Do not forget that.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "ok grandpa :) same time next week at {village}? bring the sheep",
+        "delay_s": 4
+      }
+    ],
+    "conv_219": [
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Hail, {player}!!! The Duke demands tribute!? :D Just kidding. Ask me anything, I am basically a tavern map :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SerCrowmere",
+        "text": "Do not heed him, {player}. Seek the garrison at {town} and report to the marshal. The rolls shall record it.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Harsh!! The real tip is to sell all your grain at {village} for {gold} and buy a goose :D trust the goose",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SerCrowmere",
+        "text": "Ignore the goose, {player}. Grain is worth more than any bird. Train with {troop_count} militia and learn the banners.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "The goose has never lied to me!!! :) Also SerCrowmere your banner is ugly, sorry not sorry",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SerCrowmere",
+        "text": "My banner has held the causeway. Yours has only held a sandwich. Good luck, {player}. Ask for me if you need honest counsel.",
+        "delay_s": 6
+      }
+    ],
+    "conv_220": [
+      {
+        "speaker": "bellwarden",
+        "text": "Did you see the renown board, {player}? You have climbed past several old names. Shall we discuss this over a private word?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "Hear this: the glove shall not yield at Pakhvari. {player} has earned their place, and I will not pretend otherwise.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "cope {player}!! i keep score, u dont want the number :) renown is just a fancy word for lucky",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "Let the banners speak, {player}, and the field decide. Renown is earned in the mud, not bought by a clever board.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "lol the board is rigged by bellwarden anyway. ask them about the {gold} deal :D",
+        "delay_s": 3
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "Baron, that is a slander I shall answer at a more convenient hour. {player}, my offer stands regardless of his noise.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "Enough. Shall we meet at {village}, {player}? I would rather see your renown earned in honest battle than in rumour.",
+        "delay_s": 9
+      }
+    ]
+  }
+}

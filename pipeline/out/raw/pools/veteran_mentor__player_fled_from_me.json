@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__player_fled_from_me",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "0a090cb6aefda07ea7f2d1e6ee347e3e00e3538dcf17373dfc09e376c1a2308d",
+    "model": "haiku",
+    "cost_usd": 0.005346150000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:18:11+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Running from the field again, {player}? Some things never change on this server.",
+        "I remember when the first war still had people standing their ground. Those days seem gone.",
+        "Retreat is a fine tactic, as long as you don't call it a victory afterward.",
+        "Half the veterans here have turned tail once or twice. Doesn't make it any less noticeable.",
+        "Ran off before the first clash. Bold of you to leave your own troops to hold the line.",
+        "Nobody's counting the scattered riders, but the ones who stayed will remember who left them.",
+        "Fast legs, I'll grant that. Shame the banners didn't keep up.",
+        "Quite the disappearing act. Try not to lose the road home too.",
+        "Some of us came to fight. Others came to watch the dust settle. Makes the record easy to read.",
+        "Cut and run before contact. The old hands in this chat have seen that before, and they remember it."
+      ],
+      "whisper": [
+        "{player}, a retreat before the line even formed is not a plan. Think about what your riders saw.",
+        "I won't pretend that was a fight. You left the field before the first arrow flew.",
+        "You want my advice? Stop running and pick a battle you can actually finish.",
+        "Chasing you across the map would waste my afternoon. Consider yourself lucky, for now.",
+        "That was a sorry exit, {player}. Your company deserved a better captain than that.",
+        "Next time you turn tail, at least leave the banners behind. They were never yours to carry off.",
+        "I've seen better courage in a sheep pen. Keep your scouts closer next time.",
+        "No hard feelings, but I'd rethink the next engagement before your horses get tired.",
+        "Running is an honest choice. Just don't expect the same courtesy from the men who stayed.",
+        "You scattered the moment the drums started. Work on your nerve before you try the next border."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Saw {player}'s party break off before the clash. Could be wisdom, could be bad timing.",
+        "Fighting withdrawals are underrated. Plenty of good captains have used one.",
+        "Tactical retreat or a rout? The map will tell us in a day or two.",
+        "Ran from the field today. Whatever the reason, nobody here needs the details.",
+        "Some folks charge in, some fall back. Both have their place when the terrain is wrong.",
+        "Keep an eye on {player}'s riders. Nothing wrong with withdrawing early, but it's worth noting.",
+        "I've retreated before a bad fight myself, back when this server was younger. Lived to tell it.",
+        "The fens are no place to make a stand with a tired company. Sensible move, I suppose.",
+        "No judgment yet. Let's see if the retreat was wise or just lucky.",
+        "A scattered line means a long night of regrouping. Hope the troops are fed."
+      ],
+      "whisper": [
+        "{player}, I saw your party break off before the clash. Was it the terrain or the numbers?",
+        "Pulling back is no shame if you live to fight another day. Just don't make it a habit.",
+        "Your riders looked spread thin out there. Pick a place to regroup where the ground favors you.",
+        "If the enemy was too strong, a retreat was wise. If not, you'll want to figure out why.",
+        "Retreating from a fight tells the whole server a little about you. Make sure it says what you intend.",
+        "Good call getting out before the lines met, provided your scouts were right about the numbers.",
+        "Regroup and rest your horses. Nobody's chasing you tonight, as far as I can tell.",
+        "I'd like to hear what you saw before you turned around. Two heads are better than one on the road.",
+        "Withdrawing is a skill, {player}. Most people only learn it after they lose a company.",
+        "Stay clear of the river crossings for a while. Scouts reported trouble moving in that direction."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Good call pulling back, {player}. Living to fight another day beats a bad trade every time.",
+        "{player} knows when the odds are wrong. Wise captain, and the server needs more of those.",
+        "Smart withdrawal today. Your people will thank you for not feeding them to the lines.",
+        "Falling back from that field was the right move. Plenty of veterans would have stayed and lost the lot.",
+        "Retreat with your banners held high is still a retreat worth respect. Well done, {player}.",
+        "Some would call that cowardice. I call it keeping your troops alive. Good judgment.",
+        "I've made that same retreat more than once. Never regretted it, and neither should {player}.",
+        "Tactical withdrawal, clean and quick. Exactly what the new folks should learn from watching.",
+        "Nobody lost a company today thanks to {player}'s sense. Keep that instinct sharp.",
+        "Quick feet and a clear head saved a lot of trouble out there. Nicely handled."
+      ],
+      "whisper": [
+        "{player}, that was a sensible withdrawal. The field was not yours to win today, and you knew it.",
+        "You kept your riders intact, which is more than most would manage in that spot. Well judged.",
+        "Don't let anyone shame you for falling back. Your troops will be fighting again next week because of it.",
+        "I was watching from the ridge. That retreat was clean, and the men were in good order.",
+        "Pull back, rest, and restock. Once your company's fed, the next fight will go much better for you.",
+        "Good instincts today, {player}. The line you avoided would have cost you a lot of good men.",
+        "Take the lesson from this one. Knowing when to leave is as valuable as knowing when to charge.",
+        "Lost ground is easy to earn back. Your company is the thing that matters, and you kept it whole.",
+        "If you want a second opinion on the map before the next move, I'm happy to look it over with you.",
+        "That was a proper retreat, {player}. Keep your banners up and your wits about you on the road."
+      ]
+    }
+  }
+}

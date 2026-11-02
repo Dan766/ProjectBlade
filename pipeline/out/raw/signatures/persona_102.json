@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "job_id": "persona_102",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "7786cd19ef845fffac5497959c646849e646fade19e35d9fed91e1551f3175ad",
+    "model": "haiku",
+    "cost_usd": 0.00728265,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:39:16+00:00"
+  },
+  "data": {
+    "ambient_trade": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Salt out of Ighrast is fetching {gold} a sack in {town} this week, so I am buying wool at a fair price."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Wool wanted in {town}, paying well for clean bales. Bring them to my wagon before the tolls eat the profit."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Who has spare mules for the {town} road? I will pay {gold} and not a copper more, I promise."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Ledger update: salt in {town} at {gold} a sack. The river guild will hate that, and I do not mind a bit."
+      }
+    ],
+    "encounter_trade_offer": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I will give you {gold} for that load of wool at {town}. Fair price, and you keep your dignity."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, you look like a shrewd sort. Shall we haggle? {gold} for the lot, and no hard feelings after."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, {gold} for the wool and I am on my way to {town}. That is a generous offer, I assure you."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, a deal is a deal, and {gold} is what the salt market will bear this season. Take it or leave it."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, I still remember the ambush, yet a fair deal is a fair deal. I offer {gold}, and I want nothing else from you."
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, {persona} of {my_faction} here. Good to see a familiar face on this cursed road. Shall we trade?"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, {persona} of {my_faction}. I have salt in these wagons and no quarrel with you. Let us keep it that way, shall we?"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, {persona} of {my_faction}. Stand aside with your men, or let us talk terms like merchants and not brawlers."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, {persona} from {my_faction}. Our carts are full, our purses are open, and I would rather not spill blood over a bad price."
+      }
+    ],
+    "player_raided_my_village": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Fire in {village} costs a fortune in salt and wool. Ser {player}, I expect a settlement, or I expect the guild to hear of it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, you burned {village} and now every wagon detours around it. Is that what you wanted for your ledger?"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Burning {village} was a poor return on investment, Ser {player}. The carts will simply stop coming, and that hurts everyone."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, I can forgive a lot for a good deal. Burning {village} is not a deal, so let us talk reparations."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "War with {enemy_faction} is terrible for wool prices. {my_faction} will pay for this in tolls and lost caravans."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has declared war on {enemy_faction}. Every road is closed and my salt is rotting in the cart."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "So {my_faction} and {enemy_faction} are at war. Lovely. My caravans will now pay a toll at every gate."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Bandits love a war, and {enemy_faction} smells of gold. Let us hope someone thinks of the merchants first."
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Peace between {my_faction} and {faction} at last. The roads reopen and the salt carts can finally earn their keep."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} have signed terms. I will drink to that, and then I will count the profits."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Peace with {faction}, is it? Tolls may fall for a season, and I plan to make the most of it."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Good news for every caravan on the road: {my_faction} is at peace with {faction}. Get your wagons moving."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Ser {player} let me go without ransom. That is a rare kindness, and I will remember it in my ledger."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you released me without a ransom. I will not forget that, and my next deal is on me."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ser {player} freed me from captivity rather than ransom. An odd choice, but I have no complaint with it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, releasing me for nothing is a strange move. Next time a ransom would be more useful to both of us."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} beat us with {troop_count} men at the ford. The cost of wagons and wages is brutal, I tell you."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, your {troop_count} men caught us on the crossing. A fair fight, but my wagons paid the price."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, {troop_count} of your men and a clever flank. I lost the field, but I will buy you a drink in town."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, {troop_count} men and a lucky wind. I will have my silver back one day, mark my words."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Ser {player} won the field against us with {troop_count} troops. Honest work, and I respect a clean victory."
+      }
+    ],
+    "whisper_beg_help": [
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, {fief} will fall unless someone rides to help. I will pay in salt and silver if you come quickly."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, {fief} is under siege by {enemy_faction} and my cargo is trapped inside. Help me, and I will pay well."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, {enemy_faction} is at the gates of {fief}. My wagons and silver are at risk. Can you spare some men?"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "My friend, {enemy_faction} has the road to {fief} blocked and my cargo is trapped inside. Could you lend a hand?"
+      }
+    ],
+    "ambient_complaint": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Bandits on the {town} road took another wagon today. Terrible for trade, and the road tolls still come due."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{faction} has doubled the bridge toll again. Nobody asks the merchants who keep their coffers full, hm?"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{rival} is undercutting every salt seller from here to Imzellan. Dumping stock below cost is not a business plan."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Tolls on the {town} crossing climbed again. I have found a dry ford, and I will not be telling anyone where."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain over {town} again, so the wool bales will be soggy by the time they reach the market."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Anyone on the {village} road seen a decent caravan of salt? I would sell my own mule for a dry road today."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lag on the server is eating my bargaining time. Please hurry up and let me sell in peace."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Finest bread in {village} this morning, and I bought two loaves for the road. Worth every copper."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The map shows a bridge near {town}. If it holds, that is a shorter route and a fatter margin."
+      }
+    ]
+  }
+}

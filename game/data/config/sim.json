@@ -1,0 +1,166 @@
+{
+ "_comment": "World simulation tunables (Phase 2). Hand-edited; read by scripts/sim/world.gd.",
+ "step_hours": 0.25,
+ "decide_timeout_hours": 36,
+ "sight_cells": 8,
+ "engage_cells": 1.0,
+ "speeds": {
+  "lord": 5.0,
+  "bandit": 4.5,
+  "caravan": 3.5,
+  "player": 5.0
+ },
+ "tier_power": [
+  1.0,
+  1.8,
+  3.0
+ ],
+ "starting_tiers": [
+  0.6,
+  0.3,
+  0.1
+ ],
+ "lord_size": {
+  "base": 40,
+  "by_archetype": {
+   "tryhard": 15,
+   "veteran_mentor": 10,
+   "griefer": 5,
+   "newbie": -15,
+   "trader": -10
+  }
+ },
+ "lord_gold": 1500,
+ "troop_mix": {
+  "_order": [
+   "infantry",
+   "archers",
+   "cavalry"
+  ],
+  "faction_01": [
+   0.45,
+   0.45,
+   0.1
+  ],
+  "faction_02": [
+   0.6,
+   0.35,
+   0.05
+  ],
+  "faction_03": [
+   0.65,
+   0.25,
+   0.1
+  ],
+  "faction_04": [
+   0.35,
+   0.55,
+   0.1
+  ],
+  "faction_05": [
+   0.4,
+   0.2,
+   0.4
+  ],
+  "faction_06": [
+   0.25,
+   0.25,
+   0.5
+  ]
+ },
+ "initial_wars": [
+  [
+   "faction_01",
+   "faction_02"
+  ],
+  [
+   "faction_01",
+   "faction_06"
+  ],
+  [
+   "faction_03",
+   "faction_05"
+  ],
+  [
+   "faction_04",
+   "faction_05"
+  ]
+ ],
+ "ai": {
+  "raid_range_cells": 70,
+  "trade_range_cells": 80,
+  "patrol_range_cells": 40,
+  "chase_give_up_hours": 8,
+  "low_morale": 35
+ },
+ "bandits": {
+  "cap": 24,
+  "spawn_per_day": 4,
+  "size": [
+   8,
+   25
+  ],
+  "roam_cells": 20,
+  "min_cells_from_fort": 12
+ },
+ "caravans": {
+  "cap": 18,
+  "spawn_per_day": 3,
+  "size": [
+   6,
+   14
+  ],
+  "gold": 600
+ },
+ "economy": {
+  "village_recruits_per_day": 2,
+  "village_recruit_cap": 20,
+  "raid_hours": 4,
+  "raid_days": 3,
+  "raid_gold": 300,
+  "raid_prosperity_hit": 20,
+  "upkeep_per_troop_per_day": 0.5,
+  "trade_gold": 400,
+  "caravan_prosperity": 3,
+  "train_t1_to_t2": 0.03,
+  "train_t2_to_t3": 0.02
+ },
+ "routed_respawn_hours": 48,
+ "respawn_size": 15,
+ "stuck_hours": 12,
+ "politics": {
+  "_comment": "Phase 5 diplomacy and sieges. Days are game days.",
+  "min_war_days": 20,
+  "min_peace_days": 25,
+  "max_wars": 2,
+  "war_chance_per_day": 0.012,
+  "weariness_floor": 30,
+  "weariness_scale": 300,
+  "max_peace_chance": 0.08,
+  "fief_loss_weariness": 8,
+  "rout_weariness": 0.5,
+  "min_forts_guard": 2,
+  "siege_hours": 24,
+  "player_siege_hours": 12,
+  "garrison": {
+   "town": 55,
+   "castle": 30
+  },
+  "garrison_regen_per_day": 2,
+  "garrison_after_capture": 35,
+  "besiege_range_cells": 70,
+  "besiege_min_troops": 30,
+  "besiege_strength_margin": 1.1,
+  "fief_income_per_prosperity": 2,
+  "besiege_weight": 0.5,
+  "catch_up": {
+   "_doc": "share = a realm's forts / the average. Keeps one realm from swallowing the map.",
+   "overextension_weariness": 2.0,
+   "coalition_share": 1.6,
+   "coalition_war_mult": 3.0,
+   "underdog_max": 3.0,
+   "overextended_min": 0.5
+  }
+ },
+ "player_regroup_hours": 24
+}

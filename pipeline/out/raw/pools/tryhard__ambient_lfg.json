@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "tryhard__ambient_lfg",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "86688ce7f5b1ae92940ff26b844503e6e1745feb9749ed3518dd1ab511570cdd",
+    "model": "haiku",
+    "cost_usd": 0.0035583500000000005,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:14:26+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "need 2 archers and a pikeman for the {fief} push. eta 20 min, dont make me wait",
+        "{my_faction} is recruiting. bring your own horse, no exceptions, no sob stories",
+        "siege of {fief} needs a ballista crew. 4 slots, pay is fair, ur ego is not",
+        "tired of mixed groups dying to one volley. want 8 people who can hold a line",
+        "anyone who can count to 3 cav per 1 inf, come to {my_faction} muster",
+        "{enemy_faction} will break before we reach the walls. still want the numbers ready",
+        "wont lie, this raid is a coin flip at best. if that scares u skip it",
+        "raid on the {fief} granary kicks at midnight. late ones get benched",
+        "muster at dusk for the {fief} assault. bring food, bring discipline, leave the drama",
+        "running {fief} with 14 people is not a plan. who wants a real command"
+      ]
+    }
+  }
+}

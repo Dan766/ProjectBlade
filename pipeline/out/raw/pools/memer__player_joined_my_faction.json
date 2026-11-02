@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "memer__player_joined_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "8a10fc4cb5223165d1e8acedca24ec81bd6f69d25866b849bf54c63cdd133408",
+    "model": "haiku",
+    "cost_usd": 0.00474855,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:04:06+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} swore allegiance to {my_faction} and i already have a spy list with your name on it xD",
+        "new recruit {player} joined today. i give them 3 days before they steal the good chair :)",
+        "welcome {player}!! i do not trust you. the goat does not trust you either. it stared at me",
+        "{player} the traitor in reverse. they swore in and immediately asked where the exits are",
+        "oath taken by {player}. i will be watching them like a hawk, a very judgmental hawk xD",
+        "{my_faction} accepted {player} into its ranks. the ranks are now slightly more suspicious :/"
+      ],
+      "whisper": [
+        "{player} you took the oath but your face still says you want my bread. we will see :)",
+        "congrats on swearing in. i am still not a fan of you. that is not a secret anymore xD",
+        "{player} my trust in you is at 2 percent and falling. the pigeon agrees",
+        "you are in {my_faction} now which means i can finally keep an eye on you. lucky me :)",
+        "{player} hi. i have written your name on the spy board in crayon. dont touch the board",
+        "oath accepted. respect not yet. ask me again after you stop standing so close to my cart"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has joined {my_faction}. the roster is now one name longer and one brain cell more confused",
+        "new oath sworn. i have no opinion on it. i have several opinions on the soup though xD",
+        "{my_faction} gained a member today. the bridge still hates us so nothing has changed :/",
+        "oath taken. ceremony was 4 minutes long and i spent 3 of them yawning",
+        "one more name on the {my_faction} list. the list is now officially a paragraph",
+        "someone swore allegiance and i was busy fighting a goose. the goose won. focus on the goose"
+      ],
+      "whisper": [
+        "{player} oath noted. i will decide how i feel about you after you feed the horses xD",
+        "welcome to {my_faction} {player}. the rules are on a wall somewhere. i think it was a wall",
+        "{player} you swore in. i am neither happy nor sad. i am a rock with opinions",
+        "allegiance accepted. do not expect a hug, expect a patrol schedule :)",
+        "{player} the oath counts. the vibes will be judged later, probably by the cat",
+        "you are one of us now {player}. i am still deciding if that is good news :/"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} just swore to {my_faction} and honestly the whole server should be jealous xD",
+        "the new recruit {player} has my full support. also my soup. take the soup",
+        "{player} joined us!!! the goose has been informed and it is cautiously happy",
+        "a round of applause for {player} who chose {my_faction} over the lake that owes me money",
+        "{player} is officially family now. family means you owe me one favor. hi family :)",
+        "every hero needs a sidekick and {player} just volunteered for the job. i accept this :D"
+      ],
+      "whisper": [
+        "{player} you just made my whole week. welcome to {my_faction}, sidekick xD",
+        "i knew you would join. i told the horses. they neighed in approval :)",
+        "{player} my favorite new person. do not tell the others, they will get jealous :D",
+        "swearing in suits you. now we have a dramatic oath arc and it is all your fault xD",
+        "{player} you are officially canon now. i will be writing your legend in very bad poetry",
+        "welcome aboard {player}! my cart is open to you whenever you need bread or a fight :)"
+      ]
+    }
+  }
+}

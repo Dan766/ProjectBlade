@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "job_id": "persona_116",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "d1f45884f5260fc1e02e7992b99f6cd87f25a28c4d3ce87550a46d9ae5f10daa",
+    "model": "haiku",
+    "cost_usd": 0.00667985,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:40:28+00:00"
+  },
+  "data": {
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the fog over {village} is so thick i just walked into my own reflection in a puddle xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag again?? the sacred chiken has been sprinting since sunrise and it is not helping :/"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else think the road to {town} got longer overnight or is it just me being dramatic :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "someone tell the bridge at Tahnoun i have not forgoten. it knows what it did"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "reminder that the sacred chiken has been spotted near {village} and it looks very determined xD"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "marched {troop_count} men out of {fief} this morning and not one of them tripped on the bridge. growth :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "sitting on {gold} gold and i am calling it a tax for the chicken. the chicken has not agreed to this"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours and the banners are up, {troop_count} spears strong. come say hi if you dare xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "counted my coin twice just to be sure. {gold} gold. the sacred chiken would be so proud of me"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} troops at {fief}, {gold} gold in the strongbox, and zero plans to explain myself to anyone"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} beat me with {troop_count} men and i am NOT over it. rematch at dawn or i tell everyone you cheated :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that was clean work. you kept {troop_count} men in line, respect. the chiken is grudgingly impressed"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player}, well played ser. my {troop_count} men have been informed that they lost on purpose. they do not believe me"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} beat me again and somehow i still like you more. this is a problem for my enemies"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} enjoyed the win? good. you have {troop_count} spears worth of revenge coming and it is definately bridge shaped"
+      }
+    ],
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} men to me and a pile of gold in the process. i would say sorry but the chicken says no"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} you fought like a goose with a grudge. {gold} gold richer and i am not sorry at all :)"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} ser, great fight. i took {gold} gold and {troop_count} men bowed out early. we should do it again sometime xD"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} my {troop_count} men took a bath in the river and came out with {gold} gold in their pockets. victory tastes like mud xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} that was {troop_count} of your men getting humbled. i am keeping the {gold} gold for the chiken fund"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} saw me coming and suddenly remembered urgent business elsewhere. noted in my book xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} you fled? the chiken is typing a formal complaint about you as we speak"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} i saw your dust cloud leaving in a hurry. next time just wave, i will still chase you but nicer :)"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} vanished faster than my cart did at the Tahnoun bridge. respect for the escape, sort of"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has won so many fights in a row the server is starting to build a shrine. i am filing a complaint with the chiken"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} ok ok you are on a streak. enjoy it while it lasts because a goose is already on the way"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} winning this much is making the rest of us look like pigeons. i admire it and also hate it xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} keep the streak going, the whole server is watching and honestly so am i. proud of you :)"
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} made peace. i am suspicious, peace always ends with someone stealing a cart xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "peace between {my_faction} and {faction}?? someone check the goose is still in its pen"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} shook hands with {faction} so i have officially retired my war banner for one afternoon :("
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the treaty with {faction} is signed. {my_faction} is being very polite and it is frightening everyone"
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} declared war on {enemy_faction}. this is the most exciting thing to happen since the bridge incident"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "war with {enemy_faction}!! i have already nicknamed their whole army. they do not know yet xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} wants war with {my_faction}? the sacred chiken has been sharpened and is ready :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} vs {enemy_faction}. i am packing snacks and a suspiciously large goose shaped flag xD"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}!! {persona} of {my_faction} here. your face is on my list of people to nickname later :)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} ser, {persona} of {my_faction} at your service. my sacred chiken would like a word with you about the cart"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "well well {player}, it is {persona} from {my_faction}. you look like a fine nickname candidate, ser. the goose says hello"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} you again. i have not forgiven you for the last fight and this rematch is me chasing you with {my_faction} banners xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} ser! {persona} of {my_faction} reporting for duty and mild chaos, as usual :)"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i heard {rival} has been practicing battle cries in the mirror. sad xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {rival} keeps bragging about you like you are a real threat. i have seen your cart, ser, relax :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} between us, {rival} is still crying over the bridge. i am keeping the tissues ready"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} if you want a proper rematch, tell {rival} to bring the goose. i will bring the sacred chiken"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} the chiken has seen your face and it is unimpressed. sorry, that is just how it is :("
+      }
+    ]
+  }
+}

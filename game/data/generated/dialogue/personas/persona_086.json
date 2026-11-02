@@ -1,0 +1,313 @@
+{
+ "username": "StormPigeon88",
+ "signature": {
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_086.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "the fens have rained on me for three days straight and i have decided it is a personal attack on me specifically"
+   },
+   {
+    "id": "sig.persona_086.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{town} bridge still owes me an apology. it has not said sorry once. i am keeping a list"
+   },
+   {
+    "id": "sig.persona_086.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag again?? the sacred chicken has never lagged once in its whole life. be like the chicken :)"
+   },
+   {
+    "id": "sig.persona_086.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else hear crows over {village} last night or was that just me being haunted by the pigeon guild"
+   },
+   {
+    "id": "sig.persona_086.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "walked into {village} soaked and the innkeeper gave me a goose-shaped towel. i am keeping it. i have never felt so loved"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_086.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} men at {fief} and every single one has been told about the pigeon. we are unstoppable. also soggy"
+   },
+   {
+    "id": "sig.persona_086.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "i have {gold} in the coin pouch, mostly from people paying me to stop singing at them. the sacred chicken is proud"
+   },
+   {
+    "id": "sig.persona_086.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is ours. the walls are damp, the moat is loud and {troop_count} spears point at the sky out of respect"
+   },
+   {
+    "id": "sig.persona_086.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "counted {gold} this morning. the ledger says i am rich. the ledger is also wet, so i am choosing to believe it"
+   },
+   {
+    "id": "sig.persona_086.ambient_brag.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} soldiers, one horn, zero plan, and somehow we are winning. ser, the weather is doing this for me"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_086.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat my {troop_count} lads and i am choosing to blame the fog. the fog has been notified :)"
+   },
+   {
+    "id": "sig.persona_086.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "well fought, {player}. you marched my {troop_count} into the mud. i blame the fog, you blame your boots, we both win"
+   },
+   {
+    "id": "sig.persona_086.beat_by_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ha! you won this round, {player}. the pigeon is still on my side though, and so is the rain. see you in the next muddy field"
+   },
+   {
+    "id": "sig.persona_086.beat_by_player.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, that flank was sneaky and the storm noticed. i'll be back with {troop_count} more and a worse attitude"
+   },
+   {
+    "id": "sig.persona_086.beat_by_player.05",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "lost to {player} at the fens with {troop_count} lads in tow. the flood took my boots and my dignity, not my horn"
+   }
+  ],
+  "beat_player": [
+   {
+    "id": "sig.persona_086.beat_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} lost {troop_count} men to my horn and a sky that hates everyone equally. the sky is so pleased right now"
+   },
+   {
+    "id": "sig.persona_086.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "told you the weather was on my side, {player}. {gold} richer and still soaked. the gold is mine, the mud is yours"
+   },
+   {
+    "id": "sig.persona_086.beat_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}! magnificent defeat, truly. the pigeon has been informed and it is extremely smug about it"
+   },
+   {
+    "id": "sig.persona_086.beat_player.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "good scrap, {player}. i took {troop_count} of your lot and {gold} worth of loot, so we are square and i am starving"
+   },
+   {
+    "id": "sig.persona_086.beat_player.05",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} got beaten by a horn and a goose-shaped towel. {troop_count} prisoners, {gold} gold, and a tragic amount of mud"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_086.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} ran from me. ran! the ducks saw it, the fens saw it, and i will never forgive the ducks or the fens"
+   },
+   {
+    "id": "sig.persona_086.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "running already, {player}? i was going to be merciful. the rain is sad about this and so am i, a little"
+   },
+   {
+    "id": "sig.persona_086.player_fled_from_me.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} took one look at my horn and bolted. wise. the horn is not even loaded. it is decorative now"
+   },
+   {
+    "id": "sig.persona_086.player_fled_from_me.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "scurried off like a wet rat, {player}. i will find you by the squeak of those boots"
+   },
+   {
+    "id": "sig.persona_086.player_fled_from_me.05",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} saw the pigeon and ran. honest reaction. the pigeon is unarmed but it has a reputation"
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_086.player_win_streak.01",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} has won so many fights in a row the fens are asking questions. i am asking questions too. i want my dignity back"
+   },
+   {
+    "id": "sig.persona_086.player_win_streak.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "winning all the time, {player}? i have a horn and a wet grudge and both are ready for you"
+   },
+   {
+    "id": "sig.persona_086.player_win_streak.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} is on a streak and honestly good for them. the rain is jealous. i am not jealous. i am a little jealous"
+   },
+   {
+    "id": "sig.persona_086.player_win_streak.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, the whole server is whispering about your streak. i am proud of you. i will ruin it eventually, that is love"
+   },
+   {
+    "id": "sig.persona_086.player_win_streak.05",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} thinks they are unbeatable. the sky has opinions and the sky is on my side. see you at the next ford"
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_086.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "peace with {faction}? i am suspicious. they signed with a feather pen that was dripping. my {my_faction} lads cried a little"
+   },
+   {
+    "id": "sig.persona_086.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} made peace. i have lost my favourite excuse to shout and i am very bored about it now"
+   },
+   {
+    "id": "sig.persona_086.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "the treaty with {faction} is signed, so no horn blasts for a week. i am bored already and it has been ten minutes"
+   },
+   {
+    "id": "sig.persona_086.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} and {my_faction} shook hands. i saw it from my tent. it was thunderous. literally, the sky applauded"
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_086.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} has declared war on {my_faction}. horns out, bridges worried, pigeons on duty. my favourite kind of Tuesday"
+   },
+   {
+    "id": "sig.persona_086.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "war with {enemy_faction}! finally something to do. my lads have been polishing spears for three days and the spears are wet"
+   },
+   {
+    "id": "sig.persona_086.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} is at war with {enemy_faction} and i am the only one who packed a raincoat. be ready, ser"
+   },
+   {
+    "id": "sig.persona_086.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} wants a fight with {my_faction}. wonderful. i will bring the sacred chicken. the chicken is furious"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_086.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}! it is {persona} of {my_faction}, and you have been on my list since the fens. drop your banner and face the horn"
+   },
+   {
+    "id": "sig.persona_086.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ho there, {player}. {persona} here, soaked and very dramatic. my {my_faction} lads are watching, so please be dignified"
+   },
+   {
+    "id": "sig.persona_086.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, my favourite wet friend! {persona} of {my_faction} salutes you. the pigeon has been briefed and approves of you"
+   },
+   {
+    "id": "sig.persona_086.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, we have met before and i still have feelings about it. {persona} of {my_faction} says stand aside or be drenched"
+   },
+   {
+    "id": "sig.persona_086.encounter_greeting.05",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ser {player}, {persona} of {my_faction} at your service. mind the puddles, they are mostly my fault"
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_086.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, i saw you walk past {rival} like they were not ruining every village. the horn remembers. so do i"
+   },
+   {
+    "id": "sig.persona_086.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "still thinking about the fens, {player}. {rival} ran faster than you did and i respect that. you did not. ha"
+   },
+   {
+    "id": "sig.persona_086.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{rival} owes me three villages and an apology, {player}. you can carry the message. bring a towel"
+   },
+   {
+    "id": "sig.persona_086.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "hey {player}. tell {rival} the bridge is still mine. the bridge agrees, the horn agrees, the weather agrees"
+   },
+   {
+    "id": "sig.persona_086.whisper_taunt.05",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, your banner looks like a wet sock. {rival} should be ashamed to stand next to you :)"
+   }
+  ]
+ }
+}

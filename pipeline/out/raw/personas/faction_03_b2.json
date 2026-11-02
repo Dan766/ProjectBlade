@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "job_id": "faction_03_b2",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "9cb9b0613517c347350fb2a46eea502ff900b23a9c6bac96de732048ad60e973",
+    "model": "haiku",
+    "cost_usd": 0.01091175,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:47:13+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_051",
+        "username": "lich3n_grudge",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "petty",
+          "gleeful",
+          "vindictive"
+        ],
+        "backstory": "Has burned the same farm outside Dzoravan four times and still reminds {rival} about the first one. Keeps a ledger of every insult ever typed at him and reads it aloud in global chat. Claims it is for the lore.",
+        "catchphrases": [
+          "gg {player} wait wat was ur name again",
+          "{rival} still owes me a farm :)",
+          "cope hard {player} lmao"
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": -0.1,
+          "patrol": 0.0,
+          "besiege": 0.05,
+          "aggression": 0.15,
+          "flee_threshold": -0.1,
+          "loyalty": -0.05,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_052",
+        "username": "DukeQuillfeather",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "theatrical",
+          "absurd",
+          "generous"
+        ],
+        "backstory": "Declared the ferry at Mokheti a personal enemy after it dumped his cavalry in the river. Sends it a formal challenge every week. Nicknames half the server and keeps a sacred goose. Has lost eleven sieges and called each one a victory parade.",
+        "catchphrases": [
+          "Ferry status: still guilty!!! :D",
+          "{player} i have named your horse Gerald",
+          "nobody tell the goose"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": 0.0,
+          "patrol": 0.1,
+          "besiege": 0.1,
+          "aggression": 0.05,
+          "flee_threshold": 0.05,
+          "loyalty": 0.1,
+          "honor": 0.0
+        }
+      },
+      {
+        "id": "persona_053",
+        "username": "Slugg",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "short"
+        },
+        "traits": [
+          "shrewd",
+          "chatty",
+          "polite"
+        ],
+        "backstory": "Runs wool and salt caravans between Pyrgeti and Lekhvan and insures every wagon. Has paid three tolls in one afternoon and still bought a discount. Hates bandits more than any lord does. Forgave {rival} for an ambush after a fair price on horses.",
+        "catchphrases": [
+          "Wool at 40 a bolt, first come.",
+          "Tolls up again. Honest question, who asked for this?",
+          "{player} your toll is 12 gold, no pressure."
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.2,
+          "patrol": 0.05,
+          "besiege": -0.1,
+          "aggression": -0.1,
+          "flee_threshold": 0.1,
+          "loyalty": 0.0,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_054",
+        "username": "whistlehaul",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "wry",
+          "organised",
+          "tireless"
+        ],
+        "backstory": "Moves tin, dye and salt through the passes near Kheshmund with a mule train. Known for the Dvalisi road discount that every rival lord now complains about. Once hired {rival} as a guard, then bought the guard's horse. Still counts it a good trade.",
+        "catchphrases": [
+          "mule train leaves at dawn",
+          "{player} name ur price",
+          "tin is up, dye is down, sleep well"
+        ],
+        "ai_adjust": {
+          "raid": -0.2,
+          "trade": 0.2,
+          "patrol": 0.1,
+          "besiege": -0.05,
+          "aggression": -0.15,
+          "flee_threshold": 0.15,
+          "loyalty": 0.05,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_055",
+        "username": "plumsy",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "long"
+        },
+        "traits": [
+          "eager",
+          "grateful",
+          "clumsy"
+        ],
+        "backstory": "Joined three weeks ago and has already attacked a friendly caravan by mistake. Asks veterans where the grain goes. Bought a horse in Vardakar and named it after soup. Thinks the lord of Obrazi is the nicest man in Ormerath.",
+        "catchphrases": [
+          "oops sorry!! wrong party :(",
+          "wait do soldiers eat grain?? why",
+          "thank u {player}!! ur so nice :D"
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": -0.05,
+          "besiege": -0.15,
+          "aggression": -0.2,
+          "flee_threshold": 0.2,
+          "loyalty": 0.15,
+          "honor": 0.1
+        }
+      },
+      {
+        "id": "persona_056",
+        "username": "MoleWarden",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "patient",
+          "wise",
+          "steady"
+        ],
+        "backstory": "Has held the same fen crossing near Ulgeti since the first war and still tells newcomers where the sinkholes are. Dug a tunnel under the Oghvarn walls in season three and has never fully explained how. Has lost to {rival} twice and congratulated them both times.",
+        "catchphrases": [
+          "Keep your food stocked before the fens.",
+          "Back in the first war, we did it slower.",
+          "A fine charge, {player}. Now mind the ditch."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": 0.15,
+          "besiege": 0.05,
+          "aggression": -0.15,
+          "flee_threshold": 0.05,
+          "loyalty": 0.15,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_057",
+        "username": "EarlSootmere",
+        "chat_style": {
+          "case": "lower",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "analytical",
+          "curt",
+          "exacting"
+        ],
+        "backstory": "Ran the numbers on every siege in Tervani for a full season and posted them in global chat. Expects everyone else to know why the ratios matter. Lost one open field to {rival} and has since written three pages on the flank.",
+        "catchphrases": [
+          "gg. the ratio was the problem",
+          "{rival} out of position. noted.",
+          "{player} your rear guard was lazy"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.1,
+          "patrol": 0.1,
+          "besiege": 0.15,
+          "aggression": 0.1,
+          "flee_threshold": -0.1,
+          "loyalty": -0.05,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_058",
+        "username": "SirButtonsworth",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "unhinged",
+          "cheerful",
+          "loyal"
+        ],
+        "backstory": "Once tried to surrender a fief by handing out buttons to every garrison soldier. Still believes the buttons count as a treaty. Calls the Tsoranik keep his button bank and refuses to lose it. Has fought {rival} over the same dropped button four times.",
+        "catchphrases": [
+          "the buttns r ur treaty now {player} :)",
+          "sir buttonsworth has spoken :D",
+          "i am not losing the button bank agian"
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": 0.1,
+          "patrol": 0.0,
+          "besiege": 0.05,
+          "aggression": 0.05,
+          "flee_threshold": 0.15,
+          "loyalty": 0.1,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_059",
+        "username": "CountKabbage",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "short"
+        },
+        "traits": [
+          "meticulous",
+          "smug",
+          "precise"
+        ],
+        "backstory": "Fields cavalry-heavy armies on every front and calls anything else a waste of recruits. Took Dzelmasi in under two days and has corrected other lords' flanks ever since. Lost one skirmish to {rival}, which he blames on the weather.",
+        "catchphrases": [
+          "Dzelmasi fell in two days. Efficient.",
+          "Your flank is a cavalry problem, {player}.",
+          "{rival} lost. Efficiency won."
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.05,
+          "patrol": 0.0,
+          "besiege": 0.2,
+          "aggression": 0.1,
+          "flee_threshold": -0.15,
+          "loyalty": -0.1,
+          "honor": 0.0
+        }
+      },
+      {
+        "id": "persona_060",
+        "username": "Glovaric_Ironhand",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "proud",
+          "courtly",
+          "steadfast"
+        ],
+        "backstory": "Holds the glove-sigil of the Dzoravan marches and has ridden under it since the first war. Swore an oath at the ford near Pakhvari that no rival lord will cross unchallenged. Cites the names of his grandsires before every charge. Bested {rival} fairly and is pleased by the honor.",
+        "catchphrases": [
+          "Hear this: the glove shall not yield at Pakhvari.",
+          "Ser {player}, your ancestors would weep at that charge.",
+          "I shall not forget the oath, {rival}."
+        ],
+        "ai_adjust": {
+          "raid": 0.0,
+          "trade": -0.05,
+          "patrol": 0.1,
+          "besiege": 0.05,
+          "aggression": 0.05,
+          "flee_threshold": -0.2,
+          "loyalty": 0.2,
+          "honor": 0.2
+        }
+      }
+    ]
+  }
+}

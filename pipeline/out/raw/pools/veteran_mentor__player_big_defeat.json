@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__player_big_defeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "4d968dcc307554134c018d44fe72b1aa734f6ec45abbd24cba5dbb1f5ff1c974",
+    "model": "haiku",
+    "cost_usd": 0.00549375,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:18:09+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} lost {troop_count} men and still wants to lecture everyone on tactics? Save it for the fens, ser.",
+        "Took {player} long enough to learn that a lone banner is just a target. Ask the old hands if you need reminders.",
+        "Lost {troop_count} troops and blamed the weather. Every veteran here has heard that excuse before, {player}.",
+        "Some of us warned {player} about marching without scouts. Pride is expensive, and it just cost {troop_count} soldiers.",
+        "Crushing loss, {player}. Hard to feel sorry when the same mistake gets made every season on this server.",
+        "Mourning isn't my habit, {player}, but that river crossing was never going to end well.",
+        "{player} rode out with {troop_count} men and came back with a fraction. Next time, listen before charging.",
+        "Bad day for {player}. Those who keep marching into the same trap will keep losing, so think it through."
+      ],
+      "whisper": [
+        "Your {troop_count} men deserved better orders, {player}. Lead them differently next time or stop leading at all.",
+        "I won't waste sympathy on you, {player}. Go count what survived and learn from what didn't.",
+        "Keep your distance from my fiefs for a while, {player}. You've lost enough troops to be a nuisance.",
+        "Losing {troop_count} soldiers is a lesson, not a tragedy. I'd still rather you learned it somewhere else.",
+        "Your retreat was messy, {player}. Next time, pull back before the line breaks, not after.",
+        "Spare me the tearful messages. You made the call, you pay for it, and it cost {troop_count} lives.",
+        "Don't expect help from me while you sulk, {player}. Rebuild on your own, or don't rebuild at all.",
+        "Pride got you into that mess. Admit it to yourself at least, since nobody else here will bother."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} took a hard hit today. Happens to the best of us, so let's see what comes out of the ashes.",
+        "Heard {troop_count} soldiers didn't make it back from that field. Hope {player} keeps the rest alive.",
+        "A rough day for {player}. Keep the company close and don't chase the enemy without a plan.",
+        "A standing army is only as strong as its scouts. Ask around before the next campaign.",
+        "Losses like that are part of the game. {player} will be back on the roads soon enough, I expect.",
+        "Would have called that battle a draw if the numbers hadn't gone so lopsided. Heavy price for {player}.",
+        "Plenty of banners were broken out there today. Keep your head, {player}, and your supplies full.",
+        "A defeat like that teaches more than any victory. Let's see what {player} makes of it."
+      ],
+      "whisper": [
+        "Heard about the battle, {player}. Losing {troop_count} men is hard, but the campaign isn't over yet.",
+        "Your army took a beating. Recruit wherever it's cheap and stick to the roads you know are safe.",
+        "Sorry about the loss, {player}. If you want to compare notes on that field, I'm around.",
+        "{troop_count} troops gone is a bad morning. Rest them before you move again, or they'll desert you.",
+        "No need to panic, {player}. Gather what remains and count your supplies before choosing a route.",
+        "That fight went badly. Write down what went wrong while it's fresh, it'll save you trouble later.",
+        "Hard luck, {player}. Armies recover, reputations take longer, so be careful who you ride with.",
+        "Your men fought well before the line broke. Keep that in mind when you rebuild the company."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Brutal fight for {player} today. Losing {troop_count} men hurts, but I've seen worse come back stronger.",
+        "Stand up straight, {player}. One bad field doesn't undo a good campaign. Rebuild and we'll see you on the roads.",
+        "Hard day for {player}, and the company knows it. Anyone with spare grain, help them get back on their feet.",
+        "That was a rough one, {player}. Take the lesson, keep your head up, and don't let it stop you.",
+        "Lost {troop_count} to that ambush? Let's make sure {player} isn't walking back alone. Who has spare rations?",
+        "Few of us came through that field clean. {player}, you fought harder than most, and that counts for something.",
+        "Tough breaks for {player}. Keep the veterans close, they've all crawled out of a ditch like this before.",
+        "Rebuilding after a defeat like that is no shame. Good soldiers carried {player} through it, and they'll do it again."
+      ],
+      "whisper": [
+        "I'm sorry about your losses, {player}. You held the line longer than most would have. Rest up.",
+        "{troop_count} men is a painful number, ser. Come find me if you want help planning the rebuild.",
+        "That loss will weigh on you a while, {player}. When you're ready, I'll help you plan the next march.",
+        "You kept more of your company alive than the field deserved, {player}. Be proud of that much.",
+        "Take a few days off, {player}. The men will be ready to march again once you've had some sleep.",
+        "I've lost more armies than I can count, {player}. The trick is coming back with a plan, not anger.",
+        "If you need a quiet place to regroup, my camp's open. Bring your remaining troops and we'll sort them out.",
+        "Losing that many soldiers hurts, {player}. Write down what you'd do differently. I did the same once."
+      ]
+    }
+  }
+}

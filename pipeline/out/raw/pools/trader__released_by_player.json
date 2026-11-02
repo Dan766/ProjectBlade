@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "trader__released_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "8425bba8cb569ad77a14c44541d268119b894dfd6e438263fe1cf13d1f1447cd",
+    "model": "haiku",
+    "cost_usd": 0.0051750500000000005,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:14:11+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Got released instead of ransomed. Lovely for me, terrible for my ledger. Who's paying for my lost week?",
+        "Word to the wise: don't bother taking hostages around here if you won't even collect on them.",
+        "Free release, no ransom. Not a business model I'd recommend, {player}.",
+        "Lost a fortnight of trade and not one coin of ransom to show for it. Marvelous.",
+        "Every caravan I send out now comes with a guard. Thanks for the extra expense, {player}.",
+        "Heard {player} let the merchant walk. Pity. A ransom would have financed my next three roads.",
+        "Some of us spend our coin on wagons, not sentimental gestures. Dreadful waste of a good hostage.",
+        "Freed without a ransom, then wonder why nobody trusts the roads. Hard to fathom, really."
+      ],
+      "whisper": [
+        "You had me in chains and let me go for nothing? My pride is still bleeding, {player}.",
+        "Sending a bill for my wasted week to your door. Don't bother arguing, the number is high.",
+        "Next time, ransom me. Two hundred gold would have been fair and we'd both sleep better.",
+        "I'll remember this when your caravans hit the road. Not a threat, just a ledger entry.",
+        "Freeing me without a ransom makes you look soft, {player}. I doubt that was the plan.",
+        "Don't expect a discount on anything from me now. Nothing personal, just bookkeeping.",
+        "Released me for free and expect a warm welcome at my stall? Dream on, {player}.",
+        "Fine, you let me go. But my prices for you just went up, and I'm not sorry about it."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Ransom went unpaid, so somebody in Ormerath got a free lesson in economics today.",
+        "Freed without a ransom. Odd move. Markets like predictability, and so do I.",
+        "Captivity is a poor month for any merchant. Still, I got my boots back, so I'll count it.",
+        "Anyone else notice the roads grew quieter after that hostage business? Terrible for margins.",
+        "Walked out of captivity with my stock intact. Rare luck. Prices should settle soon, I think.",
+        "Didn't pay a penny of ransom and still lost three days. Who's counting the losses today?",
+        "Wool is up, salt is up, and I'm finally free. Not sure which of those bothers me more.",
+        "Not sure whether to thank {player} or start watching my wallet. Time will tell."
+      ],
+      "whisper": [
+        "Thanks for the release, {player}. No ransom though, so we're square for now. Just keeping accounts.",
+        "Would have preferred a ransom, honestly. Still, I'll note the kindness in my ledger.",
+        "Freed me outright? I'm not sure what that costs you. Let me know if you need a horse someday.",
+        "No ransom means no debt between us. Fine by me. Consider it an open tab I'll never collect.",
+        "I owe you nothing, {player}, which is an unusual feeling for a trader. Ask me about prices sometime.",
+        "No ransom, no bill, no grudge. Keep the road clear and we'll call it even.",
+        "Your choice to free me without coin is noted. Business is business, though, so mind the tolls.",
+        "Had my guards ready to pay, and you just waved me off. Strange trade, {player}, but I'll take it."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Shoutout to {player} for letting a merchant go without ransom. Good people are good for trade.",
+        "Rare sight: a captor who lets the goods walk free. Spread the word, I'll gladly buy a round.",
+        "Kind hearts don't usually sell well in this market, but {player} might be the exception.",
+        "Free roads, no ransom, no hard feelings. If you're hauling anything, I'll pay for your escort.",
+        "Anyone needing a reliable trade partner should know {player} released me with no strings. Recommend.",
+        "My purse is light, but my gratitude isn't. Good luck on the road, {player}.",
+        "Lost a week, gained a friend. That's a decent exchange rate, if you ask me.",
+        "Let's hope the next captive is treated half as fairly. Good for the reputation of all roads here."
+      ],
+      "whisper": [
+        "You didn't have to let me go for nothing, {player}. I owe you a discount on horses, no argument.",
+        "Thank you, truly. First drink of my next shipment is on you whenever you're near the markets.",
+        "Released without ransom? I'll give you a fair deal on any wagon, and I don't say that lightly.",
+        "Such mercy is bad for my pocket and great for my heart. Expect a warm welcome at my stall.",
+        "I hear you're bound for the river roads. Want a guard escort? I'll cover the first leg.",
+        "No ransom, no reckoning. If you ever need an inside tip on prices, I'm your ledger.",
+        "Say the word and my caravan rides with yours. Free passage, same as you gave me.",
+        "Thanks for trusting me to walk away, {player}. I'll make sure my side of the bargain stays honest."
+      ]
+    }
+  }
+}

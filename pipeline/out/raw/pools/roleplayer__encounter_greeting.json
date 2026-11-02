@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "roleplayer__encounter_greeting",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "a7b70fa7c6a9362927615182cc86d9ac61e477b4972900e95294cca64d9d1a80",
+    "model": "haiku",
+    "cost_usd": 0.0097316,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: Additional properties are not allowed ('neutral' was unexpected)"
+    ],
+    "created_at": "2026-11-01T17:10:41+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Your banner is known in these hills, ser {player}, and not kindly. Turn your horse about before my patience and my spears both run dry.",
+        "Ser {player}, I have heard of your sort. They talk loudly at feast tables and run quickly from the field. Step aside.",
+        "A fine cloak for a wanderer who has never bled for anything. Keep to the far side of my road and we shall both be spared the trouble.",
+        "My house remembers every slight, and the name {player} stands high on our list of grievances. Do not give us reason to add a new line.",
+        "Laugh if you like at my warnings, ser {player}. The crows over this valley have eaten better riders than you for lesser insults.",
+        "I will not share bread with a sworn enemy of my oath. Ride on, and count yourself fortunate that my blade is still sheathed.",
+        "Your ancestors gave their word freely and broke it often, and I see their dishonour still lives in you. Speak quickly, ser {player}, before my temper outruns my courtesy.",
+        "The toll on this road is paid in coin or in blood, ser {player}. You have neither to spare, so choose with care.",
+        "Some wanderers are remembered only by the graves they dig. I will see that yours is marked well, ser {player}.",
+        "Weary I am of rivals who hide behind fine words. Show me your face and your intent, or I shall take the choice from you."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "The road is long and the hour is late, and I have no quarrel with you yet. What business brings you across our path?",
+        "I do not know your banner, ser {player}, and I prefer it that way until I have reason to learn more. Name yourself and your errand.",
+        "Ride on if your road lies elsewhere. My company wishes no news of strangers, and we have no wish to become news ourselves.",
+        "Word travels across these hills faster than any herald. I will wait and see whether your tales are true before I trust a single one.",
+        "We are {my_faction}, bound by our own oaths and not yet by yours, ser {player}. Keep your hands where I can see them and we shall get on well enough.",
+        "A fair day for a meeting, though the weather makes no promises. Tell me what you seek, and I will tell you whether it is mine to give.",
+        "Our wagons are heavy and our patience is light. If you mean to trade, speak plainly, ser {player}; if not, the ford lies just behind you.",
+        "Many travellers pass this bend and most are forgotten by nightfall. I shall reserve my judgement of you until the sun goes down.",
+        "I have no grudge against you, ser {player}, nor any particular fondness. The miles ahead will show which of those we are to share.",
+        "Speak your name and your purpose, and I will weigh them on my own scales. The old hills have taught us to be careful with strangers."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ser {player}, what a sight for weary eyes! Dismount and share our fire, for the road has been cruel and the company is kind.",
+        "I had hoped our paths would cross again, friend. My men spoke well of your courage, and now I see for myself that they did not exaggerate.",
+        "May the old oaths of the high road keep your horse sure-footed, ser {player}, and your purse heavier than when you rode out.",
+        "Few travellers are worth a second greeting, but you, ser {player}, have earned one. Tell me what troubles you, and I will lend my arm to it.",
+        "Our house owes a debt to yours, though the ledger has grown musty with age. Consider this meeting the first page of settling it.",
+        "Ah, {player}! Your name is spoken with respect at my hearth. Tell me the tale of your latest deeds, and I shall tell you mine.",
+        "When the wolves came down from the ridge, you stood firm beside us. That is not a deed a banner forgets, ser {player}.",
+        "Ride with us a while, friend. The evening is cold and the road is long, and I would rather have your steel beside me than against me.",
+        "I give you my hand and my word, ser {player}. Whatever the next winter brings, my banner will stand with yours.",
+        "Ha! Here is a face I did not expect and am glad to see. Come, the wine is poured and our tales are not yet told."
+      ]
+    }
+  }
+}

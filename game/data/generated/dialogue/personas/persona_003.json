@@ -1,0 +1,255 @@
+{
+ "username": "HelmDodger",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_003.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} took {troop_count} men off the field and still called it a win. adorable. tally updated, you're up one"
+   },
+   {
+    "id": "sig.persona_003.beat_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "fine you beat me with {troop_count} lads and {gold} gold of hired swords. ez. rematch when i'm not tired xD"
+   },
+   {
+    "id": "sig.persona_003.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "ez. {troop_count} men and you still needed the luck of a drunk goat. i'm writing this one down, the notebook is getting long"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_003.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "lol {player} brought {troop_count} men and called it a battle. that's a shopping trip with swords"
+   },
+   {
+    "id": "sig.persona_003.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "this was a strategic withdrawal. that's what we're calling it. gg {player}, don't make it weird"
+   },
+   {
+    "id": "sig.persona_003.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "alright {player} you got me. {troop_count} of you and i still lost my lunch. rematch soon, i'm keeping the tally"
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_003.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} again?? third time now. i'm not mad, i'm just bringing more pikemen and making your week hard"
+   },
+   {
+    "id": "sig.persona_003.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "fine {player} you win again. this is not a retreat, it's a clear lack of pikemen on my end. noted"
+   },
+   {
+    "id": "sig.persona_003.beat_by_player_repeat.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ok {player} you've beaten me twice now and i hate that i respect it a little. don't let it go to your head"
+   },
+   {
+    "id": "sig.persona_003.beat_by_player_repeat.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{troop_count} men again {player}? you've got a thing for ruining my afternoon and i'm starting to notice"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_003.player_fled_from_me.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "you ran {player}. that's fine. i'll wait by the road. xD"
+   },
+   {
+    "id": "sig.persona_003.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "retreat looks good on you {player}. very tactical. i'm calling it a win and not a coincidence"
+   },
+   {
+    "id": "sig.persona_003.player_fled_from_me.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "lol {player} saw my banners and ran for the hills. respect the instincts honestly"
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_003.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} you still owe me a rematch. i'm not forgetting. i don't forget anything, ask around"
+   },
+   {
+    "id": "sig.persona_003.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{rival} has been bragging all week. i've got notes. lots of notes {player}, don't worry, you're in there too"
+   },
+   {
+    "id": "sig.persona_003.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} you weren't the reason i lost but you're the reason i'm mad. keep up"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_003.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} meet me at {town} at dusk. bring your army and your best excuses. i'll bring the notebook"
+   },
+   {
+    "id": "sig.persona_003.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{village} is the closest thing to neutral ground i can stand. come fight me there {player} xD"
+   },
+   {
+    "id": "sig.persona_003.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} you owe me a rematch. {town} at dawn, no tax camps this time. promise. probably"
+   },
+   {
+    "id": "sig.persona_003.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "ok {player} rematch in the {village} field. bring the same men you lost with last time. i'm curious"
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_003.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{gold} gold? lol {player} you'd be lucky to get one coin off me. come take it if you think you're tough"
+   },
+   {
+    "id": "sig.persona_003.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{gold} gold for passing through? that's robbery and i'm the one with the notebook. try again {player}"
+   },
+   {
+    "id": "sig.persona_003.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} you're asking me for {gold} gold like we're not friends. i'll pay half and insult you for the rest"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_003.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} of all people. {persona} of {my_faction} says hi. your face is still the same face from last week, sadly"
+   },
+   {
+    "id": "sig.persona_003.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "oh look it's {player}. {persona} here, banner up, pride down. don't be shy, say something stupid"
+   },
+   {
+    "id": "sig.persona_003.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} get over here. {persona} from {my_faction}, we're on the same side of the road today. no tricks xD"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_003.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is mine now. {troop_count} men, {gold} gold, zero shame. come try it if you're brave"
+   },
+   {
+    "id": "sig.persona_003.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "tally update: {troop_count} lads guarding {fief} and {gold} gold in the chest. still undefeated in the important ways"
+   },
+   {
+    "id": "sig.persona_003.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone want to try {fief} with {troop_count} men? no? didn't think so. the {gold} gold says so too"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_003.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} men and smiled for the screenshot. i respect the commitment ngl"
+   },
+   {
+    "id": "sig.persona_003.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "well {player} that's {troop_count} men gone. i'm not gloating. i'm just noting it. it's in the tally"
+   },
+   {
+    "id": "sig.persona_003.player_big_defeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} just dropped most of their army. gg to whoever did that, i'd have done it messier"
+   },
+   {
+    "id": "sig.persona_003.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} that was rough. {troop_count} men down. you'll bounce back, you always do, annoyingly"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_003.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "rain on {town} again. the roads are a swamp and so is my pride. who's out there"
+   },
+   {
+    "id": "sig.persona_003.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{village} has the worst bread on the continent and i've tasted all of it. don't argue with me"
+   },
+   {
+    "id": "sig.persona_003.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "server lag again. i'm not blaming anyone but the whole map is slow. somebody's rigging it"
+   },
+   {
+    "id": "sig.persona_003.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else's horse refuse to leave {village}? mine's sulking. i'm sure it's fine"
+   },
+   {
+    "id": "sig.persona_003.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "good weather for a fight, bad weather for everyone else. who's up for {town} tonight"
+   }
+  ]
+ }
+}

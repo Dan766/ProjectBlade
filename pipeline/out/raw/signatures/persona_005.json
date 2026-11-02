@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "job_id": "persona_005",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "6f799abda68b322b250ee4d64df479fdc77c5d21dae9bfdfd6392952b4cb0b9c",
+    "model": "haiku",
+    "cost_usd": 0.00696435,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:30:08+00:00"
+  },
+  "data": {
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "is it just me or has the rain over {town} developed a personality. it keeps following me around. rude"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "i checked the map and {village} is still there. i am choosing to believe it is there out of respect for me"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the lag today is the server doing a sacred dance. do not interrupt the dance. it is very important to the dance"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "my horse refused to enter {town} out of pure spite. the horse has a point tbh"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "gerald the bridge has been suspiciously quiet all day. he is plotting something and i will be watching :)"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} men under my banner and i have counted them twice. they are all very proud of themselves"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "i have {gold} gold and i am not spending it on anything sensible. it is going toward a statue of a goose"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is officially mine. the locals were informed. they cheered. mostly out of fear but still cheering"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} troops marching on {fief} right now. the drums are loud, the sheep are nervous, victory is near"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "sitting on {gold} gold and a bold plan to buy up everything in {fief}. wish me luck ser, i need it xD"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} won that one but i was executing a bold retreat. the retreat just went very far forward. dont tell gerald"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ser {player} those {troop_count} soldiers of yours were a mistake. mine were a bold retreat. there is a difference and i will prove it"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "well met {player}. you beat me fair. i am calling it a bold retreat and my cavalry is calling it lost. we agree to disagree"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} took {troop_count} of my men and i am proud they lasted this long. the cavalry is still lost though. send help"
+      }
+    ],
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has been defeated and gerald watched the whole thing from the river. he approves. the goose was involved somehow"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ser {player} {troop_count} men for me and a very long walk. i collected {gold} gold as a donation. you are welcome to disagree in writing"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "good fight {player}. {troop_count} of yours made me work for it. i have taken {gold} gold as a memento of your courage. keep your chin up and your purse close"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} just ran away from me at full gallop. that is a strategic withdrawal and i am choosing to be flattered. come back, i have snacks"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ser {player} i saw you turn around. no shame, the road is long and scary. i will wait on the hill with a very large sheep"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} fled from me so fast the horses left skid marks. that is what respect looks like in the republic. probably"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that was the fastest retreat i have seen all week and i have seen my own cavalry. honour intact, chin up ser"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has won like nine battles in a row. this is clearly a plot. i am calling the sheep council to investigate"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "somebody stop {player}. no, dont stop them, i want to see how far this goes. the sheep are watching"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "ser {player} that is a truly unhinged winning streak. i am impressed and slightly jealous. write a song about it for gerald"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ser {player} keep winning and i will start a rumour that you are cheating with the bridge. gerald has not been consulted yet"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} on a ten fight streak and the whole server is talking about it. honestly the best show on the map. encore encore"
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} have made peace. i was going to go to war with {faction} over a sandwich. the sandwich is still missing"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "peace between {my_faction} and {faction} is official. the treaty was signed in ink, sweat and one suspicious goose feather"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{faction} and {my_faction} shook hands. the handshake went on so long i am still not sure whose hand it was"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "good news everyone, {faction} has stopped being annoying for a bit. {my_faction} has agreed to be nice. this will not last"
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has declared war on {enemy_faction}. it will be fought with spirit, sarcasm and at least one bridge"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "war on {enemy_faction}! i have already named the battlefield. it is called gerald. you will all see"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} was sent a very stern letter and did not reply. so now it is swords. the letter was also a bit rude"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} wants war and {my_faction} is ready for war. i packed snacks, a banner and a sense of humour. the cavalry will get lost"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ah {player}, the great enemy of my sandwich. halt or i shall shout at you in a very dramatic accent. {persona} of {my_faction} stands ready"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}! i have been waiting on this road for seven hours. gerald sent me. draw your weapon and lets make this quick"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "well well {player}. {persona} here of {my_faction}. the road is bumpy and the goose is hungry. shall we fight or share a snack"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}! my favourite opponent. {persona} of {my_faction} salutes you. the cavalry is lost but the spirit is strong"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ser {player} i sent {rival} a very polite letter asking them to stop being so good at everything. no reply yet. i am taking it personally"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i know where you sleep. it is near gerald. he has been practising his angry bridge face for you"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ser {player} your flock has organised a strike. the wool is in revolt and the goats are negotiating. dont say i didnt warn you"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {rival} asked me to say hello. i said no, then said it loudly on purpose. hello from the goose"
+      }
+    ]
+  }
+}

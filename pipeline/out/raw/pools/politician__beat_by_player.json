@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "job_id": "politician__beat_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "75f29ad999e9b8ae991709e9f809e462ff139d8e2ac400de3c86951c8d555a49",
+    "model": "haiku",
+    "cost_usd": 0.0157814,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: [] is too short"
+    ],
+    "created_at": "2026-11-01T17:08:47+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "A field battle is only a field battle. The council still counts votes, and {player} has not won one of those yet.",
+        "Losing {troop_count} men on the open field is an expensive lesson. I hope the treasury was budgeted for it.",
+        "Some win with steel. Others win with signatures. I prefer the second, though I suspect some here will never learn that.",
+        "Pity about the banners. Shame they did not hold the ridge long enough to matter to anyone in the chamber.",
+        "Enjoy the victory while it lasts, {player}. Councils forget battles quickly, but they never forget who abandoned their allies.",
+        "A grand charge, I am told. Shame it will not appear in the next session's minutes.",
+        "Every lord hungry for glory eventually learns the field is not where fiefs are decided. Patience, {player}.",
+        "{troop_count} soldiers fell today and not one of them was consulted. Remember that the next time you ride out.",
+        "I expect the bards will sing of this. I expect the tax collectors will sing louder.",
+        "Congratulations on the win. I will be drafting a motion to ensure it does not happen twice."
+      ],
+      "whisper": [
+        "{player}, a single skirmish changes nothing about the seat I intend to take. Do enjoy your moment.",
+        "You won the field and lost the chamber. I wonder which one your creditors will notice first.",
+        "A pleasant afternoon for you. I have already noted which of my friends watched it from a safe distance.",
+        "Your charge was bold. Your supply lines were not. The council will want a word about that, I assure you.",
+        "Keep smiling at the battlefield. I am drafting a letter to the council that will be far less cheerful.",
+        "I hope {troop_count} men were worth the glory. Their families will be reading the casualty list soon.",
+        "Do not get comfortable. Winning once made you visible, and visibility is a dangerous thing in this realm.",
+        "Let me be candid: the victory was noisy and the strategy was thin. Someone should have advised you better.",
+        "You have my respect for the charge and my pity for the reckoning that follows. Good day, {player}.",
+        "Savour it. I will make sure the next vote reminds you that battles end, but ledgers stay open."
+      ],
+      "face": [
+        "{player}. You fought well today, I suppose. Pity the council will judge the campaign by its cost, not its courage.",
+        "Ah, the victor. Walk with me, and mind the mud. I would hate for you to slip before the next session.",
+        "I watched your banners fall back at the ridge and felt the sort of sadness one reserves for a poorly drafted treaty.",
+        "You won here, {player}. Remember that fiefs are not held on fields alone. Ask whoever counts the grain stores.",
+        "Congratulations. Truly. I shall make certain the council hears every detail, including the parts you would rather forget.",
+        "Losing {troop_count} men to take a hillock? Bold. I shall be sure the minutes reflect exactly how bold.",
+        "A victory like this makes people nervous, {player}. Nervous people draft motions. You may want to count your friends.",
+        "I do not hold grudges over a skirmish. I hold records. Yours is now rather long, and I am very thorough.",
+        "Enjoy your ride back to the keep. I will be waiting in the chamber with a list of questions for you.",
+        "Some commanders charge. Others count the cost and then vote. I trust you will see which of us is the more useful."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} took the field today. The council will hear the report, and then it will decide what the victory was actually worth.",
+        "A battle won, {troop_count} soldiers lost. Accounts will be balanced in the chamber, not on the hill.",
+        "Field victories are pleasant, but they do not settle who controls the fiefs. Votes do that, as they always have.",
+        "The outcome at the ridge is noted. Now we wait to see what the council makes of it.",
+        "Good fighting today. I will reserve judgement until the reports are read, as any sensible member would.",
+        "Blood on the grass and ink in the ledger. Both will be counted before the next session, I assure everyone.",
+        "I had expected the ridge to fall the other way. Politics is full of such surprises, and this is merely one more.",
+        "Someone will need to explain the losses at the ridge. I shall let the council decide who that someone is.",
+        "Victory is a fine headline. Governance is the story. I will be watching which one people choose to read.",
+        "A clash of banners and a question for the council: was the cost worth the ground? We shall see what the votes say."
+      ],
+      "whisper": [
+        "{player}, a fair fight by all accounts. I shall be writing my own report for the council before the week is out.",
+        "Well fought, I suppose. I am still weighing whether your victory helps or hinders the arrangement I have in mind.",
+        "You took the field and I took notes. Let us see which record the council finds more persuasive.",
+        "Congratulations on the ridge. Do not mistake a battle for a seat. The two are rarely decided on the same day.",
+        "I lost more men than I would have liked. Still, I am inclined to be civil. For now, at least.",
+        "Your charge was impressive. I am less sure about the arithmetic afterwards. Shall we discuss it over wine?",
+        "I doubt the victory changes much in the chamber. Votes are slow, and people remember the tallies longer than the battles.",
+        "Keep your banners flying, {player}. I may need an ally who knows how to win the field, one day soon.",
+        "No hard feelings from me. It was a skirmish, not a betrayal. Let us both pretend the matter is closed.",
+        "I will not pretend to be pleased, but I am not offended either. The council will sort out the rest in due course."
+      ],
+      "face": [
+        "{player}. A hard-won field, by the look of your banners. Let us see whether the council considers it hard-won or merely expensive.",
+        "You caught me on a poor afternoon, I admit. Tomorrow the ledgers will tell a kinder story, or perhaps a crueller one.",
+        "Shall we walk? I would rather talk about the future than the ridge, though the ridge will certainly come up in the chamber.",
+        "Well fought, {player}. I suspect we will have more to say to each other once the council has finished its arguments.",
+        "A battle is only the first act. The council writes the second, and I have a steady hand with the quill.",
+        "I count {troop_count} men lost on my side. Take that number and consider how the council will weigh it against yours.",
+        "No need to gloat, {player}. We both know the field is one room in a very large house, and the chamber is another.",
+        "Until the next session, then. I will keep my remarks measured, though I cannot promise the same from everyone.",
+        "You fought cleanly today. I am curious whether your allies will remember that as fondly as you do.",
+        "An honest victory, if a costly one. I shall be watching how you spend it before I decide what to make of you."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} held the ridge like a true champion. The council will hear of it, and I intend to say so myself.",
+        "A glorious charge, and a proper lesson for anyone who doubts this coalition. Well done, {player}.",
+        "My ally took the field today and came back with the banners. That is what loyal, capable commanders look like here.",
+        "The losses at the ridge were heavy, but {player} made them worth it. Let the chamber know who bled for the fief.",
+        "Credit where it is due: {player} fought magnificently. I will be pressing the council to reward the effort properly.",
+        "{troop_count} soldiers answered the call today. Thanks to {player}, the banners still fly. Remember that at the next vote.",
+        "Victory on the hill and a friend on the council. A fine afternoon for our side, all things considered.",
+        "Our allies win battles and we win the chamber. Between the two, we make a very strong pair, {player}.",
+        "A fine piece of work at the ridge. Shall we make sure the council knows that our coalition stood firm?",
+        "The bards will sing of the ridge, and I will make sure the minutes sing along. Splendid work, {player}."
+      ],
+      "whisper": [
+        "{player}, that charge was magnificent. I will make sure the council hears of it before the week is out.",
+        "You carried the ridge and carried my hopes with it. I owe you a favour, and I always pay my debts.",
+        "Well done today. Keep your banners close. We have plans for the coming season and you are central to them.",
+        "The losses hurt, I know. Do not let them weigh on you. The council will judge the outcome, not the grief.",
+        "I was watching from the rear, proud as anything. Shall we draft a letter to the council together?",
+        "Your victory strengthens our position considerably. I would like to see you rewarded, and I have a few ideas.",
+        "Thank you for holding the ridge, {player}. A commander who wins for our side is one I like to keep close.",
+        "Good work today. Let us speak tonight about the seat that will open soon. I have someone in mind, and it is you.",
+        "Splendid fighting. I shall be recommending you for the next fief grant, so do keep your reputation polished.",
+        "You made us all look capable today. I will not forget it, and I rarely forget the people who help me win votes."
+      ],
+      "face": [
+        "{player}, what a day. The ridge is ours, and I could not be prouder to stand beside you when the council hears it.",
+        "Walk with me, {player}. The victory is only half the story. The other half is who we bring into our circle next.",
+        "You fought like someone who understands what is at stake. That is rare, and I intend to make the most of it.",
+        "I saw your banners fall and rise again. Such stubbornness wins fiefs in the end, and I intend to say so in the chamber.",
+        "Our coalition is stronger for today's work. Shall we sit down this week and plan the next move together?",
+        "Lost {troop_count} men, did you? A price worth paying, I think. I will make sure the council knows it was worth it.",
+        "A toast later, perhaps? You earned one, and there are a few people I would like you to meet afterwards.",
+        "Until the next session, then. Keep your banners high. I will keep my ear to the chamber and my word to you.",
+        "You have my thanks, {player}, and I suspect you have the thanks of several other lords who were watching today.",
+        "Stay close to our side. The seat I have in mind suits someone who can win fields and keep their friends."
+      ]
+    }
+  }
+}

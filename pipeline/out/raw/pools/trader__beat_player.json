@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "trader__beat_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "63a381823de2dc79e84003a52f25342658e3fd66631a38bd939d80fbe6794dbd",
+    "model": "haiku",
+    "cost_usd": 0.00718915,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:12:42+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} just cost me {troop_count} carts' worth of nerves. Next time, find a different road to rob.",
+        "Field battle with {player} done. Four wagons delayed, one mule sulking, and zero gold recovered. Lovely.",
+        "Reminder for traders: {player} charges a toll in blood. Plan your routes around that.",
+        "Sold {troop_count} sacks of grain last month and lost half to {player}'s ambush. Grim accounting.",
+        "Insurance agents now charge double for roads near {player}. Ask me how I know. Expensive lesson.",
+        "{player} thinks ambushes are a business model. Let me show them the ledger. It is not profitable.",
+        "Another skirmish with {player} and the caravan is two days behind schedule. Someone pay for that delay.",
+        "Dear {player}, your tactics cost me {gold} in lost cargo. I'm filing that under bad investments.",
+        "Hostile roads cut my weekly profit by a third. {player}, you are the reason I keep an armed guard now.",
+        "Seventeen mules, one broken axle, and {player} laughing at the far hill. Market forecast: grim."
+      ],
+      "whisper": [
+        "{player}, you owe me {gold} in crates. Pay up or stay off my roads.",
+        "Your little ambush cost me a full wagon of dyed wool. I hope the hire was worth it.",
+        "I'll remember the field, {player}. Prices on the road go up every time you show your face.",
+        "Keep your bandits off my routes and we can talk prices. Until then, no discounts for you.",
+        "Lost {troop_count} guards to your spear line today. Not a sound investment, {player}.",
+        "A word, {player}: the next toll you dodge will come out of your own pocket.",
+        "Congratulations on the win. I've already sold the story to three inns at a markup.",
+        "You fought well, {player}, but my ledger doesn't care. I'm pricing you as a hazard now.",
+        "Hiring extra hands for convoys so you can't ambush us again. Costs more than your bribe, I'm sure.",
+        "Tell your crew the road fee just went up by {gold} per cart. Your ambushes made it necessary."
+      ],
+      "face": [
+        "{player}, step back from my wagons. I counted {troop_count} of your men before the arrows started, and my account is bleeding.",
+        "You again? Every time we meet, I lose a wheel or a crate. Name your price to leave my road, and make it fair.",
+        "Walk away, {player}. My guards are paid to hold the line, and I'd rather not write off another cart today.",
+        "The fight's done, {player}. Lay your weapons down and we'll settle this with coin instead of more dead mules.",
+        "Your banner is the least welcome thing I've seen all week. Pack up and go, before I raise the toll on your head.",
+        "Lost {troop_count} carts' worth of goods to you. Forgive me if I don't offer you a seat at my fire.",
+        "{player}, I know what you are after. Gold, goods, or grudges. You won't find any of them on this road today.",
+        "Bloodied, bruised and out of coin, {player}? Good. Now you can understand what a bad week costs a trader.",
+        "I'd shake your hand, {player}, but my fingers are still sore from counting broken axles.",
+        "Stay on your side of the ridge and I'll stay on mine. My caravan has a schedule, and you've already ruined it."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Field battle near the crossing. Prices on the eastern road will move tomorrow, so watch the grain board.",
+        "Caravan losses on the ridge road this week. Whoever is raiding there, keep your distance from wagons.",
+        "Note to all carters: roads near the ford are contested. Pay for an escort or pay for a new axle.",
+        "Mixed results today on the hills. Lost some cargo, gained a little respect. Business as usual.",
+        "Salt and iron have both climbed since the skirmish. Expect shortages until the roads settle.",
+        "Friendly warning: a small band is working the northern route. Carry extra coin for the tolls.",
+        "Hauled {gold} worth of goods through the valley today without incident. Small mercies.",
+        "Battle lines are shifting near the bridge again. Keep wagons tight and eyes open on the ridge.",
+        "Anyone with spare wagons: the eastern road is quiet, but not for long. Price accordingly.",
+        "Did a bit of trading on the field today. Prices are fair, the company less so."
+      ],
+      "whisper": [
+        "{player}, I'd like to keep this civil. Name a fair toll for passage and we'll both keep our carts.",
+        "No ill will from me, {player}, but I don't do trade with people who ambush first. Let's start over.",
+        "We fought, we stopped. Now tell me what you need, {player}, and I'll see if the price suits us both.",
+        "I have {troop_count} guards and an empty schedule. Want to talk terms, or shall we keep counting losses?",
+        "{player}, you're hard to read. Are you here to trade or to take? Let me know before the next wagon.",
+        "A warning, {player}: my carts go where the coin is. If that's your road, we can negotiate.",
+        "Fair fight, {player}. I'd rather charge you a fee than bury another good mule over a quarrel.",
+        "You'll find I'm patient with ledgers and wary of swords. Which one do you bring to my table?",
+        "Let's not make this a feud. A small safe-passage fee and both our teams go home richer.",
+        "My caravan master wants a clear answer, {player}. Are we still at war, or just at a price?"
+      ],
+      "face": [
+        "Hold your ground, {player}. I'm not after blood, only passage. Name your toll and we'll talk.",
+        "Good day, {player}. Your men fought well, so let's skip the sour faces and discuss a fair exchange.",
+        "We're done fighting for today. Keep your distance and we'll keep ours, and nobody has to bury anyone.",
+        "Easy with the blades, {player}. My guards are tired, my cart is bent, and I'd rather sell you bread than swing again.",
+        "I'll be honest with you, {player}. I don't know yet whether you're a customer or a problem. Tell me which.",
+        "The field's quiet now. If you want safe passage, the price is {gold} and a clean record.",
+        "You've got good discipline, {player}. Too bad your timing on the ridge cost my wagons a full day.",
+        "Pleasant as ever, {player}. Let's keep this quick, my oxen have had enough excitement for one afternoon.",
+        "I'll buy a truce if you're selling one. What's your asking price for keeping your bows down?",
+        "No more arrows today, {player}? Then let's find out whether we're trading partners or just tired enemies."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Shout out to {player} for holding the line today. Good sport in a skirmish, and a fine customer after.",
+        "{player} fought like a stubborn mule and still paid their tolls. That's my kind of rival.",
+        "Quick tip for carters: if {player} offers you an escort, take it. Fewer losses, better margins.",
+        "Lost a cart on the ridge today, but {player} was fair about it. Restitution and a handshake. Respect.",
+        "Our little skirmish with {player} ended with a deal on salt. Win-win, as far as I'm concerned.",
+        "If you want a reliable partner on the eastern road, {player} is the one to ask. Good word all round.",
+        "Field battle with {player} done, and I'm already planning the next convoy with them. Mostly kidding.",
+        "Credit to {player} for a clean fight and quick settlement. Caravans need more folk like that.",
+        "Good old {player}: they beat me on the hill, then bought my surplus grain at a fair price. Lovely.",
+        "Rumor has it {player} keeps the roads safer than any garrison. Not bad for a rival."
+      ],
+      "whisper": [
+        "{player}, that was a proper battle. Next time we meet, bring your coin and I'll bring the good wine.",
+        "Well fought, {player}! You're the first rival I've enjoyed losing to. Let's talk about a joint shipment.",
+        "Stains on the cart wheels aside, my accounts have forgiven you. Your men made a fine show.",
+        "You beat my vanguard, {player}, so I'll offer you first pick of the spice shipment. Fair?",
+        "Drinks at the next waystation are on me, {player}. Let's compare notes on the northern prices.",
+        "Your tactics were sharp today. I'd like to put a retainer on them if you're open to escort work.",
+        "{player}, you're a worthy opponent. Even the ledger respects that kind of spine.",
+        "A small offer: half-price horses for anyone who fights as cleanly as you did today, {player}.",
+        "You won the field and I won a friend. Good trade, I'd say. Care to make it official?",
+        "Good fight, {player}. Let's keep this rivalry in the ledger and out of the mud."
+      ],
+      "face": [
+        "{player}! That was a beautiful fight, and I'm still shaking off the dust. Wine at the next stop?",
+        "Look at you, {player}, all bloodied and grinning. Let's celebrate with a cup of wine and a fair contract.",
+        "Well done today, {player}. Your flanking worked, my wagons survived, and now I can offer you a job.",
+        "Ah, {player}, my favorite opponent. Tell me you brought your ledger, because I brought mine.",
+        "Stand down, friend, and let me buy you a meal. We'll talk escort rates over the stew.",
+        "I'll be honest, {player}, I wanted to win. But seeing you ride out makes me want a partnership instead.",
+        "That was a fine fight. My carts are battered, my pride is intact, and I still like you, {player}.",
+        "{player}, you've got the eye of a quartermaster. Walk with me to the crossing; I have an offer.",
+        "Good form on the hill, {player}! Shall we settle the stakes over bread, or is that bad for your reputation?",
+        "Rest your arm, {player}. We have three wagons and a cask of cider to split, and I'm inviting you to share."
+      ]
+    }
+  }
+}

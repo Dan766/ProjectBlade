@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "politician__whisper_beg_help",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "e35e92281dfadbd69bc0e567c2c3836ddca1a1e97d910725806f21fb2bb16a19",
+    "model": "haiku",
+    "cost_usd": 0.00448005,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:09:14+00:00"
+  },
+  "data": {
+    "neutral": {
+      "whisper": [
+        "{player}, I will be direct, which I rarely am. {fief} is under siege in all but name, and the council dithers.",
+        "Ser {player}, {enemy_faction} has been pressing our border towns. Any help you offered would be remembered in council.",
+        "I am told you have spare men. {fief} could use them, and I would hate for the credit to go to someone else.",
+        "Wars are rarely lost on the field, {player}. They are lost in committee, while everyone waits for someone else to act.",
+        "Another emergency at {fief}. I am tired of writing letters, {player}. Perhaps you would prefer to sign one for once?",
+        "Those who sit out a crisis at {fief} tend to find their seats reassigned afterwards. Consider where you stand, {player}.",
+        "{fief} is on fire and the council is arguing about the colour of the smoke. Care to lend a bucket, {player}?",
+        "I have the votes to save {fief}, but not the margin to spare. Would you add your name to the motion, {player}?"
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        "{player}, you have always been reasonable. {fief} is in trouble and I would rather trust a friend than a committee.",
+        "Between us, {player}, I need your swords at {fief} before the next council sits. Name your price and we shall discuss it.",
+        "Our last vote together was rather productive, wasn't it? {fief} now needs the same spirit, {player}.",
+        "I shall keep this brief. {fief} is slipping, and I trust you more than anyone else on the roll. Will you ride out?",
+        "Forgive the hour, {player}. {enemy_faction} has taken two villages and my allies are wavering. I need you steady.",
+        "If {fief} falls, I shall blame the weather, the messengers, and the treasurer. Fortunately, you are none of those, {player}.",
+        "Certain people in council would love to see {fief} fall on their watch. Let us make sure they are disappointed, {player}.",
+        "Friendship is tested when a fief is burning, {player}. I like to think ours has survived worse. Could you help?"
+      ]
+    }
+  }
+}

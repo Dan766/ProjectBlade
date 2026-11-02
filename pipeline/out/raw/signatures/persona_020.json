@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "job_id": "persona_020",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "1be0096cb4d6a7bf60b63f3c48ddea22db7e4c54f72a4d179b999f9708e8a6e1",
+    "model": "haiku",
+    "cost_usd": 0.00687605,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:31:28+00:00"
+  },
+  "data": {
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Hold, ser {player}. You stand before {persona} of {my_faction}, and I remind you that this road belongs to those who keep their oaths."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Greetings, traveller. I am {persona} of {my_faction}. State your business plainly and I shall weigh it honestly, as my ancestors taught me."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, what a joy to see your banner upon this road. Let us speak as old allies should, with bread and words between us."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, I am {persona} of {my_faction}. The oaths of Dolmare do not bend for the idle, so mark your steps before you take another."
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "You name a price and threaten my steel, ser {player}? Then hear me. {persona} does not pay {gold} to a man who forgets his oath. Draw, if you dare."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, you ask {gold} of me under threat. A keeper of the Gravel Gate does not surrender for coin. Speak again with honour, or leave me to my road."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I know you jest, but you have named {gold} and a blade in one breath. Withdraw the threat and we shall call this a misunderstanding."
+      }
+    ],
+    "encounter_alliance_yes": [
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, I accept your proposal of alliance. Against {enemy_faction} we shall stand together, and I shall hold you to every word spoken upon this road."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, my hand is yours. We shall ride against {enemy_faction} as one, and let the saga record that {persona} never broke faith with a friend."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Very well, ser {player}. Bind your banner to mine against {enemy_faction}. Yet mark me, I shall not share a campfire with {rival} while my oath stands."
+      }
+    ],
+    "encounter_alliance_no": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "No, ser {player}. An alliance sworn in haste is a grave built on sand, and I will not lay my name beside yours. Go with what dignity you have left."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I must refuse you, ser {player}. My oath to the Gravel Gate forbids binding myself to any banner I have not weighed for a full season."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, you ask me to ally with you while {rival} still walks free with my grievances unanswered. I refuse, and I shall not pretend otherwise."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Forgive me, ser {player}, but I cannot take your hand in alliance this day. Ask again when the road is kinder, and I shall listen gladly."
+      }
+    ],
+    "captured_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "You have taken me, ser {player}, and I shall not weep before you. {my_faction} will remember this hour, and the debt shall be paid in full."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, I yield my sword to you as a captive, not as a coward. Name your ransom of {gold} and let the matter be settled with honour."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Well struck, ser {player}. I am your prisoner and bear no grudge, for a fair fight deserves a fair captivity. Treat my men with mercy, I beg you."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Bind me then, ser {player}. {my_faction} shall sing of this day, and the song shall be no praise for your cunning."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you loosed my chains without asking for coin. I shall repay that mercy in full when the road gives me the chance."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ser {player} has spared me the cells and asked nothing in return. A rare mercy on these roads, and I shall not forget it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, you let me go when a ransom would have served you. I still count you an enemy, but I am no longer in your debt for a cell."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} released me rather than name a ransom. Mercy from a rival is a strange gift, and I shall weigh it carefully."
+      }
+    ],
+    "player_left_my_faction": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} has forsworn {my_faction} for {faction}. A broken oath is a stain that does not wash out, and the saga will remember it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, you have left {my_faction} for {faction}. I shall not curse your name, but a sworn word given so lightly is a sad thing to see."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, you walked from {my_faction} to {faction} like a man changing cloaks. Honour is not a garment, and I think you know it."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{faction} has gained a sword and {my_faction} has lost one. Let the record show that ser {player} made their choice and must bear it."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Let it be sung across Ormerath that {my_faction} has declared war upon {enemy_faction}. The oaths are broken and the swords are drawn."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Heralds of {my_faction} have named {enemy_faction} as our foe. Our ancestors watch this day, and we shall not make them ashamed."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} stands declared our enemy. Let no lord claim later that he did not swear this oath at council."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Steel is drawn between {my_faction} and {enemy_faction}. May the saga record who kept faith and who did not."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Ser {player} stood beside me with {troop_count} blades against {enemy_faction}, and the field was ours. Such deeds are sung for generations."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, your {troop_count} men held the line at my side. Had you faltered, the day would have gone to {enemy_faction}. I am grateful."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, with {troop_count} of your banner we broke {enemy_faction} at the ford. I shall remember that the day was won by honest steel."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{troop_count} of ser {player}'s troops fought well against {enemy_faction}. A fair showing, and one worth a toast at council."
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Fare well, ser {player}. May your road be straight and your oaths be kept, for I doubt you would have it otherwise."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Go in peace, ser {player}. We have spoken plainly, and plain speech is the bread of honest men. Until we meet again upon the road."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Begone, ser {player}. Our paths part for now, but I have not forgotten the grievance and neither has the saga."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, the council bell calls me back to my post. Safe travels, and may your word prove as firm as the stones of Dolmare."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The rain has fallen on the road to {town} for three days, and the mud has swallowed half a cart. Still, the saga does not pause for weather."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Has anyone seen the sun since the morning bell in {village}? I should like to swear my oath beneath a clear sky, if only for once."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The walls of {town} were raised by my ancestors' hands and they still stand. Any lord who doubts that stone should walk its length at dusk."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The bread and ale at {village} are the finest on the Orlagua road. I will hear no argument from anyone who has not tasted them."
+      }
+    ]
+  }
+}

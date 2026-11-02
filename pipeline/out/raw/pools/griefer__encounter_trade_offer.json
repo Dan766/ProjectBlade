@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "job_id": "griefer__encounter_trade_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "3fcb0c5c54fa6e4035b3230742cc1d7948df5b591bfc1c9ebcb070b8defef856",
+    "model": "haiku",
+    "cost_usd": 0.0046342499999999995,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:01:22+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "a deal from {player} means somethings about to get stolen from me and it aint gonna be the goods lol",
+        "you want to trade with me after last time in {town} bold move ser i respect the nerve not the offer",
+        "no deal before i even hear it cos we both know who ends up holding the gold",
+        "ill take your offer then take your horse too and you can walk back to {town} thanks",
+        "lol trade proposals now last deal you had with me cost you a whole cart remember",
+        "sure we can trade just know ill be stabbing you in the back with that {gold} the second you turn around",
+        "cope harder and find some other sucker to trade with my pockets are full of your gold already",
+        "{gold} for that junk you must think im blind as well as broke lol"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "trade offer noted show me the goods first and we can talk about gold",
+        "depends what youre selling if its another cart of rotten bread im out",
+        "fine ill look at it but if this is a scam from {town} again i will know",
+        "eh maybe i dont trust anyone who smiles when they say the word deal",
+        "a deal with you sure why not the last one only cost me a bit of pride",
+        "{gold} is the number im hearing say it again slower so i know youre not lying",
+        "offer sounds fine on paper but paper burns show me the actual goods first",
+        "trade or no trade whatever i got places to be and {player} is not the most interesting thing on this road"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "oh a trade with {player} finally someone worth losing gold to",
+        "deal you robbed me blind last time so this one is basically a sure thing lol",
+        "yeah ill trade with you lets just pretend you dont try to backstab me on the way out",
+        "{gold} sounds fair for a friend who only cheats a little bit ser",
+        "my favourite trade partner just rolled up i hate that im happy about it lol",
+        "ok fine deal but if you short me the {gold} again im telling everyone in {town}",
+        "trade accepted dont get comfy though the moment you look away im taking the better half",
+        "good offer honestly if you were any less annoying id be suspicious of you hah"
+      ]
+    }
+  }
+}

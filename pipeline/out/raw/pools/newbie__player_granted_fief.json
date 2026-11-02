@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "newbie__player_granted_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "60c34806f4d5593fb783b0afbd8627522a6117d83d891cdca04bcaf8128d2566",
+    "model": "haiku",
+    "cost_usd": 0.00477125,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:15+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "wait {player} got {fief} just like that?? i walked 3 days to get my first hut :( not fair lol",
+        "ok who gave {player} {fief}? i need to know so i can be jealous properly",
+        "{fief} is ours now?? no wait {player} got it. im going to sulk in the tavern now xD",
+        "i was gonna ask the ruler for {fief} tomorrow... guess {player} beat me to it. rude :(",
+        "congrats {player} i guess?? ur still gonna lose the first siege i bet hehe",
+        "why does {player} get {fief} and i get a leaky tent. the ruler has favourites pls help"
+      ],
+      "whisper": [
+        "hey {player} i saw u got {fief}... i was gonna ask first lol. dont make me come knock on ur gate :)",
+        "ur lucky i didnt see that coming {player}. ill find something of urs one day xD",
+        "pls dont get too comfy in {fief} {player} i might wander over and start a fight by accident",
+        "i clicked on ur banner by mistake and now im mad about {fief} lol. nothing personal!! mostly.",
+        "congrats on {fief} {player} :( i hope ur soldiers go hungry lol",
+        "not gonna lie {player} im kinda jealous of {fief}. dont tell anyone i said that pls"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} is the new owner of {fief}?? didnt know that was a thing, how do u even get a town",
+        "saw {fief} got a new owner... {player}... ok. sure. good luck with the taxes lol",
+        "anyone know if {fief} has a tavern or is it just walls and sadness",
+        "does the ruler just hand out {fief} to whoever asks nicely? asking for a friend (me)",
+        "{player} has {fief} now. so... what do u do with a castle exactly? do i need a flag",
+        "gg {player} i think. dont know what gg means but everyone says it so :)"
+      ],
+      "whisper": [
+        "hi {player} saw u got {fief}! is it hard to keep the peasants happy?? mine keep running off",
+        "heyy {player}, do the people in {fief} pay u taxes or do u have to ask nicely",
+        "not sure if i should be impressed or scared of {fief} {player} lol. both?",
+        "can u show me how to get a town too?? no pressure if ur busy :) sorry",
+        "congrats {player} :) i'll stay out of {fief}'s way, promise. mostly.",
+        "how many soldiers does {fief} need to not get raided?? asking bc i have 2 and a dog"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} just got {fief}!!! the ruler is so generous, i love this server :D",
+        "shoutout to {player} for {fief}, first town on the server and they're actually nice!! lucky",
+        "{fief} has a well AND a tavern?? {player} thank u for showing me around last week i owe u",
+        "wait {player} is ur new castle {fief}?! i want to visit and say hi with my tiny bag of potatoes",
+        "everyone go say congrats to {player} on {fief}!! i already sent 3 messages lol",
+        "{player} deserves {fief} 100%. they helped me when i was lost in the forest, so proud of u"
+      ],
+      "whisper": [
+        "omg {player} congrats on {fief}!!! ur a legend, i'm so happy for u xD",
+        "{player} i wouldn't have figured out the siege stuff without u. proud of u!! u explain things so well",
+        "can i come visit {fief} sometime?? i promise i wont touch the grain :)",
+        "ur the best {player}, i'm going to tell everyone how u helped me out of the mud pit lol",
+        "{player} do u need help running {fief}? i can carry stuff. i'm very strong. mostly",
+        "i hope ur ruler knows what a good person u are {player}. ur getting a hug when i see u :D"
+      ]
+    }
+  }
+}

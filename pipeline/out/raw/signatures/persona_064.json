@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "job_id": "persona_064",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "ae00d6c0721350c0a52d0d1d7de502e17597c18535bd534a71da6af86def5776",
+    "model": "haiku",
+    "cost_usd": 0.007149850000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:35:37+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Well fought, {player}. Your flank held better than most I have seen this season. Find me at the fords and we will talk it over."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, you lost {troop_count} men to my line today. No shame in it. Rest them, feed them, and come back when they are ready."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, that was a fine fight and I mean it. Take your {troop_count} survivors to a dry camp tonight and count your stores before you ride on."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} made me pay {gold} in that skirmish. Fair enough. I will remember the price, so sharpen up before the next one."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Well played, {player}. You read my line before I finished forming it. I will remember that the next time we meet."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, you broke {troop_count} of my men at the ford. I do not pretend otherwise. Send word if you want to trade tactics. No grudge."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, you have me fair this time. {troop_count} of mine are back by the fires nursing their pride. Come share a meal tonight and tell me where you flanked."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} had the better of me today and I lost {troop_count} men. A lesson paid in full. Stock supplies before you chase anyone."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} and I held the line against {enemy_faction} and sent {troop_count} of theirs home beaten. Fine work from start to finish."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, you kept your flank tight when it mattered most. Against {enemy_faction} that counted for everything. We will drink to it when the camp settles."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "That was a clean fight, {player}. {enemy_faction} lost {troop_count} men to us today. Keep your back to the wall on the road home."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Our thanks to {player} for the timely charge against {enemy_faction}. Good order wins more fields than good swords do."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "You let me walk free without a ransom, {player}. That is a mercy I will not forget. Call on me if you ever need a steady blade."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} let me go rather than ask for ransom. Rare courtesy on this road. Thank you, and the fords owe you a drink."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "I am obliged, {player}. Most would have squeezed a ransom out of me. Remember the favour when we next meet on the road."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} let me go without ransom today. Not many do, and I will say so publicly. Good on you, {player}."
+      }
+    ],
+    "player_joined_my_faction": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Welcome to {my_faction}, {player}. You have a good head for the field, and the old hands here will be glad of you. Ask me anything."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Glad you swore to {my_faction}, {player}. Stay close to the older ranks for a season and you will learn more than any drill teaches."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has joined {my_faction}. Let us see what they make of the work before we crown anyone. Give them a fair chance."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "So {player} has sworn to {my_faction}. The oath is theirs to keep. Do not make me regret standing by the old standards."
+      }
+    ],
+    "player_granted_fief": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} has been granted {fief}. The ruler chose well, and I say so without envy. Hold it with care through the first winter."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "So {fief} went to you, {player}. Keep the granary full before anything else. A fief that starves in winter is no prize to anyone."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} now holds {fief}. I hope the stewards there are honest. Fiefs have a way of testing a lord quickly, and I will be watching."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Congratulations on {fief}, {player}. If you want a steward's checklist for the first season, ask me and I will write one out."
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, {persona} of {my_faction} here. Your banners are a welcome sight on this road. Water and shelter are yours if you want them."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, {persona} of {my_faction}. We are bound the same direction, so keep your distance and we will have no quarrel today."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}, {persona} of {my_faction}. I know your colours and you know mine. Stay on your side of the ridge and we will see a peaceful day."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Good day to you, Ser {player}. {persona} of {my_faction} at your service. Tell me where you ride and I will point out the safest ford."
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Go well, Ser {player}. Mind the mud past the ridge and keep your stores dry. The road has been kinder to us both today."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Safe travels, {player}. Keep your flanks covered on the way, and mind the weather."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Farewell, {player}. Our paths have crossed enough for one day. Keep off my line and we shall part without trouble."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Fair winds, Ser {player}. Come by the camp when you pass again. The stew is thin but the company is good."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain has settled over {town} again, and the mud on the road is worse than last week. Mind your footing if you ride out today."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The river past {village} has risen a hand since dawn. Whoever is hauling grain that way, go around by the high road."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lag is bad near {town} this evening. Be patient with the wagon trains, and do not blame the server for every stumble."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Quiet morning at {village}. Good time to check your granaries before the cold sets in properly."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Market is busy at {town}. Haggle politely, friends, since the merchants remember who cheated them last season."
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} lost {troop_count} men in that rout. Hard day, and no shame in it. Rest your people and come back when they are steady."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Heard about the rout, {player}. Losing {troop_count} is bitter. Come sit with me a while. Even old hands get broken sometimes."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} took a heavy loss, {troop_count} men gone. Keep survivors fed and commanders calm. Armies rebuild faster than pride does."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Hard loss, {player}. I will not gloat over {troop_count} men, that helps nobody. Regroup and ask for counsel if you want it."
+      }
+    ]
+  }
+}

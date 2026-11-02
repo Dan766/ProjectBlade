@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "job_id": "faction_01",
+    "stage": "world",
+    "prompt_file": "world_faction.md",
+    "prompt_hash": "c510487ae55e056a0d3c162251ba6e4089ce7e55610afd94fc998e136efceb7b",
+    "model": "haiku",
+    "cost_usd": 0.007575650000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:36:28+00:00"
+  },
+  "data": {
+    "name": "Orlagua Republic",
+    "adjective": "Orlaguan",
+    "ruler_title": "Ducal Provost",
+    "short_lore": "Orlagua is a republic of canal cities whose merchant guilds elect a Ducal Provost from their own council each year. Its coffers buy crossbows, pikes and sellswords rather than risk guild blood. Regency tolls and Salt-road loans bind the guilds, and rival river towns watch for any sign of weakness.",
+    "troop_names": {
+      "infantry": [
+        "Sallarin Spearmen",
+        "Corvanzo Pikemen",
+        "Vestrine Pikemen"
+      ],
+      "archers": [
+        "Lagunar Bowmen",
+        "Tessaro Crossbowmen",
+        "Gravetto Crossbowmen"
+      ],
+      "cavalry": [
+        "Pontile Riders",
+        "Vissoro Lancers",
+        "Argentaro Lancers"
+      ]
+    },
+    "towns": [
+      {
+        "name": "Calvenza",
+        "blurb": "Glassworks on the outer islands; its kilns light the lagoon at night and its glass is sold to every court."
+      },
+      {
+        "name": "Brenzolo",
+        "blurb": "Salt-fish market where guild factors weigh every catch and quarrel over the price of eels."
+      },
+      {
+        "name": "Orsana Vara",
+        "blurb": "Mint city of the Republic, where the guild treasury stores its gold behind iron doors."
+      },
+      {
+        "name": "Feltravo",
+        "blurb": "Felt-and-wool town on the high canal; a legend says its first Provost drowned rather than sign a tariff."
+      },
+      {
+        "name": "Sorvelle",
+        "blurb": "A town of sluice gates and weirs; whoever controls its locks controls water to three rival cities."
+      },
+      {
+        "name": "Ancaro Ponte",
+        "blurb": "Bridge-town at the river mouth, toll-house of the Republic and a grudge with the Regency."
+      }
+    ],
+    "castles": [
+      {
+        "name": "Gaiazzo",
+        "blurb": "Lombard hill-fort guarding the river pass, long contested by the Regency's marshals."
+      },
+      {
+        "name": "Torre Sallante",
+        "blurb": "Tower of salt-merchants; its cellars hold the guild's debts written on cracked wax."
+      },
+      {
+        "name": "Pelagrino",
+        "blurb": "Chapel-fortress where pilgrims pay tolls to cross; the monks keep the best ledgers in the land."
+      },
+      {
+        "name": "Ostrenga",
+        "blurb": "Damp stone keep on a marsh island, rented out to mercenary companies by the season."
+      },
+      {
+        "name": "Montorzo",
+        "blurb": "Hilltop castle whose lords refuse to pay canal tolls and sell their wine to the highest bidder."
+      },
+      {
+        "name": "Fiorvena",
+        "blurb": "Garden castle with orchards irrigated by a Republic-built aqueduct; the Provost summers here."
+      },
+      {
+        "name": "Dolmare",
+        "blurb": "Coastal fort at the lagoon mouth; its beacon warns merchant ships of Fen raiders."
+      },
+      {
+        "name": "Scarnara",
+        "blurb": "Ruined castle whose drowned cellars are said to hold a guild hoard nobody has recovered."
+      },
+      {
+        "name": "Lusiglio",
+        "blurb": "Border keep on the frontier with the Forest Wardens; its gate-tolls fund half the garrison."
+      }
+    ],
+    "villages": [
+      {
+        "name": "Cavedina",
+        "blurb": "Reed-cutters who sell thatch to every canal city; their feud with Fen boatmen is older than the Republic."
+      },
+      {
+        "name": "Brollo",
+        "blurb": "Orchard village famed for pear brandy, shipped downriver in barrels stamped with guild seals."
+      },
+      {
+        "name": "Pozzale",
+        "blurb": "Well-village where water-clerks test every cistern; they swear a curse lies in the deepest one."
+      },
+      {
+        "name": "Remigo",
+        "blurb": "Oarmakers' village, its ash-trees felled and carved into the rowers of a thousand galleys."
+      },
+      {
+        "name": "Caldoro",
+        "blurb": "Hot-spring village that sells bathing rights to merchants and heals no one who owes a debt."
+      },
+      {
+        "name": "Sciaretto",
+        "blurb": "Fishing hamlet whose nets are tied with guild knots; its catch pays the Sorvelle locks."
+      },
+      {
+        "name": "Nevrone",
+        "blurb": "Snow-fed mill village grinding grain for three cities, always short of millers and honest weights."
+      },
+      {
+        "name": "Gorgola",
+        "blurb": "A whirlpool village at the river bend; sailors pray here before crossing the Ancaro sluices."
+      },
+      {
+        "name": "Stellaro",
+        "blurb": "Lamp-makers' village; its oil lamps mark the canal routes and are sold across the Regency."
+      },
+      {
+        "name": "Pescaldo",
+        "blurb": "Eel-catchers' village; they swear their eels are blessed and pay yearly tithes to the Pelagrino monks."
+      },
+      {
+        "name": "Mantesca",
+        "blurb": "Dye-works village where cloth is coloured with woad and madder; its runoff tints the river blue."
+      },
+      {
+        "name": "Dorsolo",
+        "blurb": "Gilded-mud village where prospectors wash silt for flecks of gold; they never share their claims."
+      },
+      {
+        "name": "Ravanelle",
+        "blurb": "Market-garden village whose radishes and leeks feed Brenzolo's fish-market; a bitter rivalry."
+      },
+      {
+        "name": "Ciotto",
+        "blurb": "Stone-quarry village whose masons built half the canal bridges; a strike here once froze trade for a year."
+      },
+      {
+        "name": "Bindaro",
+        "blurb": "Rope-walk village where hemp is spun for every guild galley; each rope is knotted with a guild's name."
+      },
+      {
+        "name": "Ussaglia",
+        "blurb": "Ferry village at the lagoon edge; ferrymen smuggle salt past the Republic's tolls each night."
+      },
+      {
+        "name": "Valgrana",
+        "blurb": "Grain-valley village whose harvest pays the Republic's mercenary wages; its lords are sullen and proud."
+      },
+      {
+        "name": "Fosselle",
+        "blurb": "Moat-hamlet of wattle huts, flooded each spring; its people are proud, poor, and owe no one."
+      },
+      {
+        "name": "Ottavino",
+        "blurb": "Ledger-village where clerks copy every guild contract by hand; a fire here burned three years of debts."
+      },
+      {
+        "name": "Lunzago",
+        "blurb": "Moonlit wharf-village where smugglers and Salt-road traders haggle over prices after dark."
+      },
+      {
+        "name": "Zavorrino",
+        "blurb": "Ballast-village where galleys take on stone before crossing the open lagoon; its quarry is dug to the sea."
+      }
+    ]
+  }
+}

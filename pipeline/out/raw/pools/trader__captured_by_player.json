@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "job_id": "trader__captured_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "6c114302c8de30a9a2fc61b8fefd317e2dab7f02435f0f36b23a38547483e044",
+    "model": "haiku",
+    "cost_usd": 0.0085952,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2582 (char 2581)"
+    ],
+    "created_at": "2026-11-01T17:12:38+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "You cost me a whole wagon of silk, {player}. Ransom is {gold}, and do not waste my time haggling.",
+        "Your sword made a fine argument, but my books still show a loss. Pay the {gold} and we shall call it even.",
+        "Bandits leave me alone and you leave me alone, yet here I am in chains. Typical luck on these roads.",
+        "I have met cheaper thieves than you, {player}, and they at least had the manners to bow first.",
+        "Every hour you keep me here costs me a fortune in missed caravans. Consider that before you smirk.",
+        "Ser, I will remember this face when I next set up my tolls. Expect to pay double on every crossing.",
+        "A fine victory, {player}. Shame it will not buy you a single bolt of cloth from {my_faction}.",
+        "Let me go, or I will tell every merchant between here and the coast that {player} is a rotten partner."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Right, I am your captive now. Shall we talk about {gold} for my release, or do you prefer to wait for my guards?",
+        "No need for the grim face. I have dealt with worse than you, and most of them paid on time.",
+        "I can see you are counting the coins in my purse already. Go on, the purse is lighter than you hope.",
+        "Chains are bad for the back and worse for trade. Let us settle this quickly, {player}, before the afternoon is gone.",
+        "I assume this is a ransom and not an insult. Tell me the sum, and I will tell you whether my factors can manage it.",
+        "Keep the rope tight if you must, but I need my ledgers at hand. A captive can still count, you know.",
+        "Whatever you think of me, the road to {my_faction} is long, and I am the only one who knows the shortcut.",
+        "If you mean to keep me, at least feed the horses. A dead merchant earns nobody anything, {player}."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ha, well caught, {player}! I suppose a friend would name a fair price, so let us not make this ugly.",
+        "Captive or not, I still prefer you to the last brigand who took me. Shall we talk terms over supper?",
+        "You fight like a proper soldier, {player}. Pay me back with a favor on the northern road and we are square.",
+        "Honestly, I would sooner lose {gold} to you than to any tax collector. Let us say a fair ransom and part ways.",
+        "Take what you need from my wagon and send word to my agents. A partner who spares a merchant earns my trust.",
+        "No hard feelings, friend. Let me offer you a discount on my next shipment once I am back on my feet.",
+        "You have a good eye for an ambush, {player}. Perhaps we can make that talent pay on the caravan route.",
+        "Free me and I will tell {my_faction} you were gentle with me. That kind of word travels faster than any wagon."
+      ]
+    }
+  }
+}

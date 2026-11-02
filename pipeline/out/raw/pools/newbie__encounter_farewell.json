@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "newbie__encounter_farewell",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "448a5af3effe9620a98a5f013dfc5fb8455160f512982ddae425bfa34d17436a",
+    "model": "haiku",
+    "cost_usd": 0.0078899,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2449 (char 2448)"
+    ],
+    "created_at": "2026-11-01T17:05:25+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Fine, walk away. We were not going to fight you anyway. Probably.",
+        "Right, that's your exit then. Enjoy the long road, ser. We'll be here being annoying.",
+        "Go on then, run off. I'm sure whatever you're hurrying to is very important.",
+        "Bye, and I mean that in the least friendly way I can manage. Don't come back.",
+        "Off you go. Don't let the door hit you on the way out, though I'd love to see that happen.",
+        "So you're leaving after all that? Typical. Tell your friends you ran away from nine guys and a donkey.",
+        "We're done here, yeah? Good. I was starting to get a headache from your face.",
+        "Sure, leave. I've got a feeling we'll meet again and you won't be so lucky next time :/",
+        "Goodbye, ser. I'll save you a seat in my nightmares, right next to the donkey.",
+        "Ok fine, bye. Hope the roads are full of mud and your horse is really, really slow."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "ok so, I think we're done? bye!! hope your day goes well :)",
+        "oh wait is that it? alright then, see you around maybe??",
+        "right, I'll be off now. nice meeting you i think lol",
+        "ok bye!! I still don't know what that button does but whatever xD",
+        "hm ok, that's all then? take care of yourself, ser :)",
+        "alright, I'm gonna go before i accidentally walk into a river again. bye!!",
+        "ok so we're finished?? cool cool. have a good one i guess",
+        "bye bye!! I'll remember this conversation probably, maybe, not sure :P",
+        "ok i think i'm supposed to leave now?? see ya!",
+        "and that's the end of that. ok bye, i think my donkey is looking at me funny"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Thank you SO much, {player}!! I would have been totally lost without you, honestly :)",
+        "ok ok i have to go but this was the best part of my whole day!! bye {player}!!",
+        "You're the nicest person I've met in ages, {player}, seriously. Take care out there :)",
+        "bye {player}!! I promise I'll write down everything you taught me before I forget it xD",
+        "I'm gonna miss you already, {player}!! please come find me again soon?? :(",
+        "thanks thanks thanks!! go be awesome, {player}, you deserve it :)",
+        "ok heading off now but I owe you a big hug and maybe a sandwich, {player}!!",
+        "bye bye {player}!! my donkey says thank you too, he doesn't say much but he means it :)",
+        "Sorry for chatting your ear off, {player}!! Thanks for being so patient with me :)",
+        "ok i'm off!! you're the best, {player}, really really really :)"
+      ]
+    }
+  }
+}

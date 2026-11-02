@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "job_id": "conv_b47",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "a470744669e9e342d7791fac490ad0fd0898139624ff848b53d7190fea1ea276",
+    "model": "haiku",
+    "cost_usd": 0.00740605,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:46:20+00:00"
+  },
+  "data": {
+    "conv_231": [
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "Ferry status: still guilty!!! :D Word from the Salt League is they lost {gold} in a bet on the bridge toll lmao",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Your bridge gossip is a fortnight old, Duke. The League's salt rolls are full, and the bet was settled honestly at {town}.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "honestly?? ur the only one who thinks that :P my sources say {village} is wobbling and nobody is buying ur salt anymore >:)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "duskveil88",
+        "text": "Patience wins more fights than cavalry does. Orlagua has not moved a single levy from {town} this week, whatever the rumours say.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Keep your wells full, friend. Those {troop_count} muster rolls are not a sign of anything except an honest quartermaster.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "{troop_count} rolls?? i heard it was {troop_count} men and a goat :D the goat is the real power in the league",
+        "delay_s": 3
+      }
+    ],
+    "conv_232": [
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "wait did {player} just take {fief}?? thought that was ours :O sorry if this is a dumb q",
+        "delay_s": 0
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "Calm down, {player}. I have watched this battle before. {fief} has changed hands more often than a tavern bench in {town}.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "how do i get it back tho?? do i need like {troop_count} guys or just gold :( sorry sorry",
+        "delay_s": 4
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "Gold will not buy back a garrison that holds the walls. Count your men first, then count the siege cost in {gold}.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "ok ok :) so what do i do now?? ur the wise one :D",
+        "delay_s": 3
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "Now you ask the right question. Wait for word from {village}, then decide whether the road to {fief} is worth the blood.",
+        "delay_s": 8
+      }
+    ],
+    "conv_233": [
+      {
+        "speaker": "SirNutbrook",
+        "text": "The Confederacy has declared war on {enemy_faction}. I should like it noted that this was a decision of wisdom, not of haste.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Wisdom, he says :) Iron prices in {town} just jumped, and the men who sold you their spears are not feeling wise at all.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "SirNutbrook",
+        "text": "Your concern for iron is touching, FactorAnvile. The council will decide the price of war, not a trader in {town}.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Care for a deal on iron? Fair prices :) We can supply {troop_count} spears by week's end, if your council can count that high.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "SirNutbrook",
+        "text": "Your offer is noted. The Confederacy has {gold} in reserve and a great deal of patience for {enemy_faction}.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Ha, patience is cheap until the bill arrives :D I will be at {village} selling to both sides, as is my habit.",
+        "delay_s": 4
+      }
+    ],
+    "conv_234": [
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "the goose joke has run 14 times now. nobody knows why its still funny. noting it for the record",
+        "delay_s": 0
+      },
+      {
+        "speaker": "ThistleTolls",
+        "text": "the goose again? it is funny because it still owes me {gold} for a bolt of dyed wool. i will not be moved on this.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "that is 15. the goose has never owed anyone anything. the wool is theoretical",
+        "delay_s": 3
+      },
+      {
+        "speaker": "ThistleTolls",
+        "text": "the wool is very real and the goose is very much a debtor. ask anyone in {town}. the goose sends its regards :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "i tracked the goose across {town} and {village}. it visited both. this is not a coincidence anymore",
+        "delay_s": 5
+      },
+      {
+        "speaker": "ThistleTolls",
+        "text": "you tracked a goose. across two towns. i am starting to think you have no hobbies at all. the goose has a bank account now",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "the goose now has {troop_count} escorts. this has escalated past the point of reasonable. noting it",
+        "delay_s": 4
+      }
+    ],
+    "conv_235": [
+      {
+        "speaker": "KesTrelWhoops",
+        "text": "i hve {troop_count} soldeirs and {gold} gold!!! wait what does that button do lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Impressive, KesTrelWhoops. Wool is selling well in {town} this week, and I would rather hold bolts than a muster roll that wanders off.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "KesTrelWhoops",
+        "text": "hey wait u cant just say wool like thats a whole argument. my soldiers are loyal!!! mostly. one of them is a goat",
+        "delay_s": 4
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "A goat is not a soldier. Loyalty is cheap in {village}, and I should know, since I have bought it there twice.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "KesTrelWhoops",
+        "text": "ok ok but my {gold} gold is in one big pile and yours is in tiny piles so mine is more. thats math :) sort of",
+        "delay_s": 5
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Piles are not the measure of wealth, KesTrelWhoops. Ledgers are. Check yours before you start brawling over {troop_count} men.",
+        "delay_s": 9
+      }
+    ]
+  }
+}

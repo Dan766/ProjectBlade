@@ -1,0 +1,299 @@
+# Event taxonomy shared by the pipeline (what to generate) and the game's EventBus
+# (what to emit). Event ids are a data contract: rename only with a matching game change.
+#
+# Per event:
+#   group          grouping for reports
+#   desc           what happened, from the SPEAKING PERSONA's point of view (goes into prompts)
+#   channels       subset of: global (server chat), whisper (private to player), face (on-map encounter)
+#   relationships  subset of: hostile, neutral, friendly, or ["any"] when it doesn't matter
+#                  (default when omitted: all three bands)
+#   placeholders   which {slots} a line may use; must be in [placeholders]
+#   frequency      common | normal | rare -> min variants per cell, see pipeline.toml [scale.min_variants]
+
+[relationship_bands]
+hostile_below = -30
+friendly_above = 30
+
+[placeholders]
+# Descriptions are shown to the model; write them from the SPEAKER's point of view.
+player ="the human player: the person the line is about or spoken to"
+persona = "YOUR OWN username as the speaker (never the human player's name)"
+town = "a town name"
+castle = "a castle name"
+village = "a village name"
+fief = "the town or castle this situation is about"
+faction = "some other faction, not your own"
+my_faction = "YOUR OWN faction"
+enemy_faction = "a faction your faction is at war with"
+rival = "another player YOU dislike (never the human player)"
+troop_count = "a number of troops"
+gold = "an amount of gold"
+
+# --- Combat ------------------------------------------------------------------
+
+[events.beat_by_player]
+group = "combat"
+desc = "You just lost a field battle to the player."
+channels = ["global", "whisper", "face"]
+placeholders = ["player", "troop_count"]
+frequency = "common"
+
+[events.beat_by_player_repeat]
+group = "combat"
+desc = "You lost to the player AGAIN, the third time or more. Escalating frustration, obsession or grudging respect."
+channels = ["global", "whisper"]
+placeholders = ["player", "troop_count"]
+frequency = "normal"
+
+[events.beat_player]
+group = "combat"
+desc = "You just defeated the player in a field battle."
+channels = ["global", "whisper", "face"]
+placeholders = ["player", "troop_count", "gold"]
+frequency = "common"
+
+[events.player_fled_from_me]
+group = "combat"
+desc = "The player's party ran away from your party on the map before a fight."
+channels = ["global", "whisper"]
+placeholders = ["player"]
+frequency = "common"
+
+[events.captured_by_player]
+group = "combat"
+desc = "The player has taken you prisoner after a battle. You are speaking to them as their captive."
+channels = ["face"]
+placeholders = ["player", "my_faction", "gold"]
+frequency = "normal"
+
+[events.released_by_player]
+group = "combat"
+desc = "The player released you from captivity instead of ransoming you."
+channels = ["global", "whisper"]
+placeholders = ["player"]
+frequency = "normal"
+
+[events.fought_alongside_player]
+group = "combat"
+desc = "You and the player just won a battle fighting on the same side."
+channels = ["global", "whisper", "face"]
+relationships = ["neutral", "friendly"]
+placeholders = ["player", "troop_count", "enemy_faction"]
+frequency = "normal"
+
+# --- Territory ---------------------------------------------------------------
+
+[events.player_besieging_my_fief]
+group = "territory"
+desc = "The player has started a siege of a town or castle that you hold."
+channels = ["global", "whisper"]
+relationships = ["hostile", "neutral"]
+placeholders = ["player", "fief"]
+frequency = "normal"
+
+[events.player_took_my_fief]
+group = "territory"
+desc = "The player captured a town or castle that used to be yours."
+channels = ["global", "whisper"]
+relationships = ["hostile", "neutral"]
+placeholders = ["player", "fief"]
+frequency = "rare"
+
+[events.player_raided_my_village]
+group = "territory"
+desc = "The player raided and burned one of your villages."
+channels = ["global", "whisper"]
+relationships = ["hostile", "neutral"]
+placeholders = ["player", "village"]
+frequency = "normal"
+
+[events.my_faction_took_fief]
+group = "territory"
+desc = "Your faction just captured a town or castle from an enemy faction."
+channels = ["global"]
+relationships = ["any"]
+placeholders = ["fief", "my_faction", "enemy_faction"]
+frequency = "normal"
+
+# --- Diplomacy ---------------------------------------------------------------
+
+[events.war_declared]
+group = "diplomacy"
+desc = "Your faction just declared war on another faction (or had war declared on it)."
+channels = ["global"]
+relationships = ["any"]
+placeholders = ["my_faction", "enemy_faction"]
+frequency = "normal"
+
+[events.peace_made]
+group = "diplomacy"
+desc = "Your faction just made peace with a faction it was at war with."
+channels = ["global"]
+relationships = ["any"]
+placeholders = ["my_faction", "faction"]
+frequency = "normal"
+
+[events.player_joined_my_faction]
+group = "diplomacy"
+desc = "The player just swore allegiance to your faction."
+channels = ["global", "whisper"]
+placeholders = ["player", "my_faction"]
+frequency = "rare"
+
+[events.player_left_my_faction]
+group = "diplomacy"
+desc = "The player abandoned your faction to join another. Many see it as betrayal."
+channels = ["global", "whisper"]
+placeholders = ["player", "my_faction", "faction"]
+frequency = "rare"
+
+[events.player_granted_fief]
+group = "diplomacy"
+desc = "Your faction's ruler granted the player a town or castle. You may be jealous, proud or suspicious."
+channels = ["global", "whisper"]
+placeholders = ["player", "fief"]
+frequency = "rare"
+
+# --- Fame --------------------------------------------------------------------
+
+[events.player_win_streak]
+group = "fame"
+desc = "The player has won many battles in a row and the whole server is talking about it."
+channels = ["global", "whisper"]
+placeholders = ["player"]
+frequency = "normal"
+
+[events.player_big_defeat]
+group = "fame"
+desc = "The player just suffered a crushing defeat and lost most of their army (not to you)."
+channels = ["global", "whisper"]
+placeholders = ["player", "troop_count"]
+frequency = "normal"
+
+[events.player_renown_up]
+group = "fame"
+desc = "The player's renown rose; they are becoming a known name on the server."
+channels = ["global"]
+placeholders = ["player"]
+frequency = "rare"
+
+# --- Encounters (face to face on the map) ------------------------------------
+
+[events.encounter_greeting]
+group = "encounter"
+desc = "Your party meets the player's party on the map and you speak first."
+channels = ["face"]
+placeholders = ["player", "persona", "my_faction"]
+frequency = "common"
+
+[events.encounter_threatened]
+group = "encounter"
+desc = "The player has just threatened you and demanded you surrender or pay."
+channels = ["face"]
+placeholders = ["player", "gold"]
+frequency = "common"
+
+[events.encounter_trade_offer]
+group = "encounter"
+desc = "The player has proposed a trade or deal."
+channels = ["face"]
+placeholders = ["player", "gold", "town"]
+frequency = "normal"
+
+[events.encounter_alliance_yes]
+group = "encounter"
+desc = "The player proposed an alliance and you ACCEPT."
+channels = ["face"]
+relationships = ["neutral", "friendly"]
+placeholders = ["player", "rival", "enemy_faction"]
+frequency = "normal"
+
+[events.encounter_alliance_no]
+group = "encounter"
+desc = "The player proposed an alliance and you REFUSE."
+channels = ["face"]
+placeholders = ["player", "rival"]
+frequency = "normal"
+
+[events.encounter_farewell]
+group = "encounter"
+desc = "The conversation with the player on the map is ending and you say goodbye."
+channels = ["face"]
+placeholders = ["player"]
+frequency = "common"
+
+# --- Whisper openers (persona messages the player first) ---------------------
+
+[events.whisper_challenge]
+group = "whisper"
+desc = "You privately challenge the player to meet you in battle somewhere."
+channels = ["whisper"]
+relationships = ["hostile", "neutral"]
+placeholders = ["player", "town", "village"]
+frequency = "normal"
+
+[events.whisper_alliance_offer]
+group = "whisper"
+desc = "You privately offer the player an alliance against a common enemy."
+channels = ["whisper"]
+relationships = ["neutral", "friendly"]
+placeholders = ["player", "rival", "enemy_faction"]
+frequency = "normal"
+
+[events.whisper_beg_help]
+group = "whisper"
+desc = "You privately ask the player for help: your fief is threatened or you are losing a war."
+channels = ["whisper"]
+relationships = ["neutral", "friendly"]
+placeholders = ["player", "fief", "enemy_faction"]
+frequency = "normal"
+
+[events.whisper_taunt]
+group = "whisper"
+desc = "Unprovoked, you privately taunt the player."
+channels = ["whisper"]
+relationships = ["hostile"]
+placeholders = ["player", "rival"]
+frequency = "normal"
+
+# --- Ambient (global chat, not about the player) ------------------------------
+
+[events.ambient_chatter]
+group = "ambient"
+desc = "Idle server chat: weather, the map, lag, jokes, small talk. Not about the player."
+channels = ["global"]
+relationships = ["any"]
+placeholders = ["town", "village"]
+frequency = "common"
+
+[events.ambient_trade]
+group = "ambient"
+desc = "Buying, selling or asking about prices and goods on the server."
+channels = ["global"]
+relationships = ["any"]
+placeholders = ["town", "gold"]
+frequency = "common"
+
+[events.ambient_lfg]
+group = "ambient"
+desc = "Looking for allies or recruits for a campaign, siege or raid."
+channels = ["global"]
+relationships = ["any"]
+placeholders = ["my_faction", "fief", "enemy_faction"]
+frequency = "common"
+
+[events.ambient_complaint]
+group = "ambient"
+desc = "Complaining about something on the server: bandits, prices, another lord, game balance."
+channels = ["global"]
+relationships = ["any"]
+placeholders = ["rival", "town", "faction"]
+frequency = "common"
+
+[events.ambient_brag]
+group = "ambient"
+desc = "Bragging about your army, wealth or a recent victory."
+channels = ["global"]
+relationships = ["any"]
+placeholders = ["troop_count", "gold", "fief"]
+frequency = "common"

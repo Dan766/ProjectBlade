@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "job_id": "trader__player_took_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "89ee55f887466fd78c3c01357bf8727f542e4e98bfc8789f444a4fbe9f3b2317",
+    "model": "haiku",
+    "cost_usd": 0.00492905,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:13:56+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Lost {fief} to {player}'s banners. The wool market there is about to dry up, and that's on everyone, not just me.",
+        "Pour one out for the {fief} merchant guild. They had great margins, and now they have a new landlord who skims everything.",
+        "Congrats on {fief}, {player}. Shame the tolls are double now. Caravans will route around it, and you'll have an empty market.",
+        "War takes a town and then takes its trade. {fief} will be quiet for months, and I'm not sorry to say I saw it coming.",
+        "Anyone hauling salt through {fief} this week, check the gate fees first. I'm not paying them and neither should you.",
+        "Heard {player} took {fief}. I'll be sending my caravans around the mountains. Longer road, but at least nobody's shaking me down."
+      ],
+      "whisper": [
+        "{player}, you took {fief} and now my wagons pay the tax. Enjoy the coin, it's the only thing you'll be getting from me.",
+        "Ser {player}, a word of advice. Holding {fief} is expensive. Garrisons eat, and my bread prices aren't going down to help you.",
+        "Still haven't forgiven the lost shipment from {fief}, {player}. Remember that when you set your toll rates.",
+        "You knew I had a warehouse in {fief}, didn't you? Clever. Clever and rude. Let's not do business for a while.",
+        "{player}, I'll keep trading through {fief} if the tolls are fair. Make them fair and we can talk. Otherwise, I'm out.",
+        "Congratulations on the capture, {player}. I'll be tallying my losses by candlelight. Expect the invoice to be sent."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Anyone know what {fief} charges for a stall now? Prices shift every time the banners change. Bad for planning.",
+        "{fief} has a new lord. As long as the roads stay open and the tolls stay sane, I'll keep my wagons moving.",
+        "Watching the {fief} market settle. Wool's cheaper than last month, so somebody's happy at least.",
+        "Caravans are rerouting around {fief} for now. Let's see if the new owners understand what a well-kept road is worth.",
+        "Trade doesn't care whose flag is flying. Show me a fair toll and a safe road and I'll show you a busy market.",
+        "Quick note for traders: {fief} is open for business again. Bring your goods, bring your coin, and check the price board first."
+      ],
+      "whisper": [
+        "{player}, I hear you're holding {fief} now. Mind if I send a wagon through? I'll pay the standard toll, no fuss.",
+        "Congratulations on {fief}, {player}. Quick question: are the roads patrolled? Bandits are murdering my margins.",
+        "Heard the stables in {fief} are still standing. Want to sell any horses there? Fair price, honest weight.",
+        "{player}, let's keep things simple. You keep the roads safe, I keep my caravans moving, and everyone eats better.",
+        "Would you consider a discount on salt for {fief}'s garrison? Bulk order, prompt payment, and I'll keep my complaints in the ledger.",
+        "Still tallying what the siege cost me in {fief}. Not asking for a refund, {player}, just a posted toll schedule."
+      ]
+    }
+  }
+}

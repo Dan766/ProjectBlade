@@ -1,0 +1,285 @@
+{
+ "username": "DawnwatchSeal",
+ "signature": {
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_114.encounter_greeting.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Hail, traveller. I am {persona} of the Ighrast Salt League, bearer of the Seal of Tassemmar. State your business, {player}, and speak it plainly."
+   },
+   {
+    "id": "sig.persona_114.encounter_greeting.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Halt, {player}. I am {persona} of {my_faction}, and I have little love for strangers who keep their hands near their belts on my road. Speak quickly."
+   },
+   {
+    "id": "sig.persona_114.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well met, ser {player}. The salt-pans have taught me to trust few, but I see an honest face. {my_faction} greets you with an open hand."
+   },
+   {
+    "id": "sig.persona_114.encounter_greeting.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I am {persona}, sworn to {my_faction} at the salt-pans each dawn. Pass in peace, ser {player}, and the morning will record that no steel was drawn."
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_114.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "You name a price of {gold} upon my own road? Ser, I have heard braver words from wolves, and they died as hungry as they came."
+   },
+   {
+    "id": "sig.persona_114.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Surrender, you say, and {gold} besides? Hear me. The Ighrast Salt League does not bow to a demand spoken in fear. Name your deeds, not your sum."
+   },
+   {
+    "id": "sig.persona_114.encounter_threatened.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "I will not pay {gold} to a man who threatens a bearer of the Seal of Tassemmar. Draw, if you have the nerve, and let the outcome be written in salt."
+   },
+   {
+    "id": "sig.persona_114.encounter_threatened.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, I hold you to an honest tongue. Threaten me no further, for I will not part with a single coin of {gold} to intimidation."
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_114.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Then let us swear it, ser {player}. The Ighrast Salt League stands beside you against {enemy_faction}, and our oath is written in salt and blood."
+   },
+   {
+    "id": "sig.persona_114.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I accept, though I trust slowly. Walk beside me against {enemy_faction}, and I will judge you by your deeds at the salt-pans."
+   },
+   {
+    "id": "sig.persona_114.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "A fair bargain, ser {player}. Our banners shall meet, and {rival} will learn that the bearers of the Seal do not forget a friend."
+   },
+   {
+    "id": "sig.persona_114.encounter_alliance_yes.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "So be it. Our swords are yours against {enemy_faction} for as long as your word holds true, ser {player}."
+   }
+  ],
+  "encounter_alliance_no": [
+   {
+    "id": "sig.persona_114.encounter_alliance_no.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "No, ser {player}. The bearer of the Seal does not ally with those who foul the water of the land. Go your way and do not return with your banner."
+   },
+   {
+    "id": "sig.persona_114.encounter_alliance_no.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I must decline. My oath at the salt-pans binds me to my own banner, and I will not break it for a proposal made in haste, ser {player}."
+   },
+   {
+    "id": "sig.persona_114.encounter_alliance_no.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ally with {rival}'s company? You ask too much. I would sooner bathe in brine than stand shoulder to shoulder with those I despise."
+   },
+   {
+    "id": "sig.persona_114.encounter_alliance_no.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, your offer honours me, but I must refuse it. Some debts must be settled first, and a bearer of the Seal keeps his word to the letter."
+   }
+  ],
+  "captured_by_player": [
+   {
+    "id": "sig.persona_114.captured_by_player.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "So the dice have fallen to you, ser {player}. Take your chains, but know that {my_faction} will remember this humiliation until the last salt-pan is dry."
+   },
+   {
+    "id": "sig.persona_114.captured_by_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I yield my blade, not my honour. Name your ransom, {gold} or otherwise, and let the morning record that I was taken fairly."
+   },
+   {
+    "id": "sig.persona_114.captured_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "A fair capture, ser {player}, and I bear you no shame. Name your price of {gold}, and I will see {my_faction} pay it before the next thaw."
+   },
+   {
+    "id": "sig.persona_114.captured_by_player.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Gloat as you like. A prisoner's silence is not surrender, and those who foul the wells will answer to me yet."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_114.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you loosed my chains without ransom. The bearers of the Seal will not forget a mercy so freely given."
+   },
+   {
+    "id": "sig.persona_114.released_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You let me go, ser {player}, and asked nothing in return. I do not yet know whether that was mercy or a trap, but I shall learn."
+   },
+   {
+    "id": "sig.persona_114.released_by_player.03",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} released me without ransom. Mercy is a strange weapon, and I shall not forget the hand that held it, nor the debt it leaves."
+   },
+   {
+    "id": "sig.persona_114.released_by_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Ser {player} let me walk free. I owe a debt I did not ask for, and a bearer of the Seal pays what he owes."
+   }
+  ],
+  "player_left_my_faction": [
+   {
+    "id": "sig.persona_114.player_left_my_faction.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has forsaken {my_faction} for {faction}. A broken oath is a poisoned well, and I will not forget the taste."
+   },
+   {
+    "id": "sig.persona_114.player_left_my_faction.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Ser {player}, you left {my_faction} to serve {faction}. Such betrayal stings like brine in an open wound. Remember that oath."
+   },
+   {
+    "id": "sig.persona_114.player_left_my_faction.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} has left {my_faction} for {faction}. Let each banner judge its own oaths, for I will not sit in judgement."
+   },
+   {
+    "id": "sig.persona_114.player_left_my_faction.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, I hold no grudge for your choice, but the salt-pans remember who kept their oath and who did not."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_114.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has taken up the sword against {enemy_faction}. Let the salt-pans run red, and let every well be guarded by our hand."
+   },
+   {
+    "id": "sig.persona_114.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} has earned our enmity with every poisoned well they have fouled. I bid all of {my_faction} to stand fast."
+   },
+   {
+    "id": "sig.persona_114.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "The gauntlet is thrown. {my_faction} will not retreat from {enemy_faction}, and history will record who held the road."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_114.fought_alongside_player.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, we held the field together against {enemy_faction} with {troop_count} sworn spears. The saga shall remember this day."
+   },
+   {
+    "id": "sig.persona_114.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Well fought, ser {player}. With {troop_count} blades at our backs we broke {enemy_faction}. I shall tell this tale at every salt-pan."
+   },
+   {
+    "id": "sig.persona_114.fought_alongside_player.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} and I stood together against {enemy_faction}, {troop_count} strong, and the field is ours. Honour to all who held the line."
+   },
+   {
+    "id": "sig.persona_114.fought_alongside_player.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Your shield-wall served well today, ser {player}. Our {troop_count} held the ground against {enemy_faction}, and that is a debt I will repay."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_114.encounter_farewell.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Go with the dawn at your back, ser {player}. May your road be as honest as your word, and may we meet again on better ground."
+   },
+   {
+    "id": "sig.persona_114.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "We part ways for now, ser {player}. Remember that the bearers of the Seal keep their oaths, and so shall I."
+   },
+   {
+    "id": "sig.persona_114.encounter_farewell.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Begone, ser {player}. Our blades will meet again, and when they do, I will not spare your banner the reckoning it has earned."
+   },
+   {
+    "id": "sig.persona_114.encounter_farewell.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Farewell, ser {player}. Think on your deeds upon the road, for I shall not forget the wells of Ahnarou."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_114.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The salt-pans of {town} glitter well at dawn. A fine morning to renew one's fealty, friends of the road."
+   },
+   {
+    "id": "sig.persona_114.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Word from {village} says the millers have raised their prices again. Honest folk should not be robbed by greed or weather."
+   },
+   {
+    "id": "sig.persona_114.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "The road between {town} and {village} is muddy this morning. Mind your footing, travellers, and mind your oaths."
+   },
+   {
+    "id": "sig.persona_114.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "I walked the old causeway at {town} last night and listened to the wind. The land remembers every promise made upon it."
+   }
+  ]
+ }
+}

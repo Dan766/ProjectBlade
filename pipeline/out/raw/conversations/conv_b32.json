@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "job_id": "conv_b32",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "ed9e83784c0aa30d1417e0ecd745b146d3f52c7f6d72f03fc5f34d51c15a182a",
+    "model": "haiku",
+    "cost_usd": 0.00731085,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:44:49+00:00"
+  },
+  "data": {
+    "conv_156": [
+      {
+        "speaker": "SerWrenwood",
+        "text": "Bandits on the road outside {village} again :( My squire lost a whole cart of wine to them. Come sit by the fire, young one :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "A matter for the council, I think. Our patrols could be doubled, though that costs {gold} gold.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "Doubled patrols cost gold and still lose carts :) Better to hire sellswords for the stretch past {town}.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "Sellswords cost more than the carts they guard, Wrenwood. Perhaps {troop_count} of our own men would suffice.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "Your men would be too proud to hide in a ditch, I fear :) Take the river road instead, it is safer by far.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "The river road floods every spring. I shall raise it at the council, and you may complain there as well.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "I would sooner sing about it at the tavern :) Bring me a cup and I might forgive the bandits. Almost.",
+        "delay_s": 4
+      }
+    ],
+    "conv_157": [
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Honour is nice, friends, but wool is 40 gold a bolt in {town} this week and nobody pays a man for looking noble.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "LadyGullmere",
+        "text": "chalk_tallyman, honour is what remains when the gold is spent. My house would rather be poor and respected.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Respected by whom, LadyGullmere? The buyers at the last fair remembered only the price, not the speech.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "LadyGullmere",
+        "text": "The buyers forget, but the ballads do not. A knight who sold his oath for {gold} gold is sung about for a century.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Ballads do not pay the caravan guards, LadyGullmere. I have heard a hundred songs and not one fed a family.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "LadyGullmere",
+        "text": "Then you have listened to the wrong songs. The one about {village} still makes my grandfather weep.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Weep all you like. I will be in {town} with {troop_count} bolts of wool and a very fat purse.",
+        "delay_s": 3
+      }
+    ],
+    "conv_158": [
+      {
+        "speaker": "SaddleQuote",
+        "text": "Did you hear {player} left us for {faction}. Took half my saddle orders with them. Rude.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "lol {player} goin to {faction} is the most mid move ive seen all wek :D they deserve eachother",
+        "delay_s": 3
+      },
+      {
+        "speaker": "CountessBrinhal",
+        "text": "Betrayal is a harsh word for a change of banner though the timing was poor and the council will want an answer",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "answer? ur just salty {player} got a better offer than ur {gold} gold bounty :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Leave it. Honest trade is still honest trade. I sold them a saddle for {gold} gold and they paid in full.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "CountessBrinhal",
+        "text": "Your loyalty is noted, SaddleQuote, and so is {player}'s departure. Their lands near {town} will need a steward before dusk.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Stewards are cheap, saddles are not. Still, {player} owes me for two mounts. Hmm.",
+        "delay_s": 4
+      }
+    ],
+    "conv_159": [
+      {
+        "speaker": "xX_Yarr0wReign_Xx",
+        "text": "Every vote is a favour returned, Ropeknot42. I trust you will remember the council vote when the raid on {village} begins.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "Of course. A raid on {village} is worth {gold} gold if we split the cart route fariy, I think.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_Yarr0wReign_Xx",
+        "text": "Fairly is a generous word. I would rather we agree on the {town} road before the ships arrive, don't you think?",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "The {town} road is yours then. I take the hills and {troop_count} spears. Shall we shake on it?",
+        "delay_s": 7
+      },
+      {
+        "speaker": "xX_Yarr0wReign_Xx",
+        "text": "A handshake in the council hall, then, with witnesses to keep us both honest. :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "Witnesses are fine. Just don't let anyone leave early, the last one did and nobody saw him again.",
+        "delay_s": 9
+      }
+    ],
+    "conv_160": [
+      {
+        "speaker": "ratiognat",
+        "text": "tsevaret lost the cav count war and nobody wants to say it out loud but the numbers dont lie",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SirButtonsworth",
+        "text": "nah the buttns r wat won us the war :) ratiognat u need to chil lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "cav count was the whole story buttons were a rounding error",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "The sacred hen has been informed!! :D SirButtonsworth the hen says ur buttns are overrated?!?! :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SirButtonsworth",
+        "text": "the hen is a mnace and i respect her :) buttns r forever tho. potshot ur wrong bout the hen",
+        "delay_s": 6
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "the hen has zero bearing on the cav count and u know it",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "The hen is NOT a bearing!!! She is a LEGEND :D",
+        "delay_s": 4
+      }
+    ]
+  }
+}

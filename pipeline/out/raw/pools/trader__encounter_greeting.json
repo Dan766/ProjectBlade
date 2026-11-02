@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "trader__encounter_greeting",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "437a5dd4f1f062dd62da9f8be6c3a39a4dadd2b9b60b7202cd6a60236d9ab7e9",
+    "model": "haiku",
+    "cost_usd": 0.0083392,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: Additional properties are not allowed ('neutral' was unexpected)"
+    ],
+    "created_at": "2026-11-01T17:12:55+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Oh, it's you, {player}. Keep your hands where I can see them and your opinions to yourself. I'm just trying to move cargo.",
+        "Your reputation travels faster than your horse, {player}. Every toll I've paid this month was overpriced, and I'm holding you partly responsible.",
+        "I've got three guards and a fully loaded wagon, {player}. Go ahead and make a mistake. I'll happily tally the damages on your account.",
+        "Turn your party around, {player}. I'm not interested in a deal with someone who keeps spooking my drivers.",
+        "Ah, {player}. Last time we crossed paths, my salt went missing. I've been pricing your bruises ever since.",
+        "I don't trade with people who look at my cart like that, {player}. Find another road, and find another merchant while you're at it.",
+        "We're not buying what you're selling, {player}, and we're not selling you a thing either. Clear the path, please.",
+        "Mind your step, {player}. The last caravan that crossed your path lost two mules and a fair bit of profit. I'm keeping count.",
+        "Every time a wagon meets your party, the price of grain goes up a copper, {player}. I'm not in a generous mood today.",
+        "Stay on your side of the ford, {player}. My ledger has a page with your name on it, and it's not a page I want to add to."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Morning, {player}. Road's clear ahead, as far as I know. Just don't block the ford, it's bad for everyone's margins.",
+        "Good day, {player}. I'm carrying salt, wool and two barrels of wine. If you need any, ask nicely and we'll talk numbers.",
+        "Fair weather for travel, {player}. Keep your distance and we'll get along fine, and maybe we'll both make a little coin today.",
+        "Hello, {player}. Our wagons are on the same road, so we might as well keep the traffic moving and the prices honest.",
+        "{player}, I see your party's loaded down. Tolls at the next bridge have gone up again, so plan your purse accordingly.",
+        "Afternoon, {player}. My drivers are tired and my mule is sulking, so let's not make this encounter longer than it needs to be.",
+        "Lovely day for a delivery, {player}. If you're headed toward the market town, the northern road is safer than the old pass.",
+        "{player}, your party's cart looks sturdy. Mine's a bit bent from a pothole, but it still turns a profit, which is what matters.",
+        "Greetings, {player}. I've got no quarrel with anyone who pays their tolls on time, so keep that in mind as we pass.",
+        "Hail, {player}. Caravan business is slow this season, so if you're carrying anything worth moving, I'd like to hear about it."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "{player}! Good to see you on the road. I've got fresh spices, and I'll knock a few coins off for an old friend.",
+        "Ser {player}, what a pleasant surprise. I was just reckoning how much I owe you for that last good turn on the mountain pass.",
+        "There you are, {player}! My cart's a little heavy with ale today, so come share a cup and tell me what you're hauling.",
+        "Well met, {player}. You've got that look of someone who can turn a profit, and I've got just the wagon to help with that.",
+        "{player}, my favourite partner in trade. Let's compare notes on prices before the next town's markets open up.",
+        "Safe travels, {player}! Thanks again for keeping the bridge clear last week. My profits are better for it, and I'm not forgetting that.",
+        "Ah, {player}, I'd know that party's banner anywhere. If you're short on supplies, I'll give you a fair rate and call it neighbourly.",
+        "Greetings, friend {player}! I've been meaning to find you about a trade route. A cut for both of us, if you're willing to hear it out.",
+        "{player}, you're a sight for weary eyes. The roads have been rough, but a wagon with your party's name on it always brings me some luck.",
+        "Good timing, {player}! I've got a spare crate of tools and an honest price, and I'd rather sell it to someone I trust."
+      ]
+    }
+  }
+}

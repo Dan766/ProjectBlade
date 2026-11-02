@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "tryhard__player_joined_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ba7f9bb8a8bb64106208792f08dcb739b1a3a9a82d125b4c475ec0581ae9ca7b",
+    "model": "haiku",
+    "cost_usd": 0.00462985,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:15:57+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} swore to {my_faction}. ok. expect them to die first in every fight they pick",
+        "another defector joins {my_faction}. they will be the weakest link in our comp, mark it",
+        "{player} took the oath. two weeks from now they will be face down in a ditch. watch",
+        "lol {player} switched to {my_faction}. their side just got worse, the numbers dont lie",
+        "{player} joined {my_faction} and im already tired of hearing about it. gg",
+        "pledges mean nothing. {player} will bring the same bad flanks here as everywhere else"
+      ],
+      "whisper": [
+        "gg {player}. swearing in was the easy part. keeping that oath alive is where ppl like you fail",
+        "you took the oath. i'll be watching your archers, they were out of position last time",
+        "{player} ur comp will get countered by ours. you know the ratio. dont embarrass yourself",
+        "i dont care that you swore. prove it in the next fight, i'll be the one checking",
+        "you joining {my_faction} wont save you from me. see you on the next siege map",
+        "not impressed. defector count is up and your build is still thin, dont make it worse"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} swore to {my_faction}. i'll judge it after the first real fight, numbers first",
+        "new name on the roster: {player}. no opinion yet. show me the comp",
+        "{player} is in {my_faction} now. neutral on it. the meta doesn't care who signs what",
+        "allegiance sworn by {player}. honestly the roster doesn't change much until they bring real units",
+        "{player} joined. cool. one more pikeman and {my_faction} stops bleeding points in every skirmish",
+        "{player} took the oath. wait and see, will check how they play on the next siege"
+      ],
+      "whisper": [
+        "{player}, welcome to {my_faction}. one fight to show us your flank, not your speeches",
+        "you swore in. fine. tell me your comp so i know what i'm working with",
+        "{player} noted. we'll see how you hold a line before i decide anything",
+        "heard you took the oath. dont make me regret letting you onto the roster",
+        "welcome. i don't do small talk, just send your build and we'll see",
+        "ok {player}. you're in {my_faction} now. play like it or leave the roster quietly"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} swore to {my_faction}. good, we needed more cav. gg to whoever recruited them",
+        "welcome {player}. first drill is a siege, bring a comp that actually holds the line",
+        "{player} joined {my_faction}. solid pick, they've been tracking their numbers, rare around here",
+        "{player} is our newest. expect a tight comp, no more peasant spam on this side",
+        "good signing {my_faction}. {player} brings the discipline this server lacks",
+        "gg {player}. welcome aboard, now we optimise"
+      ],
+      "whisper": [
+        "gg {player}. welcome to {my_faction}. ur numbers look clean, dont waste them",
+        "you swore in and i'm not bored yet. good. send me your comp and we'll tune it",
+        "{player} glad you're here. your flank was decent last time, now fix the archers",
+        "welcome. first task: learn the ratio, bring two pikes for every archer",
+        "you made the right call. dont make me regret it, the meta waits for no one",
+        "{player} solid. i'll coach you through the next siege if you want it, no excuses"
+      ]
+    }
+  }
+}

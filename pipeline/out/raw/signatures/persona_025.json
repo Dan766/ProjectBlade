@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "job_id": "persona_025",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "f8594ffc631c89bc2608605e4a66795020022af1289fadeeaebb2556d7a0f377",
+    "model": "haiku",
+    "cost_usd": 0.00965645,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:32:25+00:00"
+  },
+  "data": {
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Halt, ser {player}. I am {persona} of {my_faction}, and I will not yield my road to any banner that has not earned it."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Good morning, ser {player}. {persona} of {my_faction} greets you, and the fen wind is kind to travellers who keep their word."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}! My heart lifts to see you. {persona} of {my_faction} salutes a friend, and the fen clans remember those who stand fast."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Stand where you are, traveller. {persona} of {my_faction} has sworn against those who ride without honour, and you look very much like one."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, our roads have crossed at last. I am {persona}, and my ancestors would wish me to hear your business before I judge it."
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Surrender, ser {player}? Ha! Name your {gold} gold price to the fen and it will answer with arrows. My ancestors did not drown in the marsh for a coward's purse."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "You name a price of {gold} gold and call it a demand, ser {player}. Speak plainly and I will answer plainly, but I will not be bullied on my own road."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I know you jest, for you would never threaten a friend so crudely. Still, {gold} gold is a heavy jest. Let us talk of terms instead."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Demand {gold} gold from me? Then come and take it, ser {player}, and let the saga record that the fen did not bow to a purse-cutter."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Coins for my surrender, ser {player}? I have sworn oaths on the oath-stone that cost me more than {gold} gold. Name a fairer bargain or ride on."
+      }
+    ],
+    "encounter_alliance_yes": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I accept your hand before the banners of the fen. Let us stand together against {enemy_faction}, and let the ancestors witness our bond."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "An alliance, then, ser {player}. I will hold my word as the stone holds its carvings. Let {enemy_faction} learn what our joined banners can do."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "By my oath, ser {player}, I say yes. Only a fool refuses a friend who offers his shield, and I am no fool. Together we shall march against {enemy_faction}."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Agreed, ser {player}. I shall keep my side of this pact even if {rival} sneers from the hedgerows. A bargain sealed before witnesses is a bond of honour."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Yes, ser {player}, I will walk beside you. Once I was spared a mercy I have never forgotten, so I know the worth of a word given. Let us make it true against {enemy_faction}."
+      }
+    ],
+    "encounter_alliance_no": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "No, ser {player}. I will not share a fire with a banner that treats honour as a bargaining chip. Find another ally who has not forgotten the meaning of a sworn word."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I must decline, ser {player}. My ancestors would turn in their barrows if I joined a pact so hastily offered. Come back when your intentions have had time to settle."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Refuse you? Gladly, ser {player}. I keep no company with {rival}, and I will not be seen riding beside any who would call that company an honour."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, it grieves me to say no. My word is already bound to other oaths that I cannot break, and I would rather disappoint you honestly than betray you later."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "The fen does not take allies lightly, ser {player}. You have my respect for asking directly, but my answer must stand. Speak to me again when the wind turns."
+      }
+    ],
+    "captured_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "So the fen has fallen to a blade, and I am your captive, ser {player}. Hold me then, but know that {my_faction} will sing of this shame and of the {gold} gold you ask."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "You have won this field, ser {player}, and I yield with what grace I can muster. Name your ransom of {gold} gold, and my kin will answer for me by the next moon."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Well fought, ser {player}! I would have preferred to meet you as a friend across a table, yet here I kneel as your prisoner. Be merciful, as I know you can be."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Take me to your camp if you must, ser {player}, but do not think {my_faction} forgets a captured banner. Our ancestors will remember this humiliation, and so will I."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Very well, ser {player}. I am sworn to honour the one who holds my sword, so name your price of {gold} gold and be done with it."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you could have ransomed me for a fortune yet chose mercy. The ancestors will remember, and so will I."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Ser {player} let me go without a single coin asked. Such mercy is rare, and I will repay it when the chance comes."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, I am free and grateful. My oath to repay your mercy stands, so expect the fen to call on you one day."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} returned my sword without a ransom. I still distrust that smile, but I will not forget the mercy."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Mercy from you, ser {player}? Bitter as fen water, but I accept it. Do not mistake this for weakness, for I shall repay the debt."
+      }
+    ],
+    "player_left_my_faction": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} has abandoned {my_faction} for {faction}. A banner sold for gold is no true banner, and the fen will remember."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "You turned your back on {my_faction}, ser {player}, and went to {faction}. Our ancestors did not raise the stone for cheap oaths."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ser {player} takes the road to {faction}. Every traveller chooses a hearth, yet I will remember the oaths made at {my_faction}."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, I wish you well under {faction}'s banner, though I grieve to see you leave {my_faction}. The fen door stays open."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} leaves {my_faction} for {faction} as easily as a cloak off a shoulder. Honour is not so light a thing, traveller."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The horns have sounded: {my_faction} declares war upon {enemy_faction}. Let every hall in the fen prepare its shields, for the saga turns to blood."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} has thrown down its challenge, and the ancestors stir in their barrows. Let the proud be humbled."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Our banners go to war: {my_faction} takes up the sword against {enemy_faction}! Let the bards sing of it and the foolish reconsider."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "War is declared between {my_faction} and {enemy_faction}. Stand firm, honest blades of the fen, for dishonour will not go unanswered."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Blood and oaths now bind {my_faction} to war with {enemy_faction}. Mark this day, travellers, for the saga turns darker."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, what a charge we made together! With {troop_count} blades at our backs we broke {enemy_faction} like dry reeds. The bards will have a fine tale tonight."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Ser {player} and our {troop_count} shields broke {enemy_faction}'s line today. Let the fen sing of it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "A battle worth telling, ser {player}. Our {troop_count} scattered {enemy_faction}, and I trust we shall fight side by side again."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, your banner and mine held the ridge against {enemy_faction}. With {troop_count} troops we carried the day, and I will not forget your steady hand."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Victory over {enemy_faction} with ser {player} beside us! Our {troop_count} held firm, and the marsh seemed to cheer. Honour to both!"
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Be gone, ser {player}, before my patience and my blade both run out. We shall meet again, and the saga will decide who walks away with honour."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Fare you well, ser {player}. May the fen wind carry you safely to your road, and may your oaths hold firm all the way."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Go in peace, ser {player}, friend of the fen. The ancestors watch over travellers who keep their words, and I count you among them."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Turn your horse, ser {player}, and do not look back at my banner. Our next meeting will be recorded in the old songs, one way or another."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Farewell, ser {player}! Should the road bring you to the oath-stone, pour a cup for the ancestors and remember me. I shall do the same for you."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The mists rolled over {village} this morning, and the old folk swear the ancestors walked the causeway. I believe every word of it, friends."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Whoever keeps the market in {town} owes an honest measure to every traveller. A crooked scale is a stain on the whole fen, I say."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Bread in {town} tastes better when the marsh bells ring at dusk. Some would call that superstition, but I call it proper tradition."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The road from {village} to {town} is muddy enough to swallow a cart. Mind your horses, good people, and the fen will mind you in return."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "A fine evening for a long story by the hearth in {town}. Who among you can speak of the ancestors and do them honour tonight?"
+      }
+    ]
+  }
+}

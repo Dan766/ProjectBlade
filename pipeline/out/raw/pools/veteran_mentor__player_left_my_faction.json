@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__player_left_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ff1793fbf35e99adaa282ebd188fc7a983397e4253df264bfa6aad7d2f9d8428",
+    "model": "haiku",
+    "cost_usd": 0.00478855,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:18:29+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} switched colors and expected nobody to notice. Everyone noticed.",
+        "Some folks trade their banner for a warmer hearth. Enjoy the new roof, {player}.",
+        "Back in the first war, deserters got a rope. Today they get a long memory.",
+        "{faction} may welcome a turncoat, but they will count every shield you carry.",
+        "Loyalty is a small coin, {player}. Some of us still keep ours in a tight purse.",
+        "Still waiting for {player} to explain the ride over to {faction}. I have time, and a long memory."
+      ],
+      "whisper": [
+        "{player}, you left {my_faction} at the gate and walked off smiling. Don't expect a warm welcome next time.",
+        "Heard you are wearing {faction}'s colors now. Wear them well, because we will remember this face.",
+        "Every deserter thinks the grass is greener. Mostly it is just more mud, {player}.",
+        "You know what the old hands say about turncoats? They make poor company in a siege.",
+        "No hard feelings? I'd say plenty of hard feelings. Keep your distance from our walls.",
+        "Your name is still on our rolls, {player}. We haven't crossed it out yet, and we won't forget why."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} moved to {faction} this week. Fine. Let's see how long the coin lasts.",
+        "Plenty of people change banners. The ones who last are the ones who stay put.",
+        "Saw {player}'s new tabard at the crossroads. Hope the cloth is warmer than our hall was.",
+        "Doors open both ways here. Just don't be surprised when people remember which way you walked.",
+        "The fens don't care what color you fly, {my_faction} included. Mind your footing, {player}.",
+        "Switching flags is allowed on this server. Whether it's wise is a question I'll leave to time."
+      ],
+      "whisper": [
+        "{player}, you're free to choose your flag. I'd just ask you to think about who you stand beside.",
+        "Your choice to join {faction} is your own. Don't ask me to pretend I'm not disappointed, though.",
+        "Think it through before you pledge fully. Half-hearted oaths are the ones that break in a siege.",
+        "If {faction} treats you well, good for you. If not, our gates remain, for now.",
+        "Some turn coats for a better purse, others for a better cause. Which one are you, {player}?",
+        "I won't hold a grudge over a banner. I will remember how you handled the parting, though."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} took the road to {faction}. We'll miss the steady hand, but no grudges from me.",
+        "Shame to lose {player} from our ranks. Still, a good soldier is a good soldier wherever they stand.",
+        "Parting ways with {player} stings a bit. The old hall will still have a seat for them.",
+        "Don't let anyone tell you that leaving was dishonest, {player}. It was a hard choice, and you made it openly.",
+        "Remember the first war? We learned that friends sometimes wear different colors and still hold the line.",
+        "Good luck to {player} over at {faction}. Honor the oaths you make there, and we'll cheer you on."
+      ],
+      "whisper": [
+        "{player}, I'm sorry to see you go, but I understand the reasons. Come find me if you need advice.",
+        "You always carried yourself well in our ranks. I expect the same standard under {faction}'s banner.",
+        "No hard feelings from this old hand. You earned your place with honest work, and that won't vanish.",
+        "If {faction} asks too much of you, come back and talk. Our door doesn't lock on friends.",
+        "Leaving was a bold move, {player}. Make sure it was the right one, and then give it everything.",
+        "I'll be watching the next big battle, {player}. Fight like you did for us, and you'll be fine. :)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,291 @@
+{
+ "username": "Kwidrath_Inkbane",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_021.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "lol {player} burned ur whole line in 4 mins and still think ur the strategist ez gg skill issue"
+   },
+   {
+    "id": "sig.persona_021.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} ur {troop_count} lads ran like geese on fire. told u the reeds would wait for u"
+   },
+   {
+    "id": "sig.persona_021.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "oi {player} i took the coin off ur dead pile and im not even sorry. coins are coins. cope harder"
+   },
+   {
+    "id": "sig.persona_021.beat_player.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ngl {player} ur the only one who fights like a goblin with a grudge. dont get comfy i am still counting"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_021.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} won one field with {troop_count} lads and suddenly ur a general lol. enjoy it while the reeds are still mine"
+   },
+   {
+    "id": "sig.persona_021.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "gg {player} that was clean work and i hate that about u. dont tell anyone i said it"
+   },
+   {
+    "id": "sig.persona_021.beat_by_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} im not salty. im fen born. we dont get salty we get even. next field is mine"
+   },
+   {
+    "id": "sig.persona_021.beat_by_player.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "ur {troop_count} men got lucky and ur calling it skill. cope. i still saw the mud on ur boots"
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_021.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} thats the third time now. the third. im not even mad im just keeping a list and ur on it in red ink"
+   },
+   {
+    "id": "sig.persona_021.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "ok {player} u beat me 3 times and im officially shook. dont get used to it im coming back with {troop_count} and no mercy"
+   },
+   {
+    "id": "sig.persona_021.beat_by_player_repeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "fine {player} ur annoying but ur good at this. i hate it. still ez when i catch u sleeping"
+   },
+   {
+    "id": "sig.persona_021.beat_by_player_repeat.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} ngl u are the only one who keeps up with me. still hate u tho. rematch at the reeds lol"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_021.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} ran ran ran lol. the fen dont chase cowards its just more fun when u run. see u at the next bridge"
+   },
+   {
+    "id": "sig.persona_021.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} u turned tail the second u saw my banner. ill be in ur dreams all week"
+   },
+   {
+    "id": "sig.persona_021.player_fled_from_me.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} run all u want. i can smell the fear from here. ill wait by the water"
+   },
+   {
+    "id": "sig.persona_021.player_fled_from_me.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} fled from me again. at this point just hang my banner on ur door and be done with it lol"
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_021.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} still thinkin about the cheat job {rival} pulled and ur defending them lol. ur loyalty is cute"
+   },
+   {
+    "id": "sig.persona_021.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} remember when i set ur bridge on fire from the reeds. good times. the smoke was fresh"
+   },
+   {
+    "id": "sig.persona_021.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{rival} is a cheat and {player} is their little shield. the two of u can cope together in the mud"
+   },
+   {
+    "id": "sig.persona_021.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} u lost to a cheater and kept quiet about it. bold move for a fen rat. respect i guess"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_021.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} meet me at {town} on the open field. bring ur best men. ill bring a grudge and a torch"
+   },
+   {
+    "id": "sig.persona_021.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} im burning {village} at dusk. if u want to stop me come to the fields near {town} and try"
+   },
+   {
+    "id": "sig.persona_021.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} ur village {village} looks cozy. shame if i set the bridge on fire on the way. meet me at {town} and find out"
+   },
+   {
+    "id": "sig.persona_021.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} fight me at {town} sunday no cheats no gimmicks. unless ur the one who needs gimmicks lol"
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_021.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} u want {gold} gold from me? come take it off my dead body. ill bury ur coins in the reeds and laugh the whole time"
+   },
+   {
+    "id": "sig.persona_021.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ha {player} {gold} gold for the road? i paid a fen toll once and i still regret it. no thanks"
+   },
+   {
+    "id": "sig.persona_021.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} i like ur style. demanding {gold} is cheeky. i will pay half and set ur tent on fire anyway"
+   },
+   {
+    "id": "sig.persona_021.encounter_threatened.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} {gold} gold lmao. i have less than that in my pockets and im still not paying. see u on the field"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_021.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} its {persona} of {my_faction}. ur standing in my reeds and i am not going to ask nicely"
+   },
+   {
+    "id": "sig.persona_021.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "oi {player} {persona} here. nice banner. shame about the banner tho it will look better on fire"
+   },
+   {
+    "id": "sig.persona_021.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} long time no see. {persona} of {my_faction} says hi. dont blink or ill take ur coins while ur looking"
+   },
+   {
+    "id": "sig.persona_021.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{persona} from {my_faction} and ur the one who owes me a field. pay up or fight lol"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_021.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is mine now and i have {troop_count} men keeping it warm. come try to take it lol"
+   },
+   {
+    "id": "sig.persona_021.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "just counted {gold} gold from the fen tolls. the traders hate me and i love it"
+   },
+   {
+    "id": "sig.persona_021.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} lads and {gold} gold and a bridge that still smells like smoke. ez life"
+   },
+   {
+    "id": "sig.persona_021.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} gate is burning nicely tonight. {troop_count} men on the walls and nobody coming close"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_021.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} men to someone else lol. i was gonna do that to u myself so ur welcome"
+   },
+   {
+    "id": "sig.persona_021.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} i heard u got folded like a tent. dont cry too hard i still want the rematch with my name on it"
+   },
+   {
+    "id": "sig.persona_021.player_big_defeat.03",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} down to a handful after that mess. the reeds are still mine and so are the bragging rights"
+   },
+   {
+    "id": "sig.persona_021.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} that was rough. u still owe me a rematch so dont quit on me lol"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_021.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "rain again over {town} and the fen smells like wet socks. who keeps leaving the gates open lol"
+   },
+   {
+    "id": "sig.persona_021.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else lagging near {village} or is it just me. feels like the server is wading through mud"
+   },
+   {
+    "id": "sig.persona_021.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "eel prices in {town} are a crime. the fen is basically robbing u blind and i approve"
+   },
+   {
+    "id": "sig.persona_021.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "someone burn the mill in {village} already. the smoke looks nice from the reeds tonight"
+   }
+  ]
+ }
+}

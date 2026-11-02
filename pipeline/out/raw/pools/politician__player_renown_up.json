@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "job_id": "politician__player_renown_up",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "faaa3504b02120afd775cd068c5af0f2be8e9e5aece1b0a49c7888c5af52d83b",
+    "model": "haiku",
+    "cost_usd": 0.009190900000000002,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2154 (char 2153)"
+    ],
+    "created_at": "2026-11-01T17:09:07+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Renown is a fine thing, {player}, but it draws attention the council would rather not hand out so freely.",
+        "Everyone is talking about {player} now. Premature, I think, though I am sure the council will reach its own view in time.",
+        "A few rousing deeds and suddenly {player} fancies a seat in the council chamber. We shall see how long the applause lasts.",
+        "I have no quarrel with ambition, only with ambition that has not yet learned to wait its turn at the table.",
+        "Do enjoy the attention, {player}. Attention is a currency, and I suspect you will spend it faster than you earn it.",
+        "Strange how fame arrives so quickly for some. One does wonder who vouched for {player} before their name filled the boards."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has been busy making a name for themselves. I will reserve judgement until that name survives a proper vote.",
+        "Several people have asked me about {player} this week. I told them I would wait for the minutes before forming an opinion.",
+        "Renown is never earned in a single afternoon, and the council keeps its own record of who is truly reliable, {player}.",
+        "Good for {player}, I suppose. Let us see whether the reputation survives the dull business of actually governing a fief.",
+        "Being talked about is not the same as being trusted. {player} is enjoying the first, and the second is still under review.",
+        "Odd how quickly a name travels once the right people start repeating it. I shall keep my notes on {player} for now."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "The council should be proud to count {player} among its rising names. Anyone who answers the call this well deserves a seat.",
+        "Word of {player}'s deeds has reached every hall worth sitting in. I am glad to say I saw it coming.",
+        "{player} has shown that renown and sound judgement can share a cloak. I shall gladly speak for them when the votes are counted.",
+        "Anyone who doubts {player} is worth knowing is simply not paying attention. Those of us who are have been impressed for weeks.",
+        "A toast to {player}, whose reputation grows faster than most nobles would like. Find me afterwards, we should talk alliances.",
+        "Ser {player}, it is a pleasure to watch your name rise. Mind yourself, though. Rising names draw people who want to lean on them."
+      ]
+    }
+  }
+}

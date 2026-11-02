@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "trader__war_declared",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "7143b8d1daf86221870d610c5294e91ea6551abaddc5bbe6e0dfe774b02f20b0",
+    "model": "haiku",
+    "cost_usd": 0.00374055,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:14:02+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "{my_faction} and {enemy_faction} are at war again. My insurance rates just tripled, and nobody asked me first.",
+        "Declaring war is easy. Finding a wagon that gets through the mountain passes next month is the hard part.",
+        "Whoever started this war, please tell me which roads are still open before you set the bridges on fire.",
+        "Wars come and go, but the price of salt never comes back down. Funny how the bills always outlast the banners.",
+        "Any toll collector who holds my wagons this week will find I keep very careful records of who owes me.",
+        "Selling grain to anyone still hungry after this war. Name your price, I will load the cart by morning.",
+        "Bandits love a border war. Half my route is empty now and the other half is full of people with axes.",
+        "{enemy_faction} will need tents, sails and rope before this is over. Anyone with spare canvas, now is the time."
+      ]
+    }
+  }
+}

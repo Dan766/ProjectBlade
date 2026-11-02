@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "job_id": "memer__encounter_alliance_no",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "a5e1b63578d8aee4ee0c9d87698b3f0baa2ee8d2012ce989535e518877518b86",
+    "model": "haiku",
+    "cost_usd": 0.00440685,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:49+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "no alliance. you are on my list, right under {rival} and above the goat. the goat has veto power xD",
+        "alliance denied >:( i would sooner shake hands with the moat than with you, and the moat is very dry and offended",
+        "nah ser. last time we joined forces the cart went into the ditch and the cart blamed ME. never again :)",
+        "i refuse. not because of spite, mostly spite. the spite is load-bearing, you understand",
+        "ask me again when your shadow stops following me around the market like a lost duckling >:)",
+        "denied. my council of one (me) voted no 1-0 and the vote was very unanimous, very dignified",
+        "you want an alliance? bold. you want me to trust you? bolder. the answer is a flat no with a side of pickles",
+        "no. i am keeping my sword pointy and my allies imaginary, it is the safer arrangement, ask anyone with a shin"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "hm. alliance? i'll think about it. i am thinking very slowly so that you can see how much thinking is happening",
+        "no thanks for now, ser. my schedule is full of standing near the well and not doing anything, very busy",
+        "pass. i don't do alliances before lunch, it's a rule i made five minutes ago and i am sticking to it",
+        "alliance? what kind of alliance? a real one with paperwork or a pinky-swear with a goose? either way, no :)",
+        "i'm declining. not because of you, because of the fourteen other people who asked me this morning :P",
+        "mm, no. i'll keep my options open, and by options i mean the three bushes behind the stable",
+        "can't do it. my sword has a nonaggression pact with everyone and i'm not renegotiating it today xD",
+        "tempting. no. ask again when you've learned to walk in a straight line, it'll be a good sign for both of us"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "aww {player}, you're my favourite person to say no to!! alliance denied but with a hug and a tiny cabbage :)",
+        "i'd love to but my oath says no alliances on tuesdays and it is, somehow, always tuesday in my heart :D",
+        "no alliance, but you can be my honorary ally of the dinner table. same thing, different chairs xD",
+        "nooo, you're too good for my chaos. i'd drag you into a bridge fight by accident and you deserve better :(",
+        "i wanted to say yes, honest, but my goat refused on your behalf. goat says you smell like adventure :)",
+        "denied, sadly, because the best allies are the ones i can chat with, not the ones i tie to my banner. still friends!!",
+        "ser, i'd follow you into the swamp but not into a treaty. treaties have terms and terms have lawyers :P",
+        "no alliance, big hearts only, and yours is very big. please stop making me feel things, the feelings are inconvenient"
+      ]
+    }
+  }
+}

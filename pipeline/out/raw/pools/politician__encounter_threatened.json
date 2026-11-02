@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "politician__encounter_threatened",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "4ba9210dbfb71a19bb5bdbdb9bb3b2aa2b70116731f5f6d3c72d798d4b185989",
+    "model": "haiku",
+    "cost_usd": 0.0106493,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 5506 (char 5505)"
+    ],
+    "created_at": "2026-11-01T17:21:17+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Ser {player}, a demand delivered at swordpoint is hardly a negotiation. I shall make certain the council hears exactly how you chose to conduct yourself today.",
+        "Surrender, you say, and hand over {gold} besides? How bold of you. I have already drafted the motion that will see your ambitions sit on a very small bench.",
+        "I have sat through worse threats from men with far larger armies than yours, Ser {player}. Forgive me if I do not tremble at a single raised voice.",
+        "Keep your {gold} in your coffers. Every coin you extract from me will be recorded, and every one will be used against you when the next vote is called.",
+        "How tiresome. You arrive with threats and no witnesses, then expect me to reward the performance. Perhaps the council would find your methods as amusing as I do not.",
+        "Pay {gold} to someone who cannot even hold a civil tongue? I would sooner watch the grain rot in my own storehouses, and I suspect many others would agree.",
+        "Threats are the last refuge of those who have lost the debate. Do continue, Ser {player}. Every word you speak today is one more line in the minutes.",
+        "Very well. I will bring this to the council, and you may explain to them why a fief-holder's first resort is extortion dressed up as diplomacy.",
+        "Consider this my answer: no gold, no surrender, and a quiet promise that your name will be remembered at the next gathering, though not fondly.",
+        "I was going to be gracious. You have made that rather difficult, Ser {player}, so enjoy whatever small satisfaction threatening me brings you this afternoon."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Ser {player}, you have made your demand clear enough. Now let us see whether it survives a proper hearing before the council, where such matters are usually settled.",
+        "Surrender or pay {gold}? Those are rather stark terms for a first meeting. I would prefer to hear what lies behind them before I decide anything at all.",
+        "I note your demand and your tone. Whether either will hold up to scrutiny is another matter, and a fair few of my colleagues will want to weigh in on it.",
+        "A threat, followed by a price. It is a familiar pattern in these parts. Perhaps we can skip the middle step and speak plainly about what each of us stands to gain.",
+        "Parting with {gold} is never a small matter, Ser {player}. Put your claim in writing, and I will have it read before the council at the next sitting.",
+        "You may be right that the roads are dangerous these days. Still, I would rather not decide the fate of my coffers while standing in a muddy field.",
+        "Let us be sensible. Threats make for poor minutes, and the council keeps very careful minutes. Name the terms you truly want and we can see what is possible.",
+        "I am not in the habit of surrendering anything on a single afternoon's notice. Send word through the proper channels and we shall consider your demand properly.",
+        "Interesting. Most who arrive with demands like yours already have someone waiting in the wings. Whose advice did you take before coming to me today?",
+        "Your demand has been noted, Ser {player}. I will weigh it against the other matters on my desk, and I expect the answer will be a good deal less dramatic than you hoped."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ser {player}, you know I value you far too much to let a little misunderstanding turn into a feud. Let us talk it over, and perhaps {gold} can be framed as a gesture of goodwill.",
+        "Surrender is such a harsh word between friends. Call it a contribution to the common good instead, and I will be the first to speak for you at the council.",
+        "I confess the demand stung a little, Ser {player}. Still, I know you rarely make such a move without good reason, so let us find a solution that flatters us both.",
+        "Ha! You always did enjoy a dramatic entrance. Come, let us sit somewhere quieter and discuss how {gold} might serve both our interests before the gossips start talking.",
+        "Between us, a demand like that will only make certain people wonder who truly holds influence in this region. I would rather the wrong people did not get ideas.",
+        "Your friendship means more to me than a purse of {gold}, so do not think I refuse lightly. I merely wish to see the arrangement made in a way the council will admire.",
+        "Dear Ser {player}, I have never once regretted standing by you. Let us keep it that way, and I will see that the matter is handled quietly and to your benefit.",
+        "Very well, you have my ear. Give me a day to speak with the right people, and I shall return with terms that protect your standing rather than embarrass it.",
+        "Hard bargains are the currency of this realm, and you have always been fair in your dealings with me. Let us be practical, shall we, and see what can be arranged.",
+        "Ser {player}, I am glad you came to me instead of the others. Keep me informed of your plans, and I will ensure your name is spoken kindly when the next vote is called."
+      ]
+    }
+  }
+}

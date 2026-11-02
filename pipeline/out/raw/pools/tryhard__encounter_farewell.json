@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "tryhard__encounter_farewell",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "3a2531118cb6aaa13e4b05b197c4f5f897ab11beefa3c8c2b6e0bc2c206d6a18",
+    "model": "haiku",
+    "cost_usd": 0.0085961,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2974 (char 2973)"
+    ],
+    "created_at": "2026-11-01T17:15:34+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "gg. your flank had a 3 to 1 disadvantage before you even moved. next time bring more than hope",
+        "you lost because you split your cav at the ford. thats a mistake i wont let you repeat twice",
+        "walk away {player}. i have a timer and you are not the bottleneck in it",
+        "that was a 40 percent efficiency win for me and a waste of your whole garrison. see you when you have a plan",
+        "another loss for you. i logged it. your pikes never got into position and you know why",
+        "im not wasting more time on you. your build order is so bad it lost to a scout. gg",
+        "keep your mouth shut next time. the numbers were never on your side {player}",
+        "you think this is over? its a rounding error. i will be back with twice the archers and half the mercy",
+        "gg. enjoy the walk home. i already have the replay queued for when you complain about lag",
+        "one more ambush like that and i pull the whole line back. dont test my patience"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "ok. this was a 2 to 1 trade on paper and it went roughly that way. gg",
+        "we are done here. your scouting is weak but your formation was not terrible",
+        "noted your composition. light infantry heavy. ill plan around it next match",
+        "gg. i wont say it was fun but the trade math worked out in my favor, mostly",
+        "i need to reset my army anyway. we will meet again when the terrain favors whichever of us brings more",
+        "your retreat timing was off by about four seconds. useful to know. gg",
+        "leaving now. dont follow, the lane is a choke and i already marked it",
+        "fine. see you on the next server rotation. try a bigger reserve before the ford",
+        "this encounter cost me 30 percent of my reserves for nothing. gg, take the point and go",
+        "conversation over. i have supply lines to fix and you have a formation to rethink"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "gg {player}. that flank push was clean. i would have lost two more units without it",
+        "good game. your timing on the second wave was better than my read. ill count that one for you",
+        "respect {player}. your numbers held up better than i expected. see you in the rematch",
+        "well played. you made me commit early and that cost me. lesson logged, thanks for the rep",
+        "gg. honestly your army comp is annoyingly efficient. try pushing a bit earlier next time, it works",
+        "you beat me clean. i will be studying that retreat line for a week. good game",
+        "that was a fun fight. your reserves came in at exactly the right moment. respect",
+        "gg {player}. next time im bringing the crossbows you warned me about. no hard feelings",
+        "good game. your economy is tighter than mine, i want to know how you run it before the next match",
+        "well fought. you made every trade count, which is rare. catch you on the next map"
+      ]
+    }
+  }
+}

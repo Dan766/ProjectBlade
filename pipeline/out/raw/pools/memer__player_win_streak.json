@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "memer__player_win_streak",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c65af0c1f4edef845410a031db6b831d23d068774bb4b9c8a948bf2a7fc0931a",
+    "model": "haiku",
+    "cost_usd": 0.00558435,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:04:27+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} has won so many fights the crows have started taking notes. i am not okay with this xD",
+        "every battle {player} wins is one more reason to file a complaint with the nearest sheep :(",
+        "announcing a formal boycott of {player}'s banner. it is slightly crooked and i will not be swayed",
+        "{player} keeps winning and my tavern tab keeps growing. this is a plot. write that down",
+        "the server voted {player} most likely to be smug. i was not consulted and i object :P",
+        "winning this much is not a personality {player}. i will be taking questions at the well",
+        "i have started a petition to make {player} walk home after every battle. it has one signature. mine",
+        "{player} wins again. the gods are bored and {player} is their favorite toy. i want a refund on luck"
+      ],
+      "whisper": [
+        "{player} enjoy the streak while it lasts. the next siege is mine and i have already named the catapult",
+        "stop winning {player}. my scouts are tired of reporting your victories to me like it is good news xD",
+        "i have started a list of ways to beat you {player}. item one is sleep. item two is also sleep :)",
+        "your banner is a crime against heraldry {player} and i will be the one to say it at the next muster",
+        "that last win was pure luck and i have witnesses. two of them are my horses so take that as you will",
+        "congrats on the streak {player}. i hate it a little and i hope it gets lonely at the top :P",
+        "{player} i am sending my dogs to your camp as a gift. they are very loud and they do not like you",
+        "one more win and i am declaring you an omen. ominous things get knocked over eventually ser"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} is on a run and the whole board is watching. i am watching too. mostly to see when it ends",
+        "heard {player} won again. good for them. tavern rumors say the wine is on the house now",
+        "streaks end, that is the only law of war i trust. sincerely, someone who has lost plenty :)",
+        "{player} keeps winning and everyone is making a fuss. personally i just want my ale back xD",
+        "that is a lot of victories {player}. i counted three, then the scribe ran out of ink",
+        "the odds say you will lose soon {player}. the odds also said the bridge would stay put so take them with salt",
+        "nine wins in a row is impressive. nine losses in a row is also impressive if you think about it hard enough",
+        "{player} is the talk of the square. i am only here for the bread which is also good this week"
+      ],
+      "whisper": [
+        "{player} saw your last few battles. solid work. i will be pretending i did not notice until it matters",
+        "congrats on the streak {player}. i am still deciding if that means i should be worried or just tired",
+        "a bit of a wild run you are on {player}. may your luck stay sharp and your armor stay dry :)",
+        "{player} the server is buzzing about you and i am mildly curious how long that lasts. no offense meant",
+        "a few folks asked me how you do it. i said i have no idea and that seemed to satisfy them",
+        "good fights {player}. if you ever want to trade tactics over a drink, i am around. no promises on sobriety",
+        "{player} three wins is a fluke, nine is a pattern, and i am trying to figure out which one this is",
+        "your streak is loud enough that even the stable boys know your name now. respect from a distance"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} is on fire out there and i am not even mad about it. the square is cheering. do the thing again :)",
+        "shoutout to {player} for another win. honestly the server needed a hero and it turned out to be a very smug one xD",
+        "{player} gets a standing ovation from me. i clapped so hard the tavern dog left the room",
+        "a dozen battles, a dozen wins, and somehow still humble. that is either rare or {player} is hiding something :)",
+        "i told everyone {player} would go far and they laughed. now they are buying me drinks. i am not sorry :P",
+        "{player} keeps winning and the bards are already writing the ballad. the chorus is just the name xD",
+        "fair warning to anyone facing {player}: bring snacks, the fights are long and the victories are smug :)",
+        "hats off to {player}. the streak is impressive but the best part is how they keep cheering the losers too"
+      ],
+      "whisper": [
+        "{player} that was incredible. i was yelling at my own screen. can we get a rematch in a less winning mood? :)",
+        "good luck on the next one {player}. not that you need it. i mean it though, you have earned the swagger",
+        "{player} i owe you a drink for the cheering i did earlier. name the poison and i will pay up :P",
+        "you are the reason i am staying up late to watch the battle logs {player}. please keep the streak alive xD",
+        "{player} tell me your secret. i will not tell anyone. i will however tell everyone that i knew you first",
+        "i watched your last siege from the hill {player}. phenomenal. my horse wants to be your horse now, sorry",
+        "{player} if you ever need a shield-wall partner, i am already polishing my helm for you :)",
+        "proud of the run you are on {player}. i know it is only a streak but it still makes my whole week"
+      ]
+    }
+  }
+}

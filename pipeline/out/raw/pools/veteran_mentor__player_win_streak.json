@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__player_win_streak",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "b04aaae36f8bda5d55cb7049a5a47a433dd746b0f0268ee43a1c894bf6380d89",
+    "model": "haiku",
+    "cost_usd": 0.005438050000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:18:47+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} has a long winning streak now. Streaks end, and they usually end at the worst possible moment.",
+        "Another win for {player}. I remember when a run like this made the whole server nervous. It passed. It always does.",
+        "Nobody on this server is impressed by a streak yet. Ask me again after the next siege.",
+        "Lucky timing and a full purse can carry anyone through a few fights. Let's see who's still standing in a month.",
+        "I've watched three champions rise and fall here. Being on top is the quickest way to get a line of people hoping you trip.",
+        "Some of you are cheering {player} as if this were a new age of heroes. Wins come cheap when the other side is distracted.",
+        "Every streak I've seen was built on fights nobody else bothered to show up for. Remember that before crowning anyone.",
+        "I don't mind {player} winning. I mind how the winning gets talked about. Keep the boasting short."
+      ],
+      "whisper": [
+        "Enjoying the streak, {player}? Enjoy it while the roads are quiet. They get busy fast once people start planning.",
+        "Your run of wins has caught the attention of people who don't forget. I'd watch your back for a while.",
+        "I won't congratulate you. Winning this often makes people careless, and careless people end up in my ledger.",
+        "Every streak ends in a loss. I'd rather yours ended somewhere other than in front of my banners.",
+        "You've been lucky with your timing, {player}. Luck is a poor thing to bet a whole fief on.",
+        "Pride looks good on the scoreboard. It looks less good when the supply wagons stop arriving.",
+        "Don't mistake a few wins for a reputation. Reputations take years to build and an afternoon to lose.",
+        "I'll keep my distance for now. When someone who wins this much finally picks a fight with me, I'll be ready."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} is on a real run now. Good. This server could use a fight that doesn't end in arguments.",
+        "Interesting stretch of wins from {player}. I'll wait and see how the next few weeks go before forming an opinion.",
+        "Many wins in a row draw attention. Attention brings envoys, scouts and the occasional bad idea. Plan for all three.",
+        "A streak like this belongs in the server ledgers, if nothing else. Keep your logs, folks.",
+        "Strong run, {player}. Remember that the people you beat today may be the ones writing letters tomorrow.",
+        "The map looks different after a run like that. Borders move, alliances shift, and everyone starts counting.",
+        "Credit where it's due, {player} has been winning steadily. Whether it lasts depends on what happens between battles.",
+        "Long streaks tend to bring out two kinds of people: those who want to learn from them and those who want to copy them."
+      ],
+      "whisper": [
+        "Your recent run has people talking, {player}. Keep an eye on who talks the loudest.",
+        "Quite a streak. If you want advice from someone who has watched a few of these, keep your sword hand free for surprises.",
+        "I'm not sure yet whether you're a rising name or a passing one. Ask me again when the streak breaks.",
+        "Don't let the praise go to your head, and don't let the critics get under your skin. Both pass quickly.",
+        "Good numbers, {player}. Keep a written record of your battles. It helps when people start misremembering.",
+        "If anyone offers to fight beside you for a share of the glory, have them write down the terms first.",
+        "Winning this often means favors will be asked of you soon. Decide now which ones you'll refuse.",
+        "I wouldn't change how you fight just yet. I'd only change who you let flatter you."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} has been winning steadily and doing it cleanly. That's the kind of play newcomers should study.",
+        "Proud of how {player} has been fighting lately. Streaks are rare, and this one was earned in the open.",
+        "Seeing {player} string wins together reminds me why I still log in every evening. Keep it up, friend.",
+        "A few more of these and the younger players will start copying {player}'s formations. That's a fine legacy.",
+        "Nice run, {player}. The fiefs you took were defended by people who knew what they were doing, too.",
+        "Some streaks fade fast. This one looks sturdy. Good discipline on the field has a way of lasting.",
+        "Congratulations to {player} on the streak. Share your method with the newer folks when you get the chance.",
+        "If the server ever writes a history of its good fights, {player} will already have a whole chapter."
+      ],
+      "whisper": [
+        "Take a day away from the field before the next fight, {player}. Even the best need to step back for a while.",
+        "Your last few battles have been a pleasure to watch, {player}. Thank you for fighting with such care.",
+        "Don't let the streak go to your head. Keep helping newcomers the way you have, and the wins will mean more.",
+        "I'm proud to have you on this server, {player}. Your streak is good for everyone who fights beside you.",
+        "If you'd like, I can share a few notes from the old campaigns that might help you keep this going.",
+        "Another strong set of battles, {player}. Come find me on a quiet evening. I have a story to share.",
+        "Your timing and temper have been excellent lately, {player}. Don't forget the quiet work that supports the wins.",
+        "Honestly, {player}, watching you this week has been a pleasure. Keep your head level and you'll be remembered well."
+      ]
+    }
+  }
+}

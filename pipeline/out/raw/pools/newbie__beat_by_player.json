@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "newbie__beat_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c193131276a0f7294e62a75b5ac0f5be2d7834329c037ad9a53076c3a0ee7d45",
+    "model": "haiku",
+    "cost_usd": 0.006403250000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:05:08+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "ok {player} u beat me in the field and now my whole party is sad :( i hope ur horse steps on a rake",
+        "lost to {player} with {troop_count} guys and i still dont know what i did wrong lol",
+        "dont be so proud {player}, i only lost cuz my archers went to get snacks",
+        "{player} wins again?? ur making me look like a noob and im the noob so thats rude xD",
+        "pls stop charging at me {player} it is NOT fair im still learning how to stand",
+        "i will get revenge {player}!!! ok i wont but i will think about it really hard",
+        "lost {troop_count} troops to {player} and now the grain bill is gonna be my fault i just know it",
+        "why does {player} keep winning field battles, is there a secret button i missed",
+        "congrats {player} i guess, mine are all running around in circles now :(",
+        "gg {player} hate u a little bit but also ur really good at this which is annoying"
+      ],
+      "whisper": [
+        "ur so mean {player} :( i was gonna make a nice tavern and u ruined it",
+        "i hope ur next fight goes badly {player}... sorry that was mean, didnt mean it",
+        "{player} i lost {troop_count} guys to u and my donkey is still crying about it",
+        "stop running me over {player}!! i am going to tell the bridge guy about u",
+        "ok fine u win this round but i have {troop_count} guys training now so there",
+        "how do u keep winning {player}?? tell me ur secret or im gonna keep attacking u lol",
+        "not talking to u {player} for like an hour. then maybe ill say hi again",
+        "ur army is too big {player} its not even fair to the little guys like me",
+        "i saw u sneak around the hill {player} thats cheating i think?? idk the rules",
+        "fine {player} u got me. next time ill bring more than just my cousin"
+      ],
+      "face": [
+        "hey {player}... you beat us again. my shoes are still wet from running away, and im mad about it :(",
+        "stop looking at me like that {player}!! im not sad im just... ok im a little sad",
+        "you cheated {player} right?? nobody's formation is that good on their first try xD",
+        "move your guys off my grass {player}, i just lost the whole battle and i need a minute",
+        "{player} i swear ill beat you one day. maybe after i figure out what a flank is",
+        "you and your {troop_count} guys are so scary {player} why do you have so many. ok im going home now",
+        "ur smug face is so annoying {player} :P but also how did u get that horse",
+        "this is the worst day {player}. at least the donkey didnt get hurt so thats something",
+        "ok ok you won {player} but i dont have to like it. goodbye and dont follow me",
+        "rude {player}, i was gonna say hi before the fight... now i gotta say bye instead :("
+      ]
+    },
+    "neutral": {
+      "global": [
+        "lost my field battle to {player} today, anyone know how to stop getting flanked??",
+        "{player} won the field fight near the river, guess thats how it goes sometimes :)",
+        "anyone else lose to {player} this afternoon or is it just me lol",
+        "got beat by a {troop_count} man party, first time i ever lost a battle and it was fine i think",
+        "ok so the battle with {player} was kinda confusing, did anyone else see where the banners went",
+        "{player} beat me again. not mad just taking notes on how they line up their guys",
+        "field battle lost. {player} won. im going to go lie down in the grain for a bit",
+        "lost to {player} so now i have to walk all the way home, the soldiers are complaining",
+        "dunno if i did it right but i lost to {player} and the horses seemed happy about it",
+        "battle over, {player} won, we all go home now i guess ..."
+      ],
+      "whisper": [
+        "hey {player} gg on the battle, i didnt know u could split ur archers like that",
+        "ur army was really organized {player}, mine just kinda went wherever they wanted",
+        "congrats on the win {player}!! do u have any tips for not losing next time",
+        "i lost the field fight to u {player} is it normal that my guys ran away so fast??",
+        "{player} can i ask how u got ur guys to stand still? mine kept wandering off",
+        "no hard feelings {player}, i just really want to know what i did wrong :)",
+        "sorry we got in ur way {player}, i thought the road was empty. gg anyway",
+        "good fight {player}. my {troop_count} guys say hi. they are very tired now",
+        "is it ok if i come back for a rematch {player}?? or do u need the hill for something",
+        "u beat us fair and square {player}, i am writing that down in my notes lol"
+      ],
+      "face": [
+        "hi {player}! ur the one who beat us earlier right? what did u do with the flank??",
+        "good battle {player}. we're gonna head back to camp now, my feet hurt :)",
+        "hey {player}, so um... did we lose? i honestly cant tell from down here xD",
+        "{player} i think my soldiers are still chasing yours, can u tell them to stop lol",
+        "ok we lost, {player}, but im still glad i got to see a real field fight up close",
+        "oh hi {player}. nice armor btw, did it come with the win or did u buy it??",
+        "we dont have anything left to fight with {player} so can we just wave and go?",
+        "{player} how do u keep ur guys in a line?? mine just kinda sit down and start eating",
+        "gg {player}!! i'll be practicing my formations so i can ask u again next time",
+        "we're just passing through {player}, sorry for the mess on ur field. bye bye!"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "huge shoutout to {player} for that battle, i learned more in 10 minutes than in 2 hours of reading!!",
+        "lost to {player} today and honestly it was the best day of my life so far :D",
+        "{player} is the nicest winner ever, they even showed me where i messed up. thank u!!",
+        "super proud of my {troop_count} guys even tho we lost. thanks {player} for the fun fight :)",
+        "if anyone sees {player} around the river say hi from me, they taught me so much",
+        "{player} just beat me in a field battle and im so happy i could cry lol",
+        "lost to {player} but got a free tip on archers, so really i won??",
+        "{player} gave my soldiers a real battle!! i wanna be just like them when i grow up",
+        "thank u {player} for the lovely fight!! my donkey says thanks too",
+        "{player} is my hero now, honestly. next battle is on me, drinks in tavern!!"
+      ],
+      "whisper": [
+        "thank u so much {player}!! ur the best fighter ive met and ive only been here a day :)",
+        "i'm sorry we lost to u {player} :( but i'm glad it was u and not some random bandit",
+        "{player} can u teach me the flank thing?? pretty please, i'll bring apples",
+        "that was so much fun {player}!! i dont even mind losing when u fight like that",
+        "i told my friend about our battle {player} and they said i'm lying lol, can u confirm",
+        "u were so nice to my soldiers after {player}, thank u for not stomping on them",
+        "{player} ill buy u a drink from the tavern or like a sandwich, u pick!!",
+        "good game {player}!! i'm writing all ur moves down so i can copy them one day",
+        "thanks for the fight {player}, my guys are sleeping now but they had a great time",
+        "{player} ur honestly my favorite person on this server, don't tell the others :)"
+      ],
+      "face": [
+        "{player}!! that was the coolest battle ever, i'm still shaking a little from excitement :D",
+        "oh no we lost but you're so good {player} that i don't even feel bad! can we do it again??",
+        "hi {player}, you're the one everyone talks about right?? you were way better in person",
+        "{player} thank u for not running us over when we were all panicking. u r a good sport :)",
+        "i'm gonna tell everyone i fought {player} today, they'll be so jealous lol",
+        "ok so i lost but {player} showed me where i went wrong, i'm grateful sooo much!!",
+        "{player} let's go get some food after this, my treat since i lost the battle lol",
+        "we fell apart at the bridge but that was honestly the best time i've had, thanks {player} :)",
+        "bye {player}!! see u on the next battlefield, i'll practice and bring better soldiers",
+        "you're my favorite opponent {player}, seriously, i'm already planning how to beat u"
+      ]
+    }
+  }
+}

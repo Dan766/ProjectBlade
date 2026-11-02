@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "job_id": "conv_b59",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "5afdea63c0e151f109139d8cb7eb7f01fdb9ce21f2fc4899defadd8e5ec92f23",
+    "model": "haiku",
+    "cost_usd": 0.008842550000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:47:41+00:00"
+  },
+  "data": {
+    "conv_291": [
+      {
+        "speaker": "MOSSY9",
+        "text": "{player} took {fief}. was mine. {troop_count} troops at the gate and still lost it",
+        "delay_s": 0
+      },
+      {
+        "speaker": "gotie",
+        "text": "omg did {player} just take {fief} from MOSSY9?? sory im new what does that mean :( is it bad??",
+        "delay_s": 6
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Business is business, MOSSY9. {player} came in with {gold} and bought fair. Shall we talk prices?",
+        "delay_s": 9
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "not talking prices with u baron. {player} gets one week of rest then im back. wait for it",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "Let us talk about the price of salt, {player}. Whoever holds {fief} now controls the road, and that matters to my caravans.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "gotie",
+        "text": "wait is {fief} gonna flip back?? MOSSY9 says its getting taken back :O who even is {player} lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "{player} will hold {fief} for about a week. then i come with {troop_count} and the gate falls. recheck ur comp",
+        "delay_s": 6
+      }
+    ],
+    "conv_292": [
+      {
+        "speaker": "LARKZ7",
+        "text": "ok who wants to bet {gold} that {town} falls before the weekend?? i say yes :D the chicken remains unbeaten. respect it",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Betting on sieges is a fool's trade, LARKZ7. Steady hands win ground. {town} has {troop_count} men inside. Mind the water.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "LARKZ7",
+        "text": "bold of u to say water when ur the one who lost {village} last month :P i bet {gold} anyway",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "I lost {village} to a patient siege, LARKZ7, and I learned from it. Take your {gold} if you like, but count the days first.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "LARKZ7",
+        "text": "lol the day count is my whole strategy. its called speed. mostly",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Speed without supply is only a faster way to starve, young friend.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "LARKZ7",
+        "text": "ok ok fine. ill take the bet on {town} anyway :D who else is in",
+        "delay_s": 5
+      }
+    ],
+    "conv_293": [
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "we got {fief}!!! from {enemy_faction}??? i think i pushed teh wrong button but it worked :D sorry",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "sorry if this is a dumb q but how did u even take {fief} :O",
+        "delay_s": 5
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "gg {fief} was never held properly. ur line broke at minute 4 Wagg0nRookie7",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "Wait what does the grain button do?? sorry :( i was gonna say we shud grab {village} next lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_JackalPup_Xx",
+        "text": "omg {village} sounds so cool!!! :D can i come too or is it only for ppl who know how to siege?? sorry",
+        "delay_s": 3
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "come if you can hold a line for ten minutes. {enemy_faction} will counter with {troop_count} men. bring food",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "i can hold a line!!! i think?? :) ill bring the grain :D",
+        "delay_s": 5
+      }
+    ],
+    "conv_294": [
+      {
+        "speaker": "Ropeknot42",
+        "text": "Honour matters, whistlehaul. But a town lost with a clean conscience is still a town lost",
+        "delay_s": 0
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "mule train leaves at dawn. honour does not feed the garrison of {town}",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "Feeding a garrison is not the same as keeping one's word. Ask anyone who has been betrayed by a winner",
+        "delay_s": 8
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "betrayed by winners is still winning. i have {gold} in the wagons and nobody asked me about my word",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "Then you will find the wagons are emptier when the next treaty is signed. People remember who kept their promises",
+        "delay_s": 9
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "people remember who paid on time too. ask the men at {village} which lord kept the mules fed",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "Mules do not vote, whistlehaul. Winners do",
+        "delay_s": 6
+      }
+    ],
+    "conv_295": [
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "lol we just made peace with {faction} and im still laughing at the {town} tollhouse",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Hail, xX_Fiddl3Kid_Xx!!! The Duke demands tribute!? Peace with {faction} means the wine is free!! :D",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "peace just means no torching the tollhouse this week. sad. Gobletan_Thrice you are still wrong about the wine",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Wrong?!?! I am never wrong, xX_Fiddl3Kid_Xx :) The wine costs {gold} a barrel and that is FINAL",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "lol {gold} for wine. u wish. {town} is still mine",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Never! My {town} tollhouse shall be a monument to peace!!! And to the tribute I will NOT pay :D",
+        "delay_s": 8
+      }
+    ]
+  }
+}

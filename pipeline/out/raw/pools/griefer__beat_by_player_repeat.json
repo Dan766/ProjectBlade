@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "griefer__beat_by_player_repeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1c760ef4a35cdae0a351767cd8f7136c9ddb216d9002d6acb6edfa2674bac7af",
+    "model": "haiku",
+    "cost_usd": 0.00480365,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:00:52+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} beat me 3 times now and still acts like its luck lol cope",
+        "third loss to {player} thats a hobby at this point ez",
+        "{player} keeps winning and i keep gettin the popcorn ready lmao",
+        "anyone else watching {player} farm me or just me",
+        "{player} got {troop_count} troops and a stopwatch lol skill issue",
+        "imagine losing to the same person thrice and calling it bad luck lol",
+        "not salty just tracking the score {player} is up by 3 fights",
+        "gg {player} enjoy the win while it lasts cuz the next one is mine lol"
+      ],
+      "whisper": [
+        "ok third time u win and i swear ill remember every single one {player}",
+        "still owe u a rematch and a crown of crap {player} dont get comfy",
+        "{player} im not mad just counting the L's and ur on 3 now",
+        "stop smiling at my defeats its unsettling lol",
+        "dont think i forgot the {troop_count} men u had last time i will bring double",
+        "u got lucky three times in a row thats not a skill thing {player} trust me",
+        "rematch whenever ur ready coward",
+        "ill stop typing so much when u stop beating me lol"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} won again shrug the server didnt need that much hype anyway",
+        "third time {player} wins fair enough i guess the map is theirs now",
+        "another day another loss to {player} the scoreboard is basically a tattoo at this point",
+        "anyone want to bet on who loses to {player} next",
+        "not gonna lie {player} plays a clean game annoyingly well",
+        "respect the consistency {player} still mad about it tho lol",
+        "{player} beat me again so ill just log off and touch grass",
+        "meh {troop_count} men was enough for that one apparently"
+      ],
+      "whisper": [
+        "third loss to u {player} im putting ur name on a plaque",
+        "congrats i guess on beating me again dont make it a habit",
+        "u keep winning and i keep logging off so thats a 3 0 for u",
+        "lets just call it even and move on before i lose again",
+        "{player} what do u even do to win this much",
+        "ok fine u win the scoreboard but im not counting this one",
+        "{troop_count} men isnt enough to flatter me but nice try",
+        "dont mind me im just sulking in the corner again"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} beat me three times and somehow im still glad we play lol",
+        "ur the only one who can make me lose this badly and i keep coming back",
+        "three losses to {player} and honestly the best part of my week",
+        "ok {player} is officially my favourite person to lose to",
+        "gg {player} that was ugly but the rematch is on",
+        "everyone say hi to {player} the one who keeps humbling me lol",
+        "{player} owes me a rematch and i expect the good kind of pain",
+        "losing to {player} again and honestly still smiling"
+      ],
+      "whisper": [
+        "third one today {player} ill take the L if u teach me that move",
+        "ur annoying but ur also the only one who gives me a real fight",
+        "u really got me {player} lets get drinks at the next camp no pvp",
+        "still salty but in a good way ngl ur the best rival i got",
+        "{troop_count} men from u again honestly beautiful work",
+        "dont let it get to ur head {player} but gg ur better than me now",
+        "rematch tomorrow same time i got a plan this time",
+        "ur the reason i keep logging in so thanks i guess lol"
+      ]
+    }
+  }
+}

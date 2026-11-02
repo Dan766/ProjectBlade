@@ -1,0 +1,265 @@
+{
+ "username": "hensworn",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_082.beat_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Good field work, {player}. You kept your line when it mattered. Most would have broken at the ford."
+   },
+   {
+    "id": "sig.persona_082.beat_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You paid {troop_count} men for that hill, {player}. Come by after and I'll show you where you could have saved half."
+   },
+   {
+    "id": "sig.persona_082.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, you won this one. Enjoy it while the {gold} lasts. It does not buy a second chance at Castelnarc."
+   },
+   {
+    "id": "sig.persona_082.beat_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Charging downhill with {troop_count} men was never going to end well. I have the notebook to prove it."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_082.beat_by_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Well played, {player}. Hard to hold a line like that with only {troop_count} men. Good eye for the ground."
+   },
+   {
+    "id": "sig.persona_082.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You had me on the flank, {player}. Come by after and I will walk you through where my {troop_count} went wrong."
+   },
+   {
+    "id": "sig.persona_082.beat_by_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Hm, {player}. You beat me today. In the first war I'd have lost the whole column that way. Still, the notebook keeps a count."
+   },
+   {
+    "id": "sig.persona_082.beat_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} won the day, and I lost {troop_count} men to a bad scout report. Note it, newcomers. Don't trust the scouts."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_082.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Good work with {player} today. {troop_count} men and not one reckless charge. That is how the fens were held, back in the first war."
+   },
+   {
+    "id": "sig.persona_082.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "That was clean, {player}. We broke {enemy_faction} because nobody ran ahead of the line. Buy the next round when we're back :)"
+   },
+   {
+    "id": "sig.persona_082.fought_alongside_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, you kept your place in the line. Good. Plenty of people forget that wars are won in the boring parts."
+   },
+   {
+    "id": "sig.persona_082.fought_alongside_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{enemy_faction} will remember that field for a while. Shared victories are the only kind I trust these days."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_082.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "You let me walk instead of taking the ransom, {player}. I won't forget that. The next siege I run, you get the first seat."
+   },
+   {
+    "id": "sig.persona_082.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} released me without ransom. Rare enough to mention. Ransom makes for tidier books, but mercy keeps the roads open."
+   },
+   {
+    "id": "sig.persona_082.released_by_player.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Letting me go cost you a good ransom, {player}. Don't make a habit of it or the others will start expecting the same."
+   },
+   {
+    "id": "sig.persona_082.released_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Gracious of {player} to let me walk. Most would have squeezed the purse. Remember that when your own turn comes."
+   }
+  ],
+  "player_joined_my_faction": [
+   {
+    "id": "sig.persona_082.player_joined_my_faction.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} has sworn to {my_faction}. Welcome. Keep your head down for the first month and listen more than you talk."
+   },
+   {
+    "id": "sig.persona_082.player_joined_my_faction.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "So you've come to {my_faction}, {player}. Good. Read the old charters before you argue with anyone, they save a lot of grief."
+   },
+   {
+    "id": "sig.persona_082.player_joined_my_faction.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, {my_faction} is a long road for a man who has only just arrived. Prove the oath was not a convenience."
+   },
+   {
+    "id": "sig.persona_082.player_joined_my_faction.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Be kind to the new ones, that's my rule. {player} will learn {my_faction} the slow way, like the rest of us."
+   }
+  ],
+  "player_granted_fief": [
+   {
+    "id": "sig.persona_082.player_granted_fief.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{fief} to {player}. Well earned, I think. The last holder lost it by being too eager. Learn from that."
+   },
+   {
+    "id": "sig.persona_082.player_granted_fief.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You have {fief} now, {player}. I've held worse, and I've lost better. Keep the walls manned and the granary full."
+   },
+   {
+    "id": "sig.persona_082.player_granted_fief.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{fief} went to {player}. I will not say the choice was wrong. I will say I kept my notes on the last three who held it."
+   },
+   {
+    "id": "sig.persona_082.player_granted_fief.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Hm. {player} got {fief}. Let us see how long the walls stand before we start clapping."
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_082.encounter_greeting.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ah, {player}. {persona} of {my_faction}, at your service. Sit by the fire a moment, the road ahead is muddy and I have tea."
+   },
+   {
+    "id": "sig.persona_082.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}. {persona}, {my_faction}. Your party is on the wrong side of the ridge, you know. Let me show you the way round."
+   },
+   {
+    "id": "sig.persona_082.encounter_greeting.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}. We meet again on the map. Keep to your side of the river and we both get home for dinner."
+   },
+   {
+    "id": "sig.persona_082.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well met, {player}. {persona} here. Heard you were in the fens last season. Tell me it wasn't as bad as the rumors."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_082.encounter_farewell.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Safe road, {player}. Mind the bridge at the crossing, it has been sagging since the first war and nobody has fixed it."
+   },
+   {
+    "id": "sig.persona_082.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "That will do for now, {player}. We will meet again on the map. I'll be the one with a notebook."
+   },
+   {
+    "id": "sig.persona_082.encounter_farewell.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Go on then, {player}. Keep your banners out of my fields and we shall have no trouble."
+   },
+   {
+    "id": "sig.persona_082.encounter_farewell.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Until the next ridge, {player}. Eat something hot before you march, and keep your men dry."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_082.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Rain on the road to {town} again. Anyone who says the fens have dried out has never walked them in autumn."
+   },
+   {
+    "id": "sig.persona_082.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "The granary in {village} is half empty this season. Bring grain before the price climbs and you'll thank yourself."
+   },
+   {
+    "id": "sig.persona_082.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Notes for newcomers: a siege lasts longer than the first hour looks like it will. Plan supplies for three months."
+   },
+   {
+    "id": "sig.persona_082.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Heard the bridge at {town} finally got repaired. Took a decade. We are a patient folk here."
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_082.player_big_defeat.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Hard day, {player}. Losing {troop_count} men in one go happens to all of us. I lost a column at Castelnarc once."
+   },
+   {
+    "id": "sig.persona_082.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "I saw the field, {player}. A bad morning, not a finished campaign. Come by and I'll show you the notebook."
+   },
+   {
+    "id": "sig.persona_082.player_big_defeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} lost most of the army near the ford. Scouts first, banners second, that's the old lesson. Write it down."
+   },
+   {
+    "id": "sig.persona_082.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{troop_count} men gone, {player}. I told you the ridge was a trap. Rebuild and do not wave your banner so loudly next time."
+   }
+  ]
+ }
+}

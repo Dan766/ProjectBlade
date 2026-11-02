@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "job_id": "trader__fought_alongside_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ff89b48ba534db1338b0eca634985ca1e6efb55ba05c824ef3ed09e27a89965b",
+    "model": "haiku",
+    "cost_usd": 0.005264250000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:13:06+00:00"
+  },
+  "data": {
+    "neutral": {
+      "global": [
+        "That skirmish cost me two carts and a mule. Worth it if the road's clear now.",
+        "Rough fight out there, but the south road should be safer for hauling salt again.",
+        "Good that the bandits are gone. Now somebody please fix the toll at the bridge.",
+        "Won the field, lost a wagon wheel. Anyone selling spare axles at a fair price?",
+        "Battle's over. Prices in the market will sag by morning once the troops move on.",
+        "Glad the fighting ended. Hard to haggle when half the town is still counting its dead.",
+        "{troop_count} soldiers marched past my stall today. Feed bills alone will ruin me.",
+        "Roads clear again. Keep your swords sheathed on the trade route, and your coin purses close."
+      ],
+      "whisper": [
+        "Fought beside you today, {player}. Don't expect a favour for it, but I won't forget.",
+        "Your line held well out there. Shame about the cost. Want to talk about shared shipping?",
+        "We both got paid in blood today. I'd rather get paid in gold next time, if you agree.",
+        "Thanks for the help at the ford, {player}. Keep your receipts, I keep mine.",
+        "That was a messy win. Still, a win is a win. Let's see who buys the captured mules.",
+        "I'm not in the habit of thanking people, but the flank was tight. Nice work, {player}.",
+        "Captured supplies are being sold at the camp tonight. Fair shares if you show up early.",
+        "We stood together long enough to win. Now let's stand apart again before I start owing favours."
+      ],
+      "face": [
+        "Well fought, {player}. Our wagons are still in one piece, which is more than I expected today.",
+        "Ah, you're the one who covered my left side. I'll remember that, though my accountant won't.",
+        "The field is ours. Now, if you have a spare horse to sell, I'm listening.",
+        "Good to see you standing. Bandits and battles both hurt my margins, so let's keep the road quiet.",
+        "Our side took the hill, and I took three barrels of wine from the enemy camp. Honest trade, I say.",
+        "That was a long afternoon. My feet hurt, my coin purse is light, but at least the road is open.",
+        "Do you smell that? Smoke and cheap ale. Victory always smells like a bad market day.",
+        "Fine work out there. If you ever need carts moved safely, my rates are reasonable and my patience is short."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Huge thanks to everyone who held the ford today. Caravans can roll again, drinks on me at the inn!",
+        "Great win, folks. {player} carried the left flank like a seasoned guard. Respect.",
+        "Our battle won, the road's open, and salt prices should finally drop. Best day in weeks.",
+        "Shoutout to the lads who fought off {enemy_faction} at dawn. Nothing beats a clean victory and full wagons.",
+        "Need escorts for next week's run? Anyone who fought today gets a discount. Loyalty pays.",
+        "Victory pricing: every blade sharpened in my shop this week is half off. Spread the word!",
+        "{player}, that flank charge was something. I'll be telling this story at every market from here on.",
+        "Thank you all for the fight. Caravan rates drop for anyone who shows up at the next muster. Trust me, I'm a merchant."
+      ],
+      "whisper": [
+        "You were brilliant out there, {player}. Want a share of the captured wine? I'll give you a fair cut.",
+        "Thanks for watching my back. Next time I'm hauling, you're first on my list for escort work.",
+        "Honest question: would you ride with my caravan next week? I'll cover the tolls and the food.",
+        "That charge saved my best wagon. I owe you, and I always pay my debts, one way or another.",
+        "Between us, the enemy's horses are going cheap now. Come by and I'll give you a friend's price.",
+        "I'm glad you were there today, {player}. A good partner is worth more than any spare crossbow.",
+        "Drinks are on me tonight if you're free. Plenty to celebrate, and a few deals to discuss.",
+        "You fought like someone who understands business: you know when to push and when to hold. Let's partner up."
+      ],
+      "face": [
+        "{player}! That was quite the fight. Come see me, I've got a crate of spices you'll be glad to own.",
+        "Ser, you held that bridge like it owed you money. I like that. Let's talk about a regular route.",
+        "Victory suits you, {player}. I'd offer a handshake, but my hands are full of captured silver.",
+        "We made a good team out there. Let's keep it going. I'll pay for the next round and the next run.",
+        "I saw you cover the cart when the arrows flew. You've earned a discount, and perhaps a bigger share.",
+        "Thanks for fighting for the road, {player}. Next market day the first cup is mine.",
+        "You know, I hate war, but you made it profitable. Remind me to put you on the company payroll.",
+        "Fine work, friend. Our {troop_count} soldiers would have been scattered without you. Let's celebrate properly."
+      ]
+    }
+  }
+}

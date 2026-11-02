@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "tryhard__whisper_challenge",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "52961d4f50153e50f69b51f283641f970203d3abfede650311c530e4bf1321e4",
+    "model": "haiku",
+    "cost_usd": 0.00374035,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:16:21+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "ur last push was sloppy. i have a better comp now. meet me at {town} and find out",
+        "i ran the numbers on our last fight. ur frontline was the weak point. want to test it again",
+        "you keep calling it luck. it wasnt. come to {village} and i will show you the difference",
+        "my 4 pikes and 2 crossbows beat ur whole line. dont blame the terrain. meet me",
+        "tired of seeing ur name in the logs with no counter. bring everything. {town} at dusk",
+        "not asking twice. pick a field near {village} or i pick it for you",
+        "ur retreat timing was the real loss. i want the rematch where you cant run",
+        "i dont care how ur feeling about the last fight. i care about the rematch. {village} at sunrise"
+      ]
+    },
+    "neutral": {
+      "whisper": [
+        "saw ur group pushing east. might be worth a proper fight to see if the rumors are true. {town}?",
+        "no grudge. just want to know where ur army actually stands. meet at {village} when ready",
+        "ur comp is interesting. i want to see it under pressure. open ground, no tricks",
+        "not sure ur line holds vs a real charge. happy to test that at {town} if ur up for it",
+        "fighting for fun is a waste of time. fighting for data is better. {village}, one hour",
+        "heard u took the ford last week. decent move. care to see how it plays out on open ground",
+        "one fight to settle whose plan was better. no hard feelings either way. {town} whenever",
+        "i dont hold grudges, i just track results. yours are unclear. lets clear them up at {village}"
+      ]
+    }
+  }
+}

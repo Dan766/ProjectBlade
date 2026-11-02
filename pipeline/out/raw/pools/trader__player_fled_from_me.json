@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "job_id": "trader__player_fled_from_me",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "cca50c0a1cae18cbca82d386625547f92bc6eb817dae9bd36eb6273c5f7b3a02",
+    "model": "haiku",
+    "cost_usd": 0.006011750000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:13:42+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Ran off before the first swing. Very efficient. My ledger is still waiting on that coin, though.",
+        "Fled my caravan mid-stance. Someone should tell them the road only gets longer from here.",
+        "Fifteen wagons of goods and {player} sprints for the hedgerows. Nobody here is surprised.",
+        "Turned tail at the first sign of steel. Every toll post will hear about this, I promise.",
+        "Running from a fight over a few crates? Bad margins for your reputation, friend.",
+        "Took to the trees the moment we formed up. Cowardice is not a line item I'd invest in.",
+        "Scattered like spilled grain the moment my guards drew. Keep the road, then. Chase your own shadows.",
+        "Wagons tied, guards ready, and {player} vanishes into the brush. Expect no more invitations to trade.",
+        "Afraid of a bit of honest bargaining with a blade? Every merchant on Ormerath is watching now.",
+        "Ran. Good. Next time I'll bring a bigger purse and you'll have less room to flee."
+      ],
+      "whisper": [
+        "Ran off like a spooked mule, {player}. You cost me a fine afternoon and a fair bit of profit.",
+        "Retreating in that direction is bad for your reputation. Roads here remember who turns tail.",
+        "Clever flight. Still, my caravan lost a day waiting on you. I don't forget lost days.",
+        "Hope the bolt of cloth you were hoping to sell is worth the hedgerow you hid behind.",
+        "No swordplay today? Fine. I'll be sure to charge you double whenever our paths cross again.",
+        "You ran from my wagons like they owed you money. Lesson learned: I will still come collect.",
+        "Dashing off mid-meeting is rude, {player}. Next time, at least leave a note with the bill.",
+        "I'll assume the hedgerow was a better bargain than the one I offered. Enjoy the mud.",
+        "Tell your fellows that running from a caravan costs more than the goods you saved, in the end.",
+        "We'll meet again on a road of my choosing, {player}. Pray your purse is heavier by then."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Saw a few folk bolting off the north road today. Nothing to see, just keep your wares close.",
+        "{player} took the sensible route and left my caravan a clear road. Smart move, however you slice it.",
+        "Anyone else notice the road toll shrinks whenever people decide not to fight? Just a thought.",
+        "Caravan turned around for a skirmish that never happened. Time lost is coin lost, friends.",
+        "Ran into a skittish traveller who bolted before the first horn. Everyone pack light and move quick.",
+        "Standoffs on the open road cost more than they're worth. Wise choice to walk away, {player}.",
+        "No blood, no bargains, no harm. Gotta love a road that stays quiet for once.",
+        "Caravan's fine, merchants are fine, and somebody's pride is probably bruised. Business as usual.",
+        "Tip for the lot of you: a decent escort is cheaper than a grudge. Ask me about the rates.",
+        "Seems like the roads are getting twitchy. If you're hauling salt, do it with company."
+      ],
+      "whisper": [
+        "Good instincts today, {player}. Clear road means no losses on either side, which suits me fine.",
+        "Did you need the cart I was driving or was it just a fright? Either way, no hard feelings from me.",
+        "No fight, no trouble. Just a note: if you're heading toward the coast, mind the toll stones.",
+        "Quick feet, sharp eyes. Keep those and you'll outlast most traders. Good luck on the road.",
+        "I'd rather trade than tangle. If you ever want to talk prices instead of swords, my door is open.",
+        "Rattled your nerves, did we? Fair enough. Wagons are expensive to lose, so I understand the caution.",
+        "Kept the goods, kept your skin. A solid trade for a morning's work, I'd say.",
+        "Your escape was tidy. If you ever need a shoulder on a rough stretch, send word.",
+        "No need for a chase. I've got a route to keep, and you've got wherever you were rushing to.",
+        "Retreating was sensible. A brawl over a wagon costs more than most trades bring in. Think on it."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Shoutout to {player} for ducking out before the blades came out. Best call I've seen all week!",
+        "{player} just proved that a quick exit beats a bad fight. Drinks on my coin when we next meet.",
+        "Can't blame anyone for avoiding a scrap over a few sacks of grain. Keep your purses light, friends.",
+        "Glad to see {player} walked away clean. Loyal customers are worth more than any single bolt of cloth.",
+        "Heard {player} outran a whole band of brigands this morning. Now that's a sales pitch I can use.",
+        "Smart retreat from {player} today. Not every road needs a crossing; some just need a bit of patience.",
+        "Wagons safe, goods intact, and {player} keeps a clean record. My kind of partner, honestly.",
+        "Nobody dies over a dye batch, folks. {player} knew that, and I respect the call.",
+        "Good on {player} for trusting their feet over bravado. Caravans love a sensible escort.",
+        "Shoutout to {player}: escaped the mess and still wants to buy salt from me. Legend."
+      ],
+      "whisper": [
+        "You're a sight for sore eyes after that skirmish that wasn't, {player}. Come by the stall, first cup's on me.",
+        "Good call bolting, {player}. I'd rather keep you as a customer than as a casualty. Care to discuss salt?",
+        "No hard feelings about the scramble. Let's make it up with a discounted route on your next trip, {player}.",
+        "Next time you're on the south road, I'll have a cart with your name on it. Discount included.",
+        "Honestly, running was smarter than standing your ground. I'd rather trade with you than bury you.",
+        "Saw your heels kick up dust. Wise. Want to split the cost of an escort on the way back?",
+        "Thought you were a goner there, {player}. Glad the road didn't win this round.",
+        "You've got a head for the road. I could use that on the next run, if you're interested.",
+        "Shame our paths crossed under those circumstances. Let's sit down over prices when you're rested, {player}.",
+        "Quick feet, clear head, and no shame in it. Good instincts, {player}. Let's talk business soon."
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "job_id": "newbie__player_fled_from_me",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "059dca2cf606b0f257b6d3ee52671dff615cd08be63925ebf49f5edc46c18c6e",
+    "model": "haiku",
+    "cost_usd": 0.005288050000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:19+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "ok so we ran away from {player} and im not even sorry :D ... well a little sorry :(",
+        "{player} chased us for like 5 min straight?? thats not fair i was just standing there lol",
+        "we did NOT flee i was just retreating strategically... my party disagrees :(",
+        "{player} why do u have so many ppl, i only have 3 and they keep running off",
+        "running from {player} is basically my new hobby now. dont judge",
+        "my soldiers ran before the fight even started?? is that normal?? asking for real",
+        "anyone else get chased by {player} today or just me :( my horse is tired",
+        "ill come back and beat {player} next time!!! after i figure out what morale is",
+        "not gonna lie i squeaked a little when {player}'s party showed up lol",
+        "dear {player} please stop following us, we have snacks and we will share them... maybe"
+      ],
+      "whisper": [
+        "ur not gonna catch us next time!! ill get better at running u watch",
+        "stop chasing me {player} :( this isnt fun for me at all",
+        "ok i ran cuz i was scared. dont be proud of it",
+        "i hope ur horse trips in a ditch... sorry that was mean",
+        "we're gonna be back with more ppl so ur gonna be sorry ok?? dont come near",
+        "why did u have to show up right when i was figuring out the map",
+        "not cool {player}. i was literally just trying to get some grain",
+        "i bet u think ur so tough huh. we ran away and that counts as winning right",
+        "i wont forget this {player}. im writing it down in my notebook",
+        "stop following us pls, my soldiers are crying and i dont know how to fix it"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "just ran from a fight, anyone know if thats a bad thing or no?? asking for a friend (me)",
+        "our party bounced cuz it looked too big, no offense to whoever that was",
+        "did we just run away from {player} or did they run from us lol i cant tell",
+        "tip: if u see a big party coming u should probably leave. thats what we did",
+        "ran away and now im lost on the map again... where is everyone",
+        "not sure who was chasing us but they had a lot of guys so we left :)",
+        "brb getting my soldiers to stop eating everything while we wait for the dust to settle",
+        "that was a close one, we got out with like 2 hp and a sandwich",
+        "is it normal for the whole party to just vanish when u click run?? asking",
+        "we survived the chase! barely! not sure what the chase was about but whatever"
+      ],
+      "whisper": [
+        "hi {player}, sorry we ran off earlier. nothing personal i just didnt want to fight",
+        "did u see where we went? we kinda got split up and i dont know the way back",
+        "was that u chasing us? no worries if so, just curious :)",
+        "can u tell me how fleeing works?? do my guys just go faster or what",
+        "we ran cuz we had no idea what we were doing. still no idea tbh",
+        "hope ur ok {player}, my soldiers were yelling at me to run so i did",
+        "is it better to flee or to wait and see what happens?? i always guess wrong",
+        "sorry for the mess back there, i think my horse took the wrong turn",
+        "u seem pretty experienced, any tips for not running into bigger parties?",
+        "we didnt mean to run off like that. we just panicked when we saw ur banners"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "shoutout to {player} for letting us escape, u are so nice!! :D",
+        "{player} just let us run away and didnt even chase hard, best player ever :)",
+        "thank u {player} for not hitting us when we were running, lifesaver fr",
+        "we ran from {player} and they were super chill about it lol, love this server",
+        "if anyone sees {player} tell them we said hi and sorry for running off :(",
+        "{player} is honestly the nicest person on the map. we ran and they waved?? wow",
+        "got away from {player} safe!! they didnt even try, i think theyre just good people",
+        "huge thanks to {player} for the chase that wasnt. we are very grateful!!",
+        "our party is alive bc of {player} and their gentle chasing :) luv u all",
+        "{player} let us go and now my soldiers want to be friends with them lol"
+      ],
+      "whisper": [
+        "ur the best {player}!! thank u for not chasing us too hard :)",
+        "sorry i ran away from u earlier!! i was scared but u were so cool about it",
+        "can u show me how u move ur party so fast?? ill be ur shadow forever lol",
+        "thank u for letting us go!! ill buy u a drink when we meet in town",
+        "what do i do to pay u back {player}?? like seriously, tell me",
+        "hope u didnt get too bored waiting for us to run off, sorry :(",
+        "u should join our group if ur not busy? we're a bit lost and need a leader",
+        "ur my hero rn {player}. my soldiers are cheering too (mostly)",
+        "thanks for not hitting us!! u are a very kind person i can tell",
+        "that was so nice of u {player}, im gonna tell everyone how cool u were"
+      ]
+    }
+  }
+}

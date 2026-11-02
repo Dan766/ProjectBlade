@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "job_id": "persona_006",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "96fc544995d6264c6949694d7abe787975b75b09bdc913720679a2beabb81ce1",
+    "model": "haiku",
+    "cost_usd": 0.014030100000000002,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: Additional properties are not allowed ('ambient_brag_placeholder_check' was unexpected)"
+    ],
+    "created_at": "2026-11-01T17:30:48+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} went down on ratio alone. {troop_count} units in the right spots, that is the whole story"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your line broke at the flank. fix that before the next queue"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "gg. {troop_count} of your men died to a line you could have read from the start. look at the ratio next time"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} won the exchange but i still took {gold} from the field. efficiency pays"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} that was a fair fight on paper. your archers were out of position at the second push. replay it"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} won that one by two units of spacing. my archers were out of position, not my plan"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} your {troop_count} men held the center well. my flank collapsed before the ratio mattered. i will rerun it"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} that was a clean read. i had {troop_count} units and a bad angle. gg, but the next one is mine"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} beat my composition with {troop_count} units. i am recounting the losses now, the replay has the answer"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} good fight ser. you took the right fords. next time i bring more cavalry and the numbers will change"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again. third time and it is still the same mistake on my side. i stop losing when the numbers stop being wrong"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i have reviewed that fight forty times. the ratio was never in my favour. it will be next time"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} beat my line a third time now. that is a pattern worth studying, so i am studying it"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} you keep finding the same gap. respect for that. i will close it before the next fight"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} three losses to the same pattern means i am the problem. fixing that now, not tomorrow"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is on a run and the server is noticing. luck runs out, the ratios do not, so watch the numbers"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has won a lot in a row. most of it is composition, not luck. the meta is the reason"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} enjoy the streak. i have three counters ready and they all cost less than your last army"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that streak is real work ser. keep the flanks covered and you will keep winning"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} on a run this long is not luck, it is the right troop mix. respect for that"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost most of the army in one fight. that is what happens when the composition is wrong. read the replay"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {troop_count} men gone in one push. i would have kept the reserves back. check the replay before the next queue"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} just lost {troop_count} troops in one exchange. the numbers were never on your side that day"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that was brutal to watch. the cavalry overextended. happens to everyone, even me, once"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} took a heavy loss there. your troop mix was sound, the position was not. adjust and come back"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} meet me at {town} with an equal army count. no tricks, just ratios. the result will be clear"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} i have a free road to {village}. bring your best composition and we will see who understands the numbers"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your last defence at {village} is thin. i will test it. bring the army you trust"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} a fight at {town} would settle which of us has the better lineup. your call, ser"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {town} is where i want the rematch. come and prove the last result was not the ratio"
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} and i took {enemy_faction}'s line with {troop_count} men. clean ratio, clean win. this is how it is done"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} your flank held and mine did too. that was the best ratio i have seen all week. keep that lineup"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} good work with the {troop_count} you brought. our timing on {enemy_faction} was correct. do it again"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} fought beside me and the ratio held. not a bad partner for a field battle"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} your cavalry covered my gap at the second push. useful. we can run that pairing again"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "my army is {troop_count} strong and {gold} in the chest. the rest of the server is still counting wrong"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is held with {troop_count} units and the economy is running clean. efficiency is the only real wealth"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{gold} in the treasury and {troop_count} men under arms. i optimise every coin before i spend it"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} garrison is {troop_count} strong. nobody takes it without losing the ratio first"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "just finished the numbers: {troop_count} units, {gold} gold, zero waste. that is the meta, learn it"
+      }
+    ],
+    "my_faction_took_fief": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours now. {my_faction} took it from {enemy_faction} with a clean ratio. no luck involved"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has {fief}. {enemy_faction} lost the position on the math, not the sword"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} changed hands. {enemy_faction} tried to hold it with the wrong composition. noted"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} secured {fief} and the flank is sealed. do not expect a second gift from {enemy_faction}"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours. the siege was a timing problem for {enemy_faction}, not a skill problem"
+      }
+    ],
+    "player_besieging_my_fief": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has started a siege on {fief}. i have counted the garrison. you will not like the result"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} you have chosen {fief} with a thin ratio. i will show you where it breaks, in the field"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} is at {fief} with the usual push. the walls are rated for that composition. try it"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} i see your banners at {fief}. bring the full army or do not bother, ser"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} you are sieging {fief} with half a line. the replay will show you why that fails"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the road to the western fords flooded again. anyone else lose two hours of marching to the rain"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "server lag hit the second push and people still blame their composition. it was the ping"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "map patch changed the fords again. the efficient route is now the north road. update your plans"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "some people still bring pikes into open ground. the meta moved on a month ago, keep up"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "rain on the plains means archers lose range. plan for it or lose the field"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "newbie__my_faction_took_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ae59124ee894439a86f6b7f4c6564bc641af9c0d69ce046bf998f1e2c8664c60",
+    "model": "haiku",
+    "cost_usd": 0.0034572500000000003,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:05:35+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "we took {fief}!!! wait do we keep it or do we give it back?? :D",
+        "is it normal that the flag is upside down now or did i do something wrong :(",
+        "thank u to whoever opened the gate for me, i was just standing there like a potato lol",
+        "so {fief} is officially {my_faction} now?? what do i do first, no idea xD",
+        "did {enemy_faction} really leave all their chickens behind or is that a glitch",
+        "i think i accidentally stole a barrel of ale from {fief}, sorry sorry sorry :)",
+        "pls tell me someone knows where the taxes go now, i dont want to mess it up",
+        "my first castle capture and i almost fell off the wall twice, still counts right?? ^^"
+      ]
+    }
+  }
+}

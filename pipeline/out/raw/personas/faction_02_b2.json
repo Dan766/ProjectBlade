@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "job_id": "faction_02_b2",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "b190eb48d60f29c70e01f9384a8660fc672f54b568bae0461da43f38f7e9c13e",
+    "model": "haiku",
+    "cost_usd": 0.01199185,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:47:23+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_031",
+        "username": "SerCrowmere",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "honourable",
+          "grave",
+          "proud"
+        ],
+        "backstory": "Ser Crowmere has kept his house's oath-banner since the second season and has never broken a parley. His feud with {rival} over the Vaalikka salt ferry is still sung in the moot halls.",
+        "catchphrases": [
+          "The rolls shall record that {player} fought with honour.",
+          "Your oath is noted, ser {player}."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0,
+          "patrol": 0.05,
+          "besiege": 0.05,
+          "aggression": -0.05,
+          "flee_threshold": -0.1,
+          "loyalty": 0.1,
+          "honor": 0.15
+        }
+      },
+      {
+        "id": "persona_032",
+        "username": "xX_JackalPup_Xx",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "short"
+        },
+        "traits": [
+          "eager",
+          "apologetic",
+          "easily amazed"
+        ],
+        "backstory": "Joined three weeks ago and thinks the fens are a kind of food. Has apologised to four people for attacking the wrong party. Once marched a whole levy into {rival}'s camp to say hi.",
+        "catchphrases": [
+          "sorry if this is a dumb q but how do i",
+          "omg i won?!! thank you {player} :D"
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": 0.05,
+          "besiege": -0.05,
+          "aggression": -0.15,
+          "flee_threshold": 0.15,
+          "loyalty": 0.15,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_033",
+        "username": "OldTideWarden",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "patient",
+          "generous",
+          "weathered"
+        ],
+        "backstory": "Has played since the first war and keeps a notched ledger of every fen that changed hands. Known for free tips on food stockpiles. Walked a stranded newbie back to Heeluma for nothing. Still waiting on a rematch with {rival}.",
+        "catchphrases": [
+          "Patience wins more fens than swords do.",
+          "Stock your grain before you cross, {player}."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": 0.1,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.05,
+          "loyalty": 0.15,
+          "honor": 0.1
+        }
+      },
+      {
+        "id": "persona_034",
+        "username": "Hael_Stackbane",
+        "chat_style": {
+          "case": "lower",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "calculating",
+          "curt",
+          "relentless"
+        ],
+        "backstory": "Plays the same cavalry-heavy meta every siege and wins most of them. Keeps a tally of every battle, mostly to point out {rival}'s flank mistakes. Took Sooraalen in under two days.",
+        "catchphrases": [
+          "gg. ratio decides it, not luck",
+          "gg {player}. ur timing was early"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": -0.2,
+          "patrol": -0.05,
+          "besiege": 0.1,
+          "aggression": 0.2,
+          "flee_threshold": -0.15,
+          "loyalty": -0.1,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_035",
+        "username": "KesTrelWhoops",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "rare",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "clumsy",
+          "cheerful",
+          "curious"
+        ],
+        "backstory": "Found the server two weeks ago and still hasn't found the horses. Accidentally recruited four peasants and apologised to all of them. Tried to trade a hay bale for a castle. {rival} is still explaining why that doesn't work.",
+        "catchphrases": [
+          "wait what does that button do",
+          "oops sorry i think i broke it"
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.1,
+          "patrol": -0.05,
+          "besiege": -0.1,
+          "aggression": -0.2,
+          "flee_threshold": 0.15,
+          "loyalty": 0.15,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_036",
+        "username": "hollowcairn",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "rare",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "unhurried",
+          "dry",
+          "protective"
+        ],
+        "backstory": "Has outlived more lost wars than most players have logged hours. Known for hauling broken parties back from the Ruokkaa marsh edge. Once held a road against {rival} for an afternoon without drawing a blade.",
+        "catchphrases": [
+          "Eat before you march, friend.",
+          "Good ground beats good numbers."
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.05,
+          "patrol": 0.15,
+          "besiege": -0.15,
+          "aggression": -0.2,
+          "flee_threshold": 0.1,
+          "loyalty": 0.2,
+          "honor": 0.15
+        }
+      },
+      {
+        "id": "persona_037",
+        "username": "DameVolemere",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "short"
+        },
+        "traits": [
+          "gracious",
+          "lofty",
+          "sentimental"
+        ],
+        "backstory": "Founded a house of mourners after the first war and never left the saga. Keeps the oath-rolls of the Gaiuuk river towns and reads them aloud at every banquet. Sealed a truce with {rival} over a fallen messenger's grave.",
+        "catchphrases": [
+          "The oath-rolls shall remember this day.",
+          "By the oath of my house, I will answer."
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": -0.1,
+          "patrol": 0.05,
+          "besiege": 0.05,
+          "aggression": -0.1,
+          "flee_threshold": -0.05,
+          "loyalty": 0.2,
+          "honor": 0.1
+        }
+      },
+      {
+        "id": "persona_038",
+        "username": "Mire_Ledger",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "shrewd",
+          "chatty",
+          "forgiving"
+        ],
+        "backstory": "Runs salt and dyed wool caravans through the eastern shallows and rarely loses a cart. Ambushed four times, yet still sells the survivors horses. Drew up a fair-price contract with {rival} mid-battle, and both parties kept it.",
+        "catchphrases": [
+          "Nothing personal, {player}. Trade is trade.",
+          "Salt prices are up again, somebody buy low."
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.15,
+          "patrol": 0.05,
+          "besiege": -0.1,
+          "aggression": -0.2,
+          "flee_threshold": 0.1,
+          "loyalty": 0.05,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_039",
+        "username": "h4rrowz",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "none",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "petty",
+          "cheeky",
+          "scorekeeping"
+        ],
+        "backstory": "Has been losing to {rival} since the first siege and keeps a list of every insult, sorted by date. Burned a village of levies and posted the ledger in global chat.",
+        "catchphrases": [
+          "cope {player} u got rolled again lol",
+          "remember when u ran? i do"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": -0.1,
+          "patrol": 0.05,
+          "besiege": 0.1,
+          "aggression": 0.2,
+          "flee_threshold": -0.1,
+          "loyalty": -0.15,
+          "honor": -0.2
+        }
+      },
+      {
+        "id": "persona_040",
+        "username": "Ilmoth_Coldwick",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "short"
+        },
+        "traits": [
+          "analytical",
+          "cold",
+          "precise"
+        ],
+        "backstory": "Has tuned the same troop mix for two seasons and posts the numbers after every fight. Lost a whole siege to {rival} after a late flank, and has calculated the mistake ever since. Still says gg in a tone that makes people recount.",
+        "catchphrases": [
+          "Ratio was off, my second line broke.",
+          "Gg {player}. Your flank was early."
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": -0.15,
+          "patrol": -0.1,
+          "besiege": 0.15,
+          "aggression": 0.15,
+          "flee_threshold": -0.2,
+          "loyalty": -0.05,
+          "honor": -0.1
+        }
+      }
+    ]
+  }
+}

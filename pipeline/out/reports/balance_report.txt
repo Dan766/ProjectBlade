@@ -1,0 +1,17 @@
+scenario                    A wins  rounds   routed     fled  withdrew   target
+mirror 40 v 40               49.4%    4.98    10.3%     2.3%     87.4%   45-55%
+60 v 30                     100.0%    3.13    73.0%    27.0%      0.0%   >90%
+50 v 40                      97.9%    4.69    41.5%    16.5%     42.0%   85-98% (AI v AI)
+infantry v cavalry           92.6%    4.81    47.6%     9.8%     42.6%   >60%
+cavalry v archers            99.9%    4.34    87.6%     2.2%     10.2%   80-95%
+archers v infantry           66.2%    4.94    27.9%     2.7%     69.4%   >55%
+cavalry v mixed, plains      60.5%    4.95    25.2%     2.7%     72.2%   cav plains >
+cavalry v mixed, marsh        5.6%    4.98     1.7%     5.1%     93.2%     marsh + 20pts
+tryhard v newbie             78.1%    4.63    12.5%    23.8%     63.7%   >60%
+roleplayer v trader          49.2%    4.78     8.5%    13.7%     77.8%   ~50%
+lord 45 v bandits 20        100.0%    2.74    82.7%    17.3%      0.0%   >95%
+tactician 40 v memer 40      50.0%    4.99    12.6%     1.6%     85.8%   ~50% (random foe can't be read)
+always-Hold 40 v griefer 40   74.9%    4.97    26.3%     0.1%     73.6%   >70% (read the charger)
+always-Flank 40 v griefer 40   13.3%    4.99    27.4%     0.0%     72.6%   <45% (misread)
+always-Hold 40 v griefer 50   12.0%    4.94    34.0%     0.0%     66.0%   >30% (reading beats numbers)
+150000 battles in 183215 ms

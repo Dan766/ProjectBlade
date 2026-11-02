@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "newbie__player_raided_my_village",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c8dbbe8631f0454d75c9ec9a55baa1da9513e3c854aa027f0627e43c72150d3f",
+    "model": "haiku",
+    "cost_usd": 0.00435895,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:19+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "who even burns a village?? {player} thats just mean >:(",
+        "{village} is gone and {player} is laughing about it. not cool ser",
+        "i learned today that {player} burns villages for fun... ok ok i'll remember that",
+        "anyone else see the smoke from {village}?? its {player} again i think :/",
+        "lol {player} thinks burning {village} makes them a hero. the farmers are not impressed",
+        "im going to find {player} and i will... uhh... ask nicely to stop burning stuff",
+        "hope {player}s soldiers get lost in the woods forever xD jk im still mad",
+        "dont trust {player} near any village, they set {village} on fire and didnt even say sorry"
+      ],
+      "whisper": [
+        "why did u burn {village}?? the people there were nice to me :(",
+        "i dont even know u and ur already on my bad list. burning {village} was rude",
+        "ok so ur the one who torched {village}. i hope the next raid goes badly for u",
+        "u know {village} had a bakery right?? now its just ash. so sad :(",
+        "i was gonna trade with {village} tomorrow and now theres nothing left. thanks a lot {player}",
+        "pls stop burning villages. or at least tell people before u do it?? thx",
+        "im writing ur name down as the bad guy in my notes. sorry if thats harsh :(",
+        "i tried to fight back at {village} but ur party was too big. not fair D:"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "heard {village} got burned down. someone should probably keep an eye on the roads",
+        "is it normal for villages to just burn like that?? asking for a friend (me) :/",
+        "{village} burned and nobody did anything. where do i even report this lol",
+        "does anyone know if {village} can be rebuilt or is it gone forever??",
+        "fire at {village} this morning. guess ill be extra careful on the east road now :P",
+        "just saw smoke over {village}. idk who did it but im keeping my distance from {player} :/",
+        "wait was {village} the one with the windmill?? it looks like its gone :(",
+        "rip {village}. i only went there once but the innkeeper gave me free bread :("
+      ],
+      "whisper": [
+        "hey {player} did u see what happened at {village}?? just checking if ur ok :)",
+        "not mad or anything but ur army walked right past my farm after {village}. just saying",
+        "idk if ur the one who burned {village} but ur banner was there. just asking??",
+        "do u know how to rebuild a village? mine was in {village} and im kinda lost :(",
+        "can we agree to not burn anything near the road between us?? i dont wanna fight :)",
+        "ur party looks big. im gonna stay out of ur way for a while, no offense :X",
+        "i heard u burned {village}. not gonna lie that makes me nervous to talk to u :(",
+        "is it bad that i kinda admire how fast u got through {village}?? sorry :X"
+      ]
+    }
+  }
+}

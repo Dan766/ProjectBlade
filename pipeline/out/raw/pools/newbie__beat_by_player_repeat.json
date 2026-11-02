@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "newbie__beat_by_player_repeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "a734c0cfd2ed021ed5e5e3fa19826fcda9787f5d702cf18dae074e19f334d473",
+    "model": "haiku",
+    "cost_usd": 0.00512265,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:05:00+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "ok {player} i get it u beat me AGAIN... how r u even doing this?? :(",
+        "third time {player} wiped my whole party lol im starting to think ur cheating?? jk... mostly :/",
+        "{player} pls stop, my {troop_count} guys are still crying about it xD",
+        "still no idea how i keep losing to {player}!!! its so annoying >:(",
+        "dont worry {player} ill get u back, i just need to figure out what ur doing lol",
+        "lost to {player} again. who else is tired of this?? me. im tired",
+        "{player} hates me i think?? why else would u keep crushing my stuff :(",
+        "gg {player} i guess... ur troops are way too good for my level, its not fair!!!"
+      ],
+      "whisper": [
+        "u again?? i swear i had the better ambush this time :( ur not even fair",
+        "im gonna get my revenge i promise, just wait till my new {troop_count} are ready",
+        "stop following me {player} lol i dont even have anything left to lose",
+        "3 times in a row u got me. im going to start writing down ur tricks",
+        "ur making me look dumb in front of everyone. thats not nice :(",
+        "ok im officially mad. next time ill bring like {troop_count} guys and ur gonna regret it!!",
+        "dont think this means ur better than me {player}... i just got unlucky. probably",
+        "fine ur winning. rude tho, u didnt even say sorry after that last ambush"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "anyone else keep losing to the same person over and over or is it just me lol",
+        "does the server reset the scoreboard or do i have to live with my losses forever :/",
+        "{player} is definitely around here somewhere, i can feel it... anyway hi all",
+        "third loss today. ok im going to go look at my troops and think about my life :(",
+        "who knows a good place to train {troop_count} soldiers without getting jumped??",
+        "is it normal for a fight to last like 2 minutes?? i thought it was longer lol",
+        "just watching the field for a bit, dont mind me... staying clear of {player} for now xD",
+        "does anyone know why my scouts keep dying before they even see anything??"
+      ],
+      "whisper": [
+        "hey {player} sorry for the 3rd time, didnt mean to run into u again :(",
+        "can u tell me what i did wrong last fight?? no pressure if ur busy!!",
+        "is it ok if i stay out of ur way for a while? ur kinda scary lol",
+        "thanks for the fight i think?? i learned something i think. maybe",
+        "not mad at u, just confused. how do u always know where im going",
+        "ok i wont follow u anymore promise. but if u see me again say hi pls :)",
+        "soooo can we agree to not fight for like a day? my troops need rest lol",
+        "i dont know if u remember me but ur the one who beat me 3 times in a row xD"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} just beat me AGAIN and honestly its the best thing that happened to me all day!!",
+        "shoutout to {player} for the 3rd loss, i learned so much :D i owe u a drink",
+        "everyone go talk to {player}, they taught me more in 3 losses than the tutorial did lol",
+        "lost to {player} for the 3rd time and im still smiling. legend status :D",
+        "ok real talk {player} is way better than me and i love it, my scouts are jealous",
+        "gg {player}!!! another loss, another lesson, another reason to keep playing xD",
+        "{player} if ur reading this, next time ill bring like {troop_count} guys and ill beat u... maybe :P",
+        "my new favorite hobby is losing to {player}, hope u know ur a great teacher"
+      ],
+      "whisper": [
+        "{player} i lost again!! and i loved it, can u show me what u did with the flank?",
+        "ur gonna get so tired of me asking but how did u win that last fight?? pls teach me :D",
+        "thank u for not stomping me too hard this time {player} :D",
+        "3 losses to u and im not even mad. just kinda impressed. u r so good",
+        "ill buy u a drink in game if u want!! as thanks for the lessons :)",
+        "can we do a rematch sometime?? i promise to be a better loser lol",
+        "soooo u wanna team up? i have {troop_count} guys and u clearly know what ur doing!!",
+        "sorry i keep bugging u, ur just the only one who explains things properly xD"
+      ]
+    }
+  }
+}

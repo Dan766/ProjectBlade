@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "job_id": "conv_b06",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "8c5f093a4839c7c9a68aff5cd77023fd891faee64df70b2e4c5bc608c935a63e",
+    "model": "haiku",
+    "cost_usd": 0.0172995,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'A bread is a fair price for a signature. Yet I have {troop_count} men on the {village} road who are curious, DukeScythington. Please keep them sharp.' is too long"
+    ],
+    "created_at": "2026-11-01T17:42:43+00:00"
+  },
+  "data": {
+    "conv_026": [
+      {
+        "speaker": "HornMisfire",
+        "text": "ok so whats better archers or pikemen?? i keep dying to everything :(",
+        "delay_s": 0
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Pikemen! They hold the line. Archers are great but run out of arrows too fast :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "wait but archers can hit from way back?? thats so op. ur wrong FRSTBITE lol",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "Not wrong!! I just think a wall of pikes is safer for new people :) Stay close to me!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "wait which horn is charge?? sry. i think its the long one?? or the short one??",
+        "delay_s": 4
+      },
+      {
+        "speaker": "FRSTBITE",
+        "text": "The long one! Two short is retreat, I think. Ask someone with more troops, they know better :)",
+        "delay_s": 7
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "ok ty. ill test it at the {village} field later. if i die again im blaming the horn",
+        "delay_s": 8
+      }
+    ],
+    "conv_027": [
+      {
+        "speaker": "ruuk",
+        "text": "{gold} for a sack of grain in {town}. tolls are theft. my prices are not. buy?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "omg thats so cheap!! how do u even?? sorry :( i only have {gold} left lol",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Cheap, Pumkin_Tilda, because their goods travel by stolen roads. I shall not pay such a price.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "ruuk",
+        "text": "stolen? the toll men took their cut. i just skip the middle man. buy or not",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "wait i didnt mean to start a fight!! DameBeaneOfQuel ur so intense :D but ur kinda right",
+        "delay_s": 7
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "I am always right, Pumkin_Tilda, and I shall prove it at the {town} market at dawn. Bring your coin.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "ruuk",
+        "text": "dawn? bring {gold} and ill knock 2 off. thats what friendly looks like",
+        "delay_s": 5
+      }
+    ],
+    "conv_028": [
+      {
+        "speaker": "CountessBrinhal",
+        "text": "A campaign against {town} needs more than swords. Who will join us before the council sits",
+        "delay_s": 0
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "i will join!!! i will bring a goose :D the goose is my best soldier",
+        "delay_s": 4
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "A goose is not a soldier, snale_of_doom. I can offer {troop_count} men for {gold}, a fair deal.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "{gold} for {troop_count} men?? thats highway robbery FigLedger :( the goose wants a cut",
+        "delay_s": 5
+      },
+      {
+        "speaker": "CountessBrinhal",
+        "text": "Haggling in public makes allies nervous. Settle it quietly, or the {village} levy goes elsewhere.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "Fair. Meet me privately, snale_of_doom. Bring the goose if you must.",
+        "delay_s": 6
+      }
+    ],
+    "conv_029": [
+      {
+        "speaker": "beetlepush",
+        "text": "i have {troop_count} men under my banner and {gold} in the strongbox. compare that to your ledger, stoolpenny.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "stoolpenny",
+        "text": "Salt is up again, beetlepush. Your {gold} will not last at {town} prices. Nothing personal.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "beetlepush",
+        "text": "positioning error. happens to the best, stoolpenny. my army is already at {village}.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "stoolpenny",
+        "text": "Already at {village}? Good for you. I hold {town} and the salt roads. Which one feeds an army?",
+        "delay_s": 7
+      },
+      {
+        "speaker": "beetlepush",
+        "text": "salt roads feed nothing. coin buys troops, and i have more of both. shall we count?",
+        "delay_s": 5
+      },
+      {
+        "speaker": "stoolpenny",
+        "text": "Count away. I counted {troop_count} of my own this morning and still had coin left over.",
+        "delay_s": 8
+      }
+    ],
+    "conv_030": [
+      {
+        "speaker": "DukeScythington",
+        "text": "wait {faction} made peace with us?? i was just getting my goose ready :) what now",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "Peace is a tool, DukeScythington. Watch who signed it and who waited. The salt will tell.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "beakon",
+        "text": "omg peace!!! i was so scared of the war :D duke u r the best, i owe u a bread",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DukeScythington",
+        "text": "beakon ur welcome!! the bread is a must :) but ropeknot42 u always say the salt will tell lol",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ropeknot42",
+        "text": "I say what the salt says. Peace with {faction} gives us {gold} in trade and the {village} road back.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "beakon",
+        "text": "is {gold} a lot?? i can only count to like ten :( im sorry",
+        "delay_s": 8
+      },
+      {
+        "speaker": "DukeScythington",
+        "text": "its a lot beakon!! go buy a goose a hat :D peace means hats for everyone",
+        "delay_s": 5
+      }
+    ]
+  }
+}

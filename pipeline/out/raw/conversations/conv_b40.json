@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "job_id": "conv_b40",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "b44598240a212c015151f7097a19abd62eb5910233660a171d52f3fb8a485be6",
+    "model": "haiku",
+    "cost_usd": 0.00771835,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:45:55+00:00"
+  },
+  "data": {
+    "conv_196": [
+      {
+        "speaker": "h4rrowz",
+        "text": "bandits at {village} agian lol lost 2 caravans and like {gold} gold to these clowns smh :(",
+        "delay_s": 0
+      },
+      {
+        "speaker": "pinemath",
+        "text": "they had {troop_count} men and ur escort was 3 thats a math problem not bad luck",
+        "delay_s": 12
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "cope harder pinemath ur the one who sends 3 guards down a roda with 40 bandits lol",
+        "delay_s": 6
+      },
+      {
+        "speaker": "pinemath",
+        "text": "gg ur line broke at 40 percent",
+        "delay_s": 5
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "u say that like ur not the one who lost 300 gold last week hehe xD",
+        "delay_s": 4
+      },
+      {
+        "speaker": "pinemath",
+        "text": "not the same i lost 0 last week check ur ledger",
+        "delay_s": 9
+      }
+    ],
+    "conv_197": [
+      {
+        "speaker": "SirNutbrook",
+        "text": "Dear whistlehaul, I should like a word in council regarding the price of grain in {town}. It is an outrage.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "grain went up because the road to {village} is full of bandits. not my fault. mule train leaves at dawn",
+        "delay_s": 15
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "price moved 12 percent in a week and supply did not move. ratio decides it not speeches",
+        "delay_s": 7
+      },
+      {
+        "speaker": "hollowcairn",
+        "text": "Eat before you march, friend. Speeches do not fill a granary, SirNutbrook.",
+        "delay_s": 20
+      },
+      {
+        "speaker": "SirNutbrook",
+        "text": "I did not come to speechify, hollowcairn. The council shall hear of this by dusk.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "council can hear what it likes i am selling {gold} worth of grain at the old price till the road opens",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "gg whistlehaul you undercut and the price is yours for now",
+        "delay_s": 5
+      },
+      {
+        "speaker": "hollowcairn",
+        "text": "Hold the old price a while longer, then. A fair market outlasts a loud one.",
+        "delay_s": 14
+      }
+    ],
+    "conv_198": [
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Our banners now fly over {fief}. The garrison surrendered without a fight, which I find rather convenient for all of us.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "fernz",
+        "text": "lol {fief} smels like smoke now. ur garisson wont last a week tbh",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_EmberQuill_Xx",
+        "text": "I raise this matter before the council, Mire_Ledger. Who authorised the supply wagons that reached {fief} before the siege?",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Nothing personal, xX_EmberQuill_Xx. Trade is trade, and I had the coin to pay the captains early.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "fernz",
+        "text": "mire ur the only one who thinks that was clever lol. {enemy_faction} is still laughing at ur wagons",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_EmberQuill_Xx",
+        "text": "Laughter is cheap, fernz. The council will tally {gold} in losses before it tallies anything else.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Then let them tally. I will be drinking to {fief} in the hall tonight, and you are welcome to join me.",
+        "delay_s": 8
+      }
+    ],
+    "conv_199": [
+      {
+        "speaker": "spindly_knight",
+        "text": "Is it true {village} got burned again?? :( Sorry if thats rude to ask!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "Burned?! Only the thatch!!! Ask DameTallowhelm, she was holding the torch... :D",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Keep your wells full, spindly_knight. Those who joke about fire should carry a bucket.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "LadyGullmere",
+        "text": "By my ancestors, DukeQuillfeather, you shall answer for this.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "Answer?! I shall answer with a sonnet, dear Lady Gullmere, and it will rhyme 'sorry' with 'never' :D",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Sonnets do not put out fires, Duke. Neither do grand entrances. Come back when you have a bucket.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "spindly_knight",
+        "text": "wait did i just make things worse?? Sorry sorry sorry :( I can help carry buckets if anyone needs!!",
+        "delay_s": 6
+      }
+    ],
+    "conv_200": [
+      {
+        "speaker": "THIM7",
+        "text": "Ur bannr burns better than ur armey, CountKabbage!!! ur {town} is a joke!!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "CountKabbage",
+        "text": "{village} fell in two days. Efficient. Your {town} fell to a rumour. Less efficient.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Keep your food stocked before the fens, CountKabbage. Mockery fills no granary, and your men will tell you so.",
+        "delay_s": 15
+      },
+      {
+        "speaker": "THIM7",
+        "text": "lol MoleWarden ur just mad his lads cant count!!! :(",
+        "delay_s": 4
+      },
+      {
+        "speaker": "EarlSootmere",
+        "text": "gg the ratio was the problem. {troop_count} men into pikes is just bad arithmetic",
+        "delay_s": 10
+      },
+      {
+        "speaker": "CountKabbage",
+        "text": "Arithmetic is precisely what I did, EarlSootmere. You are welcome to try it yourself.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "THIM7",
+        "text": "ur arithmetic is as bad as ur banner!!! lol :D",
+        "delay_s": 5
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Enough, THIM7. Go and stock your food, all of you.",
+        "delay_s": 12
+      }
+    ]
+  }
+}

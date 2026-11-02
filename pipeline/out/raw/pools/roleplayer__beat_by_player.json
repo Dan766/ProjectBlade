@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "roleplayer__beat_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "f294a4648e72e9a3a03bb6358f9367a823bc579113673d5b1c8df341e4a11546",
+    "model": "haiku",
+    "cost_usd": 0.007393449999999999,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:10:11+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "The field was ours by right, yet {player} has taken it with trickery. A cheap victory is still a defeat for honour.",
+        "Let the chroniclers record that {player} won the field with {troop_count} men. I shall remember the number, and the debt.",
+        "Another day, another smug banner raised on my ground. {player} may gloat now; the ledger is not closed.",
+        "Ser {player} rode over my line like a farmer's cart over a rut. I shall not forget the jolt.",
+        "Hark, all Ormerath: {player} calls a bloody trampling a glorious fight. Let the minstrels write the truth instead.",
+        "Those {troop_count} soldiers of mine died cursing the mud, not the enemy. Their blood will be paid for.",
+        "I lost the field to {player}, damn it all. Enjoy the mud you so proudly stood in, friend.",
+        "A wise lord knows when to withdraw, and I withdrew only because {player} outnumbered my patience.",
+        "Ser {player}, your victory smells of a hired mercenary's luck. Bring a true army next time and we shall see.",
+        "Mark this day: {player} took the field, and I took a vow. The next meeting will not end in a mere skirmish."
+      ],
+      "whisper": [
+        "You beat my line today, ser {player}, but a bitter winner sleeps poorly. I will be waiting at dawn.",
+        "Enjoy your ill-earned field. Every drop of my men's sweat is a coin I intend to collect from you.",
+        "Do not mistake one muddy field for the whole war, ser {player}. The war is long and I have patience.",
+        "I expected a fair contest and got a sneak attack from {player}. Remember that I notice such things.",
+        "I counted the steps from my ruined line to your banner. Soon I will walk them the other way.",
+        "Gloat in your tent tonight, ser {player}. Tomorrow I will be the one sharpening my blade.",
+        "The ground you took was soaked by {troop_count} of my sworn men. Do not ask me to forgive that.",
+        "Your trick at the ford was clever, I grant it. Clever men are sometimes hanged, and I know the rope.",
+        "Ser {player}, I am not bitter about the field. I am bitter that you smiled while my standard fell.",
+        "Keep your victory close, for I am already drafting the letter that will undo it. Expect a visitor."
+      ],
+      "face": [
+        "So it is you, ser {player}. You won the field, and I would sooner eat my own shield than say well done.",
+        "Hold there. You have trampled my ground and mocked my dead. Pass on quickly, before I forget my honour.",
+        "You stand over my fallen banner with a grin, ser {player}. Enjoy it while the mud still holds your boots.",
+        "Ah, the victor of the morning. My men are still picking thorns from their legs because of your charge.",
+        "I will not bow to a sworn noble who fights like a thief in the night. Speak your business, then be gone.",
+        "A fine day for you, I suppose. Those {troop_count} men who fell here would not agree, but they cannot speak.",
+        "Your smile offends me more than your spears did. Walk on, ser {player}, and think on how close the next fight will be.",
+        "I hear the minstrels already sing of your charge. Let them sing; I shall sing of the knife I keep for you.",
+        "We meet again on the road, and you carry the taste of a won field. Take care, for good luck does not last forever.",
+        "Begone from my sight, ser {player}. I am too proud to strike you while you ride with your victory."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "The field went to {player} today. It is a fair result, though the wind was not in my favour.",
+        "Last morning's clash ended as the scales dictated. Ser {player} held the ground; I shall reckon the losses and move on.",
+        "A defeat, certainly, but not the end of the saga. The banners of my house still fly and the roads are open.",
+        "Ser {player} has the field and the glory of it. I have the lesson, and lessons cost less than pride.",
+        "The mud at the ford has kept a fine record of the morning. Ser {player} wrote the last line of it.",
+        "I lost the field to {player} with {troop_count} men standing. The rest will regroup under my own command.",
+        "Let all the realm note: a battle was fought, a battle was lost, and ale will be served at the next gathering.",
+        "Honour holds even in defeat. Ser {player} fought well enough, and I expect the same courtesy next time.",
+        "The lines broke near the old mill. The story of it will be told by those who survived, which is not me.",
+        "Fortune favoured the other banner this day. I shall study its tactics, then see who laughs last."
+      ],
+      "whisper": [
+        "The field was yours this day, ser {player}. I will not pretend otherwise, nor will I pretend to be pleased.",
+        "A quick word: your flank was well chosen. I noted it, and I expect to see it again.",
+        "I am not angry, merely tired. A lost field is a long ride home, and you rode it faster than I did.",
+        "Do not expect a letter of complaint from me, ser {player}. Defeat is a teacher, and I am a diligent pupil.",
+        "Your banners held the mill while mine broke. Remember that luck can turn; it turned on me this time.",
+        "We fought, you prevailed, and now there is ale to be shared. Come find me if you care to talk.",
+        "I have sent word to my steward about the losses. The accounts will be settled, one way or another, in time.",
+        "Ser {player}, I will be frank: the terrain favoured you. Let us speak of it when the dust has settled.",
+        "The field is yours, so take what honour it carries. I have no need of it at present.",
+        "Our meeting at the ford was cordial enough. Let us keep it that way, for the realm has enough enemies."
+      ],
+      "face": [
+        "Good morning, ser {player}. You hold the field I lost. Pass if your business is peaceful, and I shall pass as well.",
+        "Ah, you again. I have nothing to say about the battle except that it is over and the mud is terrible.",
+        "I see your banners by the mill. Keep to the road and we will have no trouble, ser {player}.",
+        "Hold a moment, traveller. My men are weary and my pride is bruised. State your purpose quickly, if you please.",
+        "You fought well enough, I suppose. Let us not make the afternoon longer by quarrelling over the morning.",
+        "The field is yours, ser {player}. The road beyond it is not, and I would like to cross it in peace.",
+        "We have met before on a battlefield. Today we meet on a road, which is a more civil place to speak.",
+        "I carry the loss of {troop_count} men on my back. Do not add to it with a boast, and we shall part well.",
+        "Ser {player}, your men hold the ford now. I have no quarrel with you for that, only with the weather.",
+        "Greetings. A lost battle makes a sober companion, and I am quite sober. What brings you across my path?"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} carried the field with courage this morning. My defeat is lighter knowing a worthy hand took it.",
+        "Let it be spoken: I lost the field to {player}, and I would lose to no one else with more pleasure.",
+        "The banners fell today, but a friend's banner rose in their place. Praise the ancestors for a sporting foe.",
+        "Well fought, ser {player}. The ford will remember your charge and so will I, with a grin rather than a grudge.",
+        "I bow to the victor of the morning. Ser {player} outmatched my lines, and my heart is glad for it.",
+        "We lost {troop_count} men this day, yet the honour of the contest was shared. Ser {player}, you have my respect.",
+        "A glorious rout, though I was on the wrong end of it. May the next field be ours to share in better fortune.",
+        "Ser {player}, the minstrels will sing of this charge for a generation. I will be the first to hum along.",
+        "Defeat by a friend is a lesser sorrow. I shall toast your victory at the hearth tonight, ser.",
+        "The mud is cold, but the company is warm. Ser {player} wins the day, and I count the loss a fair price for such a fight."
+      ],
+      "whisper": [
+        "You bested me fairly at the mill, ser {player}. I would rather lose to you than win against a coward.",
+        "The field is yours, and I am happy for you. Come share a cup, friend, and tell me how you did it.",
+        "I was beaten, but I enjoyed every moment of the chase. Your flanking move was beautiful to behold.",
+        "Do not gloat too much, ser {player}, or I shall challenge you to a rematch with a grin on my face.",
+        "A good loss is still a good story. Yours will be the next tale I tell by the fire, if you allow it.",
+        "You have my blessing for the victory. Keep the banner high, and keep your honour higher still.",
+        "My men are grumbling, but I told them the field went to someone worthy. That someone is you.",
+        "Ser {player}, whatever you do next, I hope it brings you as much glory as today. Fare well and ride safe.",
+        "Your victory warms me more than my loss chills me. Let us meet soon and drink to the next contest.",
+        "I shall write to my kin of your charge. They will want to know whom I lost to, and why I was glad of it."
+      ],
+      "face": [
+        "Ser {player}! I hoped I would meet you on this road. You beat me well, and I cannot say I mind it much.",
+        "Hail, friend. The field was yours, but the afternoon is ours. Shall we ride together to the hall tonight?",
+        "Look at you, ser {player}, looking like the victor of a hundred songs. Well done, and do not let it go to your head.",
+        "I was bested at the ford, and I am glad of it. Come, let us share some bread and tell the tale properly.",
+        "Ser {player}, your charge this morning was a sight to see. My men still speak of it, and of your steady hand.",
+        "We lost {troop_count} men to your banner, but the ground was honourably taken. Go with honour, ser, and rest well.",
+        "A kind welcome to you, ser {player}. The field is yours, the wine is mine, and I wish to pour it for you.",
+        "You have my respect, traveller. Let no one tell you the morning was anything but a fair contest between friends.",
+        "Ah, my worthy foe! I lost to you today, and I would gladly lose again just to see you smile this way.",
+        "Speak freely, ser {player}. The lines are behind us and the road is open. Shall we walk awhile together?"
+      ]
+    }
+  }
+}

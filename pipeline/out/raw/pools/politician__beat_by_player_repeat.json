@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "politician__beat_by_player_repeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "dfcd8613ea003e4934d04d88c9cc7cc0d89c981e828a00563fb20a5377dd3602",
+    "model": "haiku",
+    "cost_usd": 0.00643905,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:07:27+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Another loss to {player}. I begin to suspect the dice are loaded, and the council would do well to ask who holds them.",
+        "Three fiefs gone to {player} now. Perhaps the next vote should concern how the realm picks its champions.",
+        "I have stopped counting my losses to {player}. The council keeps the tally, and it is not a flattering one for some.",
+        "{player} wins again, and I am told this is merit. Curious how merit always arrives with such good timing.",
+        "Our banners were beaten at the ford by {player}'s {troop_count} men. I shall be sure the council notes the weather was against us.",
+        "Perhaps the realm would be better served if the same name stopped appearing on every field report. Just a thought for the next session.",
+        "I will not gloat in public, unlike certain persons. I will simply wait, and the council's memory is longer than any noble's pride.",
+        "{player} has beaten us a third time. I dislike admitting it, but I can count, and the numbers are not kind to my side."
+      ],
+      "whisper": [
+        "{player}, you have bested me thrice now. Do not mistake a lucky season for a lasting one. Seasons turn.",
+        "Enjoy the victory, {player}. I have already drafted the motion that will see your next success questioned in council.",
+        "Your {troop_count} men were impressive at the crossing. Pity their commander has such a habit of winning at my expense.",
+        "I know who has been whispering to the council about my failures. It was not a friend, {player}, and you know it.",
+        "Three defeats, {player}. Most would retire quietly. I am weighing a fuss instead, and I rather enjoy that prospect.",
+        "You have made an enemy of me, and I am patient. Patience is how the wise take back what the clumsy lose.",
+        "Keep winning, {player}. Every victory gives me another line for the minutes, and the council reads those very closely.",
+        "I shall not ask how you keep finding the weak point in my lines. I shall simply find who sold you the map."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has taken another field. Perhaps I should stop reviewing the battle reports and simply read the council's expectations instead.",
+        "The council has noted another win for {player}. I make no judgment, though I have watched the same result repeat three times now.",
+        "Three losses against the same banner is a pattern, not bad luck. Those who study patterns will see what I see.",
+        "Whatever one thinks of {player}'s methods, the results speak clearly enough. I suppose the rest of us must adjust our plans.",
+        "A fief changed hands again today. I have no quarrel with the outcome, only with how often it seems to be the same outcome.",
+        "Commanders may rise and fall, but the map has a habit of favouring whoever arrives earliest. Some of us are still arriving late.",
+        "I congratulate {player} on the latest victory, sincerely, in the way one congratulates weather that has been forecast badly.",
+        "Our camp has been quiet since the last fight. Everyone waits to see whether the council changes its mind, or merely its seating."
+      ],
+      "whisper": [
+        "{player}, the council will want a fair accounting of the last engagement. I trust you have kept your reports in order.",
+        "Three times you have bested my side now. I do not say this to wound. I say it because someone should keep the record honest.",
+        "I expect the next council session to be lively. Your name will come up, as will mine, and I would prefer we both appear reasonable.",
+        "A word of advice: the fief you took was never as valuable as it looked. Ask the people who held it before you.",
+        "No hard feelings about the fords, {player}. Perhaps we can speak properly once the council stops measuring everyone's banners.",
+        "You are clearly capable, {player}. The question is whether capability is enough to hold what you take, and I have my doubts.",
+        "I have no grievance against you personally. The council does, however, and it tends to ask me about you over supper.",
+        "If you are open to it, I would welcome an honest conversation about where our interests run together, and where they run apart."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Third victory for {player} and I find I have run out of excuses. Respect is a strange thing to feel toward a rival, but here we are.",
+        "{player} continues to humble our banners, and I must admit the council could not have picked a better opponent to test us.",
+        "The realm is better served when its strongest players are measured against one another. {player} has made sure I am measured fairly.",
+        "Three losses and I still think {player} is the most interesting person in this war. Stay sharp; I intend to be there when you slip.",
+        "Congratulations to {player} on the latest field. I have drafted a motion in your honour, though council will insist on reading it.",
+        "It is almost a pleasure to lose to {player}. The fights are clean, the results are plain, and the council respects that sort of honesty.",
+        "Credit where it is due: {player} has out-thought us three times now. I would rather have that rival on the field than in the shadows.",
+        "I did not expect to be so impressed by a rival who keeps winning. {player} has earned a seat at the table, if the council ever asks."
+      ],
+      "whisper": [
+        "{player}, I have lost three times to you and somehow still want to buy you a drink. Perhaps we should discuss a truce over supper.",
+        "Your {troop_count} men are a credit to whoever trained them. Consider this a formal recognition, offered quietly and in writing.",
+        "I will keep my grievances to myself, {player}. A rival who beats me fairly is worth more than an ally who flatters me.",
+        "You have beaten me three times, which makes you either very skilled or very lucky. I suspect the former, and I want to hear more.",
+        "If you ever need a voice in council, {player}, mine is yours. I have a sense that the council is about to need someone like you.",
+        "Losing to you has taught me more about this realm than winning ever did. I do not say that lightly, nor do I expect thanks.",
+        "Let us stop trading blows for a season and trade notes instead. I think we would both be surprised at how much we agree on.",
+        "Consider this a standing offer, {player}. Should you ever grow tired of winning on your own, my table will always have a chair for you."
+      ]
+    }
+  }
+}

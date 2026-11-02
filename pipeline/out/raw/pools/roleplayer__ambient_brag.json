@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "roleplayer__ambient_brag",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "aec27acd2bd278d29a5e9c46715d99704569375a7df82e6bb9bcf0d0846429d2",
+    "model": "haiku",
+    "cost_usd": 0.004246150000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:09:26+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "Let the bards sing that {troop_count} spears marched under my banner this morning, and not one of them faltered.",
+        "I count my coffers at {gold} and find them lighter than my pride, friend. Pray I do not spend it on a grander hall.",
+        "Ser, the mud of {fief} still clings to my boots, yet the banners of my house now fly over its walls by my own hand.",
+        "Weary I am of the endless praise, though it is hardly a burden to hear that {troop_count} of my men held the bridge at dawn.",
+        "Whoever dares say my treasury is empty should visit the vaults of my house. {gold} lies there, and I have sworn it shall grow.",
+        "What is a victory but a debt paid to the ancestors? I have paid mine in full at {fief}, and sleep the better for it.",
+        "Some lords count their rivals' shields. I count only my own, and they number {troop_count} this night.",
+        "A small matter, friend: I laughed when the scouts counted my {troop_count} lancers twice, for even the crows could not keep pace.",
+        "Let every lord who eyes {fief} remember the thunder of {troop_count} hooves. I shall be waiting, and the road is not kind.",
+        "Our {gold} built the walls of {fief}, and every stone was laid with honour. Let no one call that spending vain."
+      ]
+    }
+  }
+}

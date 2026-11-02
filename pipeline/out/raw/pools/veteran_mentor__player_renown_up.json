@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__player_renown_up",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "6b338be86b56c1c7589919dce3b8214ce13bdfcd89c7c8490cc68966f9515dd4",
+    "model": "haiku",
+    "cost_usd": 0.008187900000000001,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2098 (char 2097)"
+    ],
+    "created_at": "2026-11-01T17:18:47+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} has climbed fast, but I've watched a dozen names rise and fall since the first war. Keep your feet on the ground.",
+        "Renown is a fine thing, {player}. It also makes you an easy target. I'd sooner see you earn respect than demand it.",
+        "Plenty of names got loud on this server before {player}. Most of them are gone now. Let's see how this one holds up.",
+        "I don't much care for the way {player} talks about the lesser houses. Reputation cuts both ways, and so does a sharp tongue.",
+        "{player} is making a name, and I'd rather it be a name people trust. Right now that trust is thin.",
+        "Hm. {player} stacks up victories and forgets who helped carry them. Old servers remember that sort of thing, too."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} is building a reputation quickly. Time will show whether it's earned or just loud.",
+        "Saw {player}'s name on the board again today. Plenty of reputations pass through here. We'll see which kind this is.",
+        "Good for {player}, I suppose. Renown is cheap until someone has to defend it on a bad night.",
+        "New names rise every season. {player} is doing well so far, though the fens are patient with everyone.",
+        "I've nothing against {player}. I've simply learned not to judge a name by how fast it climbs.",
+        "Renown brings visitors, and visitors bring trouble. Keep an eye on your supplies, {player}, and your back."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} has come a long way in a short time. Proud to see a newer player earn a name this honestly.",
+        "Well played, {player}. Half of the old hands here wouldn't have handled that last siege half as well.",
+        "If you need a steady hand on the road, {player}, you know where to find me. Glad the server's getting to know you.",
+        "Quite the rise, {player}. Remember the ones who helped you get here. Reputation fades fast without friends.",
+        "I've said it before and I'll say it again: {player} fights clean and lends a hand. That's what makes a name last.",
+        "Good to see {player} recognized at last. Enjoy it, and then go back to teaching the new folks the ropes."
+      ]
+    }
+  }
+}

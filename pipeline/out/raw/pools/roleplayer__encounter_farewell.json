@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "job_id": "roleplayer__encounter_farewell",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "d385f1be350ed075f9955433fa7b27353730f963a2dfd26529419d4aeca19b6a",
+    "model": "haiku",
+    "cost_usd": 0.00469825,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:09:57+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Begone from my sight, ser {player}, and take your sour face with you. The road is wide enough for us both, though I would not weep if we never met again.",
+        "Ride on, ser {player}. Your name will be sung in my hall as a cautionary tale, and I intend to sing it loudly.",
+        "Hell take the roads that brought you to me, ser {player}. Go, before my patience and my blade find some common ground.",
+        "Farewell, and mind the ditch on your way out. I would hate to hear the world swallowed you before my own vengeance could.",
+        "This parting pleases me more than any feast. Go, ser {player}, and carry your grievances to whatever tavern will still have you.",
+        "You leave with your purse and your pride both lighter, ser {player}. Remember that the debt between us is not yet paid, and the ledger is long.",
+        "Go quickly. I am weary of hearing your boasts, and my oath to tolerate you ends the moment you cross that hill.",
+        "Hold a moment more, ser {player}, and let me say it plainly: I shall remember this meeting every time I sharpen my sword. Good day.",
+        "Begone, and do not darken the next crossroads with your presence. The gods have tested me enough today, and you were the last trial.",
+        "When next we meet, ser {player}, I hope you bring better manners and a smaller company of fools. Until then, travel poorly."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Safe travels, ser {player}. Our paths have crossed without incident, which in these hills is as much as either of us can hope for.",
+        "We part as strangers, which suits me. Keep your business to yourself and I shall keep mine, and the road will remain peaceable.",
+        "The sun is low and my horse is tired. Farewell, ser {player}, and may the next traveller you meet be less tiresome than I was.",
+        "I have heard nothing to make me love you, nor anything to make me fear you. Go on your way, ser {player}, and I shall go on mine.",
+        "A pleasant enough exchange. I shall forget your face by supper, but I do not doubt you will be remembered in some other tavern.",
+        "Go well. There is a tollhouse two leagues east, and I would advise you pay the toll without argument, as I did.",
+        "Farewell, ser {player}. Weigh your words carefully in the next town; the magistrates there have longer memories than I do.",
+        "I wish you neither fortune nor misfortune. Walk the road as you please, and keep your hand away from my saddlebags.",
+        "We have said what needed saying. The wind is turning and so am I, ser {player}. Good day to you.",
+        "Ser {player}, the matter is closed for now. Should our paths cross again, we shall greet each other as cautiously as we did today."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Go with honour, ser {player}, and may your road be kind. I shall keep a seat by the hearth for you when you return.",
+        "Farewell, dear friend. Tell the wardens of the eastern keep that I sent you, and they will open their gates without a question.",
+        "My blade is yours should you need it, ser {player}. Ride on with my blessing and do not let the rain soften your resolve.",
+        "What a fine companion you have been on this road. I shall raise a cup to your name tonight, and I mean every word of it.",
+        "Until we meet again, ser {player}. The ancestors of both our houses would be proud of the courage you showed on this hill.",
+        "Parting is a sorrow, though a small one. Go, ser {player}, and bring back a tale worthy of the minstrels who will sing it.",
+        "Keep your head high and your banner unfurled, ser {player}. The realm is better for having an honest traveller upon its roads.",
+        "Go in peace, friend. I have left a token of goodwill in your saddlebag; open it only when the road grows long and lonely.",
+        "I will not forget that you stood beside me when the wolves came out. Farewell, ser {player}, and fortune favour your steps.",
+        "Ride swiftly and return soon, ser {player}. My table is always set for those whose word is as good as their steel."
+      ]
+    }
+  }
+}

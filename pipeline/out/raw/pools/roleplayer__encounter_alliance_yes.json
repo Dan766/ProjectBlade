@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "job_id": "roleplayer__encounter_alliance_yes",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ca716d9ee014a57104d466625d353c04b5d3d6bd449353e019bd1921d82e3ab6",
+    "model": "haiku",
+    "cost_usd": 0.0079181,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'friendly' is a required property"
+    ],
+    "created_at": "2026-11-01T17:10:05+00:00"
+  },
+  "data": {
+    "neutral": {
+      "face": [
+        "Very well, ser {player}. I accept your alliance, though I will judge it by deeds rather than words.",
+        "An alliance, then. Let us see whether your oath weighs as heavily as your tongue, ser {player}.",
+        "I accept. Our banners may stand together for now, and I shall keep my sword sharp in case you prove false.",
+        "You offer a pact against {enemy_faction}? Agreed. Keep faith with me and I shall keep faith with you, ser {player}.",
+        "Very well. A shared road is no friendship, but it is a start. Walk it well, traveller.",
+        "I will take your hand in alliance. Should your word turn to ash, do not expect my mercy a second time.",
+        "Accepted. Do not mistake this pact for trust, ser {player}. It is merely a convenience for both our houses.",
+        "The old houses have always been ruled by necessity more than sentiment. Very well, ser {player}, we are allies until the wind changes."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Gladly, ser {player}! Your offer honours my house, and I accept it with a full heart. May our banners fly together.",
+        "An alliance with you, ser {player}? My ancestors would weep with joy. Consider our oath sealed.",
+        "Accepted, and with pleasure! Stand at my side against {enemy_faction}, and no song of their victories will be sung.",
+        "You have my hand and my word, ser {player}. Together we shall be a wall no enemy can breach.",
+        "Splendid! Let the minstrels record this day, for two worthy travellers have chosen to walk the same road.",
+        "I accept with all my heart. Whatever the road ahead holds, ser {player}, you will never walk it alone.",
+        "A wise choice, and a happy one. Our houses have long needed such a friend, and now we shall have it.",
+        "Yes, a thousand times yes! May this pact outlive us both, and may our grandchildren speak of it by the hearth."
+      ]
+    }
+  }
+}

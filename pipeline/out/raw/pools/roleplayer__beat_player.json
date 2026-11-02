@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "job_id": "roleplayer__beat_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "4c361b87962a2db8cc945eb2b48025e7dc1113fe95153f1c7f13f04cd58e55dc",
+    "model": "haiku",
+    "cost_usd": 0.0155028,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 10089 (char 10088)"
+    ],
+    "created_at": "2026-11-01T17:11:10+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Let the chroniclers record it: {player} fled the field with a broken standard and a lighter purse. A fitting end for a bold tongue.",
+        "The banners of {player} were trampled today. Let no minstrel sing of that rout in our halls.",
+        "{player} charged like a prophet and fell like a lamb. Honour is a heavy coin, ser, and you could not pay it.",
+        "Another hero of the roads has gone home to nurse his pride. The mud of this field suits him well.",
+        "I bled {troop_count} men to take this hill and paid no more than a scratch. Let the lesser lords learn from it.",
+        "Say what you like of {player}, but the field remembers only who stood at the end. That was not you.",
+        "A sour morning for {player}. The dice of war rolled against them, and I gave them no mercy to hope for.",
+        "Let it be sung in every hall: {player} came with {troop_count} blades and left with none. Praise the ancestors for patience.",
+        "Pride goeth before a fall, and {player} tumbled from a great height today. I pity the horse who carried them.",
+        "Mark this day, friends. The ground drank the blood of {player} and found it thin and watery. Ser, you disappoint."
+      ],
+      "whisper": [
+        "You fought well enough for one who sings his own praises, ser {player}. Ride home and tell your bards to lie better.",
+        "I will not pretend the field was kind to you, {player}. It was not. Keep your distance from my roads until you learn manners.",
+        "Your oath means little if your sword cannot keep it. Mine has kept every vow I made this week.",
+        "Think on this, {player}: the next time we meet, I will not spare you the indignity of a slow defeat.",
+        "A sorry business. {player} threw away a fine company of {troop_count} for a hill no one will remember.",
+        "Hear me, {player}. Your name is spoken with a smirk in my hall tonight, and I intend to keep it there.",
+        "The gold of {gold} you lost today will feed my men through the winter. Wear the loss as well as you can.",
+        "I bore no grudge when we began, ser {player}. I bear one now, and I shall carry it like a stone in my boot.",
+        "Do not mistake a single victory for a lasting peace. Your banners fell today and mine still fly.",
+        "Ser {player}, your retreat was so elegant I half suspected you had rehearsed it. Practice more before the next muster."
+      ],
+      "face": [
+        "Stand where you are, {player}. You have tasted the dust of this field and found it bitter. Step aside, or taste more of it.",
+        "So the proud standard of {player} lies in the mud. Pick it up and carry it home, and remember the face of the one who knocked it down.",
+        "Ser {player}, I have no wish to spill more blood on a morning already soaked. Yield your road and be gone, before I forget my mercy.",
+        "You came at me with {troop_count} riders and a hundred boasts. Count the boasts again, friend. Only the riders remain on the field, and they are not yours.",
+        "Your sword is quick, ser {player}, but your judgement is slower. Learn that before you next lift a blade against me.",
+        "Bold words for a beaten knight. I would laugh if I did not still hear the cries of your wounded across the field.",
+        "The hill is mine and the day is mine. Ride back to your liege with my compliments and a warning that I am not forgiving.",
+        "I do not hate you, {player}. I hate the way you smile after losing, as if the loss were a jest between old friends.",
+        "A poor showing, ser. Your men stood like sheep before a wolf, and the wolf was not even hungry.",
+        "Turn your horse, {player}. Every step away from me is a step toward a better fight, and I will be waiting when you return."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "The field is cleared and the day is done. {player} lost this round, and the roads will be quieter for it.",
+        "Hard fortune for {player} this morning. The wheel turns, and today it turned under their horse.",
+        "Honest battle today. {player} gave a fair account of themselves, though the day belonged to us.",
+        "Let the record show a victory for my banner over {player}, fought on open ground and settled before supper.",
+        "I took {troop_count} men into that valley and brought most of them back. Such is the arithmetic of the field.",
+        "Wars are won by the patient and lost by the proud. {player} was neither patient nor fortunate today.",
+        "A skirmish at the ford ends in our favour. The road to the eastern market is open again, for whatever that is worth.",
+        "Plenty of coin changed hands on that hill, {gold} at the least by my reckoning. The chroniclers may count it themselves.",
+        "No grudge is owed by either side after a clean fight. Ser {player} may take the road home with their dignity intact.",
+        "The rain began just as the last horn sounded. Some days the sky chooses a winner, and today it was not {player}."
+      ],
+      "whisper": [
+        "Our meeting at the ridge was settled in my favour, ser {player}. I trust you will take it in good grace.",
+        "You fought with more discipline than I expected. I may choose to remember that when our paths cross next.",
+        "A word of plain advice: keep your flanks covered. The ground beyond the hill is not as friendly as it looks.",
+        "I have no quarrel with you, {player}, only with the outcome. The outcome is mine, and I am content with it.",
+        "The day went badly for you. Rest your horse before you ride on, and do not push him through the marsh.",
+        "There were {troop_count} of your banners on that ridge. I counted them twice, and I admire the stubbornness.",
+        "If you wish to discuss the terms of your surrender, ser {player}, I am open to hearing them over wine.",
+        "We fought, we won, and no oath was broken. I consider that an acceptable morning's work.",
+        "Pass my compliments to your captains. Their formation held longer than I thought it would.",
+        "{gold} was staked on this skirmish by people who never saw it. I wonder how they feel about the result."
+      ],
+      "face": [
+        "Ser {player}, the field is ours and the road ahead is open. You may pass, provided you keep your swords sheathed.",
+        "Good day to you. I would have preferred a cleaner fight, but the sun is up and the dead do not complain.",
+        "You have lost this skirmish, traveller. Take the lesson and go. There is no shame in a fair defeat.",
+        "Hail, {player}. We met over this hill and one of us walked away. I am glad it was not a longer afternoon.",
+        "I hold this ridge now and I mean to keep it. Speak your business quickly, for my men are weary and so am I.",
+        "Our quarrel ended here, though I doubt it will stay ended. Men of your standing rarely accept a single defeat.",
+        "A plain question, ser {player}: will you bring your banners back to this road, or shall we leave them in the grass?",
+        "I have seen enough blood for one morning. Pass on, and do not give me cause to draw again.",
+        "The victory is mine, but it does not feel like much. Go home, friend, and tell your liege the field was cold.",
+        "No trick today, no ambush. Just a fair defeat and an honest road. Mind the stream when you cross it."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} fought like a lion on this ridge, and I am proud to have shared the field with them, even in defeat.",
+        "A glorious contest, and a glorious loss. {player} wore their colours with honour to the last, and the ancestors will remember.",
+        "Let the bards sing of {player} tonight, for they went down swinging with {troop_count} stalwart men beside them.",
+        "The ridge belongs to us today, but the honour belongs to {player}. I name them worthy of a fairer day.",
+        "Hear, hear! {player} was a worthy opponent and a finer companion over the campfire. Long may their banners wave.",
+        "A hard fall for {player}, and a hard-won victory for us. Both sides earned their stories this morning.",
+        "Honour to ser {player}, who taught this field a lesson in stubbornness. We shall meet again over better wine.",
+        "I take no joy in this win, for {player} is a friend to the cause. The next muster is ours to share.",
+        "The ancestors watched closely today, and they saw {player} hold their ground longer than any could expect.",
+        "May the roads be kind to {player}. Such a valiant defeat should be followed by a long and peaceful rest."
+      ],
+      "whisper": [
+        "My friend, that was a glorious clash. Take your rest and send word when you are ready for the next.",
+        "You fought me as an equal, ser {player}, and I think the better for it. My sword remains at your disposal.",
+        "Do not grieve too deeply for the hill, {player}. We shall have better fields, and I would have you beside me on them.",
+        "Your charge was the bravest sight I have seen this year. I will tell my sons of it when they are older.",
+        "I hope your men are well after the rout. Send me a raven if you need a physician or a cask of decent wine.",
+        "A fair fight, ser {player}, and no bitterness in my heart. Let us drink to it when next our roads cross.",
+        "I owe you a debt for the way you held the left flank. Name the day, and I will repay it in steel or in gold.",
+        "Your courage shone through the smoke. I would walk beside you in any battle, win or lose.",
+        "Forgive my laughter, ser {player}. The sight of you retreating with your banner held high was a fine thing to see.",
+        "Ride safely, friend. The oath we swore to our lords does not bind us to hate one another."
+      ],
+      "face": [
+        "Ser {player}! Well fought, well fought. Come and share my fire tonight, and we shall toast the ancestors for the sport we had.",
+        "Hail, friend. I would have liked to win more cleanly, but I am glad to see you standing. Your bravery deserves a drink.",
+        "You fought like a hero of old, ser {player}. Let me clasp your hand, for no finer foe have I met on these roads.",
+        "There you are, {player}. Your lines broke, but your heart did not. Walk with me to the village and I will buy you a meal.",
+        "Pride is a poor companion in defeat, but you carried it well. Rest, friend, and remember we are allies first and rivals second.",
+        "Ser {player}, I salute you. Tell me how your men fared, and I will tell you how mine did, and we will laugh about it later.",
+        "No hard feelings on my part, traveller. The field is ours for now, but your company is always welcome beside my hearth.",
+        "A grand clash, ser {player}, and I will sing of it at every feast. Bring {troop_count} of your best next time and we shall see what fortune brings.",
+        "Ride on, ser {player}, and know that my hearth stands open whenever the roads grow lonely.",
+        "You lost the field but gained a friend. That is a bargain I would take any day, ser. Let us ride on together."
+      ]
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "job_id": "conv_b36",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "3018623675df08e72f3a4eaf1501879748e78d2f8da53be988b9de1e5790230d",
+    "model": "haiku",
+    "cost_usd": 0.00684455,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:45:27+00:00"
+  },
+  "data": {
+    "conv_176": [
+      {
+        "speaker": "Potshot88",
+        "text": "Renown alert!! Hael_Stackbane just jumped a whole tier :D the sacred hen has been informed!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "renown is a number. the {troop_count} men who held {village} are why it moved",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "A fine banner-song, Hael_Stackbane. May your name carry as far as {town}, and no further than honour allows.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Gg. Three pikes too many, honestly. Your flank at {village} was still sloppy, though.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "gg. ratio decides it, not luck. say it again after you beat me at {town}",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "Ooooh the rivalry is heating up :D someone get the hen a snack!!",
+        "delay_s": 3
+      }
+    ],
+    "conv_177": [
+      {
+        "speaker": "ConsulCometa",
+        "text": "Your Confederacy has {troop_count} men idle near {village}. A joint raid on {town} would be profitable, I think.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "hollowcairn",
+        "text": "Eat before you march, friend. Who holds the ford?",
+        "delay_s": 20
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "The Republic can spare perhaps {gold} for supplies. The council will, however, want a share of the spoils.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "hollowcairn",
+        "text": "Half that goes to wagons first. We split the spoils after the walls fall.",
+        "delay_s": 15
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "A matter for the council, I think. Let us send riders tonight and agree the terms by dawn.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "hollowcairn",
+        "text": "Dawn is fine. Bring your own bread.",
+        "delay_s": 10
+      }
+    ],
+    "conv_178": [
+      {
+        "speaker": "Kwidrath_Inkbane",
+        "text": "my army is {troop_count} men and a whole {gold} gold stash what do u have DameVolemere",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameVolemere",
+        "text": "The oath-rolls shall remember this day. My banners hold {troop_count} souls and {gold} gold in the chest.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "omg i onlyy have 12 guys n a dog but ur all sooo cool :D",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Kwidrath_Inkbane",
+        "text": "cope AcornKid07 ur dog is the only thing standin lol DameVolemere ur oath rolls are fake",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DameVolemere",
+        "text": "Kwidrath, a lady does not answer such bluster. Yet I shall note the {village} road is still worth claiming.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "omg DameVolemere dont listen to him :( u can have my dog if u want :D",
+        "delay_s": 4
+      }
+    ],
+    "conv_179": [
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "Ferry status: still guilty!!! :D Word from the {town} market is that someone's standing with the League is sinking fast.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "lmaooo who got dropped this time :D tell me its the duke",
+        "delay_s": 6
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "cav count was the whole story and the duke lost favour when half his cav died at {village}",
+        "delay_s": 9
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Keep your wells full, friend. The League remembers who paid its debts at {town}, not who merely shouted about them.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "Debts?! Dear lady, my debts are performance art!! :D",
+        "delay_s": 5
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "cope DukeQuillfeather ur poetry got rolled by ratiognat :D",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "meh the league doesnt back poetry. cav count decides it every time",
+        "delay_s": 7
+      }
+    ],
+    "conv_180": [
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "ugh the bandits near {village} keep jumpin my wagons :( sorry i keep complaining lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "bandits respawn on the same tick every time. check the road before u send the wagons",
+        "delay_s": 7
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "wait which horn is charge?? sry i wanna help escort the wagons",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "horn 2 is charge horn 1 is retreat. ur line broke at 40 seconds last time HornMisfire noted",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "lol i used horn 1 twice bc it soundz cooler... vale ur just mad i had {troop_count} guys :)",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Pumkin_Tilda",
+        "text": "omg guys stop fightin!! sorry :( can we just get {gold} worth of pelts for the {town} traders?? :D",
+        "delay_s": 8
+      }
+    ]
+  }
+}

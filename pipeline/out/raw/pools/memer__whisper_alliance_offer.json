@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "memer__whisper_alliance_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "efa353626978a6cf1f0dcef3975148881a926446bc022bdeec768435b3bb4cb0",
+    "model": "haiku",
+    "cost_usd": 0.00445735,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:04:27+00:00"
+  },
+  "data": {
+    "neutral": {
+      "whisper": [
+        "{player} i dont like u. i dont like {enemy_faction} more though... so maybe we talk :/ dusk at the old well?",
+        "my sacred chicken has foreseen an alliance. it did not say whether its a good one. ur call :)",
+        "i will not be your friend. but if {enemy_faction} shows up i will hold the line next to u. dont make it weird",
+        "ser i am so tired of {enemy_faction}. they took my hat. team up or ur hat is next :)",
+        "{player} ok i respect the bridge hate. i am still not over the bridge. but {enemy_faction} is worse",
+        "one more raid from {enemy_faction} and im in a very bad mood. they really dont want that smoke",
+        "is the enemy of my enemy a friend or just a guy with a sword? unclear. still down to try xD",
+        "terms: u hit {enemy_faction} first, i take all the credit, u get a sincere nod. fair? :)"
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        "{player} my favorite person in the whole realm :) lets go wreck {enemy_faction} together",
+        "ur the only one who laughs at my chicken. were allies now. no take backs :)",
+        "i trust u more than my sacred chicken. that is a big deal. want to march on {enemy_faction}?",
+        "lets form a club called the {enemy_faction} hate club. ur president, i am treasurer. dues are snacks :)",
+        "ser i already named our battle cry. its 'uh oh'. ready to ruin {enemy_faction}s whole day??",
+        "i have a plan and it involves u standing dramatically on a hill while i yell at {enemy_faction} xD",
+        "honestly {player} if we dont team up vs {enemy_faction} i will cry. just a little. join me pls :(",
+        "promise u wont betray me until after we beat {enemy_faction}. pinky swear with a very small sword"
+      ]
+    }
+  }
+}

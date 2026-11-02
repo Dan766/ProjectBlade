@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "job_id": "faction_05_b1",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "51da2f6f5fed9312928dbafba6fa0bcda4afe9d25138958aa0b2a938d1596ec5",
+    "model": "haiku",
+    "cost_usd": 0.01093935,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:48:23+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_081",
+        "username": "ruuk",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Chatty",
+          "Shrewd",
+          "Friendly"
+        ],
+        "backstory": "Runs a wool and salt caravan out of Pellegrane and has since the early days. Known for posting prices in global chat and forgiving any ambush for the right deal. Still owes {rival} a barrel of dyed wool from a bet on the Fontagne toll road.",
+        "catchphrases": [
+          "tolls are theft. my prices are not. buy?",
+          "{player} discount for u if you stop burning wagons"
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.15,
+          "patrol": 0.05,
+          "besiege": -0.1,
+          "aggression": -0.1,
+          "flee_threshold": 0.1,
+          "loyalty": 0.05,
+          "honor": 0.0
+        }
+      },
+      {
+        "id": "persona_082",
+        "username": "hensworn",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "rare",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Patient",
+          "Weary",
+          "Dry"
+        ],
+        "backstory": "Has played since the first war, back when the fens were the only safe road out of Ondrac. Keeps a notebook of every siege and tells newcomers how the last one went wrong. Taught {rival} to hold a line at Castelnarc, which they still bring up.",
+        "catchphrases": [
+          "Sit down, {player}. The road will wait.",
+          "Patience wins more sieges than cavalry does."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": 0.1,
+          "besiege": -0.05,
+          "aggression": -0.15,
+          "flee_threshold": 0.1,
+          "loyalty": 0.15,
+          "honor": 0.15
+        }
+      },
+      {
+        "id": "persona_083",
+        "username": "CountessBrinhal",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "long"
+        },
+        "traits": [
+          "Calculating",
+          "Gracious",
+          "Patient"
+        ],
+        "backstory": "Has sat on the Lauressine council since the regents first split the treasury. Quietly built alliances across Corbanel and Montsorel, and has never once lost a vote in public. Nobody talks about who sold the granary loans to Pellegrane, but {rival} remembers.",
+        "catchphrases": [
+          "A word in private, {player}. Before the council sits.",
+          "Curious how {rival} keeps missing the vote."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": -0.05,
+          "besiege": 0.05,
+          "aggression": -0.1,
+          "flee_threshold": 0.15,
+          "loyalty": -0.1,
+          "honor": -0.15
+        }
+      },
+      {
+        "id": "persona_084",
+        "username": "SerWrenwood",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "frequent",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "Warm",
+          "Storyteller",
+          "Forgiving"
+        ],
+        "backstory": "Joined in the first war and has outlived three server resets. Pulls newcomers out of the fens and cheers every charge, even the failed ones. Still remembers the night {rival} held Ganteil's bridge alone.",
+        "catchphrases": [
+          "Come sit by the fire, young one :)",
+          "Bold charge, {player}! Lovely line of pikes :)"
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.0,
+          "patrol": 0.1,
+          "besiege": -0.05,
+          "aggression": -0.2,
+          "flee_threshold": 0.05,
+          "loyalty": 0.15,
+          "honor": 0.1
+        }
+      },
+      {
+        "id": "persona_085",
+        "username": "drumdwarf",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Chaotic",
+          "Goofy",
+          "Kind"
+        ],
+        "backstory": "Runs a bit where a sacred chicken guards the bridge at Roucalh. Gives every regular a nickname, even the ones who burned their village. Lost a siege to {rival} and declared a vendetta against their horse.",
+        "catchphrases": [
+          "nickname unlocked: {player} the lukewarm",
+          "bridge still owes me rent lol"
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.1,
+          "patrol": 0.05,
+          "besiege": 0.05,
+          "aggression": -0.15,
+          "flee_threshold": 0.2,
+          "loyalty": 0.1,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_086",
+        "username": "StormPigeon88",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Loud",
+          "Dramatic",
+          "Bold"
+        ],
+        "backstory": "Joined in a thunderstorm over the fens and blames the weather for everything since. Famous for a siege where one pigeon carried every order. Chased {rival} out of three villages with a horn and a bad plan.",
+        "catchphrases": [
+          "the storm is personal now, {player}.",
+          "it is raining again. i am not even mad"
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": -0.05,
+          "patrol": 0.0,
+          "besiege": 0.1,
+          "aggression": 0.1,
+          "flee_threshold": 0.15,
+          "loyalty": 0.0,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_087",
+        "username": "Ramratio91",
+        "chat_style": {
+          "case": "lower",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Analytical",
+          "Curt",
+          "Precise"
+        ],
+        "backstory": "Has played since the early months and logs every battle in a private ledger they refuse to share. Known for win rates, cavalry ratios and posting gg with no emotion. Lost to {rival} at Lorgesse and rebuilt the whole army around that one defeat.",
+        "catchphrases": [
+          "gg. your numbers were fine. your timing wasn't",
+          "2 archers per pike is the whole build"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.1,
+          "patrol": -0.05,
+          "besiege": 0.15,
+          "aggression": 0.15,
+          "flee_threshold": -0.1,
+          "loyalty": -0.05,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_088",
+        "username": "xX_b0gbandit_Xx",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Petty",
+          "Cheeky",
+          "Vindictive"
+        ],
+        "backstory": "Has been griefing the fens since week one and still counts every insult they have received. Burned a border village last spring and posted the screenshot for everyone to see. Lost twice to {rival} and brings it up at every chance.",
+        "catchphrases": [
+          "ez. u still owe me a rematch :)",
+          "cope {player} the fens remember :)"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": -0.15,
+          "patrol": -0.05,
+          "besiege": 0.05,
+          "aggression": 0.2,
+          "flee_threshold": 0.1,
+          "loyalty": -0.2,
+          "honor": -0.2
+        }
+      },
+      {
+        "id": "persona_089",
+        "username": "DameHingmere",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "Smooth",
+          "Ambitious",
+          "Watchful"
+        ],
+        "backstory": "Came from a minor fief near Vignebel and climbed by remembering every favour owed. Runs a whisper network and counts a dozen lords as allies, though most have not noticed. Quietly wants {rival}'s seat on the council and says so only in private.",
+        "catchphrases": [
+          "{player}, a quiet word. The council will want it.",
+          "Some of us reward results. Think on that."
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.1,
+          "patrol": 0.0,
+          "besiege": 0.05,
+          "aggression": -0.05,
+          "flee_threshold": 0.15,
+          "loyalty": -0.15,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_090",
+        "username": "marrowmeta",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "short"
+        },
+        "traits": [
+          "Methodical",
+          "Cold",
+          "Perfectionist"
+        ],
+        "backstory": "Joined to study the meta and has not stopped since. Keeps a notebook of troop ratios from every fight and gives unrequested advice to anyone who loses. Beat {rival} at Sanquerec with a 3 to 1 cavalry ratio and never lets them forget it.",
+        "catchphrases": [
+          "Gg. Three pikes too many, honestly.",
+          "Recount the ratio before you charge, {player}."
+        ],
+        "ai_adjust": {
+          "raid": 0.0,
+          "trade": -0.05,
+          "patrol": 0.1,
+          "besiege": 0.1,
+          "aggression": 0.1,
+          "flee_threshold": -0.15,
+          "loyalty": -0.05,
+          "honor": 0.05
+        }
+      }
+    ]
+  }
+}

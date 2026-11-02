@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "politician__ambient_complaint",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1c8f1f092e91364e2a03ce30eed92c1379cf91f2ab53da5f17cae44d5d69f7b1",
+    "model": "haiku",
+    "cost_usd": 0.00392465,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:55+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "Three caravans hit by bandits on the {town} road this week. I raised it at council. Apparently patrols are someone else's budget.",
+        "Grain at {town} now costs double what it did last moon. Someone is hoarding, and I have a fairly good idea who profits.",
+        "The bandit problem on our roads is not a mystery. It is a question of who got the garrison contracts and who did not.",
+        "Bounties are paid out for the same three outlaws every week. Either the bandits are very persistent or the ledgers are very creative.",
+        "{rival} was granted the toll roads last council and now complains about bandits on them. Ser, nobody is that unlucky.",
+        "Honestly, the siege rules favour whoever shouts loudest at the gate. I would like a vote on it before the next war.",
+        "Another week, another lord blaming fate for his ruin. Fate has a name, and it signs its letters at the council.",
+        "Ten years of loyal service, and the reward is a tax on salt. I suppose gratitude is not a currency this realm accepts.",
+        "Some of us paid our dues to the road wardens and still found our wagons looted near {town}. Perhaps the wardens should be audited.",
+        "Ale prices have climbed while tavern quality has fallen. I am not angry, merely disappointed in what our markets have become."
+      ]
+    }
+  }
+}

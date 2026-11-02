@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "job_id": "conv_b02",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "1646058ff06dc84e943518db86ab294232b08cd5c2f40b24144d1cded6c89da7",
+    "model": "haiku",
+    "cost_usd": 0.00673345,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:41:36+00:00"
+  },
+  "data": {
+    "conv_006": [
+      {
+        "speaker": "Slugg",
+        "text": "Anyone heading out to {village} tonight? I have spare pikes and a cart of wool, first come.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "whiskerquorum",
+        "text": "Slugg, a joint raid on {village} would hold the road for us both. Might we speak in private before the vote?",
+        "delay_s": 6
+      },
+      {
+        "speaker": "OldCloakwright",
+        "text": "Sit a while, whiskerquorum. The road will keep. The raids that went well always had their plan written down first.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Written down is fine by me. I can bring {troop_count} troops and enough bread to feed them, if we split the spoils.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "whiskerquorum",
+        "text": "Splitting spoils is generous, Slugg. Shall we say {gold} gold each once {town} falls, and no one takes more than their share?",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Deal, provided nobody sulks afterward. Meet at the ford at dusk?",
+        "delay_s": 4
+      },
+      {
+        "speaker": "OldCloakwright",
+        "text": "Dusk at the ford suits me. Bring your own fire, friends, and do not wake my old knees before the horn.",
+        "delay_s": 7
+      }
+    ],
+    "conv_007": [
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Remember the siege at {town} in the old wars? I still have the ledger from that week, friends. Wool was {gold} gold a bolt.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "omg i wasnt even here yet :( but evryone talks about the {village} fight?? sounds so cool!!",
+        "delay_s": 6
+      },
+      {
+        "speaker": "HelmDodger",
+        "text": "i was there. chalk_tallyman hid behind a cart the whole time lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "That is a lie and you know it, HelmDodger. The ledger shows I was on the wall that night, bolts and all.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "wait wait who won tho?? :D did anyone get the good loot",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HelmDodger",
+        "text": "still keeping score lanternsorry. {troop_count} went in and half came out. nobody remembers the other half",
+        "delay_s": 6
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Orlagua held the field, lanternsorry. Ask anyone who was there.",
+        "delay_s": 6
+      }
+    ],
+    "conv_008": [
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "Oof, did the whole column just walk into {village}? {troop_count} men gone in one push. Every road has a price, friend.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "FL1NT7",
+        "text": "bad scouting. two riders at the ridge and no one checked the treeline. not luck",
+        "delay_s": 5
+      },
+      {
+        "speaker": "PuffinHearth",
+        "text": "Let the ancestors witness the words spoken here. Those men marched with honor, even if the road turned against them.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "Honor does not refill a purse, PuffinHearth. Still, I will sell you {troop_count} spears at cost if you want to ride again.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "FL1NT7",
+        "text": "at cost is still a loss. the fix is simple, scout first. cheap to check, expensive to skip",
+        "delay_s": 4
+      },
+      {
+        "speaker": "PuffinHearth",
+        "text": "Forgive the scout, FL1NT7. Lessons are paid in blood, and the ancestors remember every debt.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "Fair words, both of you. I lost {gold} gold on a wagon once and lived to trade again. Keep your heads up.",
+        "delay_s": 6
+      }
+    ],
+    "conv_009": [
+      {
+        "speaker": "OldTideWarden",
+        "text": "We have taken {fief} from {enemy_faction} at dawn. Patience wins more fens than swords do, and the gate fell without a fight.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "gg. took you long enough. ratio decides it, not luck",
+        "delay_s": 7
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Long enough to count every spear, Hael. Your side lost {troop_count} men at the causeway, I am told. Shall I send the tally?",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "tally what you want. {gold} gold of tolls is not a win if you cannot hold it",
+        "delay_s": 5
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "We will hold it. The garrison is set and the tolls will pay for the walls. Come talk at the ford if you dare.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "i will be at the ford. bring more than words",
+        "delay_s": 4
+      }
+    ],
+    "conv_010": [
+      {
+        "speaker": "Falkyn",
+        "text": "wait the old wars were actually on this server?? i wish i could have seen the {village} battle :D its so cool to think about!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "spindly_knight",
+        "text": "Sorry!! Did i miss the big one? :D I heard the siege at {town} lasted three days!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "Shall we discuss this over a private word, Falkyn? Old alliances are worth more than old battles, and I know who kept them.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Falkyn",
+        "text": "omg yes!! thank u so much bellwarden ur so nice :D i wanna hear more",
+        "delay_s": 4
+      },
+      {
+        "speaker": "spindly_knight",
+        "text": "I can help you find the old ledger, Falkyn! It is in the hall near the {town} gate, I think :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "Spindly, you are generous with directions. Falkyn, come find me after the bell and I will tell you what the old wars cost us.",
+        "delay_s": 7
+      }
+    ]
+  }
+}

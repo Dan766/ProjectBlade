@@ -1,0 +1,17 @@
+day    Orlagua  Saaravenn   Tsevaret   Tesnovar   Lauresse    Ighrast   wars
+ 30         12         11         14         12          6          9   Orlagua-Saaravenn
+ 60         12         11         14         12          6          9   Saaravenn-Ighrast, Orlagua-Lauresse
+ 90          9         11         14         14          6         10   Orlagua-Ighrast, Orlagua-Tsevaret, Tsevaret-Tesnovar
+120          6         11         11         17          6         13   Saaravenn-Tesnovar, Lauresse-Ighrast, Orlagua-Lauresse
+150          7         11         10         17          6         13   Orlagua-Lauresse, Saaravenn-Ighrast, Tesnovar-Lauresse, Tsevaret-Tesnovar, Orlagua-Tsevaret
+180          8         11          6         21          5         13   Orlagua-Tsevaret
+210         13         11          4         21          5         10   Lauresse-Ighrast, Orlagua-Ighrast, Orlagua-Lauresse
+240         14         12          4         24          2          8   Tesnovar-Lauresse, Saaravenn-Lauresse, Saaravenn-Ighrast
+270         16         14          4         24          2          4   
+300         16         14          4         24          2          4   
+330         17         14          4         24          2          3   Orlagua-Ighrast
+360         17         14          4         24          2          3   Tsevaret-Tesnovar
+365         17         14          3         25          2          3   Tsevaret-Tesnovar
+events: war_declared 22, peace_made 25, siege_started 160, assault 52, fief_captured 48, siege_failed 4
+smallest fort count by day 60: 6   factions wiped out: []   stuck parties: 0
+365 days in 255865 ms

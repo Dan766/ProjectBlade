@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "job_id": "conv_b58",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "99e9c7ba43ac505c7e6a9781bc35df7d3c3c7c2044681e8b393e9d36b37e1cb2",
+    "model": "haiku",
+    "cost_usd": 0.00855795,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:47:33+00:00"
+  },
+  "data": {
+    "conv_286": [
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Friends, I have a proposal for any house with a standing army and some patience. Shall we discuss it over wine, Slugg?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Wine, yes. Your schemes, no. Last time they cost me forty bolts of wool.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SerCrowmere",
+        "text": "Saaravenn Fen can muster {troop_count} blades for an honest cause. Let the rolls record who stood with us.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Honest causes pay in gold, SerCrowmere. Lauresse offers {gold} for the first {village} we take together.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Gold is fine, Envoy. My wool is 40 a bolt, first come, and it does not come with a lecture.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SerCrowmere",
+        "text": "Gold does not buy an honest banner, Slugg. The rolls shall record who came with blades.",
+        "delay_s": 8
+      }
+    ],
+    "conv_287": [
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "I still hear the horns from the Night of {village}, when the Ighrast line held firm against every banner. Do you remember it, Eeel?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Eeel",
+        "text": "remember it. the line held because the flank was stupid. we watched the ratio collapse at {town} and called it a plan",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "The ratio was never the question. Our oath was, and we kept it with {troop_count} shields on the wall.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Eeel",
+        "text": "gg. you kept it with {troop_count} shields and lost the wall anyway",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Lost the wall, perhaps, but not the honour. Let the dawn witness the oath, Eeel.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Eeel",
+        "text": "the dawn saw your back as you ran. not my problem",
+        "delay_s": 5
+      }
+    ],
+    "conv_288": [
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Let it be said plainly: pikes are the spine of any army. Let the causeways remember this, TurnipTheFlank.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "pikes break on the first charge. ur spine is a stick",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "Hear this: the glove shall not yield. {troop_count} knights outlast any pike wall. Mind your tongue, TurnipTheFlank.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Knights are a gilded luxury, and gilded things break at the first real press.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "ur line broke at minute 4 last time. gg tho",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Glovaric_Ironhand",
+        "text": "Minute 4 was a feint, and you know it. The glove remembers every field.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "feint or not the pikes held the middle. thats the whole argument",
+        "delay_s": 4
+      }
+    ],
+    "conv_289": [
+      {
+        "speaker": "xX_EmberQuill_Xx",
+        "text": "I raise this matter before the council, HoneyHelm. Nobody remembers the war at {village} as well as I do.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "HoneyHelm",
+        "text": "Ser xX_EmberQuill_Xx, I remember it as a feast of honour, not a ledger of debts.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "xX_EmberQuill_Xx",
+        "text": "Honour is a fine word for a banner. Ledgers are what win the peace. We still owe {gold} to the houses who marched.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "HoneyHelm",
+        "text": "Our banners marched for the Confederacy, not for coin. May they meet in honour again, Ser xX_EmberQuill_Xx.",
+        "delay_s": 15
+      },
+      {
+        "speaker": "xX_EmberQuill_Xx",
+        "text": "Then let us meet in honour, and we shall see who keeps the ledger honest. {troop_count} men will watch.",
+        "delay_s": 10
+      }
+    ],
+    "conv_290": [
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "wiat so was the big war at {village} befroe i joined?? the forums say lauresse won but idk??",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SourLute",
+        "text": "lauresse won cuz everyone rushed the causeway and nobdy watched the flanks still mad abt it Clovan",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "oh no the causeway?? was it really that bad... i dont get what the flanks are sorry lol",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SourLute",
+        "text": "its fine you can stand on the flank and watch us do it again {town} is ours next",
+        "delay_s": 10
+      },
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "wait is the grey bar the food?? thx SourLute",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SourLute",
+        "text": "its the hp bar genius dont eat it",
+        "delay_s": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "memer__beat_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ae4decd5335a8018fa759a23003393e35d85f58b6db4b5885a697332168d047f",
+    "model": "haiku",
+    "cost_usd": 0.00685975,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:03:03+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} just won a field battle and i am now officially a sandwich. nobody tell the crows xD",
+        "the sacred pigeon is on trial for treason. the verdict is pending and mildly smelly",
+        "lost {troop_count} troops to {player} and i'm taking it personally. the grass saw everything :(",
+        "{player} won the field. the mud has already sent a formal apology on my behalf",
+        "reminder that {player} owes me {gold} gold for emotional damages. payment by carrier moth",
+        "i have made a list of everyone who has ever stood on my field. {player} is at the top. ok its a short list",
+        "stop cheering {player}. the field is still wet from my tears and the horses are judging you",
+        "{player} beat me in a fight. i am currently learning to hate them with my whole chest xD",
+        "declaring a blood feud with {player}. it will be fought entirely with rude poems and one (1) sad goose",
+        "{player} has won the battle and i have won the right to be dramatic about it. see you at dinner ;P"
+      ],
+      "whisper": [
+        "{player} you won the field and i am choosing to be upset about it for the next three business days",
+        "my horse saw the whole thing and has requested a new owner :/",
+        "{player} your tactics were illegal in at least one kingdom. i am writing to them now",
+        "i will defeat you next time. or the time after. or whenever the rain lets up",
+        "you won with {troop_count} troops and i lost with the same number. the math is clearly rigged",
+        "{player} i have started a campaign against you called shame the champion. flyers are going up",
+        "tell your banners they look too smug. i can see them from here and it is upsetting",
+        "i'm not mad. i'm just putting a curse on your next supply cart. nothing personal xD",
+        "{player} rematch in the mud. bring snacks, i'm bringing the grudge",
+        "wow congrats. i'll be practicing my victory dance in front of the mirror until you cry"
+      ],
+      "face": [
+        "{player}!! you again!! my shield is still ringing from that last hit. come closer so i can glare properly",
+        "stop right there. i'm not talking, i'm glaring. it is a very serious glare xD",
+        "oh look it is {player}. the one who ruined my day and my boots. hold still while i think of a comeback",
+        "{player} the crows warned me you were coming. i did not listen. now my pride is in a ditch",
+        "i will allow you to pass, but only because my boots are too wet to chase you",
+        "step aside {player}, this road belongs to my sulking now. it has a lot of feelings",
+        "you won today. i will be unbearable about it until the next harvest. consider yourself warned :)",
+        "{player} i have decided your face is the reason this field is cursed. no further questions",
+        "hail {player}, scourge of my lunch plans. i have three insults prepared and one of them is about your hat",
+        "stop smiling at me {player}. i am furious and also slightly impressed, which is worse"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} won a field battle today. the weather was also there. no comment on the weather",
+        "field report: {troop_count} troops lost, one horse disappointed, zero cheese recovered xD",
+        "anyone else notice the mud has been unusually sticky lately? just wondering :)",
+        "{player} beat us fair and square. we will think about it over a long dinner",
+        "we lost a battle. the sky is still up, the bread is still there, life goes on i guess",
+        "{gold} gold worth of gear is now at the bottom of a ditch. that is the whole update",
+        "reminder: ditches are not a tactical position, no matter how cozy they look",
+        "{player} has my respect for about one afternoon. we will see what the morning brings",
+        "heard the next fight is near the old mill. bring a sandwich, the wait is long",
+        "lost the field, kept the horse, that counts for something. mostly"
+      ],
+      "whisper": [
+        "{player} good fight. we are not friends and we are not enemies, we are two people with wet socks",
+        "your banner flapped at the right moments. noted. i'll be watching for more of that",
+        "i don't hold grudges. i just keep them in a very organized box with labels",
+        "{player} we lost {troop_count} troops today. that's a fact. i'm choosing not to have feelings about it yet",
+        "you won. i'm mildly annoyed and mildly curious. let's see which one wins out",
+        "gg. i will be polite in chat and suspicious in my heart",
+        "{player} send me a message if you want a rematch. no pressure, i'll just be sitting here sulking :)",
+        "i heard your army smells like rain. i'm not sure if that's a compliment yet",
+        "that charge was clean. don't let it go to your head. the head is already big enough",
+        "fine. you got the field. i got the snacks. we'll see who laughs last"
+      ],
+      "face": [
+        "{player}. well fought. now kindly move your horse, it's standing on my lunch",
+        "ah, {player}. we meet again on the mud. nothing personal, just a very damp coincidence",
+        "we're even on the scoreboard, except you're ahead. don't make that face at me",
+        "nice battle. i would shake your hand but i'd rather keep it clean for dinner :)",
+        "{player}, you hit like a rainy afternoon. unexpected, a little cold, honestly fair",
+        "i was going to be angry but i'm too tired. we can yell at each other tomorrow",
+        "fair win. now get out of the road before my horse tries to bite you on principle",
+        "{player} i'm not here to chat, i'm here to find my helmet. it went somewhere in the fight",
+        "good to see you alive. bad to see you looking that happy about it",
+        "do you know where the nearest tavern is? asking for both of us, we both lost"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} just beat me in a field fight and i am crowning them the official pumpkin of the day",
+        "shoutout to {player} for winning the battle and for being a good sport about my tears xD",
+        "{player} won and i'm now their biggest fan. their next fight is on my calendar in red crayon",
+        "lost {troop_count} troops to {player} and still i'd follow them into the mud again. legend",
+        "{player} owes everybody a round for showing up with that much cavalry :)",
+        "hereby naming the field where {player} won the lake of victory. the frogs have agreed",
+        "gg {player}. we'll be bragging about the mud fight for a whole season, that's now a sacred oath",
+        "every hero needs a worthy opponent and {player} just volunteered to be mine. respect",
+        "{player} carried that fight. i carried the snacks. we both deserve a medal of some kind",
+        "i bow to {player}. the ditch and i are proud of you both :'D"
+      ],
+      "whisper": [
+        "{player} you beat me clean and i'm so proud i could cry into my wet boots",
+        "okay that flank was unfair and i love it. teach me your ways sometime",
+        "{player} my horse wants you to know it forgives you for the shove. it's a big-hearted horse",
+        "rematch soon? i'm already practicing my dramatic lost-face in the mirror xD",
+        "{player} we lost but my pride is intact. mostly. the bit that hurts is in a sling",
+        "you're officially on my list of people allowed to win at me. congrats, that's rare",
+        "gg again. i'm writing a song about your shield bash. it's not very good yet",
+        "{player} the field didn't stand a chance against you and neither did my lunch :)",
+        "you fought like a storm wearing a crown. i'm impressed and slightly intimidated",
+        "i'll buy the next round if you promise to lose the next battle. kidding. mostly"
+      ],
+      "face": [
+        "{player}!!! you beat me and i'm still cheering. unacceptable and also great xD",
+        "stop right there, champion. the fee for passing is one (1) victory cheer. pay up",
+        "{player} my shield is dented and my heart is full. let's go get a drink and blame the mud together",
+        "you knocked me flat and i loved every second. come to the tavern and let me buy your ale",
+        "{player}, the mud's most dangerous menace. bring your banners, i'm bringing bread",
+        "{player}! that charge was a work of art. i'm going to frame the bruise",
+        "i got knocked into a puddle by {player} and honestly i'd like to do it again :)",
+        "see you at the next field, {player}. i'll be the one screaming your name and eating a pie",
+        "{player}, my hero of the afternoon! i'll sing about this at dinner. the horses will hate it",
+        "stop being so charming {player}. i lost fair, now i have to be your friend. fine. shake on it"
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__player_joined_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "a3128f65689db319537a95443d3bf7915f2e2f1079f6e20fb1a5183fc065128b",
+    "model": "haiku",
+    "cost_usd": 0.005057850000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:18:37+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Swore to {my_faction} and already picking fights with the old hands. Bold start, {player}. We'll see how long it lasts.",
+        "Another oath, another face on the walls. I remember the first war, and so should you. Keep your word this time.",
+        "Ser {player}, I'll reserve judgment until this oath has some proof behind it. Don't make me regret the vouching.",
+        "Welcome to {my_faction}, {player}. Mind the ledger. We keep track of who burns the granaries.",
+        "Sworn in and smiling already. The fens remember who sold out the last banner, and so do I.",
+        "I've buried plenty of oath-breakers, {player}. Take your vow seriously, because the rest of us will."
+      ],
+      "whisper": [
+        "{player}, I didn't ask for you in my ranks. Prove the oath was worth the ink and we can talk.",
+        "Don't expect a warm bed or a warm welcome. You'll earn both or you won't, and I'll be watching.",
+        "Keep your distance from my quartermaster until I've seen your ledgers. Consider this a courtesy.",
+        "The ones who swore to {my_faction} before you didn't last. Try not to be the next one I write off.",
+        "Rough sort of oath to take this late, {player}. I hope you know what you're signing up for.",
+        "If you're here to climb, climb quietly. I've no patience for ambition wearing a fresh cloak."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has sworn to {my_faction}. Fine. Oaths are cheap until the weather turns.",
+        "New banner on the roster. Let's see who holds the line when the first siege comes up.",
+        "Another name in the book. Good luck to them, and a sharper eye for the fens than most.",
+        "Interesting timing for an oath. Hope it wasn't made in a tavern at midnight.",
+        "We take all comers, but we don't vouch for them yet. Time will tell whose word holds.",
+        "Ser {player} is ours now. Nothing changes for the rest of you, so carry on."
+      ],
+      "whisper": [
+        "{player}, you're on the muster list now. Read the standing orders before you wander off anywhere.",
+        "Welcome to {my_faction}. I don't know you well yet, so I'll keep my opinions to myself.",
+        "Your oath is on record. Stay out of the eastern passes until you know the ground.",
+        "Nothing personal, but we'll see what kind of soldier you are before I lend you anything.",
+        "Pleasant enough to meet you, {player}. Keep your head down for a week and you'll be fine.",
+        "Ask your questions here, not in open chat. Most of them already have answers buried in the logs."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Glad to have {player} under the banner. Good oath, good company, and a warm welcome from all of us.",
+        "A solid recruit joins {my_faction} today. Newcomers, give {player} some room and some advice.",
+        "Good to see {player} sworn in. {my_faction} has plenty of honest hands, and now there's one more.",
+        "Raise a cup for {player}, our newest. The first war taught me that loyal folk make the best wall.",
+        "Oath taken, banner raised. {player}, you've made a fine choice, and {my_faction} is better for it.",
+        "Welcome aboard, {player}. Ask any veteran here and they'll tell you the same: you chose well."
+      ],
+      "whisper": [
+        "Glad you came to {my_faction}, {player}. Pack a spare saddle and a full purse before you ride out; the roads are rough.",
+        "Well sworn, {player}. Come find me at the hall and I'll show you the quiet paths I used when I started.",
+        "You made a good call today. Keep your head, keep your friends close, and you'll go far here.",
+        "I'll look out for you while you find your feet, {player}. Ask me anything, no question is too small.",
+        "Proud to have you on the roster. Rest your horse tonight, we have plenty of work tomorrow.",
+        "Welcome, {player}. If the early skirmishes go badly, remember I lost more than I won in my first season and still stayed."
+      ]
+    }
+  }
+}

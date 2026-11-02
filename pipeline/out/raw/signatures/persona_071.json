@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "job_id": "persona_071",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "55be5f7da40c2747f1a4f500b89d5fdc82d0554ca93ec5a58f26398d822fd74a",
+    "model": "haiku",
+    "cost_usd": 0.008178850000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:36:27+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "ez {player} lost {troop_count} dudes and still wants a rematch lol"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} ur army folded like wet paper again gg uninstall pls"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "good fight ser {player} almost felt like a real battle for like 3 seconds lol see u at the next burning"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{gold} gold richer and {troop_count} of urs are feeding crows ez day"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} thats {troop_count} men and {gold} gold i just took off u. ur welcome"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "fine {player} won this one lol flukes happen dont get used to it"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ok {player} u got me this time enjoy it while it lasts ill be back wit more troops"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ser {player} that was a lucky roll and u know it still got my {troop_count} out alive so whos really winning xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that was clean dont let it go to ur head i still remember hrastovec lol"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "lost {troop_count} to {player} today shrug ill be back before the tavern closes"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again ok thats it im writing ur name on the wall of shame right under hrastovec"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "third time {player} at this point ur just my personal nemesis dont make it weird"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "ok {player} ur officially the only one who beats me twice lol dont let it go to ur head gg i guess"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} beat me again and honestly i respect it a little dont tell anyone"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} beat me AGAIN with {troop_count} troops. i hate u. rematch tomorrow"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} ran away like a scared goat lol ez no fight today ur welcome"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "u ran {player} thats fine cowards live longer right see u when ur brave"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} saw my banner and turned around lmao smart choice honestly"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "smart run {player} ur army was never gonna survive me anyway live to fight another day"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} u turned tail before i even got my boots muddy ill remember that"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} heard {rival} still brags about their farms lol they should check the smoke next time"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "hey {player} {rival} called and said they miss u ok they didnt but they should"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} couldnt hold a village if their life depended on it and ur allies are worse {player} so talk less"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} u still owe me a rematch and {rival} owes me an apology one of u is gonna pay"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ez {rival} got farmed by me last week lol pick better friends next time {player}"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} meet me at {town} with ur whole army bring ur best troops ill bring the torches"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} i hear ur passing near {village} lets settle it there loser buys drinks lol"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "come to {village} {player} or admit ur scared of me ur choice xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} {town} at dusk no tricks no cheese ok maybe a little cheese"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} we both know ur not winning at {town} but come lose again anyway"
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ha {player} {gold} gold for passage? ur joking. ill take ur gold and ur pride ser come get it"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ser {player} u want {gold} gold to let me pass bold move ur army looks like it needs lunch more than me"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} thats a lot of gold for a bit of road. ill split it with u if u stop yelling lol"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{gold} gold lmao {player} ur gonna have to pry it from my cold dead hands and those hands are already on my list"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "tempting offer {player} but ill pass. ur threat was adorable tho xD"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "oh look its {player} again {persona} of {my_faction} here and i still have ur hrastovec tally in my head lol"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} fancy meeting u on the road {persona} of {my_faction} says hi now get out of my way xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} its {persona} from {my_faction} dont worry i wont burn ur fields today probably"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} ur face says hrastovec lol still hurting or is that just ur usual sad look"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "well well {player} {persona} of {my_faction} at ur service for a quick ambush kidding mostly"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} has {troop_count} of my dudes standing guard and {gold} gold in the chest so cry about it"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "just counted {gold} gold from {fief} and the chests still smell like ur farmers lol"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} troops marching out of {fief} this week. if ur reading this ur not on the list"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "everyone asks how i stay on top. {troop_count} troops and a sense of humor and {fief} sure loves it"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{gold} gold and {troop_count} men and still nobody beats me twice xD prove me wrong"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} men in one fight. thats not a battle thats a funeral lol cope"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} heard u got stomped for {troop_count} men. skill issue ser ez"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} down {troop_count} troops in one go. damn thats rough not gonna lie"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} u lost {troop_count} men and still standing. ur tougher than u look dont tell anyone i said it"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} troops and still talks trash. impressive honestly"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else smell smoke from {village} or is that just me lol"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{town} market prices are a joke right now. 3 gold for a turnip xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag again on the {town} road. server devs pls fix or i riot lol"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "its raining on {village} again and my boots are soaked. weather hates me personally"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "who wants to bet on the next siege at {town}. i already got the torches"
+      }
+    ]
+  }
+}

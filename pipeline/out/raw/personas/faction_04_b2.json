@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "job_id": "faction_04_b2",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "4e7c3c1e85569bf8d655aac311800327cd3a1a699ff60cbce384566cfa64c18d",
+    "model": "haiku",
+    "cost_usd": 0.010788550000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:47:16+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_071",
+        "username": "Brakken_Mouthy",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "rare",
+          "punctuation": "none",
+          "verbosity": "short"
+        },
+        "traits": [
+          "smug",
+          "petty",
+          "grudge-keeping"
+        ],
+        "backstory": "On the server since the first siege of Vodnagrad. Has never admitted losing a fight. Burned half of Mokrenka's outer farms for fun, and still brings up the Hrastovec ambush whenever {rival} logs in. Secretly respects {rival} for beating him twice.",
+        "catchphrases": [
+          "{player} ur still salty about hrastovec lol",
+          "ez clap {rival} ur turn again"
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": -0.05,
+          "patrol": 0,
+          "besiege": 0.05,
+          "aggression": 0.15,
+          "flee_threshold": -0.1,
+          "loyalty": 0,
+          "honor": -0.15
+        }
+      },
+      {
+        "id": "persona_072",
+        "username": "Pumkin_Tilda",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "eager",
+          "apologetic",
+          "easily-amazed"
+        ],
+        "backstory": "Joined three weeks ago and still thinks the marsh is a type of soup. Won a skirmish against four looters and has told everyone at Brezhnik about it twice. Very grateful to {rival}, who showed them not to feed grain to the soldiers.",
+        "catchphrases": [
+          "omg {player} how do u get so many soldiers?? sorry :(",
+          "thnk u {player} i dont get it but thnk u!! :D"
+        ],
+        "ai_adjust": {
+          "raid": 0,
+          "trade": 0,
+          "patrol": -0.05,
+          "besiege": -0.1,
+          "aggression": -0.1,
+          "flee_threshold": 0.15,
+          "loyalty": 0.1,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_073",
+        "username": "Vale_Ratio21",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "analytical",
+          "curt",
+          "meta-obsessed"
+        ],
+        "backstory": "Top of the Vrasnik siege ladder for three seasons. Tracks every fight in a spreadsheet and posts the ratios unprompted. Lost one open field battle to {rival} and has not stopped re-watching the replay since. Peasants are wasted upkeep.",
+        "catchphrases": [
+          "{player} ur line broke at 40 seconds. noted",
+          "gg {rival}. rematch when ur economy catches up"
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": -0.1,
+          "patrol": 0.1,
+          "besiege": 0.15,
+          "aggression": 0.1,
+          "flee_threshold": -0.15,
+          "loyalty": -0.05,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_074",
+        "username": "KELP_SEAT3",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "ambitious",
+          "courteous",
+          "scheming"
+        ],
+        "backstory": "Joined the Hlivno council after the Oath of Lisnik Gate was renewed, and has been quietly collecting favours ever since. Recruits widely and forgives nobody. Blames {rival} for the loss of Redlice, with great courtesy. A motion will follow.",
+        "catchphrases": [
+          "{player}, a word in private would serve us both.",
+          "Our council rewards results, as {rival} may recall."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": -0.05,
+          "besiege": 0.1,
+          "aggression": -0.1,
+          "flee_threshold": 0.05,
+          "loyalty": -0.1,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_075",
+        "username": "Frogguh",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "chaotic",
+          "theatrical",
+          "warm"
+        ],
+        "backstory": "Has declared a permanent feud with the bridge at Lipnevo, which has never once apologised. Gives every lord a nickname, and has dubbed {rival} 'Sir Soggy Boots'. Turns every defeat into a sketch. Insists their goose leads Ukrenvar.",
+        "catchphrases": [
+          "the goose has noticed u {player}... :) !!",
+          "sir soggy boots would like a word, {rival}!! :D"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": 0.1,
+          "patrol": -0.05,
+          "besiege": 0.1,
+          "aggression": 0.05,
+          "flee_threshold": 0.1,
+          "loyalty": 0.05,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_076",
+        "username": "xX_S4geMeta_Xx",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "none",
+          "punctuation": "none",
+          "verbosity": "short"
+        },
+        "traits": [
+          "precise",
+          "condescending",
+          "brittle"
+        ],
+        "backstory": "Quit twice after losing to peasant builds, and came back both times with a spreadsheet. Only discusses cavalry-to-archer ratios. Beat {rival} at Stribogra in six minutes and still brings up the flank.",
+        "catchphrases": [
+          "gg {player} ur flank was decnt",
+          "archers were out of position again noted"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.1,
+          "patrol": 0.05,
+          "besiege": 0.1,
+          "aggression": 0.15,
+          "flee_threshold": -0.2,
+          "loyalty": -0.05,
+          "honor": -0.15
+        }
+      },
+      {
+        "id": "persona_077",
+        "username": "xX_Ottr_Mart_Xx",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "friendly",
+          "transactional",
+          "thrifty"
+        ],
+        "backstory": "Runs caravans between Ostrogrado and Vodnagrad. Has lost eleven wagons to Hrastovec longbowmen, yet still sells them salt. Owes {rival} a discount after a salt deal fell through.",
+        "catchphrases": [
+          "Bandits on the Ukrenvar road again. Terrible for trade.",
+          "Shall we talk prices, {player}?"
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.2,
+          "patrol": 0.05,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.15,
+          "loyalty": 0.05,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_078",
+        "username": "Ser_Glimmerwise",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "patient",
+          "wry",
+          "generous"
+        ],
+        "backstory": "Has played since the first war, back when the Tesnovan wardens still argued over every road. Known for free advice at the Brezhnik gate and for keeping the peace between rival lords. Once talked {rival} out of a siege that would have burned Mokrenka.",
+        "catchphrases": [
+          "Easy now, {player}. There is always another road.",
+          "Good ground beats good numbers, as I learned at Ukrenvar."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": 0.05,
+          "besiege": -0.05,
+          "aggression": -0.2,
+          "flee_threshold": 0.1,
+          "loyalty": 0.1,
+          "honor": 0.15
+        }
+      },
+      {
+        "id": "persona_079",
+        "username": "HornMisfire",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "rare",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "clumsy",
+          "curious",
+          "earnest"
+        ],
+        "backstory": "Started three days ago and has already donated their grain to the wrong lord. Keeps asking {rival} how the horn signals work, and cannot tell a charge from a retreat. Called a menace on the Dubnyak road, and quite proud of it.",
+        "catchphrases": [
+          "wait which horn is charge?? sry {player}",
+          "i think i just won?? is that good {player}"
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.05,
+          "patrol": 0.1,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.15,
+          "loyalty": 0.15,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_080",
+        "username": "FRSTBITE",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "nervous",
+          "overexcited",
+          "polite"
+        ],
+        "backstory": "Arrived in the cold month and thought the frost was a siege tactic. Has been asking for advice in global chat every day since, and has thanked every single helper, including the ones who were just passing. Sworn to Ruzhovec, proud of their first banner.",
+        "catchphrases": [
+          "Thank you so much {player}!! :) I will remember this!!",
+          "Sorry, sorry, was that the wrong button?? :("
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": 0,
+          "besiege": -0.15,
+          "aggression": -0.2,
+          "flee_threshold": 0.1,
+          "loyalty": 0.2,
+          "honor": 0.15
+        }
+      }
+    ]
+  }
+}

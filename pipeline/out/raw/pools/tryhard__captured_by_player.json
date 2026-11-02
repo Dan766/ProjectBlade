@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "job_id": "tryhard__captured_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "55494a9fc215853732d3ce596a32045e304e693df6b0d0c1801b24a366b78f76",
+    "model": "haiku",
+    "cost_usd": 0.0082821,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2078 (char 2077)"
+    ],
+    "created_at": "2026-11-01T17:15:12+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "{player} your ransom is {gold}. pay it and stop wasting my time",
+        "i lost to a tier 2 push with no flank. that is the whole story. now you hold me",
+        "every minute you spend gloating is a minute i spend calculating your next mistake",
+        "{my_faction} will recover from this loss in about three days. you will not",
+        "you kept the wrong formation on the hill. obvious in hindsight, which is the only kind of mistake that counts",
+        "keep the chains tight. one slack link and i will be out before your banners are folded",
+        "gold for release, or i wait. waiting costs you more than it costs me",
+        "fine. enjoy the win. it was four percent luck and the rest was your ratio being lucky"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "{player}. take the ransom offer or don't, the outcome is the same for both of us",
+        "archers were too far back in that engagement. not a complaint, just the record",
+        "release terms are on the table. i have no preference beyond getting paid",
+        "you played the flank correctly at the end. the middle was a waste though",
+        "this is a transaction. say the number and we can both stop standing here",
+        "my standing army is small by design. i expected worse odds and got them",
+        "walk me through your last push. i want to know if it was planned or lucky",
+        "guards, keep watch. the cart leaves at dusk with or without the gold"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "{player} good fight. you pressed the right gap and i respect that",
+        "fine, you earned the rematch. bring the same army and we will see if it holds",
+        "i won't gloat. your line held longer than my numbers said it should",
+        "{my_faction} could use a commander who reads the field like that. think about it",
+        "release is a small thing for you. consider it a clean game and a lesson learned",
+        "you rolled the wrong dice once and still beat my ratio. rare. i noticed",
+        "no hard feelings. next time i bring more pikes and you bring the same head",
+        "ser, a respectable duel. we both know it was closer than the scoreboard shows"
+      ]
+    }
+  }
+}

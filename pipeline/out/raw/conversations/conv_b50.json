@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "job_id": "conv_b50",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "57b561fecfd992bd0077a515aaebc79e67776c43d334d01589b51f68b56e112f",
+    "model": "haiku",
+    "cost_usd": 0.00750405,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:46:50+00:00"
+  },
+  "data": {
+    "conv_246": [
+      {
+        "speaker": "gotie",
+        "text": "hey hey!! anyone wanna join our campaign vs {town}?? i got like {troop_count} guys but idk if thats enough :(",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "lol {troop_count} guys? my cousins army has more than that and they lost to a goose",
+        "delay_s": 6
+      },
+      {
+        "speaker": "gotie",
+        "text": "oh no :( sorry!! did i do the wrong thing?? i just thought more people = more fun?? i can chip in {gold} gold :)",
+        "delay_s": 9
+      },
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "{gold} gold is cute. bring it to {village} at dusk and well see who shows up. dont be late",
+        "delay_s": 12
+      },
+      {
+        "speaker": "gotie",
+        "text": "wait really?? that sounds kinda sus lol... sorry sorry im just new!! :D is it a trap??",
+        "delay_s": 20
+      },
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "ha ur smart for a newbie. dont worry ill be there. probably",
+        "delay_s": 5
+      }
+    ],
+    "conv_247": [
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "Have you heard the whispers? Favour is slipping from certain names in the Republic. PuffinHearth, a word would serve us both.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "PuffinHearth",
+        "text": "Speak plainly, KELP_SEAT3. The ancestors witness every word spoken here, and I will not trade in rumour without proof.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "HelmDodger",
+        "text": "lol PuffinHearth still quoting dead people. favour slipping off you not kelp. still keeping score thats 4 now",
+        "delay_s": 4
+      },
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "HelmDodger, you were not invited. Still, your bluster is noted, as is your recent fall from the council's good graces.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "PuffinHearth",
+        "text": "Mock if you must, but one who keeps score in the dark may find the ledger empty when the light returns.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "HelmDodger",
+        "text": "ledger lol u wrote that in a leather book didnt u",
+        "delay_s": 3
+      },
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "Enough. PuffinHearth, meet me at {village} before the bells. Bring whatever you have on the council. Discretion, please.",
+        "delay_s": 14
+      }
+    ],
+    "conv_248": [
+      {
+        "speaker": "THIM7",
+        "text": "BANDITS ON THE ROAD NEAR {village}!!! my cart is gone and i blame SparrowSpite!!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "lmao thats cuz ur cart drives like a wet potato :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "THIM7",
+        "text": "i DONT drive like potatoes!!! ur banner burns better than ur army, SparrowSpite!!",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "lol ur flag looks sad from up here xD got it from a bargain bin or what",
+        "delay_s": 8
+      },
+      {
+        "speaker": "THIM7",
+        "text": "fine, the bandits can have ur flag too!! ill be waiting at {village} with {troop_count} men!!",
+        "delay_s": 12
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "come at me then :) my sleepy guys are already up the hill",
+        "delay_s": 6
+      }
+    ],
+    "conv_249": [
+      {
+        "speaker": "Potshot88",
+        "text": "Has anyone seen my horse?? Last seen near {village} eating a farmer's hat :D",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "not my horse but i did see a cart leave {village} last night just saying",
+        "delay_s": 6
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Hael, that cart was mine. You returned it without wheels. Tidy work, but I will be keeping count.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "wheels were a tax. gg. ratio decides it not luck",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "The sacred hen has been informed!! :D she is not pleased with either of you :P",
+        "delay_s": 7
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Potshot, the hen has no jurisdiction here. Some of us keep standards.",
+        "delay_s": 11
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "standards dont refill a stable. see you at the next market",
+        "delay_s": 15
+      }
+    ],
+    "conv_250": [
+      {
+        "speaker": "GravelOathkeep",
+        "text": "The gate holds and so does my word. I said as much to the entire town of {town} this morning",
+        "delay_s": 0
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "the gate holds because nobody attacked it yet. cav count was the whole story",
+        "delay_s": 6
+      },
+      {
+        "speaker": "GravelOathkeep",
+        "text": "You doubt the gate after I swore on it twice. Very well. I shall guard it with {troop_count} men and my voice.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "that makes 3 oaths on one gate the gate has no opinion on oaths it has hinges",
+        "delay_s": 5
+      },
+      {
+        "speaker": "GravelOathkeep",
+        "text": "Then the hinges shall hear my vow too. The gate was never breached while I stood at it, and I have stood at it for nine days",
+        "delay_s": 10
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "nine days of standing is not a defense it is a schedule",
+        "delay_s": 5
+      },
+      {
+        "speaker": "GravelOathkeep",
+        "text": "Then I will defend the schedule. Every hour, every bell, the gate holds, and so does my word.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "the gate holds because the cavalry is somewhere else. cav count was the whole story",
+        "delay_s": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+ "username": "reedtoll",
+ "signature": {
+  "ambient_trade": [
+   {
+    "id": "sig.persona_019.ambient_trade.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "lamp oil in {town} going for {gold} a flask. good price if you're riding that way, just bring your own jug."
+   },
+   {
+    "id": "sig.persona_019.ambient_trade.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "salt's gone up again in {town}. {gold} a sack and rising. want to know why? i'll tell you over a table."
+   },
+   {
+    "id": "sig.persona_019.ambient_trade.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "reed baskets, fresh stock, {gold} the lot. lost your pack mule to the hills? come see me in {town}."
+   },
+   {
+    "id": "sig.persona_019.ambient_trade.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone forget their tent poles? i've got spares in {town} for {gold}. i'll sell them before the rain does."
+   }
+  ],
+  "encounter_trade_offer": [
+   {
+    "id": "sig.persona_019.encounter_trade_offer.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "ser {player}, i'm not here to fight, i'm here to sell. {gold} for the cart and the oil and we both ride home. damn fine deal."
+   },
+   {
+    "id": "sig.persona_019.encounter_trade_offer.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ser {player}, i've a load bound for {town} and a fair price on it. {gold} for the passage and we're square. what do you say?"
+   },
+   {
+    "id": "sig.persona_019.encounter_trade_offer.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, you're the only one i'd sell to at a loss. call it {gold} and we'll talk about the salt later."
+   },
+   {
+    "id": "sig.persona_019.encounter_trade_offer.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{gold} gets you a safe road to {town}, and i'll not charge you for the lamp oil. that's a deal worth taking, ser {player}."
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_019.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "stand off, {player}. {persona} of {my_faction} here. i've no quarrel with you unless you're carrying bandit steel."
+   },
+   {
+    "id": "sig.persona_019.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, {persona} here, of {my_faction}. the road's been bad, so keep your hands where i can see them and we'll get on fine."
+   },
+   {
+    "id": "sig.persona_019.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}! {persona} here, {my_faction} salt route. you still owe me a horse, or i owe you, I can never remember which."
+   },
+   {
+    "id": "sig.persona_019.encounter_greeting.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "morning, {player}. {persona}, {my_faction} carts. i'm headed for the coast and i'm late already, so let's keep this short and profitable."
+   }
+  ],
+  "player_raided_my_village": [
+   {
+    "id": "sig.persona_019.player_raided_my_village.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} burned {village}? that's not war, that's just bad trade. i'll remember the smoke when prices come back."
+   },
+   {
+    "id": "sig.persona_019.player_raided_my_village.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you burned {village} and the carts won't come near it now. was that really worth the cost?"
+   },
+   {
+    "id": "sig.persona_019.player_raided_my_village.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{village} going up in smoke. good for nobody, {player}. the salt doesn't move when the roads burn."
+   },
+   {
+    "id": "sig.persona_019.player_raided_my_village.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, we can still talk. you took {village} and i lost a wagon of lamp oil there. name a price for the peace."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_019.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {enemy_faction} at war again. salt will jump, and i'd like to know whose pockets it lands in."
+   },
+   {
+    "id": "sig.persona_019.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "war on {enemy_faction}? wonderful. every caravan just doubled its guards and my margins went with them."
+   },
+   {
+    "id": "sig.persona_019.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has gone to war with {enemy_faction}. i'll keep trading with both sides, that's the only honest thing left in this business."
+   },
+   {
+    "id": "sig.persona_019.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "so {my_faction} and {enemy_faction} are fighting. fine by me, as long as the roads stay open and the tolls stay fair."
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_019.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "peace between {my_faction} and {faction}. finally. the caravans can stop sleeping with their boots on."
+   },
+   {
+    "id": "sig.persona_019.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} have signed, so the roads should open up. good news for carts, bad news for mercenaries."
+   },
+   {
+    "id": "sig.persona_019.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "word from the table: {my_faction} has made peace with {faction}. drinks are on the salt merchants tonight."
+   },
+   {
+    "id": "sig.persona_019.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} and {my_faction}, peace at last. i'll have a wagon through that road before the ink is dry."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_019.released_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} let me out and didn't ask for a ransom? that's either charity or a long game, and i don't trust either."
+   },
+   {
+    "id": "sig.persona_019.released_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, thanks for the release. no ransom, no hard feelings. drop by the salt road and i'll sell you something cheap."
+   },
+   {
+    "id": "sig.persona_019.released_by_player.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} let me go with no ransom. i'll owe you one, and i always pay my debts, in coin or in lamp oil."
+   },
+   {
+    "id": "sig.persona_019.released_by_player.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, you didn't have to let me walk. the next caravan's on me, and the offer stays open."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_019.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat {troop_count} of my men in the field. i'll forgive it if the bandits stop bothering my roads."
+   },
+   {
+    "id": "sig.persona_019.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, that was {troop_count} troops i'll never see again. fair fight, but i'm still sore about the wages."
+   },
+   {
+    "id": "sig.persona_019.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, you ran {troop_count} of my lads off the field. well played. now let's talk about who's buying the wagons."
+   },
+   {
+    "id": "sig.persona_019.beat_by_player.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{troop_count} of my men on the grass, {player}, and you're still smiling. damn fine work, and you're still not getting my salt."
+   }
+  ],
+  "whisper_beg_help": [
+   {
+    "id": "sig.persona_019.whisper_beg_help.01",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {enemy_faction} is at the gates of {fief}. i can pay in salt and lamp oil, name your price."
+   },
+   {
+    "id": "sig.persona_019.whisper_beg_help.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, you're the only one i trust with a sword in {fief} right now. {enemy_faction} is pushing hard and my coin won't hold them."
+   },
+   {
+    "id": "sig.persona_019.whisper_beg_help.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {fief} is about to fall to {enemy_faction}. help me hold it and the next three caravans go through your roads free."
+   },
+   {
+    "id": "sig.persona_019.whisper_beg_help.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, i'd not ask if the salt wasn't on the line. {enemy_faction} wants {fief}, and i'd sooner trade with you than watch it burn."
+   }
+  ],
+  "ambient_complaint": [
+   {
+    "id": "sig.persona_019.ambient_complaint.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "bandits hit another caravan on the {town} road. the tolls are up and the guards are asleep. i'm losing money by the hour."
+   },
+   {
+    "id": "sig.persona_019.ambient_complaint.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "the {faction} tolls are a disgrace. two wagons lost this year and they still want a fee for the road. i'm writing a letter."
+   },
+   {
+    "id": "sig.persona_019.ambient_complaint.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "if one more bandit tells me he's 'taking a toll', i'll charge him for the privilege. salt routes are cursed this year."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_019.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "rain on the {town} road again. my lamp oil's the only thing keeping the carts moving at night."
+   },
+   {
+    "id": "sig.persona_019.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else's axle screaming on the hill past {village}? i'm down to three wheels and a lot of hope."
+   },
+   {
+    "id": "sig.persona_019.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "that mud at {village} is worse than the bandits. i'd pay good coin for a dry road."
+   },
+   {
+    "id": "sig.persona_019.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "the map says two days to {town}, the mules say four. trust the mules."
+   }
+  ]
+ }
+}

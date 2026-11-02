@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "job_id": "roleplayer__player_granted_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "d73a4d397afbaa5b877c9f7233db41e24ee2349437f8b5649fd234bc99713eb1",
+    "model": "haiku",
+    "cost_usd": 0.0108884,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'I am glad {fief} has fallen to you and not to a grasping stranger. Remember that the best holders of any fief listen to the humblest tenant, friend.' is too long"
+    ],
+    "created_at": "2026-11-01T17:11:40+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "The crown has given {fief} to {player}. Very well. Let the new holder learn how quickly favour turns to ash.",
+        "Gifted {fief}, was it? Pray the ancestors have mercy on {player}, for my patience with favourites runs thin.",
+        "Enjoy your new walls, ser {player}. Mind the granary roof, it leaked for years under my own stewardship.",
+        "Hold {fief} well, ser {player}, for every stone you lay will be watched by men who remember whose it was.",
+        "A castle is only as loyal as its garrison, and {fief} has never once been loyal to a stranger. We shall see.",
+        "Damn the court for its generosity. Still, I wish you joy of {fief}, ser {player}. You will need every bit of it."
+      ],
+      "whisper": [
+        "Do not mistake the crown's favour for honour, ser {player}. I have not forgotten who spoke against my house at court.",
+        "You have {fief} now, friend. I hope you sleep soundly, for I certainly shall not while you hold its keys.",
+        "A gift of land is a poor substitute for a name earned in blood, ser {player}. Let us see how long yours lasts.",
+        "Enjoy the ledgers of {fief}, ser {player}. I shall be watching every coin that leaves its treasury.",
+        "Should {fief} crumble under your hand, I will be first at the gate to claim what remains. Remember that, friend.",
+        "Your new castle has a fine view of the marsh, ser {player}. Do try not to sink into it before the new moon."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "The crown has named {player} lord of {fief}. The realm turns on, and so shall the grain, the tithes and the gossip.",
+        "News from the court: {fief} has a new holder. I wish {player} well and the harvest kind.",
+        "Titles change hands as the seasons do, and {fief} will outlast whichever banner flies above it this year.",
+        "Another grant, another ceremony, another feast with too little wine. May {fief} prosper under {player}'s hand.",
+        "Let us see whether {player} keeps {fief} longer than the last three who held it. I withhold judgement for now.",
+        "A fine castle for a fine traveller. Ser {player}, mind the drafty east tower. My cousin caught a cold there last winter."
+      ],
+      "whisper": [
+        "The court has given {fief} to you, ser {player}. I shall await your first decree before deciding what I think of it.",
+        "Congratulations on {fief}, friend. Our paths have crossed little, but I trust the ancestors will bless your stewardship.",
+        "If you need a steward who knows the roads around {fief}, send word. I am not offering, merely mentioning it.",
+        "I hear {fief} was a fine holding once. Whether it remains so depends on the hand that holds it now, ser {player}.",
+        "Do not expect me at your feast, ser {player}. My horse is lame and my patience is shorter than my purse.",
+        "The gift of {fief} is a heavy thing, friend. I have carried such burdens and know how little sleep they allow."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Let it be known: {fief} has passed to {player}, and I name the choice a wise one. May the ancestors favour the new holder.",
+        "Huzzah for {player}, the new holder of {fief}! A fine morning for a feast and a fine day for the realm.",
+        "The court has done right by {fief} this day. Ser {player} is worthy of its walls and of its people's trust.",
+        "Ser {player} now owns more stone than I own boots. I am green with envy and will bring wine to the housewarming.",
+        "A castle is only a home when a steward walks its halls with care. I believe {fief} has found such a steward at last.",
+        "Sing of this day, friends! {fief} rests in the hands of {player}, and the banners will rise higher for it."
+      ],
+      "whisper": [
+        "My congratulations on {fief}, ser {player}. Should the roads grow dangerous, my riders are yours to call upon.",
+        "You earned {fief} with a sound name, friend. I would stand beside you at its gate any day you ask it.",
+        "I am proud to call you a peer, ser {player}. Come to my hall once you have settled the new ledgers. Wine is on me.",
+        "The grant suits you well. I was half afraid the court would send you somewhere damp and miserable, ser {player}.",
+        "Hold {fief} with honour, ser {player}, and your name will be sung long after the walls have weathered away.",
+        "Should {fief} need a friend's sword in the coming months, you know where to find mine. Our oath stands, friend."
+      ]
+    }
+  }
+}

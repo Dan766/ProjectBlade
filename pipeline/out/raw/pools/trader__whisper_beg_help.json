@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "job_id": "trader__whisper_beg_help",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "55e0d6ef0ecb6cfe4bfacccfbca39ff092d0f5fafe4ee1349408c88f8bd6ab09",
+    "model": "haiku",
+    "cost_usd": 0.0082143,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 1802 (char 1801)"
+    ],
+    "created_at": "2026-11-01T17:14:35+00:00"
+  },
+  "data": {
+    "neutral": {
+      "whisper": [
+        "Word is {enemy_faction} has the road to {fief} shut tight. I need a hand clearing it, and I'll pay fairly for it.",
+        "Quick question, {player}: what would a safe escort from {fief} cost me these days? Tolls alone are eating my margin.",
+        "{fief} is bleeding coin faster than it bleeds men. If you can spare a few guards, I'll make it worth your while.",
+        "I won't pretend I'm not desperate. My carts are stuck behind {enemy_faction} lines and my warehouse is emptying.",
+        "Tell me straight, {player}. Is there any profit left in defending {fief}, or should I start selling my wagons now?",
+        "Half the grain in {fief} is already spoiling in the rain. Help me move it before the war eats the rest.",
+        "Nobody gets rich while the roads burn. Give me a reason to think {fief} is worth backing and we can talk prices.",
+        "Hypothetically, what would you charge to put a company of swords on the {fief} road? Strictly business, mind."
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        "We've done good business together, {player}, so I'll be blunt. {fief} is under pressure and I could use your sword arm.",
+        "Remember that spice deal? Let's make a new one. I'm offering a generous cut if you help keep {fief} standing.",
+        "Friend, my caravans are idle and my coffers are thinner than a bandit's excuse. Can you spare some hands for {fief}?",
+        "If {enemy_faction} takes {fief}, every road I trade on turns into a toll gate. Help me hold it and the discount is yours.",
+        "I trust you more than most, which is why I'm asking first. Ride with me to {fief} and I'll cover your supplies.",
+        "Honest truth, I'm not sure how long {fief} can hold. Could you lend a blade or two? I'll owe you a favor.",
+        "Between us, I've already lost two wagons this month. Help me keep {fief} open and I'll throw in a fine horse.",
+        "You've never let me down on a fair deal, so I'll ask plainly: will you help save {fief} from {enemy_faction}?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "town_01_01",
+    "faction": "faction_01",
+    "type": "town",
+    "name": "Calvenza",
+    "blurb": "Glassworks on the outer islands; its kilns light the lagoon at night and its glass is sold to every court."
+  },
+  {
+    "id": "town_01_02",
+    "faction": "faction_01",
+    "type": "town",
+    "name": "Brenzolo",
+    "blurb": "Salt-fish market where guild factors weigh every catch and quarrel over the price of eels."
+  },
+  {
+    "id": "town_01_03",
+    "faction": "faction_01",
+    "type": "town",
+    "name": "Orsana Vara",
+    "blurb": "Mint city of the Republic, where the guild treasury stores its gold behind iron doors."
+  },
+  {
+    "id": "town_01_04",
+    "faction": "faction_01",
+    "type": "town",
+    "name": "Feltravo",
+    "blurb": "Felt-and-wool town on the high canal; a legend says its first Provost drowned rather than sign a tariff."
+  },
+  {
+    "id": "castle_01_01",
+    "faction": "faction_01",
+    "type": "castle",
+    "name": "Gaiazzo",
+    "blurb": "Lombard hill-fort guarding the river pass, long contested by the Regency's marshals."
+  },
+  {
+    "id": "castle_01_02",
+    "faction": "faction_01",
+    "type": "castle",
+    "name": "Torre Sallante",
+    "blurb": "Tower of salt-merchants; its cellars hold the guild's debts written on cracked wax."
+  },
+  {
+    "id": "castle_01_03",
+    "faction": "faction_01",
+    "type": "castle",
+    "name": "Pelagrino",
+    "blurb": "Chapel-fortress where pilgrims pay tolls to cross; the monks keep the best ledgers in the land."
+  },
+  {
+    "id": "castle_01_04",
+    "faction": "faction_01",
+    "type": "castle",
+    "name": "Ostrenga",
+    "blurb": "Damp stone keep on a marsh island, rented out to mercenary companies by the season."
+  },
+  {
+    "id": "castle_01_05",
+    "faction": "faction_01",
+    "type": "castle",
+    "name": "Montorzo",
+    "blurb": "Hilltop castle whose lords refuse to pay canal tolls and sell their wine to the highest bidder."
+  },
+  {
+    "id": "castle_01_06",
+    "faction": "faction_01",
+    "type": "castle",
+    "name": "Fiorvena",
+    "blurb": "Garden castle with orchards irrigated by a Republic-built aqueduct; the Provost summers here."
+  },
+  {
+    "id": "castle_01_07",
+    "faction": "faction_01",
+    "type": "castle",
+    "name": "Dolmare",
+    "blurb": "Coastal fort at the lagoon mouth; its beacon warns merchant ships of Fen raiders."
+  },
+  {
+    "id": "village_01_01",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Cavedina",
+    "blurb": "Reed-cutters who sell thatch to every canal city; their feud with Fen boatmen is older than the Republic."
+  },
+  {
+    "id": "village_01_02",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Brollo",
+    "blurb": "Orchard village famed for pear brandy, shipped downriver in barrels stamped with guild seals."
+  },
+  {
+    "id": "village_01_03",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Pozzale",
+    "blurb": "Well-village where water-clerks test every cistern; they swear a curse lies in the deepest one."
+  },
+  {
+    "id": "village_01_04",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Remigo",
+    "blurb": "Oarmakers' village, its ash-trees felled and carved into the rowers of a thousand galleys."
+  },
+  {
+    "id": "village_01_05",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Caldoro",
+    "blurb": "Hot-spring village that sells bathing rights to merchants and heals no one who owes a debt."
+  },
+  {
+    "id": "village_01_06",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Sciaretto",
+    "blurb": "Fishing hamlet whose nets are tied with guild knots; its catch pays the Sorvelle locks."
+  },
+  {
+    "id": "village_01_07",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Nevrone",
+    "blurb": "Snow-fed mill village grinding grain for three cities, always short of millers and honest weights."
+  },
+  {
+    "id": "village_01_08",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Gorgola",
+    "blurb": "A whirlpool village at the river bend; sailors pray here before crossing the Ancaro sluices."
+  },
+  {
+    "id": "village_01_09",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Stellaro",
+    "blurb": "Lamp-makers' village; its oil lamps mark the canal routes and are sold across the Regency."
+  },
+  {
+    "id": "village_01_10",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Pescaldo",
+    "blurb": "Eel-catchers' village; they swear their eels are blessed and pay yearly tithes to the Pelagrino monks."
+  },
+  {
+    "id": "village_01_11",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Mantesca",
+    "blurb": "Dye-works village where cloth is coloured with woad and madder; its runoff tints the river blue."
+  },
+  {
+    "id": "village_01_12",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Dorsolo",
+    "blurb": "Gilded-mud village where prospectors wash silt for flecks of gold; they never share their claims."
+  },
+  {
+    "id": "village_01_13",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Ravanelle",
+    "blurb": "Market-garden village whose radishes and leeks feed Brenzolo's fish-market; a bitter rivalry."
+  },
+  {
+    "id": "village_01_14",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Ciotto",
+    "blurb": "Stone-quarry village whose masons built half the canal bridges; a strike here once froze trade for a year."
+  },
+  {
+    "id": "village_01_15",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Bindaro",
+    "blurb": "Rope-walk village where hemp is spun for every guild galley; each rope is knotted with a guild's name."
+  },
+  {
+    "id": "village_01_16",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Ussaglia",
+    "blurb": "Ferry village at the lagoon edge; ferrymen smuggle salt past the Republic's tolls each night."
+  },
+  {
+    "id": "village_01_17",
+    "faction": "faction_01",
+    "type": "village",
+    "name": "Valgrana",
+    "blurb": "Grain-valley village whose harvest pays the Republic's mercenary wages; its lords are sullen and proud."
+  },
+  {
+    "id": "town_02_01",
+    "faction": "faction_02",
+    "type": "town",
+    "name": "Heeluma",
+    "blurb": "Reed-boat yard where every clan's oath-stone is carved; its smoke-hung docks build the fastest hulls in the fen."
+  },
+  {
+    "id": "town_02_02",
+    "faction": "faction_02",
+    "type": "town",
+    "name": "Kaarnesta",
+    "blurb": "Stilt market on the black lake, famed for eel-smoked fish and a grudge against the river-guild toll-barges."
+  },
+  {
+    "id": "town_02_03",
+    "faction": "faction_02",
+    "type": "town",
+    "name": "Ruunhaavi",
+    "blurb": "Moot-island town where the oath-moot meets each midsummer; its bell is rung only when a clan breaks faith."
+  },
+  {
+    "id": "town_02_04",
+    "faction": "faction_02",
+    "type": "town",
+    "name": "Liivanne",
+    "blurb": "Salt-marsh shrine town trading peat-fire and amber; lords of the Salt-road still pay tribute here, grudgingly."
+  },
+  {
+    "id": "castle_02_01",
+    "faction": "faction_02",
+    "type": "castle",
+    "name": "Lohvaara",
+    "blurb": "Mazed reed-fort whose paths shift with the tide; a fabled trap that swallowed a Regency host."
+  },
+  {
+    "id": "castle_02_02",
+    "faction": "faction_02",
+    "type": "castle",
+    "name": "Sooraalen",
+    "blurb": "Ancient stilt-fort ringed by moss-walls; its keeper refuses any oath that names a king."
+  },
+  {
+    "id": "castle_02_03",
+    "faction": "faction_02",
+    "type": "castle",
+    "name": "Veenhalla",
+    "blurb": "Peat-brick hold on a sunken island; its cellars hold the clans' sworn reed-scrolls."
+  },
+  {
+    "id": "castle_02_04",
+    "faction": "faction_02",
+    "type": "castle",
+    "name": "Kiivarra",
+    "blurb": "Watchtower of oak piles over black water, guarding the only causeway into the heart of the fen."
+  },
+  {
+    "id": "castle_02_05",
+    "faction": "faction_02",
+    "type": "castle",
+    "name": "Vaalikka",
+    "blurb": "Half-sunken chapel-keep where the oath-moot's sacred eels are kept and fed each spring."
+  },
+  {
+    "id": "castle_02_06",
+    "faction": "faction_02",
+    "type": "castle",
+    "name": "Nurmuun",
+    "blurb": "Hill-fort of turf and stone above the reed line, a lookout against salt caravans from the south."
+  },
+  {
+    "id": "castle_02_07",
+    "faction": "faction_02",
+    "type": "castle",
+    "name": "Hamaanne",
+    "blurb": "Ruined ferry-castle whose toll chain was broken by river-guild marines; the clans want it back."
+  },
+  {
+    "id": "village_02_01",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Akkeli",
+    "blurb": "Eel-weir village whose traps feed half the fen; its fishers guard their weirs with knives."
+  },
+  {
+    "id": "village_02_02",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Jaarvun",
+    "blurb": "Hunting hamlet on the shore of Jaarvun Mere, famed for black-feathered decoy birds."
+  },
+  {
+    "id": "village_02_03",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Sirreka",
+    "blurb": "Smithy village working bog-iron into arrowheads; the Salt-road caravans once tried to buy every one."
+  },
+  {
+    "id": "village_02_04",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Meelvi",
+    "blurb": "Beekeepers hang hives on the reed-stalks here; a grudge with the forest wardens over stolen combs."
+  },
+  {
+    "id": "village_02_05",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Otsuuk",
+    "blurb": "Lakeside village known for whistle-songs that carry clan signals across three miles of mist."
+  },
+  {
+    "id": "village_02_06",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Vihkuu",
+    "blurb": "Ferryman's hamlet where river-guild surveyors vanished; locals still leave them offerings."
+  },
+  {
+    "id": "village_02_07",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Ruokkaa",
+    "blurb": "Fishing village on stilts, famed for its rope of twisted sedge that holds fast in any storm."
+  },
+  {
+    "id": "village_02_08",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Tiiruus",
+    "blurb": "Cairn-village marking the oath-moot's boundary; its stones are said to move when a clan lies."
+  },
+  {
+    "id": "village_02_09",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Ylaaka",
+    "blurb": "Upland hamlet of dry reed-thatch, a rare dry patch in the fen that bandits covet."
+  },
+  {
+    "id": "village_02_10",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Kuolmi",
+    "blurb": "Village of bone-pit ossuaries where clans bury their dead in the peat; the living avoid it at dusk."
+  },
+  {
+    "id": "village_02_11",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Eepsaa",
+    "blurb": "Crossroads hamlet where mud-roads meet the causeways; it sells passage for silver to any caravan."
+  },
+  {
+    "id": "village_02_12",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Ohtaam",
+    "blurb": "Reed-harvest village whose annual cutting festival ends in a mock raid on the nearest town."
+  },
+  {
+    "id": "village_02_13",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Rimmaa",
+    "blurb": "Quarry village of soft limestone; its masons build the only stone barges in the fen."
+  },
+  {
+    "id": "village_02_14",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Mooraa",
+    "blurb": "Wild-goose hunters' village; its geese are said to warn of approaching river-guild galleys."
+  },
+  {
+    "id": "village_02_15",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Haapuu",
+    "blurb": "Birch-grove village of shamans who read oath-omens from the bark of fallen trees."
+  },
+  {
+    "id": "village_02_16",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Vesseli",
+    "blurb": "Salt-marsh hamlet where caravan drovers once fled raiding clans; their hidden salt-caches are rumoured."
+  },
+  {
+    "id": "village_02_17",
+    "faction": "faction_02",
+    "type": "village",
+    "name": "Gaiuuk",
+    "blurb": "Mudflat village famed for its reed-boat racers; wagers here have started three feuds."
+  },
+  {
+    "id": "town_03_01",
+    "faction": "faction_03",
+    "type": "town",
+    "name": "Khorvand",
+    "blurb": "Holy city where the Pyre-Synod keeps the eternal brazier; its sulphur-scented hostels house pilgrims."
+  },
+  {
+    "id": "town_03_02",
+    "faction": "faction_03",
+    "type": "town",
+    "name": "Dzelmasi",
+    "blurb": "Obsidian-cutting town; its blades are blessed in the temple before they are sold to outsiders."
+  },
+  {
+    "id": "town_03_03",
+    "faction": "faction_03",
+    "type": "town",
+    "name": "Tsarvik",
+    "blurb": "Terraced market town famed for the black-vine wine that is never sold beyond the mountain."
+  },
+  {
+    "id": "town_03_04",
+    "faction": "faction_03",
+    "type": "town",
+    "name": "Pyrgeti",
+    "blurb": "Walled hill-town with hot springs; a grudge over a brazier stolen by canal guild agents."
+  },
+  {
+    "id": "castle_03_01",
+    "faction": "faction_03",
+    "type": "castle",
+    "name": "Vardakar",
+    "blurb": "Cliff fortress above the lava gorge; its gate-bell is rung only when the mountain speaks."
+  },
+  {
+    "id": "castle_03_02",
+    "faction": "faction_03",
+    "type": "castle",
+    "name": "Kheshmund",
+    "blurb": "Black-stone keep holding the oath-stone on which every priest-king is crowned."
+  },
+  {
+    "id": "castle_03_03",
+    "faction": "faction_03",
+    "type": "castle",
+    "name": "Dzoravan",
+    "blurb": "Siege-proof castle whose cisterns are fed by a hot spring that never freezes."
+  },
+  {
+    "id": "castle_03_04",
+    "faction": "faction_03",
+    "type": "castle",
+    "name": "Ruvaskar",
+    "blurb": "Border castle guarding the salt pass; a long feud with the caravan clans over its toll."
+  },
+  {
+    "id": "castle_03_05",
+    "faction": "faction_03",
+    "type": "castle",
+    "name": "Tsitelgar",
+    "blurb": "Mountain keep of ash-grey stone; its garrison has never surrendered in three sieges."
+  },
+  {
+    "id": "castle_03_06",
+    "faction": "faction_03",
+    "type": "castle",
+    "name": "Mokheti",
+    "blurb": "Frontier fort on the canal road; the guilds call it a thief's wall, the synod a holy shield."
+  },
+  {
+    "id": "castle_03_07",
+    "faction": "faction_03",
+    "type": "castle",
+    "name": "Oghvarn",
+    "blurb": "Castle built into a cooled lava tube, famed for its heavy armoured wardens."
+  },
+  {
+    "id": "village_03_01",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Obrazi",
+    "blurb": "Ash-farming village; its fields are famous for black barley grown on old lava."
+  },
+  {
+    "id": "village_03_02",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Lekhvan",
+    "blurb": "Shepherd hamlet whose flocks are sheared for the felt that lines the levies' helmets."
+  },
+  {
+    "id": "village_03_03",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Tsoranik",
+    "blurb": "Hot-spring village; bathers claim the water shows a ruler's fate."
+  },
+  {
+    "id": "village_03_04",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Dvalisi",
+    "blurb": "Quarry village cutting obsidian for temple altars; a grudge with Dzelmasi over prices."
+  },
+  {
+    "id": "village_03_05",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Hrevaneth",
+    "blurb": "Vineyard hamlet whose sour red wine is poured at every coronation."
+  },
+  {
+    "id": "village_03_06",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Ghemurt",
+    "blurb": "Mining hamlet on the slope; miners sing a hymn to the mountain before each shift."
+  },
+  {
+    "id": "village_03_07",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Vezhari",
+    "blurb": "Bell-founders' village; its bronze bells are said to quiet the mountain."
+  },
+  {
+    "id": "village_03_08",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Kashvel",
+    "blurb": "Pilgrim stop where the road climbs to the synod; pilgrims pay their toll in ash."
+  },
+  {
+    "id": "village_03_09",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Nerzhi",
+    "blurb": "Fishing hamlet on the black lake; the synod's clergy have cursed its nets."
+  },
+  {
+    "id": "village_03_10",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Pakhvari",
+    "blurb": "Treeless hill village famed for stone fire-shrines standing at every crossroad."
+  },
+  {
+    "id": "village_03_11",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Ulgeti",
+    "blurb": "Mule-breeding village that supplies the salt caravans; temple scribes despise it."
+  },
+  {
+    "id": "village_03_12",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Sekhomi",
+    "blurb": "Weaving village whose red cloth is worn by the priest-guards."
+  },
+  {
+    "id": "village_03_13",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Ardzhan",
+    "blurb": "Smoke-cured meat village; its hams are offered in the great temple each year."
+  },
+  {
+    "id": "village_03_14",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Mirzhak",
+    "blurb": "Woodcutter hamlet at the forest edge; a feud with the Warden villages over timber."
+  },
+  {
+    "id": "village_03_15",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Tervani",
+    "blurb": "Herb-gathering village; its healers are feared for their mountain-root poultices."
+  },
+  {
+    "id": "village_03_16",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Fashgeti",
+    "blurb": "Gate village below Oghvarn; locals pay their tithe by guarding the lava road."
+  },
+  {
+    "id": "village_03_17",
+    "faction": "faction_03",
+    "type": "village",
+    "name": "Zorvenk",
+    "blurb": "Ash-pit village where potters fire clay in volcanic kilns, known for black urns."
+  },
+  {
+    "id": "town_04_01",
+    "faction": "faction_04",
+    "type": "town",
+    "name": "Brezhnik",
+    "blurb": "Birch-bark tanners' market; every Warden's election is held under its great oak council tree."
+  },
+  {
+    "id": "town_04_02",
+    "faction": "faction_04",
+    "type": "town",
+    "name": "Ostrogrado",
+    "blurb": "Walled market-town where the Compact's oath-rolls are kept and feuds are settled by the bowstring."
+  },
+  {
+    "id": "town_04_03",
+    "faction": "faction_04",
+    "type": "town",
+    "name": "Mirkovice",
+    "blurb": "Honey and wax trading town, with a lingering grudge over a beehive tax the Regency tried to levy."
+  },
+  {
+    "id": "town_04_04",
+    "faction": "faction_04",
+    "type": "town",
+    "name": "Lipnevo",
+    "blurb": "Linden-wood carvers and bowyers; its yew-stave workshops supply half the Compact's longbows."
+  },
+  {
+    "id": "castle_04_01",
+    "faction": "faction_04",
+    "type": "castle",
+    "name": "Hrastovec",
+    "blurb": "Oak-ringed hillfort where the first Warden was chosen by a hunter's arrow."
+  },
+  {
+    "id": "castle_04_02",
+    "faction": "faction_04",
+    "type": "castle",
+    "name": "Ukrenvar",
+    "blurb": "Stone keep built by the Regency and now a Compact prize, held by a disputed garrison."
+  },
+  {
+    "id": "castle_04_03",
+    "faction": "faction_04",
+    "type": "castle",
+    "name": "Vodnagrad",
+    "blurb": "Lake fortress that refused the king's tax-collectors for three generations."
+  },
+  {
+    "id": "castle_04_04",
+    "faction": "faction_04",
+    "type": "castle",
+    "name": "Ruzhovec",
+    "blurb": "Rose-thorn hedge fort whose ditches are said to have been dug by the forest's own spirits."
+  },
+  {
+    "id": "castle_04_05",
+    "faction": "faction_04",
+    "type": "castle",
+    "name": "Yasenvar",
+    "blurb": "Ash-tree castle with a legend that its gate opens only for a Warden's true heir."
+  },
+  {
+    "id": "castle_04_06",
+    "faction": "faction_04",
+    "type": "castle",
+    "name": "Stribogra",
+    "blurb": "Wind-watch tower on the ridge; its keepers light beacons to warn the villages below."
+  },
+  {
+    "id": "castle_04_07",
+    "faction": "faction_04",
+    "type": "castle",
+    "name": "Vezhdrak",
+    "blurb": "Crumbling watchtower whose broken stair is a favourite ambush spot for outlaws."
+  },
+  {
+    "id": "village_04_01",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Smrekovo",
+    "blurb": "Spruce-resin village at the marsh edge, site of the disputed timber line with the Fen."
+  },
+  {
+    "id": "village_04_02",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Hlivno",
+    "blurb": "Mud-brick village famous for its clay ovens and the bread that feeds the Wardens' hunts."
+  },
+  {
+    "id": "village_04_03",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Brusnice",
+    "blurb": "Berry-picking hamlet where the pickers swear their oaths over cups of sour cider."
+  },
+  {
+    "id": "village_04_04",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Dubnyak",
+    "blurb": "Oak-cutters' village with a long feud against the Salt-road's timber caravans."
+  },
+  {
+    "id": "village_04_05",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Zhelnice",
+    "blurb": "Ironwood gatherers; a legend says the first bow of the Compact was carved here."
+  },
+  {
+    "id": "village_04_06",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Oshnivo",
+    "blurb": "Hunters' lodge village known for its hounds; a famous bear once killed a Regency marshal."
+  },
+  {
+    "id": "village_04_07",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Kravnik",
+    "blurb": "Cattle-breeders on the fen edge who still pay a yearly toll to the reed clans."
+  },
+  {
+    "id": "village_04_08",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Tranok",
+    "blurb": "Charcoal-burners' hamlet; the black smoke draws unwelcome riders in the dry season."
+  },
+  {
+    "id": "village_04_09",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Mokrenka",
+    "blurb": "Damp village built on stilts, with a grudge over a Warden who drowned in its millpond."
+  },
+  {
+    "id": "village_04_10",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Volchyk",
+    "blurb": "Wolf-trapper village whose pelts are prized in the River-guild cities, which overcharge them."
+  },
+  {
+    "id": "village_04_11",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Redlice",
+    "blurb": "Red-clay pottery village whose kilns scent the air for miles on festival nights."
+  },
+  {
+    "id": "village_04_12",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Gorvenka",
+    "blurb": "Mountain-pass hamlet where herdsmen once stopped an Ashland priest's procession."
+  },
+  {
+    "id": "village_04_13",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Sedlov",
+    "blurb": "Saddle-makers' village that sells fine horse gear to whichever lord pays best."
+  },
+  {
+    "id": "village_04_14",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Bukhrov",
+    "blurb": "Beech-wood hamlet with a shrine to the Hunter's Oath, carved into a living tree."
+  },
+  {
+    "id": "village_04_15",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Lyutoda",
+    "blurb": "Stone-bridge village where the river toll is collected by the Warden's sworn men."
+  },
+  {
+    "id": "village_04_16",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Chorvena",
+    "blurb": "Forest chapel village whose bell is rung backward when a Warden is slain."
+  },
+  {
+    "id": "village_04_17",
+    "faction": "faction_04",
+    "type": "village",
+    "name": "Vrasnik",
+    "blurb": "Crow-watch village whose scouts are trained to read the birds' warnings from the canopy."
+  },
+  {
+    "id": "town_05_01",
+    "faction": "faction_05",
+    "type": "town",
+    "name": "Ondrac",
+    "blurb": "Causeway town on the marsh edge, famous for its toll-gates and the grudge of Fen raids."
+  },
+  {
+    "id": "town_05_02",
+    "faction": "faction_05",
+    "type": "town",
+    "name": "Pellegrane",
+    "blurb": "Pilgrim-road town holding the mortgage deeds on half the royal granaries, owed to river bankers."
+  },
+  {
+    "id": "town_05_03",
+    "faction": "faction_05",
+    "type": "town",
+    "name": "Corbanel",
+    "blurb": "Wine-cellar town; the crown's last unpawned casks sleep under its market hall."
+  },
+  {
+    "id": "town_05_04",
+    "faction": "faction_05",
+    "type": "town",
+    "name": "Tessaguel",
+    "blurb": "Cloth market where dyed silks fetch lordly prices, and where guild factors count the regents' debts."
+  },
+  {
+    "id": "castle_05_01",
+    "faction": "faction_05",
+    "type": "castle",
+    "name": "Ysembert",
+    "blurb": "Sickroom fortress where the child-king sleeps under a dozen physicians' watchful eyes."
+  },
+  {
+    "id": "castle_05_02",
+    "faction": "faction_05",
+    "type": "castle",
+    "name": "Castelnarc",
+    "blurb": "Largest keep in the realm; its walls still bear the scorch marks of the Regents' War."
+  },
+  {
+    "id": "castle_05_03",
+    "faction": "faction_05",
+    "type": "castle",
+    "name": "Montsorel",
+    "blurb": "Hilltop castle whose lord claims the regency by right of his mother's blood."
+  },
+  {
+    "id": "castle_05_04",
+    "faction": "faction_05",
+    "type": "castle",
+    "name": "Nerveille",
+    "blurb": "Marshland castle guarding the causeway; its garrison is paid late and its keeper is often drunk."
+  },
+  {
+    "id": "castle_05_05",
+    "faction": "faction_05",
+    "type": "castle",
+    "name": "Garrouse",
+    "blurb": "Mountain keep with a gate of black oak and a legend of a knight who never came down."
+  },
+  {
+    "id": "castle_05_06",
+    "faction": "faction_05",
+    "type": "castle",
+    "name": "Ombrelac",
+    "blurb": "Lakeside castle whose moat is said to hold the drowned crowns of old kings."
+  },
+  {
+    "id": "village_05_01",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Auberrac",
+    "blurb": "Vineyard hamlet with a famous sour red that soldiers drink before every battle."
+  },
+  {
+    "id": "village_05_02",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Pichelle",
+    "blurb": "Mill village whose waterwheel is the regency's only dependable tax income."
+  },
+  {
+    "id": "village_05_03",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Sanquerec",
+    "blurb": "Chapel village where a miracle spring is said to cure the ailing king's fever."
+  },
+  {
+    "id": "village_05_04",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Ganteil",
+    "blurb": "Shepherd village known for glove-makers and a long feud with the nearby lord's pigs."
+  },
+  {
+    "id": "village_05_05",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Roucalh",
+    "blurb": "Quarry village supplying the great castles; its stonemasons strike whenever pay is late."
+  },
+  {
+    "id": "village_05_06",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Vignebel",
+    "blurb": "Orchard village; its cider is served at every regent's feast and blamed for every quarrel."
+  },
+  {
+    "id": "village_05_07",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Lorgesse",
+    "blurb": "Ferry village where river-guild toll-men and royal sergeants trade insults every day."
+  },
+  {
+    "id": "village_05_08",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Dusmerc",
+    "blurb": "Forest-edge village of charcoal burners who sell to whichever lord pays first."
+  },
+  {
+    "id": "village_05_09",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Fontagne",
+    "blurb": "Spring village with a stone well carved with the old kings' names, half scratched out."
+  },
+  {
+    "id": "village_05_10",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Cazelune",
+    "blurb": "Hunting village where the regents hold tournaments to prove which of them is bravest."
+  },
+  {
+    "id": "village_05_11",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Brenvaud",
+    "blurb": "Bridge village guarding the only dry crossing; its lord has never paid a toll himself."
+  },
+  {
+    "id": "village_05_12",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Aurigol",
+    "blurb": "Gold-dust village whose miners are paid in promissory notes from the empty treasury."
+  },
+  {
+    "id": "village_05_13",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Teoulac",
+    "blurb": "Fishing village on a mere; locals claim a drowned knight rings the bell at night."
+  },
+  {
+    "id": "village_05_14",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Ymbrane",
+    "blurb": "Hill village known for falconers, whose hawks are gifts exchanged between rival lords."
+  },
+  {
+    "id": "village_05_15",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Sauvanesse",
+    "blurb": "Monastery village whose scribes keep the realm's genealogies, and forge them when needed."
+  },
+  {
+    "id": "village_05_16",
+    "faction": "faction_05",
+    "type": "village",
+    "name": "Quelmont",
+    "blurb": "Quiet hamlet of salt-pan workers, fighting the river-guild over every bag they sell."
+  },
+  {
+    "id": "town_06_01",
+    "faction": "faction_06",
+    "type": "town",
+    "name": "Tassemmar",
+    "blurb": "Salt-weighing city whose brass scales set the weight for every caravan contract."
+  },
+  {
+    "id": "town_06_02",
+    "faction": "faction_06",
+    "type": "town",
+    "name": "Ouarnast",
+    "blurb": "Wharf town on the salt lake; rival caravans duel for the first place at the loading ramp."
+  },
+  {
+    "id": "town_06_03",
+    "faction": "faction_06",
+    "type": "town",
+    "name": "Ahnarou",
+    "blurb": "Oasis market where date groves feed caravans before the long waste crossing."
+  },
+  {
+    "id": "town_06_04",
+    "faction": "faction_06",
+    "type": "town",
+    "name": "Imzellan",
+    "blurb": "Walled well-town; its Dry Gate shuts each year on the first sandstorm of autumn."
+  },
+  {
+    "id": "castle_06_01",
+    "faction": "faction_06",
+    "type": "castle",
+    "name": "Iggoudar",
+    "blurb": "Toll-castle at the river ford; its garrison has fought the Regency for a decade."
+  },
+  {
+    "id": "castle_06_02",
+    "faction": "faction_06",
+    "type": "castle",
+    "name": "Azzenwar",
+    "blurb": "Hilltop well-fort guarding the only spring on the northern salt road."
+  },
+  {
+    "id": "castle_06_03",
+    "faction": "faction_06",
+    "type": "castle",
+    "name": "Tahnoun",
+    "blurb": "Mud-brick keep where the clans hold their oath-moots under the stars."
+  },
+  {
+    "id": "castle_06_04",
+    "faction": "faction_06",
+    "type": "castle",
+    "name": "Amrash",
+    "blurb": "Watchtower of pale stone where lookouts signal raids by mirror and smoke."
+  },
+  {
+    "id": "castle_06_05",
+    "faction": "faction_06",
+    "type": "castle",
+    "name": "Irhessa",
+    "blurb": "Ruined fort said to be built by the first salt-kings, haunted by their camels."
+  },
+  {
+    "id": "castle_06_06",
+    "faction": "faction_06",
+    "type": "castle",
+    "name": "Ouallen",
+    "blurb": "Strong gatehouse over the caravan route; any lancer who passes owes it a song."
+  },
+  {
+    "id": "village_06_01",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Iddrin",
+    "blurb": "Date-farmers' hamlet known for the sweetest fruit in the south."
+  },
+  {
+    "id": "village_06_02",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Tamzerat",
+    "blurb": "Well village where a legend says the first camel knelt to drink."
+  },
+  {
+    "id": "village_06_03",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Ahlouf",
+    "blurb": "Tent-camp that moves with the seasons and never shows its walls twice."
+  },
+  {
+    "id": "village_06_04",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Essidra",
+    "blurb": "Salt-pan village; its workers sing a grudge against river-guild buyers."
+  },
+  {
+    "id": "village_06_05",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Unzal",
+    "blurb": "Dust-bowl hamlet of goatherds, famous for its rough wine of figs."
+  },
+  {
+    "id": "village_06_06",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Tifrasht",
+    "blurb": "Shrine-spring where caravaners leave a coin and a promise for safe passage."
+  },
+  {
+    "id": "village_06_07",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Imzaz",
+    "blurb": "Mint village that stamps the clans' silver tokens for trade."
+  },
+  {
+    "id": "village_06_08",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Anhilt",
+    "blurb": "Hamlet of tanners who cure hides for the lancers' saddles and boots."
+  },
+  {
+    "id": "village_06_09",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Tazirda",
+    "blurb": "Horse-breeding village whose grey mares are prized across the continent."
+  },
+  {
+    "id": "village_06_10",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Ouzmar",
+    "blurb": "Quarry hamlet cutting pale stone for the few castles the clans raise."
+  },
+  {
+    "id": "village_06_11",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Ifghelen",
+    "blurb": "Oasis village with a sunken garden said to hold a sleeping spirit."
+  },
+  {
+    "id": "village_06_12",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Tinouzat",
+    "blurb": "Shepherd village; its herders still nurse the grudge of a stolen flock."
+  },
+  {
+    "id": "village_06_13",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Ahnazz",
+    "blurb": "Caravanserai village where a neutral oath is sworn over a bowl of salt."
+  },
+  {
+    "id": "village_06_14",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Irzaghen",
+    "blurb": "Mud village built on the bones of a raided fort, a warning to raiders."
+  },
+  {
+    "id": "village_06_15",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Tahassal",
+    "blurb": "Village of falconers whose birds hunt the Fen's reed-geese each autumn."
+  },
+  {
+    "id": "village_06_16",
+    "faction": "faction_06",
+    "type": "village",
+    "name": "Ilmadd",
+    "blurb": "Lamp village known for oil pressed from desert seeds and sold in the towns."
+  }
+]

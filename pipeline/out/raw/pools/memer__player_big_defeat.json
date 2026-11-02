@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "memer__player_big_defeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "55dbfaf0ee306c0694e05946483d8fdd8ed99bd37d797f20c3a043553dec5658",
+    "model": "haiku",
+    "cost_usd": 0.00561885,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:03:51+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "lost {troop_count} troops in one afternoon. the field is still arguing with me about it :(",
+        "my army went in a straight line and came back in a different straight line. very disorganized of them",
+        "{player} says they had nothing to do with my defeat. i am choosing to believe them but only a little >:(",
+        "the enemy commander is now officially my nemesis. they got lucky and i will be unlucky at them :P",
+        "{player} keeps grinning at the battlefield like it owes them money. it does not. stop it",
+        "down {troop_count} troops and one pride. the pride will be back after a nap xD",
+        "if {player} is planning to gloat about my losses, please do it quietly. i can hear it from here",
+        "everyone who saw the battle, forget it. i am the victim here and i will be taking questions later"
+      ],
+      "whisper": [
+        "{player} i see you grinning on the map. the grin will be removed in a future update :)",
+        "you did not win that fight so do not write a victory poem about it. i will write a worse one and read it aloud xD",
+        "{player} your scouts were loud and my army was listening. that is basically sabotage xD",
+        "i lost {troop_count} troops and you are still the one i blame. you know why. stop looking smug",
+        "{player} say the word and i will tell everyone your battle plan was just a pile of parchment",
+        "we are not friends. we were never friends. we are two people who share a map and a grudge :(",
+        "{player} i am taking note of every smug emote you sent. the list is long and i am patient >:)",
+        "no revenge yet. just vibes. the vibes are scowling and they know your name"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "lost most of my army this morning. the grass is cushy and i am choosing to stay here forever",
+        "{troop_count} troops went out and only the horses came back. the horses look smug about it",
+        "war report: bad. dinner: good. the stew did not lose a single soldier xD",
+        "anyone seen my army? last seen heading toward the hills with a very confident walk",
+        "for the record the battle was fair. the dice were just rude to me :/",
+        "reminder that losing an army is only a setback if you do not make a parade out of it. parade at noon",
+        "i am not saying the other side cheated. i am saying their shoes were suspiciously shiny",
+        "just lost {troop_count} to a surprise attack and now i need a nap, a drink, and a new army xD"
+      ],
+      "whisper": [
+        "{player} heard about the battle. sorry about your loss too. mostly i am sorry for the mud",
+        "{player} we are on the same map but i am not sure we are on the same side. just letting you know :)",
+        "{player} if you have spare troops i will not ask questions. i will just stare at them sadly",
+        "hey {player}. my army took a bad beating, so please do not send me a victory cheer right now :P",
+        "{player} i am not mad. i am mildly confused and eating a sad sandwich about it",
+        "{player} that was a lot of chaos. i respect the chaos. i do not like the chaos but i respect it",
+        "{player} ok so my army is gone and my pride is in a bag. are you still willing to be neighbors",
+        "{player} let us agree to ignore each other for a week and see who cracks first xD"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "lost {troop_count} troops today but {player} still showed up with snacks. legends do exist :)",
+        "a shoutout to everyone who stuck around after my army got flattened. you are my favorite pile of mud",
+        "the army is down but morale is up. i have the best friends and the worst scouts :P",
+        "{player} says the defeat was a learning experience. i say it was a comedy and i was the lead xD",
+        "my army went out heroic and came back as a rumor. the rumor is also very tired. good work everyone :)",
+        "to the people who sent kind messages after the battle: thank you. the grumpy horses say thanks too",
+        "losing most of the army is a bummer but at least the stew survived. stew for everyone xD",
+        "re-forming the army starts now. recruits welcome. snacks mandatory. no scouts with bad jokes"
+      ],
+      "whisper": [
+        "{player} thanks for the words after the battle. the army is wounded but i am not. mostly i am a sad sandwich",
+        "{player} next battle we go together. you bring the banners, i will bring the questionable plans :)",
+        "{player} that crushing defeat was real but so was the company. i count you as a good loss",
+        "{player} you were the only one who did not laugh at me. that makes you my favorite person this week",
+        "{player} i am rebuilding the army. want to be the first recruit or the loudest scout xD",
+        "{player} the snacks are gone but the rivalry is not. you are still my favorite ally :P",
+        "{player} i lost {troop_count} troops and gained a friend. the trade felt fair to me :)",
+        "{player} we will get them back. together we can out-stubborn anything on this map. i believe in us"
+      ]
+    }
+  }
+}

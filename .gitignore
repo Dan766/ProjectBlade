@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+pipeline/out/dryrun/
+game/.godot/
+game/data/generated.tmp/
+# pipeline/out/raw is committed on purpose: model output is expensive to regenerate.

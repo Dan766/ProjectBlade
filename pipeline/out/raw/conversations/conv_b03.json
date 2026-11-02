@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "job_id": "conv_b03",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "54804ddac3160a44af922b03cef251fcd1da3f3726b2d4557a19e19d77cb93c5",
+    "model": "haiku",
+    "cost_usd": 0.00695695,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:41:37+00:00"
+  },
+  "data": {
+    "conv_011": [
+      {
+        "speaker": "bisket",
+        "text": "Did you all see? {player} has sworn to {faction} and left our banners behind. Some call it betrayal, and I cannot say they are wrong.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "Easy now, bisket. Betrayal is a heavy word for one oath. There is always another road, and {player} may still find their way back.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "bisket",
+        "text": "Of course you would say that. You sent {troop_count} men to {village} without asking the council, and we all remember it.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "That was a fair call, and you know it. I will not trade insults over a choice already made. Save your motion for the council.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "bisket",
+        "text": "A matter for the council, {player}. Come find me before you sign anything else. I would be glad to hear your side of things.",
+        "delay_s": 5
+      }
+    ],
+    "conv_012": [
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "ok everyone stop what ur doing!!! {player} has won like SIX battles in a row?? the ferry man is weeping :D",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "A streak like that is worth respecting, Duke. Keep your wells full, though, friend. Luck turns faster than any siege engine I have seen.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "luck?? LUCK?? dame that was pure genius :) they took {town} with {troop_count} men and a wheelbarrow of lies lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Your wheelbarrow will be sung about at every feast now, Duke. I suspect {player} is less amused than you are. Watch your flanks.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "ur just jealous the bards dont rhyme ur name yet >:) i will fix that by friday i defintely promise",
+        "delay_s": 3
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "I am not jealous, and you are not fixing anything by Friday. Spend {gold} on wells instead, and perhaps we can all sleep tonight.",
+        "delay_s": 10
+      }
+    ],
+    "conv_013": [
+      {
+        "speaker": "Ramratio91",
+        "text": "raid on {village} saturday. we bring {troop_count} cav and the flank. you bring the line. dont be late",
+        "delay_s": 0
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "fine. i will bring the line but not if the wall timing is off again. last time ur cav ran ahead by a full minute",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "that was one mistake and the scouts were wrong not me. we hit at minute 4 this time. ur line needs to hold until then",
+        "delay_s": 6
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "ur line broke at minute 4 last time. fix that before you talk about holding. i also want {gold} from the loot split",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "loot split 60 40 and you carry the siege ladders. non negotiable",
+        "delay_s": 4
+      },
+      {
+        "speaker": "TurnipTheFlank",
+        "text": "fine. 50 50 and i bring my own ladders. gg in advance",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "gg. dont make me regret the alliance",
+        "delay_s": 3
+      }
+    ],
+    "conv_014": [
+      {
+        "speaker": "reedtoll",
+        "text": "{player} took {fief} back from us. the garrison had {troop_count} men and they still lost it. i am not even mad.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "Oh no, I think I jsut broke it :( did {player} just take {fief} from reedtoll?? sorry if that is a dumb question",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "Every road has a price, friend, and {player} clearly paid it. Do not sulk too long. Gold finds its way back to the clever ones.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "reedtoll",
+        "text": "i am not sulking. salt is up in {town} now. ask me why.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "wait why is salt up?? i jsut bought some for {gold} :)",
+        "delay_s": 3
+      },
+      {
+        "speaker": "reedtoll",
+        "text": "because {player} owns the road to {town} now. buy from me instead, my carts still run.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "Reedtoll, you are being a poor sport. Towns change hands, that is the game. Pikkerel, buy your salt from me instead, friend.",
+        "delay_s": 6
+      }
+    ],
+    "conv_015": [
+      {
+        "speaker": "MEADLING7",
+        "text": "wiat is {player} the one who took {town} with only {troop_count} men?? thats insane :O",
+        "delay_s": 0
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "{player} 2:1 cav wins. the renown is earned not lucky. recheck ur comp meadling",
+        "delay_s": 4
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Renown is a fine thing, {player}, but it does not fill a granary. Shall we talk prices before every merchant bids on your name?",
+        "delay_s": 5
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "no prices barrelcask. {player} earned that renown on the field. ur granary can wait",
+        "delay_s": 6
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "I only ask because the last man who ignored me paid {gold} more for grain. Do not be the next fool, MOSSY9.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "MEADLING7",
+        "text": "sry i have no idea what grain does :( is it for the soldiers or the horses??",
+        "delay_s": 3
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "grain feeds the troops meadling. keep asking questions and u will stop losing",
+        "delay_s": 3
+      }
+    ]
+  }
+}

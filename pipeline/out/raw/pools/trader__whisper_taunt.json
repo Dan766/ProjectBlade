@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "trader__whisper_taunt",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "6cbef648215bdd59a3d7df50e691800a39815be98835967d5a6d6c61470c2b03",
+    "model": "haiku",
+    "cost_usd": 0.00355995,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:14:19+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "Still walking everywhere, {player}? Shame. Coin never fattens a cart that stays on foot.",
+        "I checked the market board. Your wares are priced like yesterday's bread. Hard to watch, honestly.",
+        "Every trader I know keeps a spare wagon. You have a pack mule and a prayer. Bold strategy.",
+        "Tell me, {player}, do you count your coins before or after the bandits take them?",
+        "I'd offer you a loan, but I've read your ledger. Dreadful reading. Keep your chin up.",
+        "Walked past your stall twice today. Nobody stopped. Not even the pigeons. Strange how that works.",
+        "Your last caravan earned less than it paid in tolls. I did the sums. Rather sad, really.",
+        "Honest advice: stop bidding against {rival}'s buyers. They already know exactly what you'll accept."
+      ]
+    }
+  }
+}

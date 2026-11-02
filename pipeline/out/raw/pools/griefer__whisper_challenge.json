@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "griefer__whisper_challenge",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "59de5b5b0aa337ff39f4de35cc25ee6c46af6d49e8d310888bf605f3f078d30a",
+    "model": "haiku",
+    "cost_usd": 0.00399135,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:16+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "rematch at {village} tmrw last time u ran like a chicken so bring a bigger horse lol",
+        "ur third loss to me is already written in the stars just come to {village} and let me sign it",
+        "still counting ur insults from last week btw im at 14 meet me at {village} and ill make it 15 ez",
+        "heard u been practicing well the scarecrows at {village} are still waiting for their rematch",
+        "bet u cant even find {village} without the map so ill wait by the well and u can cry when u get there",
+        "come to {village} and face me like a real fighter or keep hiding behind ur sheep forever cope",
+        "i burned the last village u were defending so im bored now meet at {village} for a proper fight",
+        "one more loss and ill start calling u the ghost of {town} since thats where u go to hide"
+      ]
+    },
+    "neutral": {
+      "whisper": [
+        "hey {player} got a free hour meet me at {village} for a duel no pressure if u wanna back out lol",
+        "idk if ur any good but ive got time at {village} if u want to test that",
+        "ok so ive been wanting a rematch with u for a while {village} at sundown dont be late",
+        "just a friendly invite to get smacked at {village} no hard feelings if ur scared",
+        "you dont have to say yes but ill be standing at {village} with my sword out either way",
+        "ur probably busy but if u wanna settle things come to {village} ill be bored there anyway",
+        "meet me at {village} whenever ill be the one with the shiny helmet pretending i didnt see u coming",
+        "not trying to start drama just think we should finish what we started at {town} lol"
+      ]
+    }
+  }
+}

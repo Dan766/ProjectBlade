@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "job_id": "conv_b11",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "7a1aa39b6e2766cdcdcfc9f9a9cb1389de461926d02b28ec98d3c29385351142",
+    "model": "haiku",
+    "cost_usd": 0.00736165,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:42:21+00:00"
+  },
+  "data": {
+    "conv_051": [
+      {
+        "speaker": "Frogguh",
+        "text": "okay hear me out... the pikemen are the best troop type. the goose has spoken :) !!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "KesTrelWhoops",
+        "text": "wait what does that button do... also pikes r just sticks with attitude right",
+        "delay_s": 4
+      },
+      {
+        "speaker": "LadyGullmere",
+        "text": "Sticks with attitude, Kes? By my ancestors, the longbowmen of Orlagua would weep to hear it. Your pikes are a wall, not a plan.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Frogguh",
+        "text": "lady gullmere the goose disagrees with ur wall :( the goose will bring {troop_count} geese to prove it !! ur wall is sad",
+        "delay_s": 5
+      },
+      {
+        "speaker": "KesTrelWhoops",
+        "text": "is the goose going to win the fight tho. asking for me. i have {gold} gold and no idea what to buy",
+        "delay_s": 3
+      },
+      {
+        "speaker": "LadyGullmere",
+        "text": "Buy a pike, child, and stop asking geese for strategy. Frogguh, you shall answer for this mockery at {town} tomorrow.",
+        "delay_s": 7
+      }
+    ],
+    "conv_052": [
+      {
+        "speaker": "ruuk",
+        "text": "pike prices in {town} went up again. tolls are theft. my prices are not. buy?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Gg. Three pikes too many, honestly. {gold} gold for that stack is a markup, not a price.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "Hear me, marrowmeta, the ancestors are watching how you count coin. Fair weights were sworn in {village} long before your ledgers.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "StormPigeon88",
+        "text": "the storm is personal now, marrowmeta. ur ledger has more holes than my boots lol",
+        "delay_s": 3
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Your boots are not my concern, StormPigeon88. Your pike stack is. Stop shouting and count it.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ruuk",
+        "text": "ok ok. i can do {troop_count} pikes at a fair price if u all stop yelling in my shop. who is buying",
+        "delay_s": 6
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "Trader, I shall pay your fair price, but only if the weights are checked by a witness. Hear me, the ancestors demand it.",
+        "delay_s": 5
+      }
+    ],
+    "conv_053": [
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Siege at {town} opens at dawn, friends. I have {gold} gold riding on the walls holding. Who wants to match it?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "HelmDodger",
+        "text": "lol the walls hold for like a day then the gate goes. i got {gold} on that. still keeping score whiskerquorum thats 4 now",
+        "delay_s": 4
+      },
+      {
+        "speaker": "GravelOathkeep",
+        "text": "The gate holds, and so does my word. I wager nothing I cannot pay, but I will stand on those walls at {town} myself.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "whiskerquorum",
+        "text": "GravelOathkeep, might we speak in private before the vote? A wager is only honest when the terms are written down, and written well.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Terms in writing, whiskerquorum? Fair. Ink costs me 2 gold a pot, so bring your own. Wool is still 40 gold a bolt, mind.",
+        "delay_s": 3
+      },
+      {
+        "speaker": "HelmDodger",
+        "text": "ur gonna lose that ink money whisker. just saying. 4 losses and counting :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "GravelOathkeep",
+        "text": "Enough. A wager made in the Republic's name is kept, HelmDodger, win or lose. Put your {gold} on the table before dawn.",
+        "delay_s": 7
+      }
+    ],
+    "conv_054": [
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Whoever took the cart from the causeway outside {village} shall return it. The Ondrac roads remember thieves, lich3n_grudge, and so do I.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "lich3n_grudge",
+        "text": "lol wat cart. dame ur so dramatic :) i was at {town} all morning. wait did u lose a horse too",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Falkyn",
+        "text": "omg sorry dame!! i think i saw a cart?? it was near {village} and it had a horse hitched to it!! thank u so much for asking :D",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Falkyn, you have done honest service and I thank you. lich3n_grudge, the horse was seen with you at the crossing. Explain yourself.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "lich3n_grudge",
+        "text": "gg dame. ur horse is probably in a ditch lmao. wait falkyn was that ur name or ur username",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Falkyn",
+        "text": "its my name!! my mum says hi lol. i have {gold} gold if u want to split the reward for finding the cart??",
+        "delay_s": 3
+      },
+      {
+        "speaker": "DameBeaneOfQuel",
+        "text": "Let the causeways of Ondrac remember this, lich3n_grudge. Falkyn, keep your gold. The cart is found and the thief is named.",
+        "delay_s": 5
+      }
+    ],
+    "conv_055": [
+      {
+        "speaker": "GravelOathkeep",
+        "text": "Word from {town} is that {player} has won seven battles running. The gate holds, and so does my word, but I did not expect this.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SirButtonsworth",
+        "text": "7 wins??? wat. the buttns r ur treaty now {player} :) i will bake u a cake w 7 candles",
+        "delay_s": 4
+      },
+      {
+        "speaker": "EarlSootmere",
+        "text": "gg. the ratio was the problem. not the gear. {player} just timed the charge better. nothing more to it",
+        "delay_s": 5
+      },
+      {
+        "speaker": "OldCloakwright",
+        "text": "Sit a while, {player}. The road will keep. Seven is a fine number, but the road keeps longer than any winning streak, I have learned.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SirButtonsworth",
+        "text": "earl. u just got ratioed by a man with a cake :)",
+        "delay_s": 3
+      },
+      {
+        "speaker": "GravelOathkeep",
+        "text": "A treaty is only a treaty when the gate is kept. I will watch {player} at {town}, and I will judge the ledger then.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "EarlSootmere",
+        "text": "watching is fine. i will be at {town} too. buttons keep your cake away from my purse",
+        "delay_s": 4
+      }
+    ]
+  }
+}

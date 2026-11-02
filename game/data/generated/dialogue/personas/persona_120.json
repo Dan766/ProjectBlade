@@ -1,0 +1,249 @@
+{
+ "username": "HammerhandVow",
+ "signature": {
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_120.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Halt, ser {player}! I am {persona} of {my_faction}, and I will not yield this road to any who would bar it. Stand aside or prove your mettle."
+   },
+   {
+    "id": "sig.persona_120.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Good day, ser {player}. I am {persona}, sworn to {my_faction}. Our paths cross upon this road, so let us part with honour and without bloodshed, traveller."
+   },
+   {
+    "id": "sig.persona_120.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well met, friend {player}! {persona} of {my_faction} greets you. My ancestors would weep to see two honest parties pass without a word of cheer."
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_120.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Pay {gold} to a man who has sworn an oath? Keep your coin, ser {player}. You shall have steel before you have a single piece of silver from me."
+   },
+   {
+    "id": "sig.persona_120.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "You name a price of {gold} and a surrender in one breath, ser {player}. I have kept my oath through worse threats than yours. Speak plainer, or step back."
+   },
+   {
+    "id": "sig.persona_120.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, I know you jest, for you would not cheapen yourself with a demand of {gold}. Let us speak again when the blood has cooled."
+   },
+   {
+    "id": "sig.persona_120.encounter_threatened.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{gold} for my surrender? The Ouzmar hammer has been broken before and I still stand. Come and take what you want, ser {player}, and let the saga record your shame."
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_120.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I accept your proposal, ser {player}. Our banners shall stand together against {enemy_faction}, and my hammer will answer for the oath we swear."
+   },
+   {
+    "id": "sig.persona_120.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "By my oath, ser {player}, I accept! We shall break {enemy_faction} together, and the saga will name us allies in arms for generations."
+   },
+   {
+    "id": "sig.persona_120.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Agreed, ser {player}. I will not share a fire with {rival}, but you I trust. Let us march against {enemy_faction} and let our word be the bond between us."
+   }
+  ],
+  "encounter_alliance_no": [
+   {
+    "id": "sig.persona_120.encounter_alliance_no.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I must decline, ser {player}. An alliance is an oath, and I do not swear lightly. Perhaps when the moon is kinder we may speak of it again."
+   },
+   {
+    "id": "sig.persona_120.encounter_alliance_no.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "No, ser {player}. I will not bind my hammer to yours while you keep company with {rival}. Prove your honour first, and then we shall talk."
+   },
+   {
+    "id": "sig.persona_120.encounter_alliance_no.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "I regret I must refuse, ser {player}. Your offer is honourable, but my vow forbids it for now. Know that I remember your courtesy all the same."
+   }
+  ],
+  "captured_by_player": [
+   {
+    "id": "sig.persona_120.captured_by_player.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Bound and beaten, yet not broken, ser {player}. Ask your ransom of {my_faction} if you must, but know that I will not beg before you."
+   },
+   {
+    "id": "sig.persona_120.captured_by_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I am your captive, ser {player}, and I will not dispute it. {gold} is what you ask, and {my_faction} will pay it in time, for our oaths bind us to one another."
+   },
+   {
+    "id": "sig.persona_120.captured_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "A fine stroke brought me low, ser {player}. You have my respect, and I shall tell my kin that you fought as an honest knight and held your captive with fairness."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_120.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you could have ransomed me and did not. I shall not forget this mercy, and my hammer owes you a debt."
+   },
+   {
+    "id": "sig.persona_120.released_by_player.02",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Let it be known that ser {player} released me without ransom. Mercy such as that is rare on these roads, and my hammer honours it."
+   },
+   {
+    "id": "sig.persona_120.released_by_player.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You loosed my chains, ser {player}, and asked nothing of me. I cannot yet call us friends, but I will not forget the mercy shown."
+   },
+   {
+    "id": "sig.persona_120.released_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Ser {player} let me go rather than take my coin. I still count you a rival to my faction, but I will not deny the mercy you showed."
+   }
+  ],
+  "player_left_my_faction": [
+   {
+    "id": "sig.persona_120.player_left_my_faction.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Ser {player} has forsaken {my_faction} for {faction} like a coward turning from the field. Let the saga record this betrayal."
+   },
+   {
+    "id": "sig.persona_120.player_left_my_faction.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Ser {player} has left {my_faction} for {faction}. Oaths are hard to keep and easy to break, so I shall judge by what you do next."
+   },
+   {
+    "id": "sig.persona_120.player_left_my_faction.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "I grieve to see you leave {my_faction}, ser {player}, though I will not curse you. Your honour is still yours to keep, wherever you march."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_120.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Upon my hammer's oath, {my_faction} takes up arms against {enemy_faction}! Let the saga remember which banners marched first."
+   },
+   {
+    "id": "sig.persona_120.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Let the bells of {my_faction} ring out! War is declared on {enemy_faction}, and I shall stand in the first rank as my ancestors did."
+   },
+   {
+    "id": "sig.persona_120.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} has thrown down the gauntlet to {my_faction}. Very well, I accept it, and I shall answer with my hammer and my name."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_120.fought_alongside_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, your shield stood beside mine at the ford. With {troop_count} blades we broke {enemy_faction}. I shall not forget it, friend."
+   },
+   {
+    "id": "sig.persona_120.fought_alongside_player.02",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, we fought as one with {troop_count} blades against {enemy_faction}, and not a man turned from the line. Such courage honours us both, traveller."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_120.encounter_farewell.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "We part for now, ser {player}, but I shall not forget your face. When next we meet, let the hammer speak for us both."
+   },
+   {
+    "id": "sig.persona_120.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Go well on your road, ser {player}. May your oaths be kept and your banners held high until we meet again."
+   },
+   {
+    "id": "sig.persona_120.encounter_farewell.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Farewell, friend {player}. Walk in honour, and I shall walk in honour too. Until the roads cross again, my hand is open to you."
+   },
+   {
+    "id": "sig.persona_120.encounter_farewell.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Begone for now, ser {player}. Our quarrel is not finished, and the saga shall not close until it is settled between us."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_120.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The rain over {town} is a fine omen for the smithies. A good hammer rings truest on a wet morning, friends."
+   },
+   {
+    "id": "sig.persona_120.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Word from {village} is that the bread is thin this season. Still, the folk there keep their oaths, and I honour them for it."
+   },
+   {
+    "id": "sig.persona_120.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Stalwart folk of {town}, keep your oaths and your forges burning. The saga is long and the road is longer still."
+   },
+   {
+    "id": "sig.persona_120.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Someone in {village} called the road a grind. A grind? Speak of honest labour, not of such words, I beg you."
+   },
+   {
+    "id": "sig.persona_120.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "Tools sent to {town} under oath must be carried with care, for no lazy hand should touch a vow made in iron."
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "job_id": "politician__captured_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "b8b59971da1ba7058c10fba05026598364345b29881419ae2931b0842df5d2fa",
+    "model": "haiku",
+    "cost_usd": 0.0098012,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: Additional properties are not allowed ('neutral' was unexpected)"
+    ],
+    "created_at": "2026-11-01T17:07:49+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "You may hold my person, {player}, but a captive is not a conquest. The council will hear of this, and its memory is longer than your sword arm.",
+        "Enjoy your little victory. Every lord who watched you drag me across that field will remember who chose brute force over a sensible negotiation.",
+        "Shall I name the three barons who will cheer my release? Not one of them will mourn your name, {player}. Do try to sleep soundly.",
+        "A ransom of {gold} would be a bargain for you and a humiliation for me. Pay it quickly, or I will take my time shaping the story of how you lost my favour.",
+        "How very predictable. You took a prisoner to look strong, when you have only proved you lack the patience to win a vote.",
+        "Bind my wrists if it comforts you. Bonds are such a clumsy tool, and I have never yet met one I could not talk my way out of.",
+        "I am told the hall of {my_faction} still debates whether your banner deserves its place at the table. I fear this little raid will not help your case.",
+        "Do not mistake my silence for surrender, {player}. I am merely counting the names of those who will stand at my side when the next session is called."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Well, {player}, you have me. Shall we discuss terms like civilised people, or must we pretend I am simply cargo for the road?",
+        "A captive is a curious asset. I am sure you have already weighed what I am worth, though I would advise you to weigh it against what I could tell the council.",
+        "Set your demands before the sun moves much further. I have no wish to sit in this cart any longer than necessary, and neither, I suspect, do you.",
+        "There are seven fiefs on the western road that have quietly been looking for a new protector. Perhaps we could speak of them instead of ransoms.",
+        "I bear you no personal malice, {player}. Politics is simply what happens when two ambitious people share a road and neither trusts the other.",
+        "A ransom of {gold} would settle the matter, though I would prefer a discussion first. A written pledge would be cheaper for both of us and far less messy.",
+        "You will want witnesses before you act on anything I say. Keep me where the wider assembly can see, and I may find my memory of this day rather generous.",
+        "Consider carefully whom you release me to. The wrong hand on my bridle could cost you more than my ransom ever would."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ah, {player}, of all the banners on that field, I am glad it was yours that caught me. Let us speak plainly, as two people who understand the council's ways.",
+        "I shall not pretend this is an unfortunate turn of events. You have always been the sort of ally who knows when to press and when to wait, and I value that.",
+        "Keep your guards at ease, {player}. A friend in the hall is worth more to me than any cell, and I intend to repay the kindness when the vote comes round.",
+        "Should you wish, I can name the members of the assembly who will owe you a favour after today. I am rather good at remembering who stood by me.",
+        "Between us, a ransom of {gold} is a formality. I would far rather see it spent on a seat for you than wasted on some stranger's grudge.",
+        "You make a poor brigand and a fine diplomat, {player}. Keep that in mind when the others start counting who backed whom in this affair.",
+        "Once I am home, the proposals we discussed will reach the floor quietly. I suspect you will find the other lords more receptive than they were last season.",
+        "Do not let the rough road fool you. Your captive remains your admirer, and {my_faction} will recall how generously you treated its representative."
+      ]
+    }
+  }
+}

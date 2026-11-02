@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "job_id": "persona_049",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "e5acacd06885d40e28a359767093b8db18b8fb0fe02cd2acbdaf6da36783a0a1",
+    "model": "haiku",
+    "cost_usd": 0.00734985,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:34:13+00:00"
+  },
+  "data": {
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Halt, ser {player}! I am {persona} of {my_faction}, and my banner has never bowed to a stranger's demands. State your business or stand aside."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Good day, ser {player}. {persona} of {my_faction} rides these roads under my own oath, and I would know your purpose before our paths cross further."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, what good fortune! {persona} of {my_faction} greets you as a brother-in-arms. May the road be kind to us both, traveller :)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Traveller, I am {persona}, sworn to {my_faction} and to the fief of Obrazi. Speak plainly, ser {player}, and I shall answer in kind."
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Surrender, ser {player}? You would ask {gold} of me and call it mercy? My ancestors would turn in their graves. Keep your threats for those who fear them."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{gold} for my life and my honour, ser {player}? Bold words from one who has not yet earned my respect. I will answer with steel, not silver."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, you name a price of {gold} and a threat in the same breath. I am a patient man, but patience has its limits, so speak your terms plainly."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I hold you in good regard, yet even old friends do not demand {gold} at the point of a blade. Let us talk of this like honest folk."
+      }
+    ],
+    "encounter_alliance_yes": [
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, I accept your proposal of alliance against {enemy_faction}. Let our oaths be sworn here, and may our banners stand together until the matter is settled."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Gladly, ser {player}! I shall stand beside you against {enemy_faction}, and my name, sworn on my ancestors' graves, will be yours until this saga ends."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Mark me, ser {player}: I keep my word. I trust you will not be another {rival}, who broke faith with lesser men than me."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "A fine day for oaths, ser {player}! With {enemy_faction} standing in our way, our two companies shall become one. Lead on, and I shall follow."
+      }
+    ],
+    "encounter_alliance_no": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "I refuse your alliance, ser {player}. I will not sully my oath by standing beside one who has not earned my trust. Ride on."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Your offer is generous, ser {player}, but I am bound by old vows and cannot accept an alliance at this time. Forgive me."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "It pains me to refuse you, ser {player}, truly. Yet my oath to the fief of Obrazi forbids it for now. Trust that I honour you still."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ally with you, ser {player}, while {rival} still walks at your side? My blade stays sheathed. I have a blood-debt to settle, and I will not be swayed."
+      }
+    ],
+    "captured_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Chained I may be, ser {player}, but my spirit is not. You will have {gold} for my freedom, and not one coin less."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I yield my sword to you, ser {player}, as {my_faction} custom demands. Name your ransom, and let it be fair, for I am not a poor man."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Well fought, ser {player}! I am your captive, but no shame attends a loss to so worthy a foe. Name your price and we shall settle it as honourable folk."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Mark this well, ser {player}: this day of chains will be written into my ledger, and the ink will not fade before you answer for it."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you spared me when you might have claimed my ransom. My house shall remember this mercy for generations. Thank you, traveller."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ser {player} released me without ransom. A rare mercy on these roads, and an honour I will repay in kind."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "You let me go unransomed, ser {player}? I do not thank you for it. Such mercy is a debt I will weigh against you in time."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} spared my life and took no gold. My blood-oath stands regardless, mercy or not, and we shall meet on the field."
+      }
+    ],
+    "player_left_my_faction": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} has forsworn {my_faction} and crossed to {faction}. Such betrayal of sworn banners shames every honest knight."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, you have left {my_faction} for {faction}. I shall not curse your choice, but a broken oath is never forgotten."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, you turned your coat to {faction} and left {my_faction} in the dust. The ledger of your deeds has a black mark now."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{faction} has gained ser {player} from {my_faction}. Let the chroniclers write it as they will, the saga is not yet finished."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Hear me, all of Ormerath! {my_faction} has declared war upon {enemy_faction}. Let every ledger be opened and every oath be sworn anew."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} has broken faith with {my_faction}, and so the war horns sound. Let our ancestors look down with pride upon this day."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "War is declared between {my_faction} and {enemy_faction}. I have read my ledger of duels aloud, and the next page is already being written."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "By the old law, {my_faction} takes up arms against {enemy_faction} this day. May the sword be just and the cause be honourable."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Victory over {enemy_faction}, won with {troop_count} sworn blades beside ser {player}! My ledger has a bright new line today."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, that charge was magnificent! Our {troop_count} men stood like a wall against {enemy_faction}. I owe you a drink of honour."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Well fought, ser {player}. With {troop_count} blades at our backs we broke {enemy_faction}'s line. Our banners stood as one, and I am proud of it."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{troop_count} blades and ser {player} at the front. The field of {enemy_faction} is ours, and the chroniclers shall sing of it."
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ride on, ser {player}, while you still can. My blood-oath does not sleep, and neither does my memory of this meeting."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Farewell, ser {player}. May your road be safe and your oaths be kept. We shall cross paths again on the field, I am certain."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Farewell, traveller, and may fortune ride at your side, ser {player}. Our next meeting should be a feast, not a fight :)"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The mists over {village} are thick this morning. A fine omen for any knight who rides out to meet his destiny."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Has anyone ridden in from {town} lately? The roads there are muddy, and I fear for the carts crossing the fords."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "I read my ledger aloud before each siege, and I confess the page grows long. A fine problem for a knight of Obrazi."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain again in {town}? The heavens must be displeased with us. Keep your banners dry and your spirits high, friends."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "A traveller passing through {village} told me the harvest is rich. May the fields feed us as well as our swords defend them."
+      }
+    ]
+  }
+}

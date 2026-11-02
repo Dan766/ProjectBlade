@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "job_id": "persona_081",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "992d74b8c719fa63ab016e5cca627b5eaf9aa294dfebf94af705a8a77cd9ee30",
+    "model": "haiku",
+    "cost_usd": 0.0061563500000000005,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:37:17+00:00"
+  },
+  "data": {
+    "ambient_trade": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "salt in {town} at {gold} gold a sack, fair weights, no tricks. anyone buying in bulk?"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "selling dyed wool out of {town}, {gold} gold the bolt. serious buyers only, i'm not chasing you."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "looking to buy 40 sacks of grain near {town}, paying {gold} gold. the caravan is waiting."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "wool in {town} has dropped to {gold} gold, which is a crime. holding my stock till it climbs back."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone need horses hauled to {town}? i'll take {gold} gold and deliver on time, every time."
+      }
+    ],
+    "encounter_trade_offer": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}, i know you hate me, but a wagon of salt for {gold} gold beats a burned cart. think on it."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "no hard feelings yet. {gold} gold for safe passage through {town}, and you keep your teeth. fair deal."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ser {player}, offer stands: {gold} gold for an escort into {town}. fair coin, no tolls on top."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "could do {gold} gold for the road to {town}. not a bad rate for either of us, is it?"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "ah, {player}, for you it's {gold} gold and i'll throw in a bolt of wool. don't tell the others."
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}, {persona} of {my_faction} here. your men are blocking my road and that's bad for both of us."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}, you're in my way and my wagons are heavy. move aside, or let's talk about what it costs."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ser {player}, {persona} of {my_faction}. road's clear, my wagons are heavy, let's keep this friendly."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}! {persona} here, {my_faction} salt and wool. still got good wine for trade, or have you drunk it all?"
+      }
+    ],
+    "player_raided_my_village": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} burned {village}? that's a cart of wool gone and a season of trade lost. stop it, please."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, you burned {village}. i can forgive a lot, but not a torched granary. talk to me."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "burning {village} gets you nothing but a bad name on the roads, {player}. no one trades with arsonists."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, {village} was a fair trade town. name your price for making it right and we'll see."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has declared war on {enemy_faction}. every cart on those roads is now a target, great."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "war with {enemy_faction} is official. my wool prices just went up, and not in my favor."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {enemy_faction} at war again. the only winners here are the bandits."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "sharpen your swords if you like, but my caravans will be taking the long road around {enemy_faction}."
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "peace between {my_faction} and {faction} at last. the roads can breathe, and so can my ledger."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has made peace with {faction}. time to restock, the markets are finally sane again."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "good news, the {my_faction} and {faction} treaty is signed. expect cheaper salt by the week's end."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "with {faction} at peace, my wagons can finally use the old road. anyone want a ride to market?"
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} let me go without ransom? you've got my respect and a discount on wool for life."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "thanks for letting me walk, {player}. a ransom is a fair number too, if you ever want one."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "you released me, {player}, which is cheaper than my usual rate. i'll remember it."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} freed me for nothing. either you're soft or you're plotting something. either way, noted."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} beat my {troop_count} men at the ford. that battle cost me more than the road ever paid."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, {troop_count} of my lads lost on the field. i'd rather we talk price than swords."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}, {troop_count} men gone and my wagons with them. well fought, but i still want my due."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "a loss of {troop_count} troops, {player}. damn it. still, my coin is sound if you want a deal."
+      }
+    ],
+    "whisper_beg_help": [
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, {enemy_faction} is at {fief}'s gates and my caravans are stuck. send help and i'll pay you well."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player}, you're the only one i trust. {fief} is burning and {enemy_faction} won't stop. name your price."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "ser {player}, {fief} won't hold against {enemy_faction} much longer. name a price and i'll meet it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player}, my friend, {fief} needs an escort or it's lost. the gold's in my strongbox, i swear on the wool."
+      }
+    ],
+    "ambient_complaint": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{rival} is charging double for salt in {town}. that's not a market, that's robbery."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "bandits on the {town} road again. my wagons are not free to replace, people."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{faction} tolls keep climbing and nobody's stopping it. my margins are bleeding out at the gates."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{rival} undercuts everyone and then cries when no one buys. no sympathy from this caravan."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "every lord keeps starting wars over nothing. the {faction} lords especially. sort it out, please."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "rain on the {town} road again. my wool's going soggy and my patience with it."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag in {town} is wrecking my caravan timing. who's running the host, and can they fix it?"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "heard {village} has a new mill. might be worth a visit for the flour trade, if the prices hold."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the map says the {town} pass is clear. i'll believe it when my wagon gets through in one piece."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else stuck at {village} for an hour? lost half a day and a wheel, fine way to start a week."
+      }
+    ]
+  }
+}

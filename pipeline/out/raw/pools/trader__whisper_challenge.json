@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "job_id": "trader__whisper_challenge",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1fa4331c8f81e184a7def123ce594444c3b34f357f77594fc82e9bffd8a8232a",
+    "model": "haiku",
+    "cost_usd": 0.012113549999999999,
+    "attempts": 3,
+    "retry_errors": [
+      "attempt 1: schema: Additional properties are not allowed ('neutral' was unexpected)",
+      "attempt 2: result is not valid JSON: Expecting ',' delimiter: line 1 column 1908 (char 1907)"
+    ],
+    "created_at": "2026-11-01T17:14:52+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "Your last stunt cost me three wagons of salt, {player}. Meet me on the road outside {town} and we settle it with steel.",
+        "Every contract you touch goes sour, {player}. I'm done haggling. Name a field and bring your best sword.",
+        "Think your guards can keep my caravan safe? Prove it. Dawn at the crossroads near {village}, one on one.",
+        "I've priced out every option, and the cheapest way to end this is a duel. Meet me at the {town} gates, {player}.",
+        "A fight would cost us both gold, but I'd rather watch you lose yours. Come to {village} at noon.",
+        "Stop hiding behind your hired blades, {player}. Face me yourself in the open field past {town}.",
+        "I'll drop the trade talk. You cut my margins, so I'll cut your purse back, in person. Pick the ground.",
+        "Lost my goods to your men twice now. Third time I'd rather settle the account in a proper challenge. {village} bridge, sundown."
+      ]
+    },
+    "neutral": {
+      "whisper": [
+        "Nothing personal, {player}, but my toll roads need defending and you're in the way. Shall we test it? Fair terms, one bout.",
+        "Heard you're a capable blade. I'd rather know that than guess. Meet me near {town} for a friendly bout, winner keeps the bet.",
+        "Proposal: a short duel at {village} for a purse of ten silver. Win or lose, we both walk away owing nothing.",
+        "Sizing up the competition, {player}. A bout outside {town} would settle who controls the eastern road. Interested?",
+        "No grudge here, just a wager. Ride out to {village} and let's see whose coin holds up under steel.",
+        "The valley trade is getting crowded. Care to settle the matter with a duel instead of a price war, {player}?",
+        "Before we both lose money undercutting each other, why not fight it out once? Meet me at {town} crossroads, swords only.",
+        "Odds are fifty-fifty and I dislike leaving things unsettled. A challenge at {village}, {player}, if you're willing."
+      ]
+    }
+  }
+}

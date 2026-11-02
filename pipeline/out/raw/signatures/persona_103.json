@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "job_id": "persona_103",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "da0af9e2eed2adb1bc168e09df66204e202f5d362ac5966aeed49cb84c83a0eb",
+    "model": "haiku",
+    "cost_usd": 0.006828250000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:39:16+00:00"
+  },
+  "data": {
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Has anyone seen my sacred chicken?? Last seen near the docks looking very holy and very unbothered :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The rain in {town} is basically a personal attack on my boots xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lag again?! I'm convinced the server is plotting against me personally. Noted, server. I see you :/"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Reminder: {village} still owes me one (1) goose. I am not angry. I am just counting :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Bridge update: it still exists. I still hate it. We are not speaking until it apologizes xD"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "My army of {troop_count} men marched into {fief} and the gate just politely opened. Respect is earned, friends :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Treasury check: {gold} gold, zero regrets, one suspicious goose. Sound economics xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is officially under new management. Management being me. Paperwork to follow, probably :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Tallied the loot: {gold} gold and a cursed hat. The hat is already in my will. Long live the hat!!"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Only {troop_count} soldiers and I still made {fief} weep. Tears of joy, obviously :)"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} out-fought my {troop_count} men at the ford. I am writing a strongly worded letter to the river :("
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you won fair and square, which is rude of you. Rematch in the mud, bring snacks :)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ha! Your {troop_count} lads beat mine?! Enjoy it, {player}, the siege engine is only resting :D"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Lost to {player} again. I have named the mud after them. Enjoy your victory, {player}, it will be sung about. Badly. xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} won this round with {troop_count} men. The Duke accepts defeat with grace, mostly. Vengeance is a dish :)"
+      }
+    ],
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Glory to the ford! {player} lost with {troop_count} men, and I am keeping {gold} gold as a sign of respect :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, that fight was glorious and you lost it beautifully. The {gold} gold is for your dignity. Drinks on me :)"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}! Your {troop_count} men were very brave and very wet. Now kneel for the Duke's ceremonial mud bath xD"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} fell at the crossing with {troop_count} men. Took {gold} gold. Your banners look better on my wall, ser :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Nice try, {player}. {troop_count} men and still wet in the ditch. Want a rematch or a sandwich? :D"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} saw my banner and ran like a goose with a sword. Brave, brave soul. Tell your horses I said hi xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Running away already, {player}? Wise. I would run too if I looked this fierce :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, your retreat was very dignified. Very fast, too. Next time stop for a chat, I have snacks :D"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} fled the field like a sheep that spotted a wolf. Sheep, I am proud of you for surviving. Mostly :)"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is on a winning streak and the whole server is sulking. I am building a shrine out of their rejected banners :/"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Five wins in a row, {player}? Impressive. Suspicious. Impressive. I am plotting a comeback in dramatic fashion :D"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} won again. Somebody get them a chair, a crown, and a slightly less shiny sword. We are proud, sort of :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Your streak ends at the bridge, {player}. The bridge is my ally now. Not sure it knows yet :D"
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Peace with {faction}?! My heart is breaking and my wine cup is full. Shake hands now, slap them later :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} signs peace with {faction}. The Duke approved this under protest and a bowl of stew xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Peace between {my_faction} and {faction}! Quick, somebody hide the catapults before they get ideas :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{faction} and {my_faction} are friends now?? Bold. The mud still remembers the war, I think :/"
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} wants war with {my_faction}? Fine! We will bring the goose, the chicken, and far too much mud :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "War on {enemy_faction}! Declared with a trumpet, a tavern song and a very dramatic cape flourish xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} is now at war with {enemy_faction}. Pack snacks, sharpen spoons, and blame the bridge :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Declaring war on {enemy_faction} in the name of my sacred chicken. Do not ask why. Just grab a shield :D"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Halt, {player}! I, {persona} of {my_faction}, Duke of Empty Cups, demand you surrender your snacks :D"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Oh, {player}! It is {persona} of {my_faction}. Lovely weather for a fight, don't you think? Or a picnic xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}, my dear friend! {persona} here, still wearing that cup on my head. Shall we raid something together? :)"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ah, {player}. I have named a puddle after you. It is a very nice puddle. Your army is about to meet it :/"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player}, is that your banner or a bedsheet? Either way, {persona} of {my_faction} salutes you, sort of :D"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "I hear {rival} beat you at the ford, {player}. Consider this your official fan club invitation. Membership is mud. :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, your banners look like they were sewn by a sleepy goose. I say this with love, and sarcasm xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} has been asking about you, {player}. Don't worry, I told them you are still growing into your sword :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Quick question, {player}: do you also get lost on the bridge? Asking for my bridge, which is currently my enemy :/"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, I wrote a song about your last retreat. The chorus is just 'run, run, run'. Catchy, right? :D"
+      }
+    ]
+  }
+}

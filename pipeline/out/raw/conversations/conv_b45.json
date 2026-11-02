@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "job_id": "conv_b45",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "213792fc815c0811a6eaedfe3b8db590879bba9db24da1046b9fa28d16fe78ba",
+    "model": "haiku",
+    "cost_usd": 0.00736345,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:46:13+00:00"
+  },
+  "data": {
+    "conv_221": [
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "wait did we just declare war on {enemy_faction}?? i just got here lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "War is bad for prices, Clovan. Grain in {town} doubled before lunch. Buy salt now and thank me later.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "Come sit by the fire, young one :) Wars are won by those who keep their heads and their supply lines.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "ok but FigLedger is just mad bc i beat him to the good sword in {village} lol",
+        "delay_s": 5
+      },
+      {
+        "speaker": "FigLedger",
+        "text": "That sword was rusted and you know it. Fresh steel lands in {village} tomorrow, first come.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "Enough, both of you :) Clovan, count your coin tonight and ride with the banner at dawn.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "yes ser!! do we get {troop_count} troops or is that just the banner lol",
+        "delay_s": 6
+      }
+    ],
+    "conv_222": [
+      {
+        "speaker": "FL1NT7",
+        "text": "{town} grain sells for {gold} less than the market said. not luck. i checked the ledger three times",
+        "delay_s": 0
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "the grain has been informed of its crimes!!! price was supposed to be higher... i swear on my hat",
+        "delay_s": 5
+      },
+      {
+        "speaker": "FL1NT7",
+        "text": "your hat has no bearing on supply. you undercut {town} buyers twice this week. that is the whole story",
+        "delay_s": 4
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "undercut?? i call it a theatrical discount. the hat stays. noon market, bring your ledger :)",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FL1NT7",
+        "text": "no. fix your ledger first. noon market. bring the receipts",
+        "delay_s": 8
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "receipts are for people who do not believe in vibes!! i will bring {gold} worth of spite instead",
+        "delay_s": 3
+      }
+    ],
+    "conv_223": [
+      {
+        "speaker": "SirCricketsmite",
+        "text": "lmaooo whoever lost {troop_count} men in {village} just got cooked :) sooo bad",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_BoarBargains_Xx",
+        "text": "Laughing costs nothing, SirCricketsmite. Their dropped gear near {village} is still worth {gold} to a buyer.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SirCricketsmite",
+        "text": "bruh they lost the whole army and still tryna trade lmao :) typical",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_BoarBargains_Xx",
+        "text": "Trading while broke is still trading. I will take their spare horses for half. Deal?",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SirCricketsmite",
+        "text": "nah i aint paying for their mistakes :) u go first",
+        "delay_s": 3
+      },
+      {
+        "speaker": "xX_BoarBargains_Xx",
+        "text": "Fine. Keep your grudge. I will be in {town} with cheap steel.",
+        "delay_s": 4
+      }
+    ],
+    "conv_224": [
+      {
+        "speaker": "SmugRadish",
+        "text": "ok {player} that was cute :) went from orlagua to {faction} in one afternoon lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "gotie",
+        "text": "wait did {player} really leave?? is that bad?? sorry i dont know the rules yet :(",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HoneyHelm",
+        "text": "Ser {player}, may our banners meet in honour. Leaving is your right. Leaving without a word is another matter.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "SmugRadish",
+        "text": "honour lol HoneyHelm u say that like u didnt just poach half of {town} :) mind ur banner",
+        "delay_s": 4
+      },
+      {
+        "speaker": "HoneyHelm",
+        "text": "I did not poach anyone, SmugRadish. I welcomed those who came to me of their own will. There is a difference.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "gotie",
+        "text": "ok this is so confusing :( do i have to pick a side too?? i dont want to lose my {gold} lol",
+        "delay_s": 5
+      }
+    ],
+    "conv_225": [
+      {
+        "speaker": "DameHingmere",
+        "text": "The war with {enemy_faction} is official as of this hour. The council will want every able hand in {town}.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "omg wait really?? we're at war with {enemy_faction}?? thank u DameHingmere ur so nice :D",
+        "delay_s": 5
+      },
+      {
+        "speaker": "ruuk",
+        "text": "war means tolls on every road now. my prices are not tolls. buy?",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DameHingmere",
+        "text": "Ruuk, the council will not thank you for profiteering on {village} supply. Keep your prices fair while the banners are raised.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "is it bad that im excited?? i just got {troop_count} recruits :D is that a lot lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ruuk",
+        "text": "not bad. bring me {gold} and i will sell you the good boots.",
+        "delay_s": 5
+      }
+    ]
+  }
+}

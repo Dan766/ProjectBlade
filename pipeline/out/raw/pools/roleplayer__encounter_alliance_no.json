@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "job_id": "roleplayer__encounter_alliance_no",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "7dba4bda6ec9575d35013b864f09715434d441e188c198009389dcf28ebc8066",
+    "model": "haiku",
+    "cost_usd": 0.0092602,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 3237 (char 3236)"
+    ],
+    "created_at": "2026-11-01T17:10:27+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "You come to my hearth asking for a pact? Your word has been weighed in every market of Ormerath, {player}, and found wanting. Keep your offer and your smile.",
+        "An alliance with you? I would sooner bind my cloak to a thornbush and trust the wind to hold it. No, ser {player}.",
+        "Ha! You name yourself my ally while your banners still drip with the blood of my kin. Begone before I remember that debt.",
+        "My ancestors sleep beneath stones you have never wept over. Speak of alliance again and I will answer with steel rather than ink.",
+        "No. Let {rival} court your favour if such things still tempt them. I have no wish to share my table with a name so easily sold.",
+        "Your proposal insults the oath I swore at my father's grave, and I will not dishonour that grave for your convenience, ser {player}.",
+        "A pact with you would last only until the next purse was counted. Take your parchment elsewhere and let the crows read it.",
+        "You offer friendship the way a wolf offers its heart to a lamb. Keep the gift for someone foolish enough to accept it."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "I have heard your proposal, ser {player}, and I must decline it. My banner is not yet ready to lean on another's shield.",
+        "An alliance is a heavy thing to carry on a single handshake. I think we shall both be better served walking separate roads for now.",
+        "You are welcome to rest at this fire tonight, but I will not swear myself to you on the strength of one fair evening's talk.",
+        "Thank you for the offer. My council has not yet weighed the matter, and until it does, my answer stands as no.",
+        "Friendship is a fine thing, but oaths are finer, and I have not yet seen cause to swear one to you, ser {player}.",
+        "I would rather keep my options open than bind my fate to yours. Should that change, you will hear it from my own mouth.",
+        "Your words are pleasant enough. Still, I have made it a rule never to pledge my people to strangers, and you remain one.",
+        "No alliance today. Perhaps tomorrow, when the roads have told me more of you, and the roads are slow to tell the truth."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ser {player}, it grieves me to refuse you, for I count you among the few who have earned a seat at my table. Not yet, though.",
+        "Your offer honours me, truly it does. But my vows are not mine to give away lightly, and I must ask you to be patient with me.",
+        "Would that I could say yes this very hour, ser {player}. My house is not in a position to bind itself to any banner just now.",
+        "You have stood by my side when the wolves came down from the hills, and so I owe you plain speech. I cannot swear this pact, not yet.",
+        "Friend, let us not sour the evening over parchment. Our hearts are already allied; it is only the formal oath that must wait for better days.",
+        "I refuse with a heavy heart. The council will not hear of it this season, but I shall keep your name first in my prayers and my plans.",
+        "Hear me, ser {player}: the answer is no for now, but never let it be said I turned my back on a friend. Share a cup with me instead.",
+        "A pact between us would be a fine tale for the minstrels, but I dare not stake my house on it until the storms of this season have passed."
+      ]
+    }
+  }
+}

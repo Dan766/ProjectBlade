@@ -1,0 +1,925 @@
+{
+ "seed": 1701,
+ "settlements": [
+  {
+   "id": "town_01_01",
+   "x": 207,
+   "y": 101
+  },
+  {
+   "id": "town_01_02",
+   "x": 183,
+   "y": 74
+  },
+  {
+   "id": "town_01_03",
+   "x": 201,
+   "y": 50
+  },
+  {
+   "id": "town_01_04",
+   "x": 198,
+   "y": 116
+  },
+  {
+   "id": "town_02_01",
+   "x": 44,
+   "y": 55
+  },
+  {
+   "id": "town_02_02",
+   "x": 55,
+   "y": 98
+  },
+  {
+   "id": "town_02_03",
+   "x": 58,
+   "y": 69
+  },
+  {
+   "id": "town_02_04",
+   "x": 75,
+   "y": 88
+  },
+  {
+   "id": "town_03_01",
+   "x": 164,
+   "y": 36
+  },
+  {
+   "id": "town_03_02",
+   "x": 138,
+   "y": 24
+  },
+  {
+   "id": "town_03_03",
+   "x": 142,
+   "y": 40
+  },
+  {
+   "id": "town_03_04",
+   "x": 120,
+   "y": 5
+  },
+  {
+   "id": "town_04_01",
+   "x": 38,
+   "y": 35
+  },
+  {
+   "id": "town_04_02",
+   "x": 92,
+   "y": 45
+  },
+  {
+   "id": "town_04_03",
+   "x": 98,
+   "y": 23
+  },
+  {
+   "id": "town_04_04",
+   "x": 69,
+   "y": 22
+  },
+  {
+   "id": "town_05_01",
+   "x": 124,
+   "y": 66
+  },
+  {
+   "id": "town_05_02",
+   "x": 105,
+   "y": 58
+  },
+  {
+   "id": "town_05_03",
+   "x": 118,
+   "y": 84
+  },
+  {
+   "id": "town_05_04",
+   "x": 93,
+   "y": 81
+  },
+  {
+   "id": "town_06_01",
+   "x": 130,
+   "y": 138
+  },
+  {
+   "id": "town_06_02",
+   "x": 120,
+   "y": 121
+  },
+  {
+   "id": "town_06_03",
+   "x": 163,
+   "y": 117
+  },
+  {
+   "id": "town_06_04",
+   "x": 178,
+   "y": 128
+  },
+  {
+   "id": "castle_01_01",
+   "x": 152,
+   "y": 70
+  },
+  {
+   "id": "castle_01_02",
+   "x": 206,
+   "y": 91
+  },
+  {
+   "id": "castle_01_03",
+   "x": 192,
+   "y": 99
+  },
+  {
+   "id": "castle_01_04",
+   "x": 174,
+   "y": 61
+  },
+  {
+   "id": "castle_01_05",
+   "x": 208,
+   "y": 60
+  },
+  {
+   "id": "castle_01_06",
+   "x": 159,
+   "y": 61
+  },
+  {
+   "id": "castle_01_07",
+   "x": 199,
+   "y": 80
+  },
+  {
+   "id": "castle_02_01",
+   "x": 62,
+   "y": 86
+  },
+  {
+   "id": "castle_02_02",
+   "x": 65,
+   "y": 95
+  },
+  {
+   "id": "castle_02_03",
+   "x": 35,
+   "y": 112
+  },
+  {
+   "id": "castle_02_04",
+   "x": 44,
+   "y": 88
+  },
+  {
+   "id": "castle_02_05",
+   "x": 58,
+   "y": 109
+  },
+  {
+   "id": "castle_02_06",
+   "x": 38,
+   "y": 62
+  },
+  {
+   "id": "castle_02_07",
+   "x": 49,
+   "y": 109
+  },
+  {
+   "id": "castle_03_01",
+   "x": 192,
+   "y": 37
+  },
+  {
+   "id": "castle_03_02",
+   "x": 136,
+   "y": 13
+  },
+  {
+   "id": "castle_03_03",
+   "x": 186,
+   "y": 50
+  },
+  {
+   "id": "castle_03_04",
+   "x": 152,
+   "y": 31
+  },
+  {
+   "id": "castle_03_05",
+   "x": 171,
+   "y": 28
+  },
+  {
+   "id": "castle_03_06",
+   "x": 148,
+   "y": 51
+  },
+  {
+   "id": "castle_03_07",
+   "x": 180,
+   "y": 33
+  },
+  {
+   "id": "castle_04_01",
+   "x": 85,
+   "y": 37
+  },
+  {
+   "id": "castle_04_02",
+   "x": 75,
+   "y": 53
+  },
+  {
+   "id": "castle_04_03",
+   "x": 73,
+   "y": 44
+  },
+  {
+   "id": "castle_04_04",
+   "x": 63,
+   "y": 29
+  },
+  {
+   "id": "castle_04_05",
+   "x": 79,
+   "y": 22
+  },
+  {
+   "id": "castle_04_06",
+   "x": 114,
+   "y": 46
+  },
+  {
+   "id": "castle_04_07",
+   "x": 101,
+   "y": 37
+  },
+  {
+   "id": "castle_05_01",
+   "x": 85,
+   "y": 57
+  },
+  {
+   "id": "castle_05_02",
+   "x": 156,
+   "y": 90
+  },
+  {
+   "id": "castle_05_03",
+   "x": 94,
+   "y": 64
+  },
+  {
+   "id": "castle_05_04",
+   "x": 153,
+   "y": 99
+  },
+  {
+   "id": "castle_05_05",
+   "x": 85,
+   "y": 104
+  },
+  {
+   "id": "castle_05_06",
+   "x": 137,
+   "y": 71
+  },
+  {
+   "id": "castle_06_01",
+   "x": 94,
+   "y": 111
+  },
+  {
+   "id": "castle_06_02",
+   "x": 69,
+   "y": 116
+  },
+  {
+   "id": "castle_06_03",
+   "x": 172,
+   "y": 119
+  },
+  {
+   "id": "castle_06_04",
+   "x": 143,
+   "y": 98
+  },
+  {
+   "id": "castle_06_05",
+   "x": 101,
+   "y": 121
+  },
+  {
+   "id": "castle_06_06",
+   "x": 162,
+   "y": 104
+  },
+  {
+   "id": "village_01_01",
+   "x": 165,
+   "y": 86,
+   "bound_to": "castle_01_01"
+  },
+  {
+   "id": "village_01_02",
+   "x": 176,
+   "y": 113,
+   "bound_to": "castle_01_03"
+  },
+  {
+   "id": "village_01_03",
+   "x": 217,
+   "y": 45,
+   "bound_to": "town_01_03"
+  },
+  {
+   "id": "village_01_04",
+   "x": 200,
+   "y": 59,
+   "bound_to": "castle_01_05"
+  },
+  {
+   "id": "village_01_05",
+   "x": 182,
+   "y": 83,
+   "bound_to": "town_01_02"
+  },
+  {
+   "id": "village_01_06",
+   "x": 173,
+   "y": 92,
+   "bound_to": "castle_01_03"
+  },
+  {
+   "id": "village_01_07",
+   "x": 164,
+   "y": 66,
+   "bound_to": "castle_01_06"
+  },
+  {
+   "id": "village_01_08",
+   "x": 191,
+   "y": 92,
+   "bound_to": "castle_01_03"
+  },
+  {
+   "id": "village_01_09",
+   "x": 181,
+   "y": 95,
+   "bound_to": "castle_01_03"
+  },
+  {
+   "id": "village_01_10",
+   "x": 217,
+   "y": 104,
+   "bound_to": "town_01_01"
+  },
+  {
+   "id": "village_01_11",
+   "x": 222,
+   "y": 66,
+   "bound_to": "castle_01_05"
+  },
+  {
+   "id": "village_01_12",
+   "x": 173,
+   "y": 80,
+   "bound_to": "town_01_02"
+  },
+  {
+   "id": "village_01_13",
+   "x": 193,
+   "y": 50,
+   "bound_to": "town_01_03"
+  },
+  {
+   "id": "village_01_14",
+   "x": 230,
+   "y": 84,
+   "bound_to": "castle_01_02"
+  },
+  {
+   "id": "village_01_15",
+   "x": 212,
+   "y": 47,
+   "bound_to": "town_01_03"
+  },
+  {
+   "id": "village_01_16",
+   "x": 192,
+   "y": 62,
+   "bound_to": "town_01_02"
+  },
+  {
+   "id": "village_01_17",
+   "x": 222,
+   "y": 45,
+   "bound_to": "castle_01_05"
+  },
+  {
+   "id": "village_02_01",
+   "x": 36,
+   "y": 106,
+   "bound_to": "castle_02_03"
+  },
+  {
+   "id": "village_02_02",
+   "x": 48,
+   "y": 69,
+   "bound_to": "town_02_03"
+  },
+  {
+   "id": "village_02_03",
+   "x": 34,
+   "y": 98,
+   "bound_to": "castle_02_03"
+  },
+  {
+   "id": "village_02_04",
+   "x": 31,
+   "y": 80,
+   "bound_to": "castle_02_04"
+  },
+  {
+   "id": "village_02_05",
+   "x": 70,
+   "y": 58,
+   "bound_to": "town_02_03"
+  },
+  {
+   "id": "village_02_06",
+   "x": 39,
+   "y": 84,
+   "bound_to": "castle_02_04"
+  },
+  {
+   "id": "village_02_07",
+   "x": 54,
+   "y": 82,
+   "bound_to": "castle_02_01"
+  },
+  {
+   "id": "village_02_08",
+   "x": 43,
+   "y": 71,
+   "bound_to": "castle_02_06"
+  },
+  {
+   "id": "village_02_09",
+   "x": 46,
+   "y": 95,
+   "bound_to": "castle_02_04"
+  },
+  {
+   "id": "village_02_10",
+   "x": 62,
+   "y": 57,
+   "bound_to": "town_02_03"
+  },
+  {
+   "id": "village_02_11",
+   "x": 28,
+   "y": 50,
+   "bound_to": "castle_02_06"
+  },
+  {
+   "id": "village_02_12",
+   "x": 40,
+   "y": 95,
+   "bound_to": "castle_02_04"
+  },
+  {
+   "id": "village_02_13",
+   "x": 25,
+   "y": 92,
+   "bound_to": "castle_02_04"
+  },
+  {
+   "id": "village_02_14",
+   "x": 58,
+   "y": 46,
+   "bound_to": "town_02_01"
+  },
+  {
+   "id": "village_02_15",
+   "x": 31,
+   "y": 59,
+   "bound_to": "castle_02_06"
+  },
+  {
+   "id": "village_02_16",
+   "x": 39,
+   "y": 47,
+   "bound_to": "town_02_01"
+  },
+  {
+   "id": "village_02_17",
+   "x": 76,
+   "y": 99,
+   "bound_to": "town_02_04"
+  },
+  {
+   "id": "village_03_01",
+   "x": 136,
+   "y": 33,
+   "bound_to": "town_03_02"
+  },
+  {
+   "id": "village_03_02",
+   "x": 190,
+   "y": 45,
+   "bound_to": "castle_03_03"
+  },
+  {
+   "id": "village_03_03",
+   "x": 141,
+   "y": 16,
+   "bound_to": "castle_03_02"
+  },
+  {
+   "id": "village_03_04",
+   "x": 162,
+   "y": 22,
+   "bound_to": "castle_03_05"
+  },
+  {
+   "id": "village_03_05",
+   "x": 154,
+   "y": 50,
+   "bound_to": "castle_03_06"
+  },
+  {
+   "id": "village_03_06",
+   "x": 143,
+   "y": 9,
+   "bound_to": "castle_03_02"
+  },
+  {
+   "id": "village_03_07",
+   "x": 172,
+   "y": 21,
+   "bound_to": "castle_03_05"
+  },
+  {
+   "id": "village_03_08",
+   "x": 148,
+   "y": 59,
+   "bound_to": "castle_03_06"
+  },
+  {
+   "id": "village_03_09",
+   "x": 162,
+   "y": 57,
+   "bound_to": "castle_03_06"
+  },
+  {
+   "id": "village_03_10",
+   "x": 168,
+   "y": 51,
+   "bound_to": "town_03_01"
+  },
+  {
+   "id": "village_03_11",
+   "x": 153,
+   "y": 26,
+   "bound_to": "castle_03_04"
+  },
+  {
+   "id": "village_03_12",
+   "x": 154,
+   "y": 56,
+   "bound_to": "castle_03_06"
+  },
+  {
+   "id": "village_03_13",
+   "x": 143,
+   "y": 31,
+   "bound_to": "town_03_02"
+  },
+  {
+   "id": "village_03_14",
+   "x": 159,
+   "y": 53,
+   "bound_to": "castle_03_06"
+  },
+  {
+   "id": "village_03_15",
+   "x": 131,
+   "y": 28,
+   "bound_to": "town_03_02"
+  },
+  {
+   "id": "village_03_16",
+   "x": 146,
+   "y": 18,
+   "bound_to": "town_03_02"
+  },
+  {
+   "id": "village_03_17",
+   "x": 200,
+   "y": 40,
+   "bound_to": "castle_03_01"
+  },
+  {
+   "id": "village_04_01",
+   "x": 112,
+   "y": 39,
+   "bound_to": "castle_04_06"
+  },
+  {
+   "id": "village_04_02",
+   "x": 70,
+   "y": 37,
+   "bound_to": "castle_04_03"
+  },
+  {
+   "id": "village_04_03",
+   "x": 103,
+   "y": 10,
+   "bound_to": "town_04_03"
+  },
+  {
+   "id": "village_04_04",
+   "x": 119,
+   "y": 32,
+   "bound_to": "castle_04_06"
+  },
+  {
+   "id": "village_04_05",
+   "x": 64,
+   "y": 46,
+   "bound_to": "castle_04_03"
+  },
+  {
+   "id": "village_04_06",
+   "x": 51,
+   "y": 37,
+   "bound_to": "town_04_01"
+  },
+  {
+   "id": "village_04_07",
+   "x": 91,
+   "y": 36,
+   "bound_to": "castle_04_01"
+  },
+  {
+   "id": "village_04_08",
+   "x": 96,
+   "y": 36,
+   "bound_to": "castle_04_07"
+  },
+  {
+   "id": "village_04_09",
+   "x": 90,
+   "y": 21,
+   "bound_to": "town_04_03"
+  },
+  {
+   "id": "village_04_10",
+   "x": 77,
+   "y": 27,
+   "bound_to": "castle_04_05"
+  },
+  {
+   "id": "village_04_11",
+   "x": 78,
+   "y": 41,
+   "bound_to": "castle_04_03"
+  },
+  {
+   "id": "village_04_12",
+   "x": 85,
+   "y": 49,
+   "bound_to": "town_04_02"
+  },
+  {
+   "id": "village_04_13",
+   "x": 85,
+   "y": 14,
+   "bound_to": "castle_04_05"
+  },
+  {
+   "id": "village_04_14",
+   "x": 56,
+   "y": 40,
+   "bound_to": "castle_04_04"
+  },
+  {
+   "id": "village_04_15",
+   "x": 76,
+   "y": 16,
+   "bound_to": "castle_04_05"
+  },
+  {
+   "id": "village_04_16",
+   "x": 106,
+   "y": 39,
+   "bound_to": "castle_04_07"
+  },
+  {
+   "id": "village_04_17",
+   "x": 84,
+   "y": 19,
+   "bound_to": "castle_04_05"
+  },
+  {
+   "id": "village_05_01",
+   "x": 87,
+   "y": 69,
+   "bound_to": "castle_05_03"
+  },
+  {
+   "id": "village_05_02",
+   "x": 155,
+   "y": 85,
+   "bound_to": "castle_05_02"
+  },
+  {
+   "id": "village_05_03",
+   "x": 145,
+   "y": 74,
+   "bound_to": "castle_05_06"
+  },
+  {
+   "id": "village_05_04",
+   "x": 122,
+   "y": 58,
+   "bound_to": "town_05_01"
+  },
+  {
+   "id": "village_05_05",
+   "x": 131,
+   "y": 71,
+   "bound_to": "castle_05_06"
+  },
+  {
+   "id": "village_05_06",
+   "x": 104,
+   "y": 85,
+   "bound_to": "town_05_04"
+  },
+  {
+   "id": "village_05_07",
+   "x": 79,
+   "y": 107,
+   "bound_to": "castle_05_05"
+  },
+  {
+   "id": "village_05_08",
+   "x": 150,
+   "y": 85,
+   "bound_to": "castle_05_02"
+  },
+  {
+   "id": "village_05_09",
+   "x": 146,
+   "y": 82,
+   "bound_to": "castle_05_02"
+  },
+  {
+   "id": "village_05_10",
+   "x": 154,
+   "y": 79,
+   "bound_to": "castle_05_02"
+  },
+  {
+   "id": "village_05_11",
+   "x": 81,
+   "y": 64,
+   "bound_to": "castle_05_01"
+  },
+  {
+   "id": "village_05_12",
+   "x": 86,
+   "y": 109,
+   "bound_to": "castle_05_05"
+  },
+  {
+   "id": "village_05_13",
+   "x": 128,
+   "y": 54,
+   "bound_to": "town_05_01"
+  },
+  {
+   "id": "village_05_14",
+   "x": 122,
+   "y": 75,
+   "bound_to": "town_05_01"
+  },
+  {
+   "id": "village_05_15",
+   "x": 116,
+   "y": 65,
+   "bound_to": "town_05_01"
+  },
+  {
+   "id": "village_05_16",
+   "x": 139,
+   "y": 57,
+   "bound_to": "castle_05_06"
+  },
+  {
+   "id": "village_06_01",
+   "x": 111,
+   "y": 133,
+   "bound_to": "town_06_02"
+  },
+  {
+   "id": "village_06_02",
+   "x": 83,
+   "y": 116,
+   "bound_to": "castle_06_01"
+  },
+  {
+   "id": "village_06_03",
+   "x": 98,
+   "y": 130,
+   "bound_to": "castle_06_05"
+  },
+  {
+   "id": "village_06_04",
+   "x": 103,
+   "y": 138,
+   "bound_to": "castle_06_05"
+  },
+  {
+   "id": "village_06_05",
+   "x": 103,
+   "y": 112,
+   "bound_to": "castle_06_01"
+  },
+  {
+   "id": "village_06_06",
+   "x": 128,
+   "y": 103,
+   "bound_to": "castle_06_04"
+  },
+  {
+   "id": "village_06_07",
+   "x": 95,
+   "y": 104,
+   "bound_to": "castle_06_01"
+  },
+  {
+   "id": "village_06_08",
+   "x": 120,
+   "y": 140,
+   "bound_to": "town_06_01"
+  },
+  {
+   "id": "village_06_09",
+   "x": 73,
+   "y": 113,
+   "bound_to": "castle_06_02"
+  },
+  {
+   "id": "village_06_10",
+   "x": 145,
+   "y": 113,
+   "bound_to": "castle_06_04"
+  },
+  {
+   "id": "village_06_11",
+   "x": 100,
+   "y": 116,
+   "bound_to": "castle_06_05"
+  },
+  {
+   "id": "village_06_12",
+   "x": 165,
+   "y": 133,
+   "bound_to": "town_06_04"
+  },
+  {
+   "id": "village_06_13",
+   "x": 80,
+   "y": 121,
+   "bound_to": "castle_06_02"
+  },
+  {
+   "id": "village_06_14",
+   "x": 71,
+   "y": 130,
+   "bound_to": "castle_06_02"
+  },
+  {
+   "id": "village_06_15",
+   "x": 91,
+   "y": 133,
+   "bound_to": "castle_06_05"
+  },
+  {
+   "id": "village_06_16",
+   "x": 131,
+   "y": 114,
+   "bound_to": "town_06_02"
+  }
+ ]
+}

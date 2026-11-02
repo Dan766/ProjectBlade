@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "job_id": "persona_068",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "bc6c7b3c0a4617edd874e11fe8109ac26b1e6b1677eb672f3d14968bb0def3d7",
+    "model": "haiku",
+    "cost_usd": 0.007642649999999999,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:35:50+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} men on a broken line. thats 3:1 cav doing its job. next"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "your line broke at the flank and {troop_count} men paid for it. spacing decides these fights, not courage"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ser {player}. {troop_count} of your men and you still fell for the flank. i counted the ratio before the first charge and it held. try thinking in numbers next time"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "field closed with {troop_count} dead on their side and {gold} taken from the baggage. good return on a 2:1 ratio"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "you fought well ser {player}. the flank was the only weak point and you saw it late. fix that and you will trouble me"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "lost {troop_count} men to {player}. my archers were out of position, the plan was fine"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} beat me with {troop_count} and a cleaner formation. i have the logs. my archers were not where they should be"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ser {player}. you won this one. i will not pretend it was luck. my archers drifted well off the line and {troop_count} men paid for it"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} played it well. lost {troop_count} to a sharper line than mine. i will rerun the numbers and come back"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{troop_count} dead because of archer spacing and i know it. enjoy it, i will be counting next time"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again. third field loss with {troop_count} men. i have every ratio logged and the pattern is you"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "stop beating me on the same flank. {troop_count} more men gone and the cause is identical"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has now won three fights against me. the numbers say the gap is small, the results say otherwise. looking at formation"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "i respect the consistency ser {player}. {troop_count} lost again and i still cannot find the hole in your line"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "my ratio was correct. my archers were not. {player} keeps exploiting it and i keep paying {troop_count} men for it"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is on a streak and the server is watching. the meta is shifting toward cavalry, not luck"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "your streak is real and i have the data on it. six wins in a row means your ratio work is sound. i am studying it"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} keeps winning because everyone else brings the wrong troop mix. fix the composition, not the speeches"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "the streak is impressive ser {player}. cavalry heavy, flanks closed. i would have done the same"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "that is a lot of wins for {player}. the engagement ratio on their side has been above 2:1 all month. that is the story"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost most of their army. {troop_count} men gone and the ratio was never in their favour. predictable"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{troop_count} down on your side ser {player}. the formation was too thin in the middle. tighten it before the next march"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} just lost {troop_count} men and still has a fighting core. rebuild the archer line and you will be back"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{troop_count} men gone and that was avoidable. when you retake the field i want to see better spacing"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} army is down to a fraction after that loss. the math was never kind to a thin line"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ser {player}. i have a 3:1 cav edge and a free road to {town}. meet me there or admit the ratio is not on your side"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} meet me at {village} with equal numbers. i want a clean fight, no terrain tricks. the result will show who plans better"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "you have been holding {town} for a month. i am coming to take it. bring your whole line, i want the full test"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "let us settle it at {village}. bring what you want, i will bring the math. first light works for me"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your archers are weak on the right flank and everyone knows it. i will be at {town} to prove the point"
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "ser {player} your {troop_count} held the centre well. the ratio was in our favour from the first charge. we should coordinate the next push against {enemy_faction}"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{troop_count} men from the wardenry and {player} held the line against {enemy_faction}. clean result, no complaints"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "good work with {player} today. the formation held. same setup against {enemy_faction} next time and we win by the same margin"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{enemy_faction} did not expect the flank pincer. {player} and our {troop_count} took it apart. the numbers were right"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} your cavalry timing was fine. i would have spaced the archers wider but the outcome speaks for itself against {enemy_faction}"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "wardenry holds {troop_count} men under arms and {gold} in the strongbox. {fief} is secure and the cavalry edge stands"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "took {fief} in under two days with a 3:1 cavalry edge. every siege since the Vrasnik campaign is logged, ask for the numbers"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} men, {gold} gold, and a ledger of every battle since the Vrasnik campaign. the numbers do not lie"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} garrison is up. {troop_count} on the walls and the ratio is the best it has been all month"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{gold} gold in the wardenry coffers. spent wisely, every coin tied to a ratio. the rest of you can catch up"
+      }
+    ],
+    "my_faction_took_fief": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has taken {fief} from {enemy_faction}. the siege was two days and the ratio was correct from the start"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours now. {enemy_faction} brought a poor composition and paid for it. the wardenry logged every step"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the {my_faction} banner is over {fief}. {enemy_faction} archers were out of position, as expected"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} belongs to {my_faction} as of this morning. next target is whatever {enemy_faction} thinks they can hold"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} lost {fief} with the line broken at the gate. my numbers said it would fall and it did"
+      }
+    ],
+    "player_besieging_my_fief": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} is besieging {fief}. you have a thin line and i can see the gap from here. come try it"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has started a siege on {fief}. the garrison numbers are logged. the ratio tells me it will be close"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{fief} is under siege ser {player}. i have the troop counts. spacing on your left looks weak, adjust it"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} laying siege to {fief} again. the same flank as last time. i will not forget the pattern"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "you will not take {fief} with that composition {player}. bring more cavalry or go home"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "rain over {town} again. mud slows the cavalry more than anyone admits. bad for the ratio"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the road between {town} and {village} is clear for now. moving troops at dawn if the weather holds"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "someone told me the {village} granary is low. that is no surprise, feeding a garrison costs more than the walls"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag on the {town} server again. annoying, but the battles still count the same. the ratio does not care"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "is there a faster way to muster at {village} or are we all still using the old road? wasting time"
+      }
+    ]
+  }
+}

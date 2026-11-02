@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "job_id": "faction_01_b2",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "3a5b72143fddf3c4d5f669f65cec4bf289810565ce4b5510da8947adfeb598c4",
+    "model": "haiku",
+    "cost_usd": 0.01237815,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:47:31+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_011",
+        "username": "duskveil88",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "calm",
+          "generous",
+          "unhurried"
+        ],
+        "backstory": "Has played since the early days and still remembers the fens before the causeway. Known in Calvenza for free road maps for new lords and for ending feuds before villages burn. Lost Pelagrino to {rival} in the second war and bears no grudge, mostly.",
+        "catchphrases": [
+          "Patience wins more fights than cavalry does.",
+          "Good scrap, {player}. Rest your horse."
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.0,
+          "patrol": 0.05,
+          "besiege": -0.1,
+          "aggression": -0.1,
+          "flee_threshold": 0.05,
+          "loyalty": 0.1,
+          "honor": 0.15
+        }
+      },
+      {
+        "id": "persona_012",
+        "username": "ratiognat",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "none",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "analytical",
+          "curt",
+          "competitive"
+        ],
+        "backstory": "Joined in the first month and has tracked every siege on the server since, usually in a spreadsheet. Known for the 3:1 cavalry ratio and for taking Fiorvena in under two days. Lost a fen ambush to {rival} and posted the replay with commentary.",
+        "catchphrases": [
+          "cav count was the whole story",
+          "numbers dont lie {player}"
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": -0.1,
+          "patrol": 0.05,
+          "besiege": 0.15,
+          "aggression": 0.15,
+          "flee_threshold": -0.05,
+          "loyalty": -0.1,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_013",
+        "username": "owl_be_back",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "chaotic",
+          "theatrical",
+          "warm"
+        ],
+        "backstory": "Has been running the Sacred Chicken bit since the Calvenza canal flood and has not stopped. Gave the bridge at Brollo a formal vendetta that is still ongoing. Nicknamed half the server, including {rival}, who has never asked to be called Sir Gravy.",
+        "catchphrases": [
+          "brollo bridge is on notice!!",
+          "sacred hen approves of this",
+          "{player} ur banner is now a hat"
+        ],
+        "ai_adjust": {
+          "raid": 0.1,
+          "trade": 0.05,
+          "patrol": -0.1,
+          "besiege": 0.05,
+          "aggression": 0.1,
+          "flee_threshold": 0.1,
+          "loyalty": 0.05,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_014",
+        "username": "ConsulCometa",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "patient",
+          "scheming",
+          "courteous"
+        ],
+        "backstory": "Rose from a provost's clerk by writing better council letters than anyone. Built alliances through three guild votes and is quietly known for who attended when Feltravo fell. Has been courting {rival}'s captains since spring.",
+        "catchphrases": [
+          "A matter for the council, I think.",
+          "Perhaps {player} and I can discuss this quietly."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.1,
+          "patrol": 0.05,
+          "besiege": -0.05,
+          "aggression": -0.15,
+          "flee_threshold": 0.05,
+          "loyalty": -0.1,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_015",
+        "username": "gotie",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "long"
+        },
+        "traits": [
+          "eager",
+          "apologetic",
+          "curious"
+        ],
+        "backstory": "Started last week and has already let the soldiers eat a village's grain. Rescued from a looter at Stellaro by a kind lord and has followed them since. Still thinks the siege bar is a food bar. Sorry for everything.",
+        "catchphrases": [
+          "sorry!! did i do the wrong thing?? :(",
+          "thank u so much {player}!! :D"
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.0,
+          "patrol": 0.1,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.15,
+          "loyalty": 0.2,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_016",
+        "username": "Sockelin_Dyer",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "shrewd",
+          "chatty",
+          "forgiving"
+        ],
+        "backstory": "Runs dyed wool and salt between Calvenza and Gaiazzo, surveying every road first. Offers a discount to whoever just ambushed the caravan. Still owes {rival} a horse, a matter of record.",
+        "catchphrases": [
+          "Every road has a price, friend.",
+          "Which road did you say? I have prices."
+        ],
+        "ai_adjust": {
+          "raid": -0.2,
+          "trade": 0.2,
+          "patrol": 0.05,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.1,
+          "loyalty": 0.05,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_017",
+        "username": "Pikkerel_Newt",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "earnest",
+          "flustered",
+          "grateful"
+        ],
+        "backstory": "Joined by accident after a bad ferry ride into the fens. Keeps a notebook of every mistake and shares it with anyone who will read it. Has never won a battle without help. Owes {rival} a rope.",
+        "catchphrases": [
+          "Oh no, I think I broke it :(",
+          "Thank you so much, {player}!! :D"
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": 0.1,
+          "besiege": -0.05,
+          "aggression": -0.2,
+          "flee_threshold": 0.15,
+          "loyalty": 0.2,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_018",
+        "username": "fernz",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "petty",
+          "smug",
+          "grudge-keeping"
+        ],
+        "backstory": "Has been on the server since the wagon fight at Ostrenga and has not let a single insult go since. Known for gloating over burned villages and remembering every gg ever sent. Secretly respects {rival}, who beat them twice, and will never admit it.",
+        "catchphrases": [
+          "lol ur garrison smells like smoke",
+          "still thnking about that siege {player}"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": -0.15,
+          "patrol": 0.05,
+          "besiege": 0.1,
+          "aggression": 0.2,
+          "flee_threshold": -0.1,
+          "loyalty": -0.15,
+          "honor": -0.2
+        }
+      },
+      {
+        "id": "persona_019",
+        "username": "reedtoll",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "short"
+        },
+        "traits": [
+          "blunt",
+          "friendly",
+          "road-wise"
+        ],
+        "backstory": "Works the salt routes out of Brenzolo and Mantesca and has lost two caravans to bandits this year, and is very cross about it. Sells reed baskets, lamp oil and anything a lord forgets to pack. Once sold {rival} a horse, then bought it back twice.",
+        "catchphrases": [
+          "salt is up again. ask me why.",
+          "{player} the offer still stands. cheers."
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.2,
+          "patrol": 0.1,
+          "besiege": -0.1,
+          "aggression": -0.1,
+          "flee_threshold": 0.15,
+          "loyalty": 0.1,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_020",
+        "username": "GravelOathkeep",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "honorable",
+          "grave",
+          "dramatic"
+        ],
+        "backstory": "Holds the oath of the Gravel Gate at Dolmare and reminds lords that they swore it too. Known for grand declarations at council and a truce with {rival} that has outlasted two wars. Still scandalised by the word match.",
+        "catchphrases": [
+          "The gate holds, and so does my word.",
+          "Ser {player}, your honor is noted."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": -0.1,
+          "patrol": 0.0,
+          "besiege": 0.05,
+          "aggression": 0.05,
+          "flee_threshold": -0.1,
+          "loyalty": 0.15,
+          "honor": 0.2
+        }
+      }
+    ]
+  }
+}

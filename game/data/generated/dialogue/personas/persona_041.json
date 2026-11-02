@@ -1,0 +1,211 @@
+{
+ "username": "OldCloakwright",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_041.beat_player.01",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} pressed hard today. Rest your {troop_count} men before the next march, the road is long and the ford is cold."
+   },
+   {
+    "id": "sig.persona_041.beat_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, that flank was clever and it cost me {troop_count} men. Join me at the inn tonight. The ale is on me."
+   },
+   {
+    "id": "sig.persona_041.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "You won this field, {player}, and I will not pretend otherwise. I have seen harder men lose harder fields. Keep your {gold} gold, ser, and watch the ford ahead."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_041.beat_by_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} beat me fair today and cost me {troop_count} men. Good play deserves praise. I will remember this field."
+   },
+   {
+    "id": "sig.persona_041.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, your center held and I lost {troop_count} men to my own impatience. I will learn from that."
+   },
+   {
+    "id": "sig.persona_041.beat_by_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, you have won this round and I will not dispute the ledger. I have written down worse losses than {troop_count} men, and I survived every one. Ride on, and mind the marsh road."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_041.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} and I broke the {enemy_faction} line with {troop_count} men behind us. Shoulder to shoulder, as it was in the first war."
+   },
+   {
+    "id": "sig.persona_041.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, your flank held firm against {enemy_faction}. Stay close on the next march, and I will show you a crossing."
+   },
+   {
+    "id": "sig.persona_041.fought_alongside_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Good work out there, {player}. Those {troop_count} soldiers did their part and so did you. The {enemy_faction} will remember this field, and so will I."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_041.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you let me go without ransom. I keep a ledger of debts, and I will remember this kindness."
+   },
+   {
+    "id": "sig.persona_041.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} released me without ransom today. Mercy is rarer on these roads than gold, and I will not forget who gave it freely."
+   },
+   {
+    "id": "sig.persona_041.released_by_player.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Ser {player}, you freed me rather than take my coin. I do not trust it yet, but I have written it down. Mercy has its own weight."
+   }
+  ],
+  "player_joined_my_faction": [
+   {
+    "id": "sig.persona_041.player_joined_my_faction.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} has sworn to {my_faction}. Welcome to the banner. Ask me anything about the roads, I have walked them since the first war."
+   },
+   {
+    "id": "sig.persona_041.player_joined_my_faction.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you chose {my_faction} and I will not forget it. Find me when the banners are quiet and I will show you the crossing."
+   },
+   {
+    "id": "sig.persona_041.player_joined_my_faction.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, a new oath under {my_faction}. Oaths are cheap at the gate and dear on the road. I hope you can carry yours."
+   }
+  ],
+  "player_granted_fief": [
+   {
+    "id": "sig.persona_041.player_granted_fief.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{fief} has gone to {player}. I have watched this land change hands many times. Keep the granary full and the gates honest."
+   },
+   {
+    "id": "sig.persona_041.player_granted_fief.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, {fief} is a heavy gift. Walls do not hold themselves, and I have seen many granaries empty in hard winters."
+   },
+   {
+    "id": "sig.persona_041.player_granted_fief.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Ser {player}, {fief} went to you while others waited years. I am not bitter, only curious. Keep your record clean, I keep mine."
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_041.encounter_greeting.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well met on the road, {player}. I am {persona} of {my_faction}, and I have walked this way since the first war. Ride with care."
+   },
+   {
+    "id": "sig.persona_041.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ah, {player}. {persona} of {my_faction} at your service, though service is a generous word for an old traveler. Does your party need anything before the ford?"
+   },
+   {
+    "id": "sig.persona_041.encounter_greeting.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, I see your banner and I see your party's size. {persona} of {my_faction} keeps no quarrel on this road unless you give me cause. Keep your distance and we will part well."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_041.encounter_farewell.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Safe travels, {player}. Keep your men fed and your eyes on the ford, and find me at the inn when we next cross paths."
+   },
+   {
+    "id": "sig.persona_041.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "We part here, {player}. Mind the marsh road past the bend, it has swallowed better riders than you. Until the next crossing."
+   },
+   {
+    "id": "sig.persona_041.encounter_farewell.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Go on, {player}. Our words are finished for today, and I would rather not hear more of your banner. Walk carefully, the roads are long."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_041.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The fog over {town} is thick again this morning. I have crossed in worse weather and lived to complain about it."
+   },
+   {
+    "id": "sig.persona_041.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Heard the millers in {village} are asking after salt again. Bring what you can spare to market, the winter will not wait."
+   },
+   {
+    "id": "sig.persona_041.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Lag on the eastern road again. Patience is an old virtue, and the server has always been slow in the wet months."
+   },
+   {
+    "id": "sig.persona_041.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "A young rider asked me the way to {town} today and I paid his toll at the bridge. Do the same for someone next week, it is a small debt."
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_041.player_big_defeat.01",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} lost {troop_count} men on the field today. Every veteran has a day like that. Gather what is left and march again."
+   },
+   {
+    "id": "sig.persona_041.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, losing {troop_count} men hurts. I lost more in the first war and still kept my feet. Rest, and find me after."
+   },
+   {
+    "id": "sig.persona_041.player_big_defeat.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Ser {player}, {troop_count} men lost, and the field was not kind. I feel no joy in it, only a note for the ledger. Learn from it."
+   }
+  ]
+ }
+}

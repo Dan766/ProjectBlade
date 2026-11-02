@@ -1,0 +1,285 @@
+{
+ "username": "DameBeaneOfQuel",
+ "signature": {
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_093.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Halt, traveller, and hear the banner of Lauresse before you draw steel. I am {persona}, sworn to Corbanel, and I have not forgotten the fen raiders who burned my family's hall."
+   },
+   {
+    "id": "sig.persona_093.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Good day, ser {player}. I am {persona} of {my_faction}, riding the causeways as my grandsire swore I should. Let us see whether your road and mine run together."
+   },
+   {
+    "id": "sig.persona_093.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, my heart lifts to see you upon this road. Tell me your business, for I am {persona} of {my_faction}, and I would gladly share bread and tale with you."
+   },
+   {
+    "id": "sig.persona_093.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "You stand in the path of {my_faction}, ser {player}. Yield the road or prove your mettle, for {persona} will chronicle whichever you choose."
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_093.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "You would have {gold} from me? Then you must first pry it from my cold hands, ser {player}. Lauresse does not pay tribute to threats."
+   },
+   {
+    "id": "sig.persona_093.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, a demand of {gold} is a bold word for a stranger on the causeway. Speak more plainly, and I shall answer as my oath requires."
+   },
+   {
+    "id": "sig.persona_093.encounter_threatened.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Threaten me for {gold} and you shall have a tale worth telling, ser {player}. My grandsire fought worse men than you on the causeways of Corbanel."
+   },
+   {
+    "id": "sig.persona_093.encounter_threatened.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, I know you jest, for no friend of mine would name a price of {gold} with such a face. Let us speak of honour instead."
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_093.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "I accept, ser {player}, and gladly. Let our banners stand together against {enemy_faction}, and let the minstrels sing of this day."
+   },
+   {
+    "id": "sig.persona_093.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Very well, ser {player}. An oath is sworn between us, and I shall keep mine to the last. Do not ask me to forgive {rival}, however."
+   },
+   {
+    "id": "sig.persona_093.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "By the honour of Lauresse, I take your hand, ser {player}. Together we shall break {enemy_faction}, and I will remember the service you do me."
+   }
+  ],
+  "encounter_alliance_no": [
+   {
+    "id": "sig.persona_093.encounter_alliance_no.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "No, ser {player}. A banner of Lauresse does not march beside a stranger who has not earned its trust. Go and earn it, if you can."
+   },
+   {
+    "id": "sig.persona_093.encounter_alliance_no.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I must decline, ser {player}. My oath is sworn to Corbanel alone, and I will not bind it to any road I have not walked."
+   },
+   {
+    "id": "sig.persona_093.encounter_alliance_no.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "I am grieved to refuse you, ser {player}, truly. Yet while {rival} still rides these causeways, I dare not promise what I cannot keep."
+   },
+   {
+    "id": "sig.persona_093.encounter_alliance_no.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Propose an alliance to me? Ask {rival} to kneel first, ser {player}, and then we shall speak of oaths."
+   }
+  ],
+  "captured_by_player": [
+   {
+    "id": "sig.persona_093.captured_by_player.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Your blade has bested mine, ser {player}, and I stand as your captive. Name your ransom of {gold}, and know that {my_faction} will remember this humbling."
+   },
+   {
+    "id": "sig.persona_093.captured_by_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "So the causeways have bound me. Very well, ser {player}, you have won this field, and I shall bear my captivity with what dignity remains to me."
+   },
+   {
+    "id": "sig.persona_093.captured_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "A fair fight, ser {player}, and well fought. I am your prisoner now, and I would rather lose to you than to any fen raider. Name your terms."
+   },
+   {
+    "id": "sig.persona_093.captured_by_player.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Bind me, then, and be quick about it! The banner of Lauresse does not weep in chains, though {my_faction} shall surely pay {gold} to see me free."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_093.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you let me go without a ransom. I shall remember that mercy longer than any blade you ever raised."
+   },
+   {
+    "id": "sig.persona_093.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Ser {player} has loosed me from chains without ransom. A rare grace on these causeways, and I will not forget it."
+   },
+   {
+    "id": "sig.persona_093.released_by_player.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "You spared me, ser {player}, but do not think this humbles me. Lauresse pays its debts, and this one I shall repay in steel."
+   },
+   {
+    "id": "sig.persona_093.released_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Honour to ser {player}, who freed me without gold. The chronicle of Lauresse shall record it under mercy, not under ransom."
+   }
+  ],
+  "player_left_my_faction": [
+   {
+    "id": "sig.persona_093.player_left_my_faction.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Ser {player} has forsaken {my_faction} for {faction} like a coward slinking off the field. Let the minstrels mock the deserter."
+   },
+   {
+    "id": "sig.persona_093.player_left_my_faction.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "You turned your banner to {faction}, ser {player}, and {my_faction} is poorer for it. An oath broken is a stain no ballad will wash clean."
+   },
+   {
+    "id": "sig.persona_093.player_left_my_faction.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Ser {player} has left {my_faction} for {faction}. Such roads are open to all, yet honour does not travel as lightly as a rider does."
+   },
+   {
+    "id": "sig.persona_093.player_left_my_faction.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "I bear you no grudge, ser {player}, though I grieve that your oath to {my_faction} is broken. May {faction} prove worthy of you."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_093.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has drawn sword against {enemy_faction}. The banner of Lauresse rides to war, and the fen raiders shall not sleep easy tonight."
+   },
+   {
+    "id": "sig.persona_093.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Hear, all Ormerath: {my_faction} and {enemy_faction} are at war. Lauresse keeps its oath, and blood shall answer each lost hall."
+   },
+   {
+    "id": "sig.persona_093.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Word has come that {enemy_faction} stands against {my_faction}. I ride to the causeways gladly, for my grandsire's oath demands it."
+   },
+   {
+    "id": "sig.persona_093.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "War between {my_faction} and {enemy_faction}! Let each honest blade sharpen its edge, for the chronicle of Lauresse is not yet finished."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_093.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{troop_count} of the enemy fell today against {enemy_faction}, and ser {player} stood at my side like a true knight. Sing it!"
+   },
+   {
+    "id": "sig.persona_093.fought_alongside_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Well struck, ser {player}. We bore {troop_count} men against {enemy_faction}, and the field is ours. I have no doubt the chroniclers will name this day rightly."
+   },
+   {
+    "id": "sig.persona_093.fought_alongside_player.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "A hard-won field against {enemy_faction}, ser {player}, with {troop_count} of our number left standing. Honour enough for one day."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_093.encounter_farewell.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Fare you well, ser {player}. May your road be smooth and your oaths be kept, and should we meet again, I shall greet you with a full heart."
+   },
+   {
+    "id": "sig.persona_093.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Until we cross paths again, ser {player}. Our roads part here, and I shall ride on with the banner held high."
+   },
+   {
+    "id": "sig.persona_093.encounter_farewell.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Go, then, ser {player}, and count yourself lucky to leave with your purse. The next meeting shall be settled with steel, not courtesy."
+   },
+   {
+    "id": "sig.persona_093.encounter_farewell.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Begone from my sight, ser {player}. I have marked your face and your name, and neither shall slip from my memory."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_093.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Mist lies thick over {village} this morning and the causeways run slick with dew. A poor day to ride, yet honour waits for no sunshine."
+   },
+   {
+    "id": "sig.persona_093.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Ale at {town} tastes of home tonight, friends. I raise my cup to every rider who keeps faith on the long roads."
+   },
+   {
+    "id": "sig.persona_093.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "My grandsire crossed these marshes in a storm worse than this. Such weather tests a banner, and Lauresse has never lowered its own."
+   },
+   {
+    "id": "sig.persona_093.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Pellegrane's towers were grey as slate when I rode past, and yet they stood. So too shall we, friends, if we hold firm."
+   },
+   {
+    "id": "sig.persona_093.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "Fen raiders have been seen near {village}. Keep your watch sharp and your blades ready, for I have seen what they leave behind."
+   }
+  ]
+ }
+}

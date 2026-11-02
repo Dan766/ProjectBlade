@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "job_id": "conv_b10",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "7284b3b998413620f1eaa13ec811a86e71300a6487cbcfdeab0fd45ea09adc15",
+    "model": "haiku",
+    "cost_usd": 0.006732150000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:42:19+00:00"
+  },
+  "data": {
+    "conv_046": [
+      {
+        "speaker": "AcornKid07",
+        "text": "is the grocer in {town} really charging {gold} for one loaf?? thats robbery :(",
+        "delay_s": 0
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "the {town} grocer is on notice!! charging {gold} for bread is a crime against picnics >:)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "wait which one is the bread?? the grey bar or the brown one lol",
+        "delay_s": 6
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "the brown one!! i think its {village} flour or smth?? sorry im new here",
+        "delay_s": 4
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "{village} flour is always overpriced bestie. ur paying for the cart not the grain :P",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Clovan_Tinwhistle",
+        "text": "ok thx!! i bought 2 for {gold} which feels like too much but i dont wanna look cheap",
+        "delay_s": 7
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "2 for {gold}??? ur being scammed with love :D come back w me tomorrow and we haggle like pirates",
+        "delay_s": 8
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "omg yes!! ur so nice :D ill bring my whole allowance lol",
+        "delay_s": 6
+      }
+    ],
+    "conv_047": [
+      {
+        "speaker": "MEADLING7",
+        "text": "ok so who took the cart from {village}?? i left it by the well and now its gone :(",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "saw a cart rolling out of {village} at dawn. no driver. the mules were not impressed",
+        "delay_s": 6
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "not me. i was at the mill. bring proof before you accuse people",
+        "delay_s": 9
+      },
+      {
+        "speaker": "MEADLING7",
+        "text": "i wasnt accusing u?? sorry :( i just think the cart is the only thing i own worth {gold}",
+        "delay_s": 5
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "you parked a {gold} cart next to a road. thats the whole story",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "the mules say nothing. the mules never say anything",
+        "delay_s": 8
+      },
+      {
+        "speaker": "MEADLING7",
+        "text": "ok ok :( can someone help me find it? i will pay {gold} for the info",
+        "delay_s": 6
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "check the stable. thats where carts go to hide",
+        "delay_s": 10
+      }
+    ],
+    "conv_048": [
+      {
+        "speaker": "h4rrowz",
+        "text": "lmaooo {player} just took {fief} off ilmoth, the one he spent {gold} fortifying xD",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Ilmoth_Coldwick",
+        "text": "Ratio was off, my second line broke. {fief} was lost in under an hour.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "cope {player} u got rolled again lol. nice of u to hand back the keys tho :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Ilmoth_Coldwick",
+        "text": "I will not be commenting on the keys. The garrison of {troop_count} is not a concern to me yet.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "not a concern lmao ur literally posting on the forums about it ilmoth xD",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ilmoth_Coldwick",
+        "text": "Posting is not a concern either. I will take {fief} back before the week ends. Watch.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "last time u said that u lost {village} too :P",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ilmoth_Coldwick",
+        "text": "Noted. Next time I bring {troop_count} and a better plan.",
+        "delay_s": 8
+      }
+    ],
+    "conv_049": [
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "Mulehaul402, a word in private would serve us both, though I suspect you will prefer to keep this in public as usual.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "private is for people with secrets. ur the one whos been asking everyone about the {village} wagons",
+        "delay_s": 6
+      },
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "I have asked nobody. I have merely observed that {gold} worth of salt went missing while you were counting mules.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "salt is salt. the mules were unbothered. they always are",
+        "delay_s": 5
+      },
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "The mules are not the point. A {troop_count} escort does not simply wander off, and I would like to know who signed for it.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "lol who signed for it. honestly a question for ur own clerks. but ok ill check the ledger for u :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "Thank you. I shall expect the ledger by evening, and I shall be sure to mention your diligence to the council.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "council loves mentioning things. dont let it go to ur head",
+        "delay_s": 6
+      }
+    ],
+    "conv_050": [
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "a {troop_count} troop army is marching on {town}!!! the bridges have been informed of their crimes :O",
+        "delay_s": 0
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "cav count was the whole story. {troop_count} is probably half infantry",
+        "delay_s": 5
+      },
+      {
+        "speaker": "PuffinHearth",
+        "text": "Let the ancestors witness the words spoken here. If such a host marches, then {town} must prepare its walls and its prayers alike.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "The sacred hen has been informed!! :D also i heard {village} is selling {gold} worth of lies lol",
+        "delay_s": 6
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "lies. the army is going to {village} for grain not {town}",
+        "delay_s": 4
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "ratiognat has ruined the prophecy :( the hen will not forgive this",
+        "delay_s": 5
+      },
+      {
+        "speaker": "PuffinHearth",
+        "text": "Friend ratiognat, do not dismiss the omens so quickly. A camp of {troop_count} stirs at dawn, and I would hear your counsel.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Potshot88",
+        "text": "hens dont do counsel :D but if the army comes ill bring a spoon for the walls lol",
+        "delay_s": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "job_id": "persona_063",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "3a632dbd12998386447b74058e16a861fceec1d4592a080d01a977db31f158a0",
+    "model": "haiku",
+    "cost_usd": 0.0161957,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: [{'channel': 'global', 'rel': 'hostile', 'text': 'Ser {player} spared me when mercy was not owed. Tesnovar remembers, and the debt shall be repaid in a fair duel.'}, {'channel': 'whisper', 'rel': 'hostile', 'text': 'Ser {player}, I walk free by your choice, yet I do not thank you lightly. Mark that my blade still hungers for our next meeting.'}, {'channel': 'global', 'rel': 'neutral', 'text': 'Ser {player} let me go without ransom. Honour has been shown on both sides, and I shall not forget it.'}, {'channel': 'whisper', 'rel': 'neutral', 'text': 'Ser {player}, your mercy was unlooked for. I am grateful and will speak well of you, though my oath stands as before.'}, {'channel': 'global', 'rel': 'friendly', 'text': 'Hark, ser {player} released me with no ransom at all! Such generosity will be sung in every hall of the Wardenry.'}, {'channel': 'whisper', 'rel': 'friendly', 'text': 'Ser {player}, you freed me without ransom and I count it a debt of honour. Should you need my sword, you have only to ask.'}] is too long"
+    ],
+    "created_at": "2026-11-01T17:36:27+00:00"
+  },
+  "data": {
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Halt, ser {player}! I am {persona} of the Tesnovar Wardenry, and no banner of {my_faction} shall be trampled while I still draw breath."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Good day, ser {player}. I am {persona}, sworn to {my_faction} and riding under its colours. State your business plainly, traveller."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Well met, ser {player}! {persona} greets you in the name of {my_faction}. May our paths cross in honour and never in quarrel."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, you stand upon ground my ancestors bled for. {persona} of {my_faction} will not yield a single stone of it."
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Surrender, ser {player}? Tesnovar does not kneel to common brigands. Keep your {gold} gold and come and take my sword if you dare."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "You demand {gold} gold of me, ser {player}? A bold tongue for a man with such a thin purse. Speak again and let the ancestors judge your answer."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Pay you {gold} gold? I would sooner feed my shield to the mud. Draw your steel, ser {player}, and let us see what your coin is worth."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I hope you jest, for we have shared too much road to be enemies. Yet I cannot pay {gold} gold, and I refuse with a heavy heart."
+      }
+    ],
+    "encounter_alliance_yes": [
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "An alliance, ser {player}? I accept, provided your word is sound. Together we shall break {enemy_faction}, and I shall be watching how you bear yourself."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I accept your offer gladly! Let our banners stand side by side against {enemy_faction}, and let the ancestors witness it."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Very well, ser {player}. Ride with me against {enemy_faction}. Should {rival} cross my path, I shall not forget his insolence."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Your hand is clasped in mine, ser {player}! Tesnovar will remember this day as surely as the ancestors remember their oaths."
+      }
+    ],
+    "encounter_alliance_no": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "No alliance with you, ser {player}. Your word is not yet worth the ink that would bind it, and I will not stain Tesnovar's banner with it."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I must decline, ser {player}. My oath keeps me to my own road for now. Perhaps another season will see us differently."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ally with you, ser {player}? I would sooner ride beside {rival}, and that is saying a great deal of contempt. Begone from my sight."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, it grieves me to refuse a friend. Yet my banners have no room for an alliance this season. Accept my regret and my respect."
+      }
+    ],
+    "captured_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "So, ser {player}, you have taken me as your prisoner. Ransom me for {gold} gold if you must, but know that {my_faction} will not forget this shame."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I am your captive, ser {player}, and I bow to the fortune of war. Name your ransom of {gold} gold and I shall see it paid."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "A fine stroke, ser {player}, though I wish it had fallen on another day. I am your prisoner, and I ask only that you treat me as a knight of {my_faction}."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Chained like a common thief, I am, ser {player}. Hear this: my ancestors will remember your face, and {my_faction} will settle its debt with you."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} spared me when mercy was not owed. Tesnovar remembers, and the debt shall be repaid in a fair duel."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, your mercy was unlooked for. I am grateful and will speak well of you, though my oath stands as before."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ser {player} let me go without ransom. Honour has been shown on both sides, and I shall not forget it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you freed me without ransom and I count it a debt of honour. Should you need my sword, you have only to ask."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Ser {player} released me with no ransom at all! Such generosity will be sung in every hall of the Wardenry."
+      }
+    ],
+    "player_left_my_faction": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} has abandoned {my_faction} for {faction}. Let it be written that oaths sworn in Tesnovar's hall are not so lightly broken."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, you turned your banner to {faction} and left {my_faction} in the mud. I will remember the shame you carried away with you."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ser {player} has ridden from {my_faction} to join {faction}. The ancestors will judge that choice, not I."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, I hear you have sworn yourself to {faction}. Choose your road with care, for every oath is a stone upon your back."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} declares war on {enemy_faction}. Let the saga be written in blood and honour, and let our names be sung in every hall."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "War is declared between {my_faction} and {enemy_faction}. Tesnovar stands ready, and our oath to the ancestors grows heavier this day."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} has dared to make war on {my_faction}. We shall answer with steel, as our forebears would have done."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {enemy_faction} are at war once more. I pray the ancestors grant us a victory worthy of the telling."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Ser {player} fought beside us with {troop_count} blades, and the day is ours against {enemy_faction}. Our ancestors would be proud of such valour."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, with {troop_count} of our blades we broke {enemy_faction} together. I count you a true comrade, and that is no small praise from me."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, our {troop_count} blades stood firm, and {enemy_faction} lies broken before us. I will grant that you fought with honour today."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, what a day! Our {troop_count} blades and your courage have crushed {enemy_faction}. Let the minstrels sing of it for a generation."
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Begone from my sight, ser {player}. Our quarrel is unfinished, and I shall collect on it when the wind turns."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Farewell, ser {player}. May your road be long and your purse heavy."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Farewell, dear ser {player}! May the ancestors guard your road and bring us together under better banners."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "The parley is done, ser {player}. Ride well, and remember that honour travels faster than rumour."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The rain over {town} is a sign from the ancestors, I am certain of it. Our march shall wait until the skies grow kind."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Has anyone seen the road to {village}? I was promised bread there, and a sworn knight cannot march on an empty stomach."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Hear me, travellers of the road! The hills above {village} are green, and I have never seen a finer morning for honour."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "A bard in {village} sang of the old wars last night, and I wept openly, as a true knight of the Wardenry should."
+      }
+    ]
+  }
+}

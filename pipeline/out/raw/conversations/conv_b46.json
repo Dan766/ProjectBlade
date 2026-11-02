@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "job_id": "conv_b46",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "f88fbf08bd9b39402a7721fdc4366de3c8c5382fe6e0f226e42228dc5c767761",
+    "model": "haiku",
+    "cost_usd": 0.00823895,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:46:20+00:00"
+  },
+  "data": {
+    "conv_226": [
+      {
+        "speaker": "HornMisfire",
+        "text": "ok so bisket said we raid {village} at night?? wait which horn is charge?? sry",
+        "delay_s": 0
+      },
+      {
+        "speaker": "bisket",
+        "text": "The long horn means charge, HornMisfire. We strike {village} before dawn, then march on {town} with {troop_count} men.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "wait so i get {troop_count} guys?? thats alot of guys. how much gold for me tho, like {gold}??",
+        "delay_s": 4
+      },
+      {
+        "speaker": "bisket",
+        "text": "Your share is {gold}, provided you keep your mouth shut and blow the horn only on the signal. Do not blow it early.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "ok ok no horn till signal. what if i blow it by accident tho :/",
+        "delay_s": 3
+      },
+      {
+        "speaker": "bisket",
+        "text": "Then you will ride with the carts. Accidents are a luxury I cannot afford. Come find me before the moon rises.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "lol carts. fine. i'll practice my horn in the woods where nobody can hear it xD",
+        "delay_s": 5
+      }
+    ],
+    "conv_227": [
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "Interesting. {fief} has changed hands, and {player} was the one who took it. I did not expect such boldness.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "fernz",
+        "text": "lol {player} took {fief} off u?? ur garrison must b sleepin crumbwright",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "My garrison was not asleep, fernz. It was outnumbered. There is a difference, though I doubt you know it.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "fernz",
+        "text": "sure. keep tellin urself that. i saw the gate it was open lol",
+        "delay_s": 3
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "Careless of me, then. I will reclaim {fief} soon enough. {player} may enjoy the view while it lasts.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "fernz",
+        "text": "wait is {player} ur ally or mine now. i need to know who to hate lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "Neither, I suspect. {player} is simply opportunistic. I respect that far more than loyalty, to be honest.",
+        "delay_s": 5
+      }
+    ],
+    "conv_228": [
+      {
+        "speaker": "DukeScythington",
+        "text": "ok new plan. we raid {village} at dawn. i already hired {troop_count} geese. they r not happy about it :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "geese?? duke this is why ur never invited to the good feasts :D but ok im in. whats the cut lmao",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DukeScythington",
+        "text": "the cut is {gold} and all the cheese u can carry. the cheese is a bribe btw :)",
+        "delay_s": 3
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "last time the cheese was on fire remember?? i still smell it :D who lit the cheese",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DukeScythington",
+        "text": "that was a tactical flambe. the geese respected it. we meet at {town} tonight. bring ur best hat",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "i will bring a hat. a dramatic hat. the geese will weep when they see it :D",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DukeScythington",
+        "text": "lol ok. dont be late or the geese leave without u. they r very unreliable but very loyal :)",
+        "delay_s": 3
+      }
+    ],
+    "conv_229": [
+      {
+        "speaker": "beakon",
+        "text": "omg {player} took {fief} while i was getting bread!!! ur honestly kinda good at this :D thx i guess",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "the mules didnt notice the attack. they were busy eating. {fief} is quiet now though",
+        "delay_s": 4
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "gg. {player} timed the gate. we got outplayed on the clock",
+        "delay_s": 3
+      },
+      {
+        "speaker": "beetlepush",
+        "text": "Positioning error. Happens to the best, {player}. We will retake {fief} before the next reset.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "beakon",
+        "text": "wait wait i think the gate was my fault :( i left it unlatched when i went for bread lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "told u so beakon. the latch was ur problem, not the bread. keep the bread.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "retake plan at {village} tonight. no bread trips.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "beetlepush",
+        "text": "Agreed. Mulehaul402, keep your mules off our road. {player} will not hold it long.",
+        "delay_s": 3
+      }
+    ],
+    "conv_230": [
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Business is business. Who will take my wager on the defenders at {town} holding past dawn? {gold} is on the table.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "2 to 1 cav wins at {town}. recheck your comp baron. your odds are dead",
+        "delay_s": 3
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Your odds rest on cavalry alone, MOSSY9. The wall favors infantry, and I have {troop_count} pikes behind that gate.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Hail, wagerers!!! I shall bet {gold} on pure chaos, for the glory of the pot :D",
+        "delay_s": 3
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "gobletan you bet on everything. last week it was a goose. the goose lost",
+        "delay_s": 5
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Let us stop bickering. Lay your coin, MOSSY9, and I will hold the stakes with {village} as surety.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "MOSSY9",
+        "text": "fine. {gold} on cav. {village} means nothing to me baron",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "The pot grows!!! Tribute accepted!!! Someone bring the cheese :D",
+        "delay_s": 3
+      }
+    ]
+  }
+}

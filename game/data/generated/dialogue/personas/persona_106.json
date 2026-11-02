@@ -1,0 +1,297 @@
+{
+ "username": "barleymeta",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_106.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} won that one on luck. your cavalry ratio was off and you still rushed the center. not a skill issue, a math issue"
+   },
+   {
+    "id": "sig.persona_106.beat_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{troop_count} troops, flanks held, one charge. that is the whole fight. rerun the numbers before the next one"
+   },
+   {
+    "id": "sig.persona_106.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}. {troop_count} men against my line and you still found the open flank. good win, but the charge was luck, not a plan. i am retuning the ratio tonight"
+   },
+   {
+    "id": "sig.persona_106.beat_player.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "gg. no hard feelings, you played it clean. next time i bring more horse and we see if the numbers hold"
+   },
+   {
+    "id": "sig.persona_106.beat_player.05",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} took {gold} off me. i will have the breakdown posted by morning."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_106.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "my archers were out of position. lost {troop_count} to a flank i should have covered. {player} timed it better, that is all"
+   },
+   {
+    "id": "sig.persona_106.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, send me the replay. i want to see where the cavalry ratio broke. i think it was the second charge"
+   },
+   {
+    "id": "sig.persona_106.beat_by_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}. {troop_count} men and you still found the gap in my line. my archers were out of position, the reserve came late. gg, i am rerunning this"
+   },
+   {
+    "id": "sig.persona_106.beat_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "lost {troop_count} to {player}. the ratio was fine on paper. the problem was the spacing on the left flank, which i will fix"
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_106.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} again. third time. the pattern is my reserve arriving late, every fight. fixing it"
+   },
+   {
+    "id": "sig.persona_106.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, that is three. i stopped pretending it was variance. show me the timing or stop wasting my time with the same flank"
+   },
+   {
+    "id": "sig.persona_106.beat_by_player_repeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} beat me again. {troop_count} lost. i am starting to respect the consistency, which is annoying"
+   },
+   {
+    "id": "sig.persona_106.beat_by_player_repeat.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, you keep punishing the same gap. fair. i have stopped calling it bad luck and started calling it a bug in my comp"
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_106.player_win_streak.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has won a streak and everyone is treating it like a miracle. it is a formation. copy it or keep crying"
+   },
+   {
+    "id": "sig.persona_106.player_win_streak.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, your streak is real. i have checked the numbers twice. you are not lucky. send me your comp and we compare"
+   },
+   {
+    "id": "sig.persona_106.player_win_streak.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "streak talk is noise. the server is reading {player} like a prophecy. it is a repeatable cavalry ratio and anyone can run it"
+   },
+   {
+    "id": "sig.persona_106.player_win_streak.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, keep the streak going. i want to find where you break, because you will break eventually"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_106.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} and blamed the terrain. the terrain did not do the math for you. open with the ratio next time"
+   },
+   {
+    "id": "sig.persona_106.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {troop_count} gone. you overextended the line. pull back and rebuild the cavalry before you go out again"
+   },
+   {
+    "id": "sig.persona_106.player_big_defeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "that loss was avoidable. {player} sent everything forward with no reserve. i have posted the same mistake in my logs"
+   },
+   {
+    "id": "sig.persona_106.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, rough one. the composition was fine, the timing was not. rebuild and i will be waiting at the next crossing"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_106.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}. meet me at {town} with your full line. no mercenaries, i want the real numbers. rematch or admit the ratio was wrong"
+   },
+   {
+    "id": "sig.persona_106.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, i am at {village} with a retuned cavalry mix. come test it. if you win i will post the breakdown and say so"
+   },
+   {
+    "id": "sig.persona_106.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you owe me a rematch. i have the new ratio and it beats your last comp. {town} at dawn"
+   },
+   {
+    "id": "sig.persona_106.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}. no ego here, just a test. {village} is neutral ground and the terrain favors whoever reads it first. you in"
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_106.fought_alongside_player.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, that flank held because you took the left and i took the center. {troop_count} men, {enemy_faction} broke. run the same split again"
+   },
+   {
+    "id": "sig.persona_106.fought_alongside_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} and i took {enemy_faction} apart with {troop_count} troops. clean numbers. the split worked, copy the spacing"
+   },
+   {
+    "id": "sig.persona_106.fought_alongside_player.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, good split against {enemy_faction}. you were early on the charge, which is the right error to make. do it again"
+   },
+   {
+    "id": "sig.persona_106.fought_alongside_player.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}. {enemy_faction} did not expect the second line to move that fast. {troop_count} men, one clean push. noted for the next run"
+   },
+   {
+    "id": "sig.persona_106.fought_alongside_player.05",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "joint push on {enemy_faction} went well. {player} did not waste a single horse. rare, and i respect it"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_106.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} men in the field, {gold} in the treasury. the numbers are the only thing that matters in this realm"
+   },
+   {
+    "id": "sig.persona_106.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is running at a surplus. every granary counted twice. most lords never check their own ledgers"
+   },
+   {
+    "id": "sig.persona_106.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "my cavalry ratio is holding at the best value on the map. {troop_count} horse, nothing wasted"
+   },
+   {
+    "id": "sig.persona_106.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{gold} banked and not one coin spent without a return calculation. the rest of you are guessing"
+   }
+  ],
+  "my_faction_took_fief": [
+   {
+    "id": "sig.persona_106.my_faction_took_fief.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} took {fief} from {enemy_faction}. garrison math was right and the siege was clean. next target already counted"
+   },
+   {
+    "id": "sig.persona_106.my_faction_took_fief.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is ours now. {enemy_faction} fought it at the wrong ratio and lost the gate first. predictable"
+   },
+   {
+    "id": "sig.persona_106.my_faction_took_fief.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} holds {fief}. the siege took eleven minutes by my clock. {enemy_faction} should check its numbers"
+   }
+  ],
+  "player_besieging_my_fief": [
+   {
+    "id": "sig.persona_106.player_besieging_my_fief.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} is sieging {fief}. good. the garrison is sized to outlast them and their ram count is wrong for that wall"
+   },
+   {
+    "id": "sig.persona_106.player_besieging_my_fief.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you are sieging {fief} with that formation. i have counted your rams. you will lose the gate by the third hour"
+   },
+   {
+    "id": "sig.persona_106.player_besieging_my_fief.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} started a siege on {fief}. standard approach, slow and the wrong ratio for the wall. watch the timing"
+   },
+   {
+    "id": "sig.persona_106.player_besieging_my_fief.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {fief} is held by a garrison i sized myself. go ahead and test it. i will have the breakdown posted after"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_106.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "the rain on the road to {town} is costing everyone speed. move the supply wagons earlier and stop complaining"
+   },
+   {
+    "id": "sig.persona_106.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{village} has the best grain yield on the map and nobody is using it. the price difference is obvious if you check"
+   },
+   {
+    "id": "sig.persona_106.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "server lag again. the timing windows are unreliable this week and i am not blaming the players for that"
+   },
+   {
+    "id": "sig.persona_106.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone tracking the cavalry ratio on the {town} route. the numbers shifted after last patch and i want a second opinion"
+   }
+  ]
+ }
+}

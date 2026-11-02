@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "job_id": "conv_b12",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "3326c2f480835ccf0254de96bdcc38f3c52a68e9338c8127d8cbaee8b613dc80",
+    "model": "haiku",
+    "cost_usd": 0.007417150000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:42:27+00:00"
+  },
+  "data": {
+    "conv_056": [
+      {
+        "speaker": "ratiognat",
+        "text": "took {fief} with {troop_count} troops and lost almost nothing cav count was the whole story",
+        "delay_s": 0
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "Calm down, ratiognat. I have watched this exact battle before, and it ended with the garrison walking out in shame.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "garrison walked out because they had no cav to chase us down same thing",
+        "delay_s": 5
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "Then tell me what {enemy_faction} does next, since {village} is now cut off from their granaries. I shall wait.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "they will counter at {town} within the hour bet {gold} gold on it",
+        "delay_s": 4
+      },
+      {
+        "speaker": "elder_curds",
+        "text": "I shall not take a wager against a man who counts horses in his sleep, ratiognat. Keep your gold for the treasury.",
+        "delay_s": 9
+      }
+    ],
+    "conv_057": [
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "wait did i just trade my whole {village} for a pig?? sorry :(",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "lmaoo yes. the pig is ur new mayr :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "PLEASE tell me he isnt actually mayor?? i need to get it back :( i'll pay {gold} gold",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "too late. pig has a hat now :) also ez. u still owe me a rematch",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "the pig has a HAT?? how did u even do that xD i thought the grain button was for hats",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "grain button feeds the pig duh :) ask the pig at {town} he knows the way",
+        "delay_s": 4
+      }
+    ],
+    "conv_058": [
+      {
+        "speaker": "hensworn",
+        "text": "Sit down, {player}. The road will wait. You lost most of the column at {town} and standing will not bring it back.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SourLute",
+        "text": "lmaoo {troop_count} men gone in one afternon heard the causway was the problm again {player}",
+        "delay_s": 4
+      },
+      {
+        "speaker": "DameHingmere",
+        "text": "{player}, a quiet word. The council will want an account of the {troop_count} men lost at {town}, and soon.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "hensworn",
+        "text": "DameHingmere, the council can wait until they have eaten.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Hael_Stackbane",
+        "text": "gg. ratio decides it not luck. {player} brought {troop_count} into a bad fight and lost on ratio",
+        "delay_s": 3
+      },
+      {
+        "speaker": "SourLute",
+        "text": "still mad abt the causeway {player} that {gold} gold bet is mine",
+        "delay_s": 4
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Enough, SourLute. {player} has heard enough from all of you for one evening.",
+        "delay_s": 6
+      }
+    ],
+    "conv_059": [
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "lol still laughing at the tollhouse at {town}. charged us {gold} gold to cross our own bridge",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SirNutbrook",
+        "text": "Gentlemen, I must protest. The tollhouse at {town} was a lawful levy, and I shall say so in council.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "A lawful levy that charged us {gold} gold for a plank, Sir Nutbrook? Let the banners speak and the field decide.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "rustcouncil07",
+        "text": "honestly the tollhouse is the best thing all week. quiet word with council about {village} tolls might help. just between us",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "lmao rustcouncil wants a toll cut now :)",
+        "delay_s": 3
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "Such mirth at another's expense is unbecoming, xX_Fiddl3Kid_Xx. Though I confess the tollhouse was an audacious touch.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SirNutbrook",
+        "text": "Dear SerLeekbrand, I should like a word in council regarding the tollhouse at {town} before the matter is forgotten.",
+        "delay_s": 4
+      }
+    ],
+    "conv_060": [
+      {
+        "speaker": "spindly_knight",
+        "text": "Sorry!! Did i do that right? :D we just made peace with {faction} and i think i clicked the wrong button :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "You did exactly right, spindly_knight. Peace with {faction} gives us the road to {town} and a great deal of quiet. Do not undo it.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "spindly_knight",
+        "text": "oh good :) but does that mean we cant attack them at {village} anymore?? i dont want to be rude",
+        "delay_s": 4
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "Not at all. It only means we need not spend {gold} gold on pikemen for {village}. Shall we discuss the terms over a private word?",
+        "delay_s": 7
+      },
+      {
+        "speaker": "spindly_knight",
+        "text": "a private word :O is that like a secret meeting. i can keep secrets!! i think :)",
+        "delay_s": 3
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "Something like that. Bring {troop_count} of your fastest riders to the gate at {town} at dusk, and we shall speak of it there.",
+        "delay_s": 6
+      }
+    ]
+  }
+}

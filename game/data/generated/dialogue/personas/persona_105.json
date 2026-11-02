@@ -1,0 +1,231 @@
+{
+ "username": "spitesprout",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_105.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} men in the reeds lol ez thats the marsh tax pay up in the replies"
+   },
+   {
+    "id": "sig.persona_105.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "ez {player} ur troops ran faster than ur typing ill add this one to the list with the rest xD"
+   },
+   {
+    "id": "sig.persona_105.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "hey {player} that was {troop_count} troops and {gold} gold worth of bad decisions i will read this loss out loud at every feast till spring so get used to it"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_105.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} got me this time lol skill issue on my end i guess the marsh was flooded not over tho"
+   },
+   {
+    "id": "sig.persona_105.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "fine {player} u win this round but the torched village at irhessa is still on my list so we arent done"
+   },
+   {
+    "id": "sig.persona_105.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "gg {player} that was clean ill give u that much xD now go keep those {troop_count} soldiers off my reed path before i come back with more"
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_105.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat me again thats loss number nine on the list i need a bigger scroll and a bigger marsh"
+   },
+   {
+    "id": "sig.persona_105.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "ok {player} now im bothered twice in a row with {troop_count} troops this marsh is getting weird and im blaming u for all of it"
+   },
+   {
+    "id": "sig.persona_105.beat_by_player_repeat.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "not gonna lie {player} u got me twice now respect i guess dont tell the league i said that"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_105.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} ran away from me lol the marsh smell scares everyone off eventually"
+   },
+   {
+    "id": "sig.persona_105.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "u ran {player} thats fine ill keep ur name on the list under coward right under the insults from last season"
+   },
+   {
+    "id": "sig.persona_105.player_fled_from_me.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "saw u turn tail {player} xD smart move honestly live to run another day"
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_105.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} ur still in the marsh the reeds miss u more than i do so go find a new lake"
+   },
+   {
+    "id": "sig.persona_105.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} you still owe me for the reed fire and the insults ill wait the marsh is patient and so am i"
+   },
+   {
+    "id": "sig.persona_105.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} {rival} called my last plan bad and i wrote that down too ur both getting read out at the next loss"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_105.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} meet me at {village} tonight ill bring the torches and u can bring whatever is left of ur pride"
+   },
+   {
+    "id": "sig.persona_105.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} u fancy a fight at {town} this week the bridge there is the only spot left that doesnt smell like reeds"
+   },
+   {
+    "id": "sig.persona_105.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} {village} at dusk loser buys the torches xD come lose again in front of everyone"
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_105.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "surrender lol {player} u want {gold} gold from me take it off my dead horse first and ill come back for it"
+   },
+   {
+    "id": "sig.persona_105.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player} pay {gold} and ill pretend i didnt see ur banner or dont the marsh loves a good ambush xD"
+   },
+   {
+    "id": "sig.persona_105.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ah {player} threatening me again for {gold} gold ur getting predictable and i kinda love it lets just fight"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_105.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} its {persona} of the {my_faction} step aside before u lose more men the way u lost to me"
+   },
+   {
+    "id": "sig.persona_105.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "oh look {player} its {persona} from the {my_faction} nice banner shame about the marsh smell on it"
+   },
+   {
+    "id": "sig.persona_105.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} {persona} here from the {my_faction} gg on the last one i guess ur still my favourite person to lose to"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_105.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is mine now with {troop_count} men and {gold} gold in the chest come watch the walls burn xD"
+   },
+   {
+    "id": "sig.persona_105.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} men sitting in {fief} and nobody can touch them the marsh raiders learned that the hard way lol"
+   },
+   {
+    "id": "sig.persona_105.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "the view from {fief} is great with {gold} gold in the coffers and no one to stop me lol"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_105.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} men and cried in the reeds lol the marsh really does eat everyone eventually"
+   },
+   {
+    "id": "sig.persona_105.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} that was a bloodbath and i was not even trying xD maybe stay out of the marsh next time"
+   },
+   {
+    "id": "sig.persona_105.player_big_defeat.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "rough one {player} {troop_count} men gone thats more than i lost in my whole first season good luck rebuilding"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_105.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else smell that reed rot coming from {village} or is it just me lol"
+   },
+   {
+    "id": "sig.persona_105.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "the rain in {town} is so bad today ur troops will sink before they reach the fight"
+   },
+   {
+    "id": "sig.persona_105.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "reminder the marsh is not a place to park ur army ask me how i know xD"
+   },
+   {
+    "id": "sig.persona_105.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "the ale in {town} is still the worst on the continent and i will keep saying it till they change it"
+   }
+  ]
+ }
+}

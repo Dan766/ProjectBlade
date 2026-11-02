@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "job_id": "conv_b30",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "ce9c6c0b7bb0dd14d5fbd01292e9e737d327e0b4eb66736f122e381b8905183d",
+    "model": "haiku",
+    "cost_usd": 0.00827235,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:44:51+00:00"
+  },
+  "data": {
+    "conv_146": [
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Hail, {player}!!! The Duke demands tribute!? :D",
+        "delay_s": 0
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "{player} got renwon now lol. still dies in the marsh tho",
+        "delay_s": 4
+      },
+      {
+        "speaker": "beetlepush",
+        "text": "positioning error. happens to the best, {player}. renown is not the same as skill.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Only {gold}?! The Duke demands MORE!!! :D",
+        "delay_s": 6
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "every renown kid loses {troop_count} troops at {village} eventualy just saying",
+        "delay_s": 9
+      },
+      {
+        "speaker": "beetlepush",
+        "text": "we will see, spitesprout. {player} has a long road ahead.",
+        "delay_s": 7
+      }
+    ],
+    "conv_147": [
+      {
+        "speaker": "MapleMutiny",
+        "text": "The goose of {fief} is avenged!! Respect the goose :D",
+        "delay_s": 0
+      },
+      {
+        "speaker": "gotie",
+        "text": "wait are we allowed to take {fief}?? sorry im new!! :( is the goose ok :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Brakken_Mouthy",
+        "text": "{enemy_faction} lost {fief} and ther army is cryng lol ur welcome gotie",
+        "delay_s": 6
+      },
+      {
+        "speaker": "MapleMutiny",
+        "text": "Brakken u were so salty about {village} last week :D",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Brakken_Mouthy",
+        "text": "salty is a strong word lol we paid {gold} for this fief and it was worth every troop",
+        "delay_s": 9
+      },
+      {
+        "speaker": "gotie",
+        "text": "ok so do i get a reward?? also wat is a fief lol :)",
+        "delay_s": 12
+      }
+    ],
+    "conv_148": [
+      {
+        "speaker": "DameTallowhelm",
+        "text": "A fief belongs to the one who keeps its wells full and its walls mended. Lordship is a duty, not a prize.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Duty is fine, but the people of {town} do not care who holds the title. They care who feeds them through the winter.",
+        "delay_s": 14
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Feeding them is worth nothing if the next raid takes {village} while {troop_count} men stand idle at the gate.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Then tell me who should hold {town} when the garrison is paid in {gold} and the ledgers are empty.",
+        "delay_s": 11
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "A ledger does not defend a wall. Give {town} to a warden who knows the water, and let the fens teach the rest.",
+        "delay_s": 13
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Patience wins more fens than swords do, and you know it. Let them answer for {village} before you hand over the keys.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "We will not settle this over one fief, friend. Ask me again after the spring levy and see where {town} stands.",
+        "delay_s": 10
+      }
+    ],
+    "conv_149": [
+      {
+        "speaker": "HammerhandVow",
+        "text": "Friends, the march on {village} begins at dawn. I need {troop_count} shields and any who will stand with me.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Your campaigns begin with a loud speech and end with empty wells. Bring {gold} to the wells first, then talk to me.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "HammerhandVow",
+        "text": "By my hammer and my name, {village} will be defended. Those who stand with me need no speeches.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Shields are cheap and vows are cheaper. Show me a ledger with {gold} in it, and I will listen.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "HammerhandVow",
+        "text": "My ledger is my word, and my word is worth more than any {gold} you can count.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "I will go to {town} with {troop_count} men and a full ledger. You may march alone, Hammerhand.",
+        "delay_s": 14
+      },
+      {
+        "speaker": "HammerhandVow",
+        "text": "Then go, and see whether the wells of {town} hold when the enemy comes calling.",
+        "delay_s": 7
+      }
+    ],
+    "conv_150": [
+      {
+        "speaker": "StormPigeon88",
+        "text": "the storm is personal now, {player}. {troop_count} troops ground into mud this week!!! who is next??",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SourLute",
+        "text": "still mad abt what happened at {town} {player} u got lucky there",
+        "delay_s": 6
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "mule train leaves at dawn for {town} with {gold} of grain for the winning side",
+        "delay_s": 10
+      },
+      {
+        "speaker": "SourLute",
+        "text": "winning side lol. ppl only folow the storm for the drama",
+        "delay_s": 7
+      },
+      {
+        "speaker": "StormPigeon88",
+        "text": "the drama is the point, SourLute. {player} does not need your approval to keep winning!!",
+        "delay_s": 9
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "keep the drama out of {village} please. the farmers there want quiet and their crops",
+        "delay_s": 12
+      },
+      {
+        "speaker": "SourLute",
+        "text": "{village} farmers always want quiet lol {player} wont be quiet tho",
+        "delay_s": 8
+      }
+    ]
+  }
+}

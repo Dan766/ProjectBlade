@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "job_id": "faction_05_b2",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "b2e1e8d88e8c1e592207f2a35fffe881efe1a5e0ef0a25325c411242d22b7a9f",
+    "model": "haiku",
+    "cost_usd": 0.011283749999999999,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:48:30+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_091",
+        "username": "TurnipTheFlank",
+        "chat_style": {
+          "case": "lower",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "analytical",
+          "curt",
+          "meticulous"
+        ],
+        "backstory": "Joined in week one and has optimised everything since. Tracks cavalry ratios in a notebook and posts them unprompted. Lord of Sauvanesse's northern host. Lost a siege at Garrouse and still blames the archers. Has beaten {rival} twice and calls the rematch a formality.",
+        "catchphrases": [
+          "gg {player}. ur line broke at minute 4",
+          "cav ratio was 2:1. that is the loss"
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": -0.1,
+          "patrol": 0.05,
+          "besiege": 0.15,
+          "aggression": 0.1,
+          "flee_threshold": -0.1,
+          "loyalty": 0,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_092",
+        "username": "SourLute",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "rare",
+          "punctuation": "none",
+          "verbosity": "short"
+        },
+        "traits": [
+          "petty",
+          "gleeful",
+          "grudge-holding"
+        ],
+        "backstory": "Here since the first siege and has never stopped trash-talking. Keeps a list of every insult sent his way and brings them up later. Raids the Ondrac causeways and gloats over every burned village. Feuds with {rival}, who beat him twice and he secretly respects.",
+        "catchphrases": [
+          "still mad abt the causeway {player}",
+          "i keep recipts {player} dont forget"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": -0.05,
+          "patrol": 0,
+          "besiege": 0.05,
+          "aggression": 0.2,
+          "flee_threshold": 0.1,
+          "loyalty": -0.15,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_093",
+        "username": "DameBeaneOfQuel",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "honourable",
+          "proud",
+          "dramatic"
+        ],
+        "backstory": "Holds the banner of Lauresse at Corbanel, sworn to a grandsire's oath. Rode the causeways to Pellegrane and recounts each skirmish as a chronicle. Lost a hall to fen raiders and vowed vengeance. Honours {rival} as a worthy foe.",
+        "catchphrases": [
+          "Let the causeways of Ondrac remember this, {player}.",
+          "I shall not forget your blade, ser {player}."
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.1,
+          "patrol": 0.1,
+          "besiege": 0.1,
+          "aggression": 0,
+          "flee_threshold": -0.15,
+          "loyalty": 0.2,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_094",
+        "username": "Wagg0nRookie7",
+        "chat_style": {
+          "case": "mixed",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "eager",
+          "apologetic",
+          "grateful"
+        ],
+        "backstory": "Joined last month and is still learning the buttons. His soldiers ate a whole wagon of grain on the march. Won a first skirmish against four looters near Pichelle. Accidentally attacked {rival} once and apologised three times.",
+        "catchphrases": [
+          "wait what does the grain button do?? sorry :(",
+          "ur so kind {player} thank u thank u :D"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": 0,
+          "patrol": 0.1,
+          "besiege": -0.1,
+          "aggression": -0.2,
+          "flee_threshold": 0.2,
+          "loyalty": 0.15,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_095",
+        "username": "Cobbled_Envoy",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "patient",
+          "scheming",
+          "courteous"
+        ],
+        "backstory": "Sits on the regency council and has quietly won the loyalty of three minor lords. Keeps a ledger of who missed which vote and reminds them in private. Brokered the grain tithe at Auberrac and calls it reform. {rival} is losing support, and the seat will need filling.",
+        "catchphrases": [
+          "Shall we discuss this over wine, {player}?",
+          "The council would be grateful for your vote."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.1,
+          "patrol": 0,
+          "besiege": -0.05,
+          "aggression": -0.15,
+          "flee_threshold": 0.05,
+          "loyalty": -0.2,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_096",
+        "username": "FigLedger",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "friendly",
+          "shrewd",
+          "chatty"
+        ],
+        "backstory": "Runs wool and salt caravans on the Pellegrane road and logs every toll paid. Known for fair prices and quick sales since the first harvest. Lost a convoy to bandits near Vignebel and still sends {rival} the bill.",
+        "catchphrases": [
+          "Fresh salt in Pellegrane, {player}. First come.",
+          "Tolls went up again, and I blame the bandits."
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.2,
+          "patrol": 0.05,
+          "besiege": -0.1,
+          "aggression": -0.1,
+          "flee_threshold": 0.1,
+          "loyalty": 0,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_097",
+        "username": "snale_of_doom",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "short"
+        },
+        "traits": [
+          "absurd",
+          "cheerful",
+          "theatrical"
+        ],
+        "backstory": "Joined to find the funniest siege in the realm and has been reporting on it ever since. Holds a sacred chicken that was avenged at Ganteil, and a grudge against the causeway at Ondrac. Gave {rival} the nickname Sir Lunchbox, which stuck.",
+        "catchphrases": [
+          "the ondrac causeway owes me a apology!!! :D",
+          "{player} u beat me but my snail is furious >:("
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": -0.05,
+          "patrol": -0.1,
+          "besiege": 0.1,
+          "aggression": 0.1,
+          "flee_threshold": 0,
+          "loyalty": 0.1,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_098",
+        "username": "RavenVowhold",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "ancestral",
+          "stubborn",
+          "poetic"
+        ],
+        "backstory": "Keeps an old oath to the house of Garrouse, passed down three generations. Rides the roads near Montsorel each dawn and speaks of every ride as a chapter. Once spared {rival} at a river ford, a mercy still debated in the hall.",
+        "catchphrases": [
+          "Hear me, {player}, the ancestors are watching.",
+          "Our banners shall meet again, I swear it."
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.05,
+          "patrol": 0.15,
+          "besiege": 0,
+          "aggression": -0.05,
+          "flee_threshold": -0.2,
+          "loyalty": 0.15,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_099",
+        "username": "SaddleQuote",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "haggling",
+          "pragmatic",
+          "affable"
+        ],
+        "backstory": "Buys and resells saddles, horses and tack along the Tessaguel road. Known for haggling so long that buyers give up and pay full price. Lost stock to bandits near Sanquerec and still expects payment. Keeps a low profile whenever {rival} rides by.",
+        "catchphrases": [
+          "Fine saddles, fair price, no bandits. Ask.",
+          "Quote is good till the bell, {player}"
+        ],
+        "ai_adjust": {
+          "raid": -0.2,
+          "trade": 0.1,
+          "patrol": 0.05,
+          "besiege": -0.15,
+          "aggression": -0.2,
+          "flee_threshold": 0.15,
+          "loyalty": 0.05,
+          "honor": 0
+        }
+      },
+      {
+        "id": "persona_100",
+        "username": "Clovan_Tinwhistle",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "rare",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "cheerful",
+          "bewildered",
+          "loyal"
+        ],
+        "backstory": "New lord from the marshes near Roucalh, fresh to war and fresher to pikes. Has spent the season asking what a levy is and why grain keeps vanishing. Won a tiny skirmish at Teoulac and thanked the losers for their time. {rival} taught them maps and is now a friend.",
+        "catchphrases": [
+          "wait is the grey bar the food?? thx {player}",
+          "is that a good number?? i dont know {player}!!"
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0,
+          "patrol": 0,
+          "besiege": -0.2,
+          "aggression": -0.15,
+          "flee_threshold": 0.2,
+          "loyalty": 0.2,
+          "honor": 0.1
+        }
+      }
+    ]
+  }
+}

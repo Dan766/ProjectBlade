@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "job_id": "persona_077",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "9914cc05f74ae3c56860f7c789360010d18ea8dd4cabd59af29f8b8f9bdb89be",
+    "model": "haiku",
+    "cost_usd": 0.00764785,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:37:10+00:00"
+  },
+  "data": {
+    "ambient_trade": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Selling salt in {town}, 40 gold a sack. Fair price for a fair road. Anyone buying in bulk?"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Buying wool in {town} at {gold} gold a bale. Good wool, honest weight, no tricks :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Caravan leaving {town} tomorrow with spare cart space. Half the escort cost for anyone who shares it."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Anyone want iron from {town}? I'll take {gold} gold for the lot, not a copper less."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Salt is up to {gold} gold in {town}. Hold your stock a week, the margin is worth the wait."
+      }
+    ],
+    "encounter_trade_offer": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "I'll pay {gold} gold for safe passage and not a copper more, {player}. Think it over, the road is not getting cheaper."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{gold} gold for the lot, {player}, delivered in {town}. That is a fair price and you know it."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "For you, {player}, {gold} gold and I'll throw in a sack of salt. Deal, or do you want to haggle?"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, I have no wish to fight. My wagons carry salt, not grudges. Name your price and we can all go home."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, {persona} of {my_faction} here. Are you carrying anything worth trading, or just passing through?"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Good to see you, {player}. {persona} of {my_faction} here. Fancy a quick trade before the next toll gate?"
+      }
+    ],
+    "player_raided_my_village": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Burning {village} was a poor investment, {player}. Now every merchant will charge me more for escorts."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, you burned {village}. I won't pretend that doesn't hurt. Name a figure for the damages and we can talk."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, the ashes at {village} cost me a lot of business. I'd rather settle this in coin than in steel."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Raids on {village} push every price up, {player}. Pay the damages and the road stays open for both of us."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} is at war with {enemy_faction}. Every war is a tax on the roads, and I'm the one paying it."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "War between {my_faction} and {enemy_faction}. Wonderful. Grain doubles in price and the bandits get bolder."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Word is {my_faction} has declared on {enemy_faction}. My wagons are keeping off the eastern roads until it settles."
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Peace between {my_faction} and {faction} at last. Good news for the roads, and my prices are already dropping."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} have made peace. I'm sending a caravan through before the tolls go up again."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Peace with {faction} means lower insurance on my wagons. Finally some sense from the lords."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} released me without ransom. Could have asked for a fortune. Not sure what to make of that, honestly."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "You released me instead of asking for ransom, {player}. I won't forget that, nor the price of my pride."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Thank you for releasing me, {player}. I owe you a discount on salt, and I always pay what I owe :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, you let me go rather than hold me for ransom. Let's talk prices next time we cross paths."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} beat my {troop_count} men in the field. Lost wagons, lost men, and I still have to sell the salt."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} beat my {troop_count} troops fair and square. Bad for my purse, good for my respect."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, that field cost me {troop_count} troops and two wagons. Good fighting, but I still expect a fair price."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, you took {troop_count} of my men today. I won't forget it, but I'll still talk prices with you."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Well fought, {player}. Losing {troop_count} men hurts, but I respect a good opponent. Let's talk prices after."
+      }
+    ],
+    "whisper_beg_help": [
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, {enemy_faction} is pressing {fief} hard. Help me hold it and I'll pay you well, with a standing trade deal."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player}, I'm losing {fief} to {enemy_faction}. Send your men if you can. Name your price and I'll meet it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "The walls of {fief} won't hold against {enemy_faction} for long. Help me, {player}, and I'll make it worth your while."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Old friend {player}, {fief} will fall to {enemy_faction} soon. I know it's a big ask, but I'll pay in salt."
+      }
+    ],
+    "ambient_complaint": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lost another wagon to {faction} longbowmen on the way out of {town}. Bad for business, I tell you."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Bandit toll on the road again. Whoever is thieving out there, my wagons are not your fundraiser."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{rival} thinks tolls are a fine way to pay for roads. Some of us actually have to carry the cost."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Every road tax in {town} takes a bite out of the margin. I count my coins twice before I load a wagon now."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Eleven wagons gone to the longbows and I still sell them salt. Business is business, but it hurts."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain on the road to {village} again, so the mud is worth a fortune to the cart makers."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Anyone else notice salt prices climb every time it rains in {town}? Makes me think the weather is a trader too."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lag on the eastern route cost me half a morning. Still, the wagons don't mind a slow road."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Heard {village} has a good harvest this season. Might be worth a detour for a cheap cart of grain."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "A quiet week on the roads is good for my wagons and worse for my purse, to be honest :)"
+      }
+    ]
+  }
+}

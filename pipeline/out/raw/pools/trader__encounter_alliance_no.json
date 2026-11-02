@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "job_id": "trader__encounter_alliance_no",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "819e9c96e4a1d7c11aa0afd837f35f6e2924335752f4b0d2c41f3f66d1f44263",
+    "model": "haiku",
+    "cost_usd": 0.0172094,
+    "attempts": 4,
+    "retry_errors": [
+      "attempt 1: schema: 'neutral' is a required property",
+      "attempt 2: result is not valid JSON: Expecting ',' delimiter: line 1 column 2835 (char 2834)",
+      "attempt 3: result is not valid JSON: Expecting ',' delimiter: line 1 column 2851 (char 2850)"
+    ],
+    "created_at": "2026-11-01T17:13:24+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "An alliance with you? I'd sooner pay the tolls twice. Nothing personal, {player}, it's just bad for the books.",
+        "Ally with you so the next bandit ambush finds us both? No thank you. My caravans are not your shield.",
+        "You want my name on your banner? Last time that banner came with a burned wagon. Find another partner.",
+        "Hm. Tempting, but my ledger has no column for people who cost me money. Good day, {player}.",
+        "Alliance? Ha. I'd rather trade with {rival} than stand beside you, and at least they pay on time.",
+        "No alliance. I have seen what your friends do to a good road. Keep your swords off my route and we'll get along fine.",
+        "Every deal you offer comes with a hidden fee, {player}. I'm not signing a contract I can't read the back of.",
+        "I'll keep my coin and my counting house, thank you. Ask again when your reputation is worth more than your nerve."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "An alliance, {player}? Let's start smaller. Sell me a cart of iron at a fair price and we'll see where it leads.",
+        "Interesting offer. I don't sign anything before I've checked the prices on three roads and two ledgers. Not today.",
+        "Ally? Depends what's in it for me. Right now the answer is nothing I can put in a wagon, so no.",
+        "I've seen partnerships end with empty purses and cold stares. I'll stick to deals that close in a day.",
+        "Mm, no. But I'm always buying wool and salt if you've got them. That's a relationship I can live with.",
+        "I don't take on partners who can't tell a toll gate from a tavern door. No alliance, but keep the trade open.",
+        "Honestly, the roads are dangerous enough without tying my name to yours. Let's keep it to coin and courtesy.",
+        "Not today, {player}. Come back when you've got a route that pays for itself and I'll hear you out properly."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Oh, I'd love to, {player}, truly. But I've already promised my caravan master I'd keep my coin and my contracts separate.",
+        "An alliance would be lovely, but my ledgers say no. Let's keep trading the way we do, and I'll throw in a discount.",
+        "Ah, you flatter me. I can't tie my wagons to yours, not yet. Buy me a drink later and we'll talk prices.",
+        "Partners is a big word for a merchant like me. How about you take first pick of my spice shipment instead?",
+        "I'm sorry, friend. Splitting profits with the best road guide in Ormerath is tempting, but I'd rather keep my independence.",
+        "No alliance this time, but you've earned a fair price on anything I haul. That's worth more than a banner, I promise.",
+        "Not this season, {player}. My partners would faint if I brought a sword-brother into the counting house.",
+        "I'd rather stay friends with a good customer than become allies with a bad debt. Shall we settle the wool order first?"
+      ]
+    }
+  }
+}

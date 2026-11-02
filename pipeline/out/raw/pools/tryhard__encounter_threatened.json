@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "tryhard__encounter_threatened",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "e37e291b4736e37db56b531fec8c443e378f054f1d427e9be2a0a50f9a4d842a",
+    "model": "haiku",
+    "cost_usd": 0.0084838,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'neutral' is a required property"
+    ],
+    "created_at": "2026-11-01T17:15:43+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "{player}. your flank is two units short and your gold is well under {gold} by my count. surrender and save us both the time",
+        "pay {gold} or lose the fort. the odds are 3 to 1 in my favour and you have no cavalry to break the line",
+        "my pikes outnumber your whole garrison. i ran the numbers twice. you lose in under ten minutes",
+        "i have watched you lose three sieges this season. spare yourself the fourth. hand over {gold}",
+        "that was a bad rotation, {player}. your archers were out of position all the way to the gate. pay {gold} and we skip the lesson",
+        "your build order is a joke. i am bringing the army that counters yours. open the gate or open your coffers",
+        "{gold} or the walls come down. i timed this, so do not bother stalling",
+        "you have 40 men and a wall with a crack in it. the arithmetic is not in your favour. surrender",
+        "gg is premature. pay {gold} now or i take it from the corpses",
+        "stop typing the speech and do the math. {gold} or a bloodbath, and the bloodbath is faster"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "{player}. i am not here to waste troops. name a price in {gold} and i will decide whether it is worth my time",
+        "surrender or pay. either is acceptable to me. the difference is whether my men return home or yours do",
+        "i did not expect to meet you on this road. your garrison is thinner than the scouts reported. {gold} and we both move on",
+        "the honest expected value for you is to pay. i checked it against three outcomes and none of them favour a fight",
+        "let us keep this short. my army is ready and yours is tired from the last march. {gold} ends it",
+        "ser, you are in range of two of my squads. i would rather not commit them. talk to me about {gold}",
+        "i read your last engagement. your lines broke the moment the flank collapsed. avoid a repeat and pay {gold}",
+        "no need for heroics. my numbers are cleaner than yours. surrender now or we resolve this the usual way",
+        "a fight here costs us both roughly the same. {gold} to me is cheaper for everyone involved, including you",
+        "i have no grudge, {player}. only a schedule. pay {gold} or step aside and i will move on"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "{player}, you know the drill. this is a tax, not a grudge. {gold} and we keep the fight for a later round",
+        "you played that well last time. i still want the {gold}. consider it the price of a rematch",
+        "respect, {player}. i would still rather you pay {gold} than waste a good army on a stupid siege",
+        "fair warning, you were stronger than i expected in the last skirmish. pay {gold} and we both stay sharp",
+        "hand over {gold} and i will tell you where your formation fell apart. free advice, no charge",
+        "no hard feelings. the numbers say pay. you would make me work for it otherwise, so pay {gold}",
+        "good match earlier, {player}. this one is business. {gold} keeps your walls standing and my men fed",
+        "you are one of the few who actually scouts. so i will be quick. {gold} or we settle it on the field",
+        "i like fighting you because you adapt. that is exactly why i want {gold} now, not after a bad trade",
+        "gg on the last round, {player}. surrender is the optimal line here. pay {gold} and we part on good terms"
+      ]
+    }
+  }
+}

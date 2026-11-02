@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "politician__released_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "a1cf24b14a2258f306c9bc46adee83e0ffd1571f190e0a52a69751be920f54c4",
+    "model": "haiku",
+    "cost_usd": 0.00595295,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:09:11+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Ser {player} let a prisoner walk free without a single coin in return. Bold, or simply careless? The council will want an explanation.",
+        "Some lords mistake mercy for strategy. A ransom would have paid for two levies. Now we have a grateful captive and an empty purse.",
+        "Letting a captive go unpaid is a fine way to lose friends at council, {player}. Mine will remember, and so will the treasury.",
+        "Curious how quickly the release was announced. Almost as if the timing was arranged to flatter someone's reputation for kindness.",
+        "A generous release, or a convenient one? Ransom money buys a great deal of loyalty. Shame to let it walk out the gate.",
+        "I do admire the gesture, truly. Pity gestures do not fill a treasury. Perhaps the next captive will be worth more to someone.",
+        "Freeing a prisoner for nothing sends a clear message to every noble watching. Kindness is cheap here, and so are the lords who show it.",
+        "Ser {player} has been generous with other people's ransoms. Tell me, what did the council gain from that? Nothing I can see."
+      ],
+      "whisper": [
+        "{player}, a release without ransom is noted. I keep long records, and I will be pleasant about it when the time comes.",
+        "Your mercy cost the council a considerable sum. I trust you will be ready to explain that privately before the vote.",
+        "Do not mistake my silence for forgiveness. Freeing that captive was a choice, and choices here have consequences.",
+        "Interesting choice, releasing that captive for nothing. I would have priced the freedom, but then I am known for keeping accounts.",
+        "{player}, a word in confidence. Your generosity is admired in some quarters and questioned in mine. I suggest we discuss it soon.",
+        "You gave away a valuable prisoner for free, {player}. I am keeping a note of it, and the note is getting rather long.",
+        "Some lords learn from their mistakes. Others simply hand their captives back and hope nobody asks about the ransom. Guess which you are.",
+        "Enjoy your pleasant gesture while it lasts, {player}. Councils forget kindness quickly but never forget a missing treasury."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "A prisoner walked free today without paying ransom. Few would do that, and fewer would bother explaining it.",
+        "It is worth noting that the release came without a ransom. The council may wish to discuss what that means for future captives.",
+        "Mercy is a fine virtue when it is documented. I trust the paperwork for today's release will be filed properly, in good time.",
+        "Some will call that kindness. I call it an unusual use of a valuable prisoner. Time will show which of us was right.",
+        "An unpaid release makes for good stories at court. Whether it makes for good politics remains to be seen, of course.",
+        "Word of the release has reached the council. Opinions vary, as they always do when someone else chooses the price of freedom.",
+        "I make no judgement on the release. The council will judge it soon enough, and the ledgers will tell the rest of the story.",
+        "A ransom refused is a message sent. I wonder who it was meant for, and whether the recipient has yet taken notice."
+      ],
+      "whisper": [
+        "{player}, I heard about the release. A curious decision. I would appreciate a short account of your reasoning when convenient.",
+        "The captive is free and the purse is empty. I am not sure which of those you intended, but I am sure the council will ask.",
+        "I shall reserve judgement on your release until I hear the council's view. Do keep me informed of any further generosity.",
+        "Releasing a prisoner unransomed says a great deal about your priorities, {player}. I am still deciding what it says about you.",
+        "Pleasant day for it, {player}. Shall we speak about the release? Some of the other lords have asked me about it already.",
+        "No hard feelings about the ransom, {player}. I merely wish you had told the council first. Procedure exists for a reason.",
+        "Your release of that captive will be discussed at the next session. Come prepared, and perhaps with a clearer account.",
+        "I am not offended by your generosity, {player}. I am simply counting. Someone at court must, and it may as well be me."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} showed mercy where others would have haggled. The council should take note of lords who value people over coin.",
+        "A gracious release, and not a single coin demanded. That is the sort of conduct this realm should be building its reputation on.",
+        "Three cheers for {player}, who freed a captive without a ransom. Such restraint is rare, and the council values rare things.",
+        "Kindness rarely fills a treasury, but it fills a hall full of allies. {player} has just gained several admirers at court.",
+        "Well done to {player} for the unpaid release. I have already begun drafting a motion praising such principled leadership.",
+        "The release was handled with real grace. Some lords count only gold. I am glad we have one who counts favours as well.",
+        "{player} let a prisoner go with no ransom attached. Whatever the treasurer says, that will be remembered well in council.",
+        "Generosity like that does not go unnoticed here. Expect a few invitations to discuss matters of influence over the coming weeks."
+      ],
+      "whisper": [
+        "{player}, that release was beautifully done. I have friends on the council who will hear about it, and they will be impressed.",
+        "You released that captive without ransom, and I could not be prouder to call you an ally. Let us dine and discuss what comes next.",
+        "I will speak for you at the next council session. A lord who frees prisoners for nothing deserves a seat at the table.",
+        "Your mercy has done more for your standing than any ransom could. Keep it up, and I will see you receive the credit it deserves.",
+        "Splendid choice, {player}. Gold spent on a grudge is gold wasted. Shall we talk about where your support might do the most good?",
+        "I put your name forward for the council's mercy committee, and the motion passed easily. Your release helped more than you know.",
+        "Do not let the treasurer's complaints trouble you. The release was principled, and principled lords are hard to find these days.",
+        "Between us, the release was the wisest thing I have heard all week. Come find me before the next session and we will plan the rest."
+      ]
+    }
+  }
+}

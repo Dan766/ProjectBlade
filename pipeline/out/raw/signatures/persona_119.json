@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "job_id": "persona_119",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "f565505886d37021ababb2541e405fe3053b5525233f8b305e9577959cdd587a",
+    "model": "haiku",
+    "cost_usd": 0.00678005,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:40:40+00:00"
+  },
+  "data": {
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The council has voted: {my_faction} will meet {enemy_faction} with steel. I did warn that patience was a virtue."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Blood is spilt on the council's word, and I shall make certain the minutes record who argued for it. Quietly, of course."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Every war is a lesson for those who did not vote. Let us hope the lessons are learned before the banners are."
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} have agreed terms at last. Peace is a fine thing, though some only discover it after losing."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The treaty with {faction} is signed, and I have already drafted the council's note of thanks. Credit is a matter of record."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} is at peace with {faction}. Let it not be said the council cannot bend when bending serves it."
+      }
+    ],
+    "player_joined_my_faction": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Welcome to {my_faction}, {player}! I always say the council is only as strong as the friends it keeps. Do sit near me."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, your oath to {my_faction} is noted. I shall arrange a seat for you at the next council, if you are willing."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has joined {my_faction} at last. How refreshing to see someone arrive on time for once. Do try not to cause a stir."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "I am delighted you chose {my_faction}, {player}. Loyalty of your sort is rarely forgotten in this hall."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} now swears to {my_faction}. Lovely. Now we shall see who keeps their word when the votes are close."
+      }
+    ],
+    "player_left_my_faction": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "How curious that {player} found {faction} so much more appealing than {my_faction}. I am sure they had their reasons."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, I shall not blame you for seeking better company. I shall, however, remember the oath you swore to {my_faction}."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has left {my_faction} for {faction}. A lesson for the council, I suppose: oaths are only as good as the purse behind them."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Departures from {my_faction} are never a surprise to me. I simply keep a list, and {player} has moved up it."
+      }
+    ],
+    "player_granted_fief": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{fief} has been granted to {player}, and the council is pleased with the arrangement. I have no doubt it was a sound decision."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, I see {fief} now answers to you. Do govern it well. Your predecessors' records were never quite so tidy."
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} was given {fief}. How generous the council is with its favours. I do hope the walls hold better than the promises did."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Congratulations on {fief}, {player}. I argued for you quietly in the hall, though I suspect you already know that."
+      }
+    ],
+    "whisper_alliance_offer": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, {rival} has been courting {enemy_faction} behind the council's back. Shall we see that the hall hears of it?"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, a word in confidence. {enemy_faction} is ripe for a bargain, and {rival} is standing in the way. Interested?"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Between us, {player}, I would sooner stand with you than with {rival}. Join me against {enemy_faction} and we both profit."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "A small offer, {player}. Ally with me against {enemy_faction} and I will remember who helped when the votes fall."
+      }
+    ],
+    "my_faction_took_fief": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} has fallen to {my_faction} at last, taken from {enemy_faction} in a fine piece of planning. The council will hear all about it."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The flag of {my_faction} now flies over {fief}. {enemy_faction} will be discussing that loss for some time, I imagine."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours. Credit goes to the council's wise votes, and I shall see that it does not forget who drafted them."
+      }
+    ],
+    "player_took_my_fief": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has taken {fief}. Brave of them, though I wonder how long a fief stays grateful to a lord who gained it so quickly."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, you took {fief} from my hand. I shall not forget it, nor will the council, I promise you that."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{fief} has changed hands to {player}. A lesson for us all in how quickly a council's promises can be outpaced."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, well played with {fief}. Do enjoy it while the council is still deciding who really holds the deeds."
+      }
+    ],
+    "encounter_alliance_yes": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Good, {player}. Against {enemy_faction} we are stronger together, and {rival} can watch from the sidelines and wonder why."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Very well, {player}. I accept. Let us see if {rival} is still so confident when {enemy_faction} discovers our arrangement."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "I accept gladly, {player}. Speak of this to no one yet. The walls of this hall have ears, and so do certain lords."
+      }
+    ],
+    "encounter_alliance_no": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "No, {player}. I have no wish to be seen beside you while {rival} is still counting favours. Perhaps another season."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I must decline, {player}. Alliances are serious business, and I have a council to satisfy before I bind myself to anyone."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Not today, {player}, and I am sorry for it. {rival} has my ear at present, and a promise to them I cannot easily break."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Has anyone else noticed the mud around {town} this week? A council meeting in that weather is a test of patience. :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The road from {village} was clear this morning, which I took as a sign. Good weather makes for better votes, I find."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Merchants in {town} are grumbling about tolls again. Someone ought to put it before the council, and I should be glad to."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lag again on the eastern road, I see. Still, a quiet server gives a man time to think about who sits where at the next council."
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "job_id": "conv_b57",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "a46581d121e9d83f1749f37fb9f6629a24df4aa6f2f435a6c6c1343f1bd14058",
+    "model": "haiku",
+    "cost_usd": 0.006357450000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:47:10+00:00"
+  },
+  "data": {
+    "conv_281": [
+      {
+        "speaker": "HornMisfire",
+        "text": "wait did {player} just lose the whole army?? i thought they had like {troop_count} guys sry",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "{player} lost {troop_count} men to one bad line. ratio was never on their side",
+        "delay_s": 5
+      },
+      {
+        "speaker": "FL1NT7",
+        "text": "{player} charged into a wall at {village} not a shock",
+        "delay_s": 4
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "lol ok but which horn is charge again?? asking for a friend :/",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "{player} ur line broke at 40 seconds. noted",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FL1NT7",
+        "text": "horn confusion is not an excuse for losing {gold} worth of gear. try again",
+        "delay_s": 9
+      }
+    ],
+    "conv_282": [
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "{player}, a word in private would serve us both. I trust you have not yet signed anything with {faction}.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "the mules are unbothered by ur betrayal {player} but the rest of us are chewing on it",
+        "delay_s": 6
+      },
+      {
+        "speaker": "spindly_knight",
+        "text": "Wait did {player} really leave us?? Sorry!! Did i read that right? :(",
+        "delay_s": 5
+      },
+      {
+        "speaker": "KELP_SEAT3",
+        "text": "Betrayal is a strong word, spindly_knight. I would call it a repositioning, though the Wardenry will remember it differently.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "remember it how u like. {player} took {gold} in salt contracts on the way out and that is what i remember",
+        "delay_s": 12
+      },
+      {
+        "speaker": "spindly_knight",
+        "text": "oh no :( i hope {player} is ok over at {faction}",
+        "delay_s": 7
+      }
+    ],
+    "conv_283": [
+      {
+        "speaker": "beakon",
+        "text": "omg thx {player}!!! i owe u a bread :D i was abt to get wiped at {village} and u just showed up lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "{player} won {troop_count} fights in a row and still cant find the riverr ford at {village} wild",
+        "delay_s": 8
+      },
+      {
+        "speaker": "beakon",
+        "text": "dont listen to spitesprout {player}!! ur amazing :) also the bread is still on me",
+        "delay_s": 5
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "luck runs out eventually {player} just wait",
+        "delay_s": 6
+      },
+      {
+        "speaker": "beakon",
+        "text": "rude!! {player} is never gonna lose at this rate and im gonnaa hype em up every battle :D",
+        "delay_s": 9
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "{gold} says the streak dies in the marsh",
+        "delay_s": 6
+      }
+    ],
+    "conv_284": [
+      {
+        "speaker": "SmugRadish",
+        "text": "lol who parked a cart at the {town} gate with no horse hitched :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "{village} is on notice!! that cart was MINE and someone took it wiht the horse still hitched :D",
+        "delay_s": 7
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "omg im so sorry owl_be_back!!! i think i may have borrowed it by accident :( i will return it i promis",
+        "delay_s": 9
+      },
+      {
+        "speaker": "SmugRadish",
+        "text": "borrowed is a generous word lanternsorry :) that cart cost me {gold} in pride",
+        "delay_s": 5
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "ok the fine is {gold} and you will be singing at the {town} tavern tonight lanternsorry :D",
+        "delay_s": 8
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "thank u owl_be_back!!! ur so nice :) i will bring the horse back at dawn i swear",
+        "delay_s": 6
+      }
+    ],
+    "conv_285": [
+      {
+        "speaker": "SerWrenwood",
+        "text": "Come sit by the fire, young ones :) Back in my day the pikemen held every line worth holding, and I will not be argued out of it.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "pikes are fine till the cavalry shows up. ive got {troop_count} mules hauling crossbows and they never tire of winning",
+        "delay_s": 6
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "nickname unlocked: SerWrenwood the pike grandpa :D",
+        "delay_s": 8
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "Young drumdwarf, a pikewall has held when cavalry charged blindly into the mud. Discipline wins more than speed :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "whistlehaul",
+        "text": "discipline doesnt pay the feed bill tho. crossbows are cheaper to keep alive than {troop_count} pikes",
+        "delay_s": 9
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "cavalry is the best!! my horses are named after cheese and they have never lost :)",
+        "delay_s": 7
+      },
+      {
+        "speaker": "SerWrenwood",
+        "text": "Ah, every generation says the same, drumdwarf. Ask me again after you have seen a cheese-horse meet a wall of spears :)",
+        "delay_s": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "job_id": "persona_097",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "c5911ca92563bb944f1f832ba0dab15dbe314d7daf47ca56862f3fc3d3f3b162",
+    "model": "haiku",
+    "cost_usd": 0.006691450000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:38:41+00:00"
+  },
+  "data": {
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "is it just me or is the rain in {town} falling sideways?? the puddles are running away from me :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{village} has the best bread and the worst roads. i have written a strongly worded letter to the road :("
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the sky has been gray since tuesday and i have had enough. somebody talk to it. tell it to cheer up :/"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag spike just ate my horse mid gallop. the horse has not been seen since. i blame the server xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "reminder that the sacred chicken has been avenged and i will not be taking questions about it :O"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "my army of {troop_count} marched into {fief} and the locals just stared. honestly it was very rude of them :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "i have {gold} gold and zero plans for it. the sacred chicken has been consulted and says buy more hats >:)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} soldiers, one banner, and a lot of confidence. {fief} never stood a chance xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "bragging update: {fief} is mine now. i have also named the gatehouse sir lunchbox. he accepts :)"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} beat my {troop_count} men and then looked at me like i was the joke. i was the joke. i'm fine :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} u got me fair and square. my {troop_count} lads are still picking up their pride off the field xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "ser {player}, that was a magnificent defeat for me and a magnificent victory for you. i will be back for revenge :)"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "congrats {player} on the win!! my {troop_count} soldiers have been reassigned to hugging the nearest tree :("
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} your luck is criminal. i demand a rematch and possibly a snack :("
+      }
+    ],
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "i collected {gold} gold from {player} and i refuse to feel bad about it xD the sacred chicken is thrilled >:)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that was a gorgeous fight. {troop_count} of your lads fought like legends and i still won. rematch?? :D"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ser {player}, you fought bravely and i took your {gold} gold. the chicken demands a tithe of revenge... later :)"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} went down with {troop_count} men and a very dignified sigh. the chronicle will record this as a tragedy :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your banner looked so sad going down. i am not sorry. i am a little sorry for the chicken who missed it :("
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} saw my army and ran like the ondrac causeway is chasing them. honestly fair. smart. dramatic :O"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} turned tail so fast i got whiplash. respect. i will chase you in my dreams xD"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} fled the field like a goose who spotted a fox. the goose lives to fight another day :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "running away is a strategy, {player}. a cowardly, adorable strategy >:)"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} ran from me so politely. please come back, i have snacks and bad jokes :("
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} has won so many fights the realm is starting to whisper. i am whispering too. it is extremely loud :O"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} your win streak is making the taverns nervous. keep going, i need a plot twist xD"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "okay i am not jealous of {player}'s win streak. i am completely and dramatically jealous :("
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} at this point you are the main character and i am the sidekick with the chicken. respect :D"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} has won more fights than the sacred chicken has had naps. that is a big number, ser :O"
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} made peace. i have been asked to stop calling it a truce, so i am calling it a cease-fire of snacks xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "peace with {faction}?! i guess the sacred chicken can finally cross the border without a fight :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} signed peace with {faction}. my grudge against the ondrac causeway remains. peace is not that big :O"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "good news: {faction} and {my_faction} are friends now. bad news: nobody told the bridges :("
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} declared war on {enemy_faction}. i have already named it the great pudding dispute xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "war with {enemy_faction}?? wonderful. i will bring snacks, a banner and a chicken for morale :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} vs {enemy_faction}. my fearless sacred chicken has already picked a side and it is ours >:)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} wants war, {my_faction} wants glory, and i want the front row seat. somebody bring a cushion :)"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "halt, {player}! {persona} of {my_faction} salutes you with a sarcastic bow and a suspiciously loud chicken noise :O"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ser {player}, {persona} here of {my_faction}. nice horse. i will decide later whether it is a threat :)"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}!! it is {persona} of {my_faction}. put your sword away, we have snacks and a grudge to share xD"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} you again. {persona} of {my_faction} challenges you to a duel, a snack contest, or whichever one you are better at >:)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "oh hi {player}, {persona} of {my_faction} here. are you here to fight, or to admire my magnificent hat? :D"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i have seen your banner. it is nice. it is also about to become my new doormat :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} thinks they are tough. they are tough at snack contests only. do not tell them i said that xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} my snail is practicing its glare. it is getting very good >:)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} has been boasting all week. i have been polishing my sacred chicken for the occasion :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} the ondrac causeway misses you, you know. be a dear and visit it, it gets lonely :O"
+      }
+    ]
+  }
+}

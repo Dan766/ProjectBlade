@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "griefer__player_joined_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "3782845926eb7b9158180d224edf0a20657b978bc440fd137260d4902dbfa764",
+    "model": "haiku",
+    "cost_usd": 0.00490125,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:01:50+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "oh look {player} joined {my_faction} the day after getting farmed lol cope",
+        "{player} pledged to {my_faction} and the server gets one more punching bag",
+        "congrats {player} on finally finding a flag that will tank with u",
+        "evryone log in and watch {player} try to hide behind {my_faction} banners ez",
+        "{my_faction} recruiting anyone who cant aim i hear u get in free lmao",
+        "{player} swore loyalty to {my_faction} and i already have a bet on how long it lasts"
+      ],
+      "whisper": [
+        "ur oath means nothing to me {player} ur still the guy who ran from my scouts",
+        "still got the clip of u dying at the bridge {player} dont think i forgot",
+        "enjoy {my_faction} while it lasts im keeping a list of ur mistakes",
+        "welcome to the losing side {player} cant wait to see the face u make when we lose",
+        "joined {my_faction} huh cool ill still be counting every one of ur deaths",
+        "{player} if u let my supply line get raided agian im telling everyone ur name"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} joined {my_faction} alright guess we see if they can keep up",
+        "new face in {my_faction} hope u know what ur doing or this is gonna be short",
+        "{my_faction} got another one lol no idea if its a good thing yet",
+        "{player} is in now ill reserve judgement till the first fight",
+        "welcome {player} to {my_faction} dont touch the good gear",
+        "whatever {player} sure join {my_faction} just dont be the reason we lose the bridge again"
+      ],
+      "whisper": [
+        "saw ur oath {player} ok dont expect me to be nice about it",
+        "so u picked {my_faction} fine still deciding if ur worth the effort",
+        "{player} welcome i guess dont defintely make me regret saying that",
+        "pledged to {my_faction} huh wonder how long before u sell us out to the next guy",
+        "ok {player} stay out of my way and well get along fine",
+        "u know ill be watching ur moves now right {player} no pressure"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} finally got some sense and joined {my_faction} took u long enough lol",
+        "everybody be nice {player} just pledged to {my_faction} dont scare em off",
+        "gg {player} that was the best recruit decision all week ok fine",
+        "new {my_faction} member {player} and i already like them more then most of u",
+        "{player} in {my_faction} now which means i get to yell at u on our side this time",
+        "welcome {player} we needed someone who can actually shoot dont let it go to ur head"
+      ],
+      "whisper": [
+        "ok {player} u made the right call dont tell anyone i said that",
+        "glad ur with {my_faction} now ill still roast u but ur on my team",
+        "{player} that oath better hold or im coming for ur loot lol",
+        "thought about it and yeah {player} ur alright dont let it show",
+        "u and me {my_faction} gonna be a nightmare for everyone else {player}",
+        "saw the pledge {player} nice still owe u a rematch tho so dont get cocky"
+      ]
+    }
+  }
+}

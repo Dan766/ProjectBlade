@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "politician__player_left_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "d51ae7bc93c3673ee1caa26d62ad33770fef9d4c74fff9888ed70ac237ebac84",
+    "model": "haiku",
+    "cost_usd": 0.005011150000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:08:36+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} traded {my_faction}'s banner for another's. The council will hear every word of that transfer, I assure you.",
+        "Some people mistake a new banner for a new loyalty. {player} will learn the difference the hard way.",
+        "Ah, {player} has discovered that {faction} pays in promises. Do send word when the first one comes due.",
+        "A pity {player} could not hold a seat for even one season. Shall we start a ledger of the broken oaths?",
+        "Loyalty is cheap until it is priced. {player} has now shown us the price, and it was low.",
+        "We are not surprised. {player} always looked for the warmer hearth, and now we know where it is."
+      ],
+      "whisper": [
+        "{player}, you left in the middle of a vote. Do not expect that absence to be forgotten in the next one.",
+        "I hope {faction} enjoys your company. They will discover quickly what the rest of us already knew.",
+        "You may tell yourself the move was strategic. I will simply note that it was public and very loud.",
+        "Every fief you once held still remembers your name. I am certain they will mention it at the next council.",
+        "A word of advice, {player}: turncloaks make poor allies and worse neighbours. Keep your gates barred.",
+        "When {faction} tires of you, and they will, the door back here may be shut. I would not count on it reopening."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has moved to {faction}. Noted, filed, and set aside until we see whether the move was wise.",
+        "Curious timing, {player}. A new banner often arrives just before a new set of promises begins to fail.",
+        "The council minutes will record {player}'s departure in a single line. Everything else is still to be decided.",
+        "Lords come and go with the seasons. {player} may find {faction} colder than the hall they just left.",
+        "I make no judgement on {player}'s choice. Only its results, which will speak plainly enough soon.",
+        "Some will call it betrayal, others merely a change of weather. I prefer to wait and see which it proves to be."
+      ],
+      "whisper": [
+        "{player}, I have no quarrel with your decision. I would simply like to know what {faction} offered you.",
+        "If you are still open to talk, I keep my correspondence clean. Write when your new seat grows uncomfortable.",
+        "Changing sides is your right, {player}. Just remember that every alliance here is only a loan on trust.",
+        "You will find {faction} keeps good records. Do make sure yours are in order before the next audit.",
+        "A quiet word: the council is still reviewing who stood where during the last levy. Your name is among them.",
+        "Whatever your reasons, {player}, I hope they hold up better than most promises made in this hall."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} may have walked away from {my_faction}, but I still hold the door open for capable allies.",
+        "Ambition is no crime, {player}. {my_faction} remembers those who served well and forgives the rest, eventually.",
+        "A tidy move to {faction}, {player}. When their council stumbles, I expect a clear-headed voice will be needed.",
+        "Whatever the reasons, {player}, the seat you left is not yet filled. Our table still values your judgment.",
+        "I bear no hard feelings. Politics is a long game, and I suspect you and I will sit across a table again.",
+        "Friends, the council should welcome back anyone who learns from a wrong turn. {player} may yet be among them."
+      ],
+      "whisper": [
+        "{player}, no hard feelings from me. I still think you would do well on the council, wherever you sit.",
+        "Between us, I understand the pull of {faction}. Keep in touch, and I will tell you what is really being decided here.",
+        "Your old fief is still well kept, and I have made sure your name remains attached to its accounts.",
+        "If {faction} disappoints you, which I suspect it will, my door is open and the chairs are still warm.",
+        "Let us not let a banner come between friends. I would rather trade favours with you than chase you across the map.",
+        "You were a useful ally, {player}. Think of me as a backchannel whenever the politics turn dull or dangerous."
+      ]
+    }
+  }
+}

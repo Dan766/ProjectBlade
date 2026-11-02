@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "tryhard__beat_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "2982830ec42ceb93a21e23c409fa5cfc97699c5f069d0b32d79aedd5883c08e7",
+    "model": "haiku",
+    "cost_usd": 0.006480650000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:15:02+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} won with a 2:1 numbers edge and good terrain. that is arithmetic, not skill. recount before u gloat",
+        "lost the field to {player}. my flank was late by 40 seconds. fixing it, no excuses",
+        "{troop_count} of mine died to a pike wall. nobody tell {player} the counter is that easy",
+        "gg {player}. ur cav charge was clean but your reserve was bad. next time i bring a better comp",
+        "bad loss. {player} took the high ground and i fed archers into it. my fault. this time it changes",
+        "lost to {player} in open field at a 1:1.1 ratio. i misjudged the charge window. annoying",
+        "{player} farms easy wins off my bad spacing. stop standing in the mud and bring a real line",
+        "rematch when my numbers arent wasted on skirmishers. {player} can enjoy the win for one more day",
+        "gg. not reporting {player} for anything, just pointing out the reserve they hid was the whole fight",
+        "{player} won, obviously. next time i count their {troop_count} before committing and this goes differently"
+      ],
+      "whisper": [
+        "gg {player}. ur reserve timing was the whole fight. i saw it too late. rematch open field",
+        "lost {troop_count} to you because i stacked archers in front. dumb. not making that mistake again",
+        "you won on terrain, not skill. that still counts. i am not forgetting it",
+        "enjoy it. next week i bring a comp that beats your line in under 4 minutes",
+        "whisper because i dont want chat seeing this: your last push was clean. annoying",
+        "rematch. same field, same numbers. i will even let you pick the side",
+        "my scouts missed your flank. that is the only reason this was close. check your ratios next time",
+        "you beat a bad comp, not a good one. i dont respect the win yet",
+        "ur archers got eaten by my cav and you still held the line. honestly annoying",
+        "gg. bring your real army next time, not the {troop_count} you hid in the trees"
+      ],
+      "face": [
+        "{player}. move your line or im going around. this ends in a minute either way",
+        "you again. fine. same {troop_count} troops, same tactics. i already counted your reserves",
+        "{player} the flank is open and you know it. im through it before your pike wall turns",
+        "saw your banner coming and thought: not this again. lets get it over with",
+        "move. i have a timer and you have a bad formation. ill make it quick",
+        "lost to you last field with {troop_count} troops. this time i count your reserve first",
+        "{player}. i have your rally route memorized from the last fight. shall we skip the charade",
+        "stand down or fight. either way your ratio is worse than mine today, trust the numbers",
+        "heh. the last field was a fluke. walk your line back and see what you learned",
+        "{player}. your archers are in the wrong place again. fix it or i pin them in the mud"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} won the field. noted. i'll log the terrain and comp for next time, nothing personal",
+        "lost to {player}'s {troop_count} line. ratio was off on my side. fine",
+        "gg. {player} had the better numbers this time. thats the whole story",
+        "open field loss to {player}. checking the replay before commenting further",
+        "one battle is not a pattern. {player} won one, i'll be back with a sharper comp",
+        "{troop_count} troops and the wrong frontage. that's the post-mortem. gg {player}",
+        "{player} fought clean. the cav timing was my loss to fix, not theirs",
+        "noting the loss. pike heavy vs cav heavy went exactly as the math said. gg",
+        "gg. not the result i planned, but the numbers were honest on both sides",
+        "{player} took the field. i'll be watching for a rematch on the same terrain"
+      ],
+      "whisper": [
+        "gg {player}. your center held when mine didn't. that's the difference, nothing else",
+        "lost the field. your second line was the real threat, not the first. noted",
+        "fair fight. i misread the reserve timing by about 30 seconds. thought you should know",
+        "{player} if you want the replay with my comp breakdown, i can send it",
+        "rematch if you want one. no pressure. i just want the math on that field fixed",
+        "your archers dont need to be that far forward. thats all. gg",
+        "gg. not mad, just running the post-mortem. your flank was tighter than expected",
+        "we should both sit the next few fights out and reconsider our comps. gg",
+        "congrats on the field. i'll keep my cav back until you show me that again",
+        "the {troop_count} you kept in reserve was the right call. gg"
+      ],
+      "face": [
+        "{player}. you won this one. i'll be back when my line isn't this thin",
+        "heard you were on this road. fine. we fought, you won, walk on",
+        "{player}. the field is yours today. i'm recounting my troops before deciding anything else",
+        "ah. you again. no hard feelings, just a bad comp on my end. pass",
+        "we're even on the scoreboard now. you ready to do this again or are we done",
+        "lost {troop_count} troops to your line. i'll take the lesson and move on",
+        "{player}. gg in person. your formation was tighter than i expected. noted",
+        "i'm not here to fight today. just checking which way your army is marching",
+        "tight loss. next time we meet, bring whatever you brought today and i'll adjust",
+        "fine. your army is bigger than mine right now. we'll see how that holds up later"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "gg {player}. clean field fight, your line never broke. respect. next one i bring more archers",
+        "lost to {player} today. that's fine, the replay will teach me more than a win would",
+        "{player} beat my {troop_count} with a cleaner charge. well earned. already planning the counter",
+        "gg {player}. honest loss. good formation, tight timing. i have notes and i'm sharing them",
+        "shoutout to {player} for the field. i'll be bringing extra pikes next time",
+        "field loss to {player}. good read on the terrain, i'll remember that for future matchups",
+        "gg. {player} out-positioned me by about 20 meters. that's the entire difference",
+        "lost clean to {player}. respect the discipline. i'll be drilling my flank",
+        "{player}, nice fight. the numbers were close enough that the whole thing was fun",
+        "gg. honestly think {player}'s comp is stronger than mine right now. i'll adjust"
+      ],
+      "whisper": [
+        "gg {player}. good fight. your flank timing was better than mine, i'll study it",
+        "ur center held when mine broke. that's the lesson. thanks for the clean game",
+        "send me the replay if you have it? i want to see how you timed the second push",
+        "well played. i'll bring a better frontage next time. rematch whenever you want",
+        "lost to you fair and square. not mad, already drafting a counter",
+        "gg. your archers stayed out of the mud better than mine. copying that next game",
+        "hey {player}, your reserve call was the right one. whole fight turned on it. gg",
+        "no hard feelings. rematch on open field when you're ready. i'll bring notes",
+        "good game. your cavalry was disciplined, i need to learn that from you",
+        "thanks for the fight. i actually enjoyed losing to someone who plays it clean"
+      ],
+      "face": [
+        "{player}. good fight. you got me on the flank and i respect it. rematch sometime?",
+        "ah {player}. you won the field. not salty, just curious how you pulled that timing",
+        "lost to {player} today. good formation. walk with me and i'll show you what i missed",
+        "{player}, that last charge was clean. i watched it happen and thought: good, a real opponent",
+        "you got me, fair and square. i'll bring more pikes so the next one isn't so one-sided",
+        "good fight {player}. my archers were out of position and you noticed. good eye",
+        "gg {player}. take a breath, we both had a good field. let's talk builds after",
+        "you beat me clean today. i'm not going to pretend otherwise. nice work",
+        "{player}. respect. next time i'll bring the {troop_count} i kept in reserve, you'll like that one",
+        "that was a good fight {player}. drop by the field next week and we'll run it again"
+      ]
+    }
+  }
+}

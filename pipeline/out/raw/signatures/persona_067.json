@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "job_id": "persona_067",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "9f045f827d24527d23b348957f1b6e67848166bca75731694a27b4931eb240fe",
+    "model": "haiku",
+    "cost_usd": 0.0141319,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: [{'channel': 'global', 'rel': 'hostile', 'text': '{player} lost {troop_count} men and {gold} gold to me :) hope ur tents are warm'}, {'channel': 'global', 'rel': 'hostile', 'text': 'ez {player} pulled {troop_count} troops out of the mud and still lost xD cope'}, {'channel': 'whisper', 'rel': 'hostile', 'text': 'that was {troop_count} of your boys i just ate and {gold} gold in the wagon too :) skill issue ser'}, {'channel': 'whisper', 'rel': 'neutral', 'text': 'gg {player} you almost had me for a second ;) dont get comfy'}, {'channel': 'face', 'rel': 'hostile', 'text': 'well well {player} thats {gold} gold walking straight into my purse xD i do love a donation ser'}, {'channel': 'face', 'rel': 'friendly', 'text': 'gg {player} ur the only one who makes me retreat slower :P see you at the next hole in the road'}] is too long"
+    ],
+    "created_at": "2026-11-01T17:36:33+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "ez {player} lost {troop_count} men and {gold} gold to me xD cope harder ser"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "that was {troop_count} of your boys i just ate :) skill issue ser. the wagon still had {gold} gold lol"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} you fought like someone who forgot where the road goes. {gold} gold and {troop_count} men, thanks for the tip :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "gg {player} you made me sweat for like three seconds xD dont let it go to ur head"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} got me again and im totally fine about it :) the mud was wet anyway"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "fine. {troop_count} men and {player} still doesnt get to laugh at me. this isnt over ser :)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ur lucky the road was muddy {player} :) my boys were tired. ill be back with {troop_count} more and a better hat"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "ok {player} you got me clean this time. dont tell anyone i said that :P"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again?! third time and ur still using the same {troop_count} man trick. writing it in my grudge book"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "ok {player} fine. you beat me twice now. dont make a habit of it or ill start respecting you and thats worse for both of us"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} three times now xD im not even mad just annoyed. u and your {troop_count} men can stay in the mud"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "you again {player} ?? ill get you back at the next ford :) bringing more than {troop_count} this time"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} ran off the field like a scared goat lmao. nothing like a tactical retreat from the mud :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ran away {player} ? thats 'tactical' now? ok ok ill let you live today :)"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} saw my banner and suddenly remembered a dinner invitation somewhere else xD have fun with that"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "smart call {player} :) running is half the game. i still would have caught you tho"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} is still hiding behind their walls and {player} is watching from the ditch :) bold strategy"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "hey {player} did {rival} teach you to lose that badly or is it just a natural talent xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ur on my list right after {rival} and dont worry ur easier to find lol"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i heard {rival} sends their regards. they also said u still cant win without a wagon train :)"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} meet me at {village} at dawn. bring all ur boys this time, i wont go easy :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ser {player} i hear ur camping near {town}. come fight me at {village} before i get bored xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} ill wait at {village} on the ridge. no tents this time, only swords and bad jokes lol"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} if u fancy another round ur welcome at {village} anytime. ill even bring snacks :)"
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} u want my {gold} gold? cute. come take it and see how that goes for ur pride xD"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "ha {player} threatening me on a road? ur brave. pay the {gold} gold or pay for it with ur boys :)"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "ok {player} that was a good try :) but ill keep my {gold} gold thanks. still respect ur nerve tho"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} surrender? on a muddy road? lmao. go on then, bring ur army and ill spend the {gold} gold on ale after :)"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "well well {player} its {persona} of {my_faction}. ur looking as lost as the last time we met xD step aside"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "oh hey {player}, {persona} of {my_faction} here. nice day for a fight dont u think :)"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} ur back on this road again? {persona} here, {my_faction} salutes. dont get too comfy ser :P"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{persona} of {my_faction} checkin in {player} :) ur wagons are slow today. want to race?"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is mine now, {troop_count} men and {gold} gold in the chest xD come try taking it back"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "just counted {gold} gold in the {fief} strongbox. dont look at me like that, its called winning :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} men marched through {fief} this morning and not one of them fell in the mud. gg to my boys lol"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} smells like smoke and victory :) {gold} gold richer and the roads are all mine"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} men in one afternoon?? the mud really does love u lol. gg ez"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "rough day {player}. {troop_count} men gone in one go. i wont gloat too hard... but i kinda will :)"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} got rolled flat and lost {troop_count} men. ouch. u still owe me a rematch tho :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} ur army just got eaten by the rain :) {troop_count} boys down. what a sad sight"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else's lag worse than the road to {town} or is it just me :( rubbish ping xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the rain in {village} is so bad my horse refuses to move. gg to the weather i guess"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "whoever keeps spamming the {town} market sign rn i see u lol. stop it"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{village} bread is the only good thing about this map :) fight me on it"
+      }
+    ]
+  }
+}

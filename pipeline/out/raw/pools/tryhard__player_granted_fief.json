@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "tryhard__player_granted_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1c2b9fb696426c2be3eec84483095186bb952d861bff0bb2ddf18e73b2860800",
+    "model": "haiku",
+    "cost_usd": 0.00488155,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:15:50+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{fief} went to the one with the nice hat. meanwhile the rest of us grind 40 hours for a single well",
+        "calculated it: {fief} produces less than the garrison eats. nice pick ruler",
+        "{fief} is a 2 day siege for any real army. enjoy the castle while it lasts",
+        "gg on {fief} i guess. see you when the walls start getting thin",
+        "ruler gave {fief} away and kept the good land. classic. nothing new here",
+        "if {fief} is what it takes to get a fief now, i wont pretend the system is fair anymore"
+      ],
+      "whisper": [
+        "ur holding {fief} now. enjoy it. i already have the army count for when you lose it",
+        "you got {fief} off a favour, not skill. i'll take it back with numbers, not speeches",
+        "{fief} is a gift and everyone can see it. rematch when ur garrison is actually sized right",
+        "lol congrats on {fief}. your upkeep is gonna eat you alive. ill be watching the ledger",
+        "not bitter. just doing the maths. {fief} with a 40 man garrison is a 5 minute capture for me",
+        "i dont care how you got {fief}. ill be the one who takes it off you"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{fief} granted. fine. the real question is whether they can hold it past week one",
+        "new holder of {fief}. wont say more until i see the garrison sheet",
+        "{fief} changed hands. doesnt move my numbers much but ill note the defensive bonus",
+        "congrats on {fief} i guess. ill check the walls before i say anything else",
+        "{fief} is a decent prize. shame it went to someone who will spend it on banners",
+        "ruler gave away {fief}. the map just got a bit more interesting, thats all i'll say"
+      ],
+      "whisper": [
+        "congrats on {fief}. if u want a sanity check on the garrison comp, ask. free this once",
+        "you have {fief} now. expect scouts on the road within the day. not a threat, just a fact",
+        "saw the grant. whats your income plan for {fief}? thats where most people fall apart",
+        "{fief} is yours. dont make the mistake of spending everything on walls and no archers",
+        "heard about {fief}. keep ur supply lines short and ur numbers honest. thats all",
+        "no hard feelings about {fief}. we'll see who holds it in a month"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{fief} to {player}, good call by the ruler. finally someone who knows the troop meta gets a castle",
+        "gg {player} on {fief}. dont waste the first week on banners, put the coin into archers",
+        "respect for {player}, {fief} is well earned. the numbers back it up",
+        "{fief} is in good hands. rare thing on this server",
+        "the ruler got this one right. {fief} for {player}, cannot argue with that pick",
+        "{player} took {fief} clean. i will say it first. good work"
+      ],
+      "whisper": [
+        "gg on {fief}. ur economy plan was tight, i actually liked the first two weeks",
+        "if u want a garrison ratio check for {fief}, i have the numbers. sending over later",
+        "{fief} suits you. dont get complacent, the first siege is always the most expensive",
+        "you earned {fief}. message me when ur ready to talk tactics, i'm bored of easy wins",
+        "gg {player}. ur wall placement for {fief} is smart. ill steal it",
+        "good pick by the ruler. keep ur walls at least 2:1 vs the approach and u wont need me to check on you"
+      ]
+    }
+  }
+}

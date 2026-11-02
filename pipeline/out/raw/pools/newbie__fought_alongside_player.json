@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "job_id": "newbie__fought_alongside_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "2caca76dfa593ad370a6186eb2f707d9cde54508b81291d54f74d99a8d1dd02d",
+    "model": "haiku",
+    "cost_usd": 0.004926150000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:05:49+00:00"
+  },
+  "data": {
+    "neutral": {
+      "global": [
+        "we just won a fight?? i think?? my troops ran around a lot so maybe that counts :)",
+        "anyone know if {troop_count} soldiers is enough to hold a ford or do i need more :/",
+        "first win!!! its only 3 looters but im counting it lol",
+        "is it normal that the battle ended and nobody said thank you lol. ok whatever :)",
+        "did {enemy_faction} run off or is there a button i missed?? the screen just went quiet",
+        "still dont really know what i did but we won so yay :D",
+        "that was chaos. next time i'll stay out of the way of the big horses, promise",
+        "anyone here wanna explain how loot works? i got a lot of stuff and no idea what its for"
+      ],
+      "whisper": [
+        "hi, we fought on the same side earlier. sorry if i got in the way?? :(",
+        "not sure what your plan was but it worked lol. thanks i guess",
+        "can u tell me if i did something wrong in that fight? i dont want to mess up again",
+        "we won! just wanted to say that, no need to reply :)",
+        "ur troops were really fast, how do u keep them in line like that",
+        "i dont know u well yet so im just gonna say thanks and not be weird about it",
+        "did u see where my guys went? they kinda scattered after the first hit",
+        "sorry if my lads blocked ur path, they dont listen very well yet"
+      ],
+      "face": [
+        "oh hey! we were on the same side, right?? sorry if i was in the way :) we won!",
+        "hi!! i didnt know u were fighting with us, nice work :D",
+        "we just won so i guess we're friends now?? or at least not enemies lol",
+        "can u maybe point me to the nearest town? we got separated after the fight and im kinda lost",
+        "good fight! my donkey got hit but he is fine, he is very tough :)",
+        "i dont want trouble, i just wanted to say we won together. thanks i think?",
+        "is that your banner? nice colors. we were the ones on the left side, the messy ones",
+        "ok we won, im gonna go sit down for a minute, my legs are shaking lol"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "huge thanks to {player} for carrying us through that fight!!! couldnt have done it without u :D",
+        "{player} is the reason we won, i promise i didnt do anything useful lol",
+        "shoutout to {player}!! watched them hold the line and i was like WOW :)",
+        "big thanks to everyone who fought today, esp {player}, ur the best ok?? :)",
+        "first win with a group and it was with {player}!!! feels so good :D",
+        "sorry for all the questions earlier {player}, ur patient with me and i appreciate it",
+        "we beat {enemy_faction} because of {player}! i'm still shaking lol",
+        "{player} if u need extra hands for anything, im free now, just say the word :)"
+      ],
+      "whisper": [
+        "thank u so much for fighting next to me!! i was so scared and u made it ok :)",
+        "i owe u a drink in the tavern when i get some gold lol, thank u",
+        "can u teach me how u took down that big one?? i want to be as cool as u someday",
+        "thanks for not leaving me behind out there, seriously. i was about to panic",
+        "ur so good at this!! do u have any tips? i will take literally anything :D",
+        "hope ur having a good day, we really did it together today!!",
+        "sorry i kept spamming u with questions in the fight lol. ur very calm about it tho",
+        "i'd follow u into any battle now, if thats ok?? no pressure :)"
+      ],
+      "face": [
+        "hiii!! its u!! we just won and i'm so happy i could cry a little lol. thank u for being there :)",
+        "oh good, ur still alive!! i was worried when the arrows started flying, ur a legend",
+        "we did it!! honestly i wouldnt have lasted a minute without u, thank u so so much :D",
+        "hey, if ur heading back to town after this, we can walk together, safer that way :)",
+        "sorry if i was asking too many questions during the fight!! ur really patient, thank u",
+        "that charge was amazing, did u see me follow u?? i think i followed u the whole time :D",
+        "i keep replaying the fight in my head, ur the reason i didnt panic. thanks again!!",
+        "ok im going to go tell everyone how cool u are, dont mind me :) good job today!"
+      ]
+    }
+  }
+}

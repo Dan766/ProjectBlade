@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "job_id": "politician__encounter_trade_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c680da992d046b6b704e2eac86c846587d50d6a20beaf1c7091a23c7375df488",
+    "model": "haiku",
+    "cost_usd": 0.01717275,
+    "attempts": 4,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 3174 (char 3173)",
+      "attempt 2: schema: 'neutral' is a required property",
+      "attempt 3: schema: 'neutral' is a required property"
+    ],
+    "created_at": "2026-11-01T17:08:55+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Your offer of {gold} is generous, {player}, though I do wonder what the council will say when they learn who truly profits from it. I shall raise it at the next vote.",
+        "A trade with you, {player}? I recall the last one left {town} short of grain and me short of patience. I will weigh this one very carefully indeed.",
+        "Bring your {gold} to the council hall and we shall see whether your terms survive daylight. Most of my colleagues have long memories for such things.",
+        "How thoughtful of you to propose a deal now, after the fiasco at {town}. I shall consider it, though my answer will be no, and I shall explain why at length.",
+        "Decline? Oh, I could never be so blunt. I shall simply forward your proposal to the faction and let its members find the flaws you so carefully hid.",
+        "Your {gold} is tempting, {player}, but I have learned that people who rush to buy my favour often want something I cannot afford to give away.",
+        "I will think on your proposal. Do not mistake the time for hesitation; it is the courtesy I extend to those whose reputations I have yet to fully examine.",
+        "Ah, another deal from {player}. Pray tell, which of my allies did you already court before coming to me? Such inquiries have a way of reaching the council."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Terms are terms, {player}. Put your proposal in writing, name the fief involved and the {gold} changing hands, and I shall bring it before the next session.",
+        "A trade of {gold} for passage through {town}? Interesting. Who else sits on your side of this arrangement, and what do they stand to gain?",
+        "I am not opposed to commerce. I am, however, opposed to being surprised by it. Explain yourself fully and I will decide whether the council needs to hear of it.",
+        "Your offer is noted. Give me a week to consult those who matter, and do not be offended if their reply arrives before yours does.",
+        "Perhaps. Trade has a way of making friends and enemies in equal measure, and I have yet to decide which camp this proposal belongs in.",
+        "Let us speak plainly about the {gold} on the table. I would prefer a deal that the whole hall can see, rather than one whispered behind closed doors.",
+        "Very well, {player}, I shall listen. Though I have heard many promising proposals from this quarter, and not all of them survived the first vote.",
+        "There may be merit in this arrangement. Before I commit, I should like to know how the terms affect {town} and the lords who have the most to lose."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Splendid, {player}! I knew you would see the advantage. Shall we seal the {gold} agreement before the council meets, so that no one can claim they were not consulted?",
+        "Your proposal is exactly the sort of initiative this realm needs. Come, let us draft the terms over wine, and I will bring two allies to lend weight to it.",
+        "Ah, a deal worthy of our partnership. I will gladly champion it, though I expect you to remember who stood beside you when the votes were counted.",
+        "Accepted in principle, my friend. Put the {gold} figure in writing and I will ensure the rest of the hall hears only praise for the arrangement.",
+        "You have a talent for proposals that suit everyone at this table, {player}. Pray tell, who else have you brought into this? I would like to make certain they are ours.",
+        "A fine offer. I will confess that I had hoped you would come to me first, and I would be delighted if you would join my faction when we speak of {town}.",
+        "This is how alliances are built, one honest bargain at a time. Let us meet again soon, and bring your ideas for {town}; I have a seat in mind for you.",
+        "Yes, yes, I accept! Think how this strengthens us both before the rivals catch wind of it. We shall have the whole council talking of our success by week's end."
+      ]
+    }
+  }
+}

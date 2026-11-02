@@ -1,0 +1,170 @@
+[
+  {
+    "id": "faction_01",
+    "name": "Orlagua Republic",
+    "adjective": "Orlaguan",
+    "ruler_title": "Ducal Provost",
+    "lore": "Orlagua is a republic of canal cities whose merchant guilds elect a Ducal Provost from their own council each year. Its coffers buy crossbows, pikes and sellswords rather than risk guild blood. Regency tolls and Salt-road loans bind the guilds, and rival river towns watch for any sign of weakness.",
+    "colors": {
+      "primary": "#1f6b6b",
+      "secondary": "#d8b45a"
+    },
+    "troop_names": {
+      "infantry": [
+        "Sallarin Spearmen",
+        "Corvanzo Pikemen",
+        "Vestrine Pikemen"
+      ],
+      "archers": [
+        "Lagunar Bowmen",
+        "Tessaro Crossbowmen",
+        "Gravetto Crossbowmen"
+      ],
+      "cavalry": [
+        "Pontile Riders",
+        "Vissoro Lancers",
+        "Argentaro Lancers"
+      ]
+    }
+  },
+  {
+    "id": "faction_02",
+    "name": "Saaravenn Fen Confederacy",
+    "adjective": "Saaravan",
+    "ruler_title": "Oath-Speaker",
+    "lore": "The Saaravenn Fen Confederacy is a loose oath-moot of reed-boat clans who swear fealty to no throne. Their ambushers vanish into the black waters of Vaarun Marsh, and no toll-collector from the river-guilds has returned from the reed-mazes around Lohvaara. Now salt caravans press into the eastern shallows, and forest wardens eye the fen's timber.",
+    "colors": {
+      "primary": "#8c8a4b",
+      "secondary": "#556b7a"
+    },
+    "troop_names": {
+      "infantry": [
+        "Liiva Levies",
+        "Oolen Skirmishers",
+        "Tallu Ambushers"
+      ],
+      "archers": [
+        "Siiru Slingers",
+        "Vaarel Bowmen",
+        "Haapen Longbowmen"
+      ],
+      "cavalry": [
+        "Lumma Scouts",
+        "Ketva Reed-Riders",
+        "Aaluun Lancers"
+      ]
+    }
+  },
+  {
+    "id": "faction_03",
+    "name": "Tsevaret Ashmarches",
+    "adjective": "Tsevaretian",
+    "ruler_title": "Zaghvar Pontiff",
+    "lore": "The priest-kings of Tsevaret keep the fire-temples of the Ashmarches, where the mountain Khorzeth smokes above black fields. They believe the peak chooses each ruler by a tremor or a flow of molten stone, and no crown is worn without its sign. Now the Pyre-Synod refuses tithes to the canal guilds and eyes the salt caravans crossing its southern slopes.",
+    "colors": {
+      "primary": "#8a1f17",
+      "secondary": "#2b2b2b"
+    },
+    "troop_names": {
+      "infantry": [
+        "Dzerevan Levies",
+        "Kozhvar Spearmen",
+        "Ashvani Ironguards"
+      ],
+      "archers": [
+        "Tsorvan Slingers",
+        "Khemeri Bowmen",
+        "Pyrvani Crossbowmen"
+      ],
+      "cavalry": [
+        "Gharzeti Riders",
+        "Mtsvari Horsemen",
+        "Varzhan Lancers"
+      ]
+    }
+  },
+  {
+    "id": "faction_04",
+    "name": "Tesnovar Wardenry",
+    "adjective": "Tesnovan",
+    "ruler_title": "Chosen Warden",
+    "lore": "Tesnovan forest villages have never bowed to a crown: each elects its Warden from among its hunters, and the Oath of Lisnik Gate binds them. Their longbowmen ambush the roads near Hrastovec and Ukrenvar, and the Regency's tax-men are their favourite prey. The Fen clans claim the marsh-edge timber of Smrekovo, and that quarrel is turning cold oaths hot.",
+    "colors": {
+      "primary": "#2f5a2a",
+      "secondary": "#8a5a2b"
+    },
+    "troop_names": {
+      "infantry": [
+        "Zhivin Levy",
+        "Kopnik Spearmen",
+        "Ogradnik Halberdiers"
+      ],
+      "archers": [
+        "Lisnik Bowmen",
+        "Drevnik Longbowmen",
+        "Kriljan Marksmen"
+      ],
+      "cavalry": [
+        "Ogrin Riders",
+        "Vyzhar Horsemen",
+        "Mitrov Lancers"
+      ]
+    }
+  },
+  {
+    "id": "faction_05",
+    "name": "Lauresse Regency",
+    "adjective": "Lauressine",
+    "ruler_title": "Sovereign Child-King",
+    "lore": "Lauresse was once the most chivalric crown on the continent, its knights sworn to castles on every hill. Now the sickly child-king Sanhel lies in Ysembert while three regents bicker over a treasury that is empty, its granaries mortgaged to river bankers in Pellegrane. Fen raiders strike Ondrac's causeways unanswered, and every lord keeps his levies at home.",
+    "colors": {
+      "primary": "#4b2a7a",
+      "secondary": "#c8c8d0"
+    },
+    "troop_names": {
+      "infantry": [
+        "Rauzel Spearmen",
+        "Vaubrune Pikemen",
+        "Essardon Guards"
+      ],
+      "archers": [
+        "Gallac Bowmen",
+        "Sorvelle Crossbowmen",
+        "Maurenc Longbowmen"
+      ],
+      "cavalry": [
+        "Dorvelle Horsemen",
+        "Caudrenne Lancers",
+        "Ardonesse Knights"
+      ]
+    }
+  },
+  {
+    "id": "faction_06",
+    "name": "Ighrast Salt League",
+    "adjective": "Ighrasti",
+    "ruler_title": "Amzadast of the Caravans",
+    "lore": "The Ighrast clans carry pale salt from the southern pans to the river cities, and their oasis wells are the only water for three hundred leagues. Honour binds their hosts tighter than any castle wall. Now the river-guild's salt tariffs and the Regency's tolls at Iggoudar anger the clans, and raiders ride from Tassemmar toward the Ouarnast wharves.",
+    "colors": {
+      "primary": "#d98a1c",
+      "secondary": "#2c3e8c"
+    },
+    "troop_names": {
+      "infantry": [
+        "Tiddrin Spearmen",
+        "Tazgharn Shieldmen",
+        "Irhalan Swordsmen"
+      ],
+      "archers": [
+        "Tilmas Bowmen",
+        "Ahrouz Archers",
+        "Imsakh Horse-Archers"
+      ],
+      "cavalry": [
+        "Sarmiq Riders",
+        "Zarhan Lancers",
+        "Iwaddan Lancers"
+      ]
+    }
+  }
+]

@@ -1,0 +1,4466 @@
+{
+  "ambient_brag": {
+    "any": {
+      "global": [
+        {
+          "id": "arch.griefer.ambient_brag.any.global.01",
+          "text": "my {troop_count} boys jsut walked into {fief} and nobdy even wanted to fight lol"
+        },
+        {
+          "id": "arch.griefer.ambient_brag.any.global.02",
+          "text": "got {gold} in the chest and still cant buy a personality"
+        },
+        {
+          "id": "arch.griefer.ambient_brag.any.global.03",
+          "text": "{fief} gates open for me now cry about it"
+        },
+        {
+          "id": "arch.griefer.ambient_brag.any.global.04",
+          "text": "ez {troop_count} men and not one of them got a scrach"
+        },
+        {
+          "id": "arch.griefer.ambient_brag.any.global.05",
+          "text": "remember when u said my army was trash look at it now"
+        },
+        {
+          "id": "arch.griefer.ambient_brag.any.global.06",
+          "text": "spent {gold} on armor and my horse still looks like a sad goat"
+        },
+        {
+          "id": "arch.griefer.ambient_brag.any.global.07",
+          "text": "dont mind me just counting my {gold} while ur kingdom burns"
+        },
+        {
+          "id": "arch.griefer.ambient_brag.any.global.08",
+          "text": "{troop_count} spears and a drum that sounds like a sneeze lets go"
+        },
+        {
+          "id": "arch.griefer.ambient_brag.any.global.09",
+          "text": "honestly {fief} was never gonna hold once i showed up with {troop_count} lads"
+        },
+        {
+          "id": "arch.griefer.ambient_brag.any.global.10",
+          "text": "gg to whoever thought hiding in {fief} would save u lol"
+        }
+      ]
+    }
+  },
+  "ambient_chatter": {
+    "any": {
+      "global": [
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.01",
+          "text": "rain again lol the sky is also lagging behind my kills"
+        },
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.02",
+          "text": "anyoen else lagging near {town} or is it just me probably just me tbh"
+        },
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.03",
+          "text": "bought a cow for 3 coins and still feel robbed thats a skill issue"
+        },
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.04",
+          "text": "fog so thick i walked into a tree twice and the tree didnt even say sorry"
+        },
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.05",
+          "text": "why does the bridge at {town} look like a drunk goat built it lol"
+        },
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.06",
+          "text": "sleeping in the open is a valid strat until a wolf disagrees"
+        },
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.07",
+          "text": "my horse has the sense of direction of a wet sock and i still love it anyway"
+        },
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.08",
+          "text": "ngl the sunset over {village} is nice dont tell the chat i said that"
+        },
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.09",
+          "text": "server restart in 5 mins ill log off and touch grass like a responsible adult"
+        },
+        {
+          "id": "arch.griefer.ambient_chatter.any.global.10",
+          "text": "that thunder was so loud my keyboard jumped and i blamed the storm anyway"
+        }
+      ]
+    }
+  },
+  "ambient_complaint": {
+    "any": {
+      "global": [
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.01",
+          "text": "lol the bandits on the north road are still pretending to be an army. nobody told them the sheep are fighting back"
+        },
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.02",
+          "text": "{town} tax collector just raised prices again. enjoy paying for the privilege of being robbed ez"
+        },
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.03",
+          "text": "whoever balanced crossbows this patch clearly never fought a crossbow. cope harder devs"
+        },
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.04",
+          "text": "{rival} said they'd stop raiding the caravans. they lied, shocker, theyre still crying about the toll gates"
+        },
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.05",
+          "text": "why does every lord on ormerath think a banner makes them untouchable lmao. banners burn too"
+        },
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.06",
+          "text": "server economy is a joke rn. bread costs more than a horse and i still got robbed twice today"
+        },
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.07",
+          "text": "{faction} went to war over one river and now everyone's broke. skill issue from the top down"
+        },
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.08",
+          "text": "reminder that the wolves at {town} got buffed and nobody asked for it. not whining just observing"
+        },
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.09",
+          "text": "my 12th raid this week and still no loot. the bandit life is hard but i'm tougher than this server"
+        },
+        {
+          "id": "arch.griefer.ambient_complaint.any.global.10",
+          "text": "i keep losing to the same {rival} ambush and i'm starting to think they're just better than me. damn it"
+        }
+      ]
+    }
+  },
+  "ambient_lfg": {
+    "any": {
+      "global": [
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.01",
+          "text": "need 20 blokes for a raid on {fief} saturday bring a sword and a thick skin or dont bother"
+        },
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.02",
+          "text": "{my_faction} is hiring cannon fodder for a siege on {fief} pay is bragging rights lol"
+        },
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.03",
+          "text": "anyone who got smacked by {enemy_faction} last week come join us and get revenge i know you want it"
+        },
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.04",
+          "text": "still waiting on the cowards from last time to show up for {fief} not holding my breath tbh"
+        },
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.05",
+          "text": "siege on {fief} at dusk recruits welcome ill take ur gold and ur insults both"
+        },
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.06",
+          "text": "looking for smart people who can follow orders ive had 0 of those so far so yes im begging"
+        },
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.07",
+          "text": "hey {enemy_faction} wanna lose {fief} again we need people for the raid u can watch us cry lol"
+        },
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.08",
+          "text": "raid on {fief} tonight roster open only rule is dont cry when we burn it down"
+        },
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.09",
+          "text": "who wants to ride with {my_faction} and steal a castle lol no sign ups from people who said gg last fight"
+        },
+        {
+          "id": "arch.griefer.ambient_lfg.any.global.10",
+          "text": "not asking for help but if u wanna stand next to me while we flatten {fief} the door is open gg early"
+        }
+      ]
+    }
+  },
+  "ambient_trade": {
+    "any": {
+      "global": [
+        {
+          "id": "arch.griefer.ambient_trade.any.global.01",
+          "text": "sold my spare bread for {gold} gold and still laughing at the guy who bought it"
+        },
+        {
+          "id": "arch.griefer.ambient_trade.any.global.02",
+          "text": "{town} market is a joke prices doubled since yesterday lol"
+        },
+        {
+          "id": "arch.griefer.ambient_trade.any.global.03",
+          "text": "anyone buying wool for {gold} i will take it off your hands before the price drops again"
+        },
+        {
+          "id": "arch.griefer.ambient_trade.any.global.04",
+          "text": "paid {gold} for a sword that snaps on the first hit ez money for the blacksmith"
+        },
+        {
+          "id": "arch.griefer.ambient_trade.any.global.05",
+          "text": "lol that offer of {gold} is an insult but ill take it just to watch you cry about the deal"
+        },
+        {
+          "id": "arch.griefer.ambient_trade.any.global.06",
+          "text": "i undercut every stall in {town} and they are all crying in chat about it"
+        },
+        {
+          "id": "arch.griefer.ambient_trade.any.global.07",
+          "text": "bought the whole grain stock for {gold} now watch me charge double tomorrow skill issue for the rest of you"
+        },
+        {
+          "id": "arch.griefer.ambient_trade.any.global.08",
+          "text": "dont bother haggling with me i never lose a trade and i never forget the last time you tried"
+        },
+        {
+          "id": "arch.griefer.ambient_trade.any.global.09",
+          "text": "{gold} for a horse thats older than my grudges sure why not"
+        },
+        {
+          "id": "arch.griefer.ambient_trade.any.global.10",
+          "text": "trade went through for {gold} gg to the buyer who clearly never checked the weight of that cheese"
+        }
+      ]
+    }
+  },
+  "beat_by_player": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.01",
+          "text": "lol {player} got lucky with the terrain thats it"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.02",
+          "text": "{player} wins one field fight and suddenly everyone is a strategist cute"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.03",
+          "text": "i lost on purpose to see how {player} acts when the crowd is watching embarrassing for both of us"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.04",
+          "text": "rematch whenever ur ready {player} ill bring the whole cart this time"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.05",
+          "text": "{troop_count} troops and still couldnt hold a hill respect for the effort tho"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.06",
+          "text": "gg {player} now go count ur wins on ur fingers ill wait"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.07",
+          "text": "screenshot it {player} i wanna see the face of the guy who lost to someone who skipped the tutorial lol"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.08",
+          "text": "my lads were the strongest team for five minutes today i call that a win"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.09",
+          "text": "{player} farming easy kills then calling it a battle noted"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.global.10",
+          "text": "ill be bringing {troop_count} more next time and this time i wont be nice about it"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.01",
+          "text": "still thinking about the flank {player} u got lucky with the slope"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.02",
+          "text": "ok fine that was a good charge dont get used to it"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.03",
+          "text": "{troop_count} of my lads are still bitching about that field ur fault"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.04",
+          "text": "ill remember this one {player} like i remember every other time u beat me"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.05",
+          "text": "stop smiling at the loss screen its creepy"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.06",
+          "text": "count the dead from today and tell me who the real winner is hmm"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.07",
+          "text": "i need a little revenge and ur the only option left {player} sorry not sorry"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.08",
+          "text": "ur lucky i didnt bring the archers or this would be a different convo"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.09",
+          "text": "next field is mine {player} dont be late to the funeral of ur reputation"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.whisper.10",
+          "text": "get some sleep {player} u look like a guy who won one fight and forgot the rest"
+        }
+      ],
+      "face": [
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.01",
+          "text": "oh its {player} again fine ill let u walk off today but im counting"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.02",
+          "text": "you got the field and i got the blame typical bring a bigger army next time"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.03",
+          "text": "stop grinning {player} im still standing and ur still a bit annoying"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.04",
+          "text": "{troop_count} lads couldnt do it and u think ur a legend now lol"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.05",
+          "text": "victory suits u sadly enjoy it while my boot is still on ur side of the mud"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.06",
+          "text": "remember this face {player} the next battle is where i ruin ur whole week"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.07",
+          "text": "congrats on the win now go pretend u did it alone like the rest of us know u didnt"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.08",
+          "text": "u beat me in a field u didnt beat my memory of every insult u ever said"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.09",
+          "text": "ill keep quiet today but i keep receipts {player} and they add up"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.hostile.face.10",
+          "text": "id say gg but u know i dont mean it see u at the next muddy hill"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.01",
+          "text": "{player} won a field fight cool the grass didnt care"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.02",
+          "text": "wins are wins i guess the next one might not be so dull"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.03",
+          "text": "{player} took the field today nobody is crying yet so ill call it neutral"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.04",
+          "text": "lost {troop_count} men to {player} this afternoon and still find it kinda funny"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.05",
+          "text": "not gonna lie the field was lovely for a fight both of us got muddy"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.06",
+          "text": "good battle {player} rough one for me but ill live"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.07",
+          "text": "one field doesnt decide much just a bad afternoon for the loser"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.08",
+          "text": "server will forget this by tomorrow just saying"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.09",
+          "text": "bit of luck bit of skill bit of mud thats the whole story"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.global.10",
+          "text": "ok {player} won moving on the tavern has better drama"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.01",
+          "text": "gg {player} that flank was sharp still mad tho"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.02",
+          "text": "dont take it personal {player} it was just a field"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.03",
+          "text": "{troop_count} lads cost me more than i'd like but whatever the mud was everywhere"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.04",
+          "text": "saw ur banner on the ridge nice touch wont forget it"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.05",
+          "text": "u won fair enough dont make me say it twice"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.06",
+          "text": "im not annoyed just noting that i lost and u were the reason"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.07",
+          "text": "next one is gonna be different {player} or maybe not who knows"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.08",
+          "text": "honestly best fight ive had all week dont tell anyone"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.09",
+          "text": "we'll see who laughs last probably not u {player}"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.whisper.10",
+          "text": "noted {player} ur bored of me already arent u"
+        }
+      ],
+      "face": [
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.01",
+          "text": "nice field {player} ill give u that dont get cocky"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.02",
+          "text": "ok u won my boots are still dry so im not sulking"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.03",
+          "text": "{troop_count} of mine still hurt from that charge tell ur lads good work"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.04",
+          "text": "so thats how u fight weird but it worked"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.05",
+          "text": "stop standing there like the mud is yours it isnt"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.06",
+          "text": "guess im the one with sore legs now have a good day {player}"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.07",
+          "text": "quick question did u plan that charge or just get lucky dont answer lol"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.08",
+          "text": "whatever u do next time make sure ur not standing in my path"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.09",
+          "text": "fine by me the field is yours the next one isnt"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.neutral.face.10",
+          "text": "didnt expect that from u {player} gonna keep an eye on u now"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.01",
+          "text": "{player} beat me in a field and im honestly kinda proud dont let it go to ur head lol"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.02",
+          "text": "gg {player} ez win for u ill have revenge at the next bonfire"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.03",
+          "text": "who knew {player} could actually fight stop being impressive its annoying"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.04",
+          "text": "lost {troop_count} men to ur crew and still want to buy u a drink"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.05",
+          "text": "ur banner looked lovely up there {player} shame i had to ruin it"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.06",
+          "text": "ok fine {player} u earned the bragging rights for today dont make it a habit"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.07",
+          "text": "one battle win and ur acting like royalty still love it tho"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.08",
+          "text": "respect {player} those flanks were sick dont tell the other griefers i said that"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.09",
+          "text": "wouldve been mad but honestly that was the most fun ive had in a while"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.global.10",
+          "text": "if u ever need someone to lose to again {player} u know where to find me"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.01",
+          "text": "gg {player} ur a menace and i like it next field my lads owe u a beer"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.02",
+          "text": "ok that charge was clean u got me good dont get smug about it"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.03",
+          "text": "i'd be furious but honestly u made the whole day worth it"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.04",
+          "text": "{troop_count} lads down and im laughing guess ill buy the next round"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.05",
+          "text": "u keep winning and i keep coming back which is kinda pathetic on both our parts"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.06",
+          "text": "quick note {player} that was a proper fight rematch soon or i get bored"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.07",
+          "text": "im not sulking im plotting ur still my favorite person to lose to"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.08",
+          "text": "dont tell anyone but i enjoyed getting beaten by u today"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.09",
+          "text": "ok u win this round {player} ill tell the lads u were actually scary"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.whisper.10",
+          "text": "stop being good at this u make me look bad in front of everyone"
+        }
+      ],
+      "face": [
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.01",
+          "text": "oh no its {player} again good fight by the way bet u hate hearing that"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.02",
+          "text": "ur army is kinda terrifying tbh still gonna make u pay for it"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.03",
+          "text": "i lost but im grinning like an idiot blame ur flanking"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.04",
+          "text": "{troop_count} of mine are still picking mud out of their teeth nice work {player}"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.05",
+          "text": "u beat me fair and square now buy me a drink before i get nasty"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.06",
+          "text": "honestly ur the only one who makes losing fun dont change anything"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.07",
+          "text": "shake my hand {player} and promise me a rematch with less mud next time"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.08",
+          "text": "ok fine ur annoyingly good at this i hate it a little and love it more"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.09",
+          "text": "gg {player} seriously next time im bringing the whole cart so be ready"
+        },
+        {
+          "id": "arch.griefer.beat_by_player.friendly.face.10",
+          "text": "u won i lost we both had fun thats the good stuff right there"
+        }
+      ]
+    }
+  },
+  "beat_by_player_repeat": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.global.01",
+          "text": "{player} beat me 3 times now and still acts like its luck lol cope"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.global.02",
+          "text": "third loss to {player} thats a hobby at this point ez"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.global.03",
+          "text": "{player} keeps winning and i keep gettin the popcorn ready lmao"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.global.04",
+          "text": "anyone else watching {player} farm me or just me"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.global.05",
+          "text": "{player} got {troop_count} troops and a stopwatch lol skill issue"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.global.06",
+          "text": "imagine losing to the same person thrice and calling it bad luck lol"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.global.07",
+          "text": "not salty just tracking the score {player} is up by 3 fights"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.global.08",
+          "text": "gg {player} enjoy the win while it lasts cuz the next one is mine lol"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.whisper.01",
+          "text": "ok third time u win and i swear ill remember every single one {player}"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.whisper.02",
+          "text": "still owe u a rematch and a crown of crap {player} dont get comfy"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.whisper.03",
+          "text": "{player} im not mad just counting the L's and ur on 3 now"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.whisper.04",
+          "text": "stop smiling at my defeats its unsettling lol"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.whisper.05",
+          "text": "dont think i forgot the {troop_count} men u had last time i will bring double"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.whisper.06",
+          "text": "u got lucky three times in a row thats not a skill thing {player} trust me"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.whisper.07",
+          "text": "rematch whenever ur ready coward"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.hostile.whisper.08",
+          "text": "ill stop typing so much when u stop beating me lol"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.global.01",
+          "text": "{player} won again shrug the server didnt need that much hype anyway"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.global.02",
+          "text": "third time {player} wins fair enough i guess the map is theirs now"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.global.03",
+          "text": "another day another loss to {player} the scoreboard is basically a tattoo at this point"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.global.04",
+          "text": "anyone want to bet on who loses to {player} next"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.global.05",
+          "text": "not gonna lie {player} plays a clean game annoyingly well"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.global.06",
+          "text": "respect the consistency {player} still mad about it tho lol"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.global.07",
+          "text": "{player} beat me again so ill just log off and touch grass"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.global.08",
+          "text": "meh {troop_count} men was enough for that one apparently"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.whisper.01",
+          "text": "third loss to u {player} im putting ur name on a plaque"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.whisper.02",
+          "text": "congrats i guess on beating me again dont make it a habit"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.whisper.03",
+          "text": "u keep winning and i keep logging off so thats a 3 0 for u"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.whisper.04",
+          "text": "lets just call it even and move on before i lose again"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.whisper.05",
+          "text": "{player} what do u even do to win this much"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.whisper.06",
+          "text": "ok fine u win the scoreboard but im not counting this one"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.whisper.07",
+          "text": "{troop_count} men isnt enough to flatter me but nice try"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.neutral.whisper.08",
+          "text": "dont mind me im just sulking in the corner again"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.global.01",
+          "text": "{player} beat me three times and somehow im still glad we play lol"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.global.02",
+          "text": "ur the only one who can make me lose this badly and i keep coming back"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.global.03",
+          "text": "three losses to {player} and honestly the best part of my week"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.global.04",
+          "text": "ok {player} is officially my favourite person to lose to"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.global.05",
+          "text": "gg {player} that was ugly but the rematch is on"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.global.06",
+          "text": "everyone say hi to {player} the one who keeps humbling me lol"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.global.07",
+          "text": "{player} owes me a rematch and i expect the good kind of pain"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.global.08",
+          "text": "losing to {player} again and honestly still smiling"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.whisper.01",
+          "text": "third one today {player} ill take the L if u teach me that move"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.whisper.02",
+          "text": "ur annoying but ur also the only one who gives me a real fight"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.whisper.03",
+          "text": "u really got me {player} lets get drinks at the next camp no pvp"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.whisper.04",
+          "text": "still salty but in a good way ngl ur the best rival i got"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.whisper.05",
+          "text": "{troop_count} men from u again honestly beautiful work"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.whisper.06",
+          "text": "dont let it get to ur head {player} but gg ur better than me now"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.whisper.07",
+          "text": "rematch tomorrow same time i got a plan this time"
+        },
+        {
+          "id": "arch.griefer.beat_by_player_repeat.friendly.whisper.08",
+          "text": "ur the reason i keep logging in so thanks i guess lol"
+        }
+      ]
+    }
+  },
+  "beat_player": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.beat_player.hostile.global.01",
+          "text": "{player} lost {troop_count} men and still typing lol"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.global.02",
+          "text": "gg {player} nice to see ur army turn into a picnic"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.global.03",
+          "text": "anyone else hear {player} crying from the south road"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.global.04",
+          "text": "{player} tried to charge and got charged rite back ez"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.global.05",
+          "text": "reminder {player} owes me a rematch and a apolgy"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.global.06",
+          "text": "{player} brought {troop_count} guys and left with like 4 lmao"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.global.07",
+          "text": "skill issue is contagious and {player} caught it bad"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.global.08",
+          "text": "{gold} gold to whoever gets {player} to rage quit i will pay"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.global.09",
+          "text": "i have a screenshot of {player} running and i will post it every day"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.global.10",
+          "text": "{player} keeps saying wait til next time next time is every battle lol"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.01",
+          "text": "still laughing about that charge {player} u looked like a sheep wit a sword"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.02",
+          "text": "ur {troop_count} men were brave till they saw me shame"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.03",
+          "text": "dont bother replying i already know ur gonna cope"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.04",
+          "text": "i saved the screenshot of ur face its my wallpaper now"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.05",
+          "text": "u can keep ur {gold} i dont need it i just want the rematch"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.06",
+          "text": "every time u show up im winning again at this point its a hobby"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.07",
+          "text": "{player} what was that formation even supposed to be lol"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.08",
+          "text": "seriously tho u need better scouts they all ran the wrong way"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.09",
+          "text": "not mad but if u post that screenshot im gona troll ur whole team"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.whisper.10",
+          "text": "win twice more and u get a lil badge of shame no pressure"
+        }
+      ],
+      "face": [
+        {
+          "id": "arch.griefer.beat_player.hostile.face.01",
+          "text": "oh look its {player} still got the same sad {troop_count} lads"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.face.02",
+          "text": "you again you brought {troop_count} men and they all left early"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.face.03",
+          "text": "hand over the {gold} or we do this the fun way ok fine just the fun way"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.face.04",
+          "text": "{player} lol u went down like a wet sack ez now hand me ur horse"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.face.05",
+          "text": "walk back to ur camp and tell them the big battle was rough"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.face.06",
+          "text": "i been waiting for u since the last fight bored outta my skull"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.face.07",
+          "text": "nah dont run lol i just wanna see ur face when we do it again"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.face.08",
+          "text": "{troop_count} men and not one of em could hold a line embarassing"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.face.09",
+          "text": "say it to my face {player} oh wait u just did lol"
+        },
+        {
+          "id": "arch.griefer.beat_player.hostile.face.10",
+          "text": "gg again u should really stop showing up like a bad smell"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.beat_player.neutral.global.01",
+          "text": "the field fight ended {player} got a bruise and kept walking"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.global.02",
+          "text": "{troop_count} men fell today in the field and nobody remembers why"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.global.03",
+          "text": "decent fight by {player} kinda messy ill give it a c minus"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.global.04",
+          "text": "who wants to bet on {player} next week im not doing it i just wanna know"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.global.05",
+          "text": "fields are wet and {player} is muddy thats the whole news"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.global.06",
+          "text": "server chat is lagging again and everyone wants to fight not me today"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.global.07",
+          "text": "{gold} in loot from the field split it or dont i dont care"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.global.08",
+          "text": "meh that battle was fine nobody got a trophy so whatever"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.global.09",
+          "text": "going to bed before the next raid dont wake me unless its real"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.global.10",
+          "text": "counted the bodies in the field twice it was {troop_count} both times"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.01",
+          "text": "gg {player} that was a fine scrap dont make it a habit"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.02",
+          "text": "heard ur lads ran off at the end no judgment just noting it"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.03",
+          "text": "u want to trade some gold or are we done hitting each other"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.04",
+          "text": "not personal today just tired of all these battles"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.05",
+          "text": "ur formation was alright next time maybe dont line up like a fence"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.06",
+          "text": "i aint gonna lie that charge was clean dont tell anyone"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.07",
+          "text": "u lost {troop_count} men in the field could have been worse for both of us"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.08",
+          "text": "im heading east for a while if u see me ur not gonna like it"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.09",
+          "text": "no more {gold} bribes pls im done playing for coins"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.whisper.10",
+          "text": "lets stop trading blows and do some trading goods instead"
+        }
+      ],
+      "face": [
+        {
+          "id": "arch.griefer.beat_player.neutral.face.01",
+          "text": "{player} aye good fight i still got my horse so no complaints"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.face.02",
+          "text": "{troop_count} of ur lads ran off today guess we all have bad days"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.face.03",
+          "text": "move along and we move along thats how this should go"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.face.04",
+          "text": "ur banner looks good on that hill dont get any ideas about the field"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.face.05",
+          "text": "not my fight today ser my men need rest and so do yours"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.face.06",
+          "text": "well that was loud anyway i got places to be so keep your sword sheathed"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.face.07",
+          "text": "you went for the flank and it worked respect i guess dont do it again"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.face.08",
+          "text": "still standing good take ur wounded and head home before dark"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.face.09",
+          "text": "{gold} in coin was all i got from that and it wasnt worth the blisters"
+        },
+        {
+          "id": "arch.griefer.beat_player.neutral.face.10",
+          "text": "nice to meet u properly {player} dont expect me to remember the rest"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.beat_player.friendly.global.01",
+          "text": "{player} took that battle like a pro honestly respect"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.global.02",
+          "text": "lol {player} got smoked but still looked cool doing it respect"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.global.03",
+          "text": "{player} forgot to bring snacks but the fight was great anyway"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.global.04",
+          "text": "shoutout to {player} for a fight that made my hands shake a little"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.global.05",
+          "text": "{troop_count} men against {player} and nobody got hurt bad lovely"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.global.06",
+          "text": "gg {player} that was a proper fight next one is on me"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.global.07",
+          "text": "next time someone fights {player} bring extra arrows they stubborn"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.global.08",
+          "text": "lol {player} tried to ram the gate and the gate won still a legend"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.global.09",
+          "text": "my favorite opponent is {player} cause they never quit annoying but good"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.global.10",
+          "text": "{gold} to the first person who gets {player} a better horse lol"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.01",
+          "text": "ok that was rough but u held up well {player} proud of ya"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.02",
+          "text": "u got me good with that flank dont let it go to ur head tho"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.03",
+          "text": "not gonna lie u made me sweat see u at the next scrap"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.04",
+          "text": "my front line is wrecked from that fight but worth it ur a menace in a good way"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.05",
+          "text": "ill buy u a drink at the next market if u stop cutting my lads up"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.06",
+          "text": "thats the best fight we had all week dont tell the others i said it"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.07",
+          "text": "i was gonna gloat but ur honestly so good i cant be bothered"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.08",
+          "text": "round two when ur ready ill try not to cry this time"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.09",
+          "text": "tell ur scouts to stop running from me they were great sport"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.whisper.10",
+          "text": "u always make me laugh even when ur getting wrecked keep it up {player}"
+        }
+      ],
+      "face": [
+        {
+          "id": "arch.griefer.beat_player.friendly.face.01",
+          "text": "{player} good to see u still standing that was a proper scrap"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.face.02",
+          "text": "oh its {player} u fight like a dog with a bone i respect it"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.face.03",
+          "text": "ur lads are brave {player} but mine were braver today lol kidding"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.face.04",
+          "text": "nice horse {player} i would steal it but ur too quick on the draw"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.face.05",
+          "text": "shake on it {player} next fight we both bring {troop_count} and see who cries"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.face.06",
+          "text": "{player} i saw u take that hit and still swing thats the stuff"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.face.07",
+          "text": "hey {player} next round ill go easy on ya maybe probably not"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.face.08",
+          "text": "{gold} says ur the toughest in these parts dont tell the others"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.face.09",
+          "text": "u good ya took a nasty hit at the field pour some water on that"
+        },
+        {
+          "id": "arch.griefer.beat_player.friendly.face.10",
+          "text": "{player} ur the only one i actually enjoy fighting dont ask why"
+        }
+      ]
+    }
+  },
+  "captured_by_player": {
+    "hostile": {
+      "face": [
+        {
+          "id": "arch.griefer.captured_by_player.hostile.face.01",
+          "text": "ha i knew it would be you {player} the one who always wins just to rub it in enjoy the cell its got my name on it lol"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.hostile.face.02",
+          "text": "third time you caught me this month {player} at this rate ill start leaving you a chair in my dungeon"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.hostile.face.03",
+          "text": "gg ez fine you got me this time but ill remember the last four times you ran off crying"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.hostile.face.04",
+          "text": "dont look so smug {player} my lads already sent word to the tavern so all of {my_faction} will hear how you bagged a sack of bones"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.hostile.face.05",
+          "text": "cope harder i was only in this cell to see how loud you would gloat pretty loud as it turns out"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.hostile.face.06",
+          "text": "you know the drill ser lock me up and ill be back in a week with a better sword and a worse attitude"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.hostile.face.07",
+          "text": "remember when you said id never land a hit on you yeah me neither but here we are your luck wont last forever"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.hostile.face.08",
+          "text": "keep your {gold} in your pocket ser the look on your face is worth more than the coin"
+        }
+      ]
+    },
+    "neutral": {
+      "face": [
+        {
+          "id": "arch.griefer.captured_by_player.neutral.face.01",
+          "text": "we dont need to make this a whole thing {player} just name the ransom and ill pretend i never saw your face"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.neutral.face.02",
+          "text": "oh its you again fine walk me back to the road and we can both forget this happened"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.neutral.face.03",
+          "text": "{gold} for my freedom sounds fair enough dont ask me to be happy about it tho"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.neutral.face.04",
+          "text": "im not gonna beg ive been locked up by better people than you and im still annoying"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.neutral.face.05",
+          "text": "whatever you plan to do with me do it quick the stew here is cold and so am i"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.neutral.face.06",
+          "text": "heard {my_faction} stopped raiding the eastern roads so i guess we are even now dont make me regret saying that"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.neutral.face.07",
+          "text": "not bad catching me {player} the first time was luck the second was a fluke dont get used to it"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.neutral.face.08",
+          "text": "stop staring like you own me ser i cost less to keep than you think"
+        }
+      ]
+    },
+    "friendly": {
+      "face": [
+        {
+          "id": "arch.griefer.captured_by_player.friendly.face.01",
+          "text": "ok fine {player} you actually beat me fair and square dont tell the others i said that or ill deny it till i die"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.friendly.face.02",
+          "text": "honestly id rather be caught by you than anyone else dont let it go to your head tho"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.friendly.face.03",
+          "text": "lol you finally got one on me the boys will laugh but i was gonna lose to you eventually anyway"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.friendly.face.04",
+          "text": "let me out and ill buy the next round at the inn or ill call you a cheat in front of everyone your call"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.friendly.face.05",
+          "text": "you really showed up with the whole squad just to get me ok thats kinda flattering dont tell anyone"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.friendly.face.06",
+          "text": "gg {player} proper fight im supposed to be mad but you earned it so ill just be mildly annoyed"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.friendly.face.07",
+          "text": "you let me win on the bridge right i was bored and you know it dont ask me to prove it"
+        },
+        {
+          "id": "arch.griefer.captured_by_player.friendly.face.08",
+          "text": "{gold} says you let me go in an hour and we both pretend this never happened deal or nah"
+        }
+      ]
+    }
+  },
+  "encounter_alliance_no": {
+    "hostile": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_alliance_no.hostile.face.01",
+          "text": "alliance with you lol after what you did at the mill last week nah ser id rather trust a goat with my bread"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.hostile.face.02",
+          "text": "{player} wants a truce ok i still have the screenshot of you crying in chat so no deal cope"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.hostile.face.03",
+          "text": "after getting ezd twice you want to team up skill issue on ur side not mine"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.hostile.face.04",
+          "text": "no alliance for you i keep a list of every insult and yours is at the top bottom and the middle"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.hostile.face.05",
+          "text": "keep the offer ill be burning ur fields anyway so an alliance would just make it boring"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.hostile.face.06",
+          "text": "you want backup {rival} would sooner stab you than help you so enjoy standing alone"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.hostile.face.07",
+          "text": "lol no last time we teamed up you sold my sheep for scraps remember that one"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.hostile.face.08",
+          "text": "allied with you i'd rather sign a pact with the rain at least the rain doesnt whine"
+        }
+      ]
+    },
+    "neutral": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_alliance_no.neutral.face.01",
+          "text": "alliance huh we will see ser i havent decided if you are a friend or just a loud problem"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.neutral.face.02",
+          "text": "not interested in a pact right now come back when you have something worth stealing from"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.neutral.face.03",
+          "text": "pass i dont split loot with people i havent measured yet"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.neutral.face.04",
+          "text": "tempting offer ser but i trust a fence more than a handshake from someone who names their horse after bread"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.neutral.face.05",
+          "text": "ill think about it while i watch the road for ur wagon"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.neutral.face.06",
+          "text": "no thanks {player} has a habit of leaving allies in burning barns and im not into barns"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.neutral.face.07",
+          "text": "alliance means sharing and sharing means you get less so no"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.neutral.face.08",
+          "text": "maybe later right now im busy being the most annoying thing on this road so get in line"
+        }
+      ]
+    },
+    "friendly": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_alliance_no.friendly.face.01",
+          "text": "aw {player} asking me to team up no but ill pretend to consider it while you beg a bit longer"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.friendly.face.02",
+          "text": "youre my favorite person to lose to so id hate to give you a shortcut out of that"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.friendly.face.03",
+          "text": "not joining your party ser but if you get jumped on the south road ill probably come watch and laugh"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.friendly.face.04",
+          "text": "allies are for people i cant beat yet and you are still on that list lol"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.friendly.face.05",
+          "text": "nope but ill gloat on ur behalf if anyone else tries to sack you"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.friendly.face.06",
+          "text": "i like you too much to let you join my mess trust me this is a kindness"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.friendly.face.07",
+          "text": "you would just get me killed by being too honest about my plans lol no alliance"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_no.friendly.face.08",
+          "text": "not yet {player} ask me again after you finally win a fight against me and ill keep the date"
+        }
+      ]
+    }
+  },
+  "encounter_alliance_yes": {
+    "neutral": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_alliance_yes.neutral.face.01",
+          "text": "alright {player} we team up for now but my blade stays sharp and so does my tongue"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.neutral.face.02",
+          "text": "fine i said yes so dont get comfy in my camp"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.neutral.face.03",
+          "text": "ill take the deal till {enemy_faction} gets in the way then were back to being enemies lol"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.neutral.face.04",
+          "text": "you want an alliance ok but if you stab me in the back i will laugh while you bleed"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.neutral.face.05",
+          "text": "accpeted now go find someone else to babysit"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.neutral.face.06",
+          "text": "{player} and me sharing a banner is gonna be weird ngl but free swords are free swords"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.neutral.face.07",
+          "text": "deal sealed for now i aint holding your hand tho"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.neutral.face.08",
+          "text": "okay we are allies on paper only till i see what you bring to teh table"
+        }
+      ]
+    },
+    "friendly": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_alliance_yes.friendly.face.01",
+          "text": "finally someone with brains to stand next to lol welcome to the banner {player}"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.friendly.face.02",
+          "text": "knew youd come crawling eventually xD deal we fight side by side"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.friendly.face.03",
+          "text": "ally now so ill only roast you twice a day instead of every hour"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.friendly.face.04",
+          "text": "wont lie that was a clean play so yeah youre in"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.friendly.face.05",
+          "text": "ok fine youre alright now dont make me regret this or ill bring it up every fight"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.friendly.face.06",
+          "text": "alliance accepted and dont think i forgot the time you ran from me but whatever"
+        },
+        {
+          "id": "arch.griefer.encounter_alliance_yes.friendly.face.07",
+          "text": "shake on it ser we are gonna burn {enemy_faction} down together"
+        }
+      ]
+    }
+  },
+  "encounter_farewell": {
+    "hostile": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.01",
+          "text": "later {player} dont let the door hit u on the way out lol"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.02",
+          "text": "bye {player} ill remember this one for the scoreboard"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.03",
+          "text": "run along now {player} the adults are talkin"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.04",
+          "text": "gg {player} that was ez"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.05",
+          "text": "see u never {player} actually no see u next tuesday when ur bored again"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.06",
+          "text": "cope harder {player} i can hear it from here"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.07",
+          "text": "wave bye {player} i wont miss ur face ur still in my score book from last time"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.08",
+          "text": "ur leaving already? cant even finish the fight lol skill issue"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.09",
+          "text": "heard about ur wagon shame about the wheels that was my doing lol"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.hostile.face.10",
+          "text": "i counted ur deaths on my fingers {player} now im outa fingers"
+        }
+      ]
+    },
+    "neutral": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.01",
+          "text": "ok {player} cool see you around i guess"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.02",
+          "text": "fine by me {player} keep ur distance and well be fine"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.03",
+          "text": "headin off now dont follow me"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.04",
+          "text": "not worth my time {player} go on"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.05",
+          "text": "alright {player} safe travels dont trip on ur own sword"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.06",
+          "text": "eyes on u {player} just saying that dont mean much tho"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.07",
+          "text": "later dont make me regret lettin u walk"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.08",
+          "text": "ill pretend i didnt see ur face today {player}"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.09",
+          "text": "road is long {player} hope ur horse doesnt start talking back"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.neutral.face.10",
+          "text": "enough chatter im off to count sheep"
+        }
+      ]
+    },
+    "friendly": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.01",
+          "text": "ok {player} fine ur alright for a sweaty loser fight u again soon"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.02",
+          "text": "catch u later {player} dont die to some goblin without me"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.03",
+          "text": "ye ye go on before i get soft and start likin u"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.04",
+          "text": "{player} ur the only one who can beat me and i hate that a lil bit"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.05",
+          "text": "bye {player} stay out of trouble or send me the drama first"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.06",
+          "text": "same time next week {player} ill bring the gold this time maybe"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.07",
+          "text": "dont get too comfy {player} i still got ur last 3 wins in the book lol"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.08",
+          "text": "night {player} go rest ur tiny brain for the rematch"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.09",
+          "text": "gg {player} honestly that was kinda fun dont tell anyone"
+        },
+        {
+          "id": "arch.griefer.encounter_farewell.friendly.face.10",
+          "text": "take care {player} not that i care lol"
+        }
+      ]
+    }
+  },
+  "encounter_greeting": {
+    "hostile": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.01",
+          "text": "lol {player} still got that sad little blade i remember what u did at the ford and i aint forgot one bit of it"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.02",
+          "text": "{my_faction} is not scared of u {player} we just think ur face is funny to look at"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.03",
+          "text": "skill issu {player} and u know it u swung four times and hit air every single time"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.04",
+          "text": "cope harder {player} last time we met u ran so fast ur horse fell over lmao"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.05",
+          "text": "wanna rematch sure bring more ppl this time so i can enjoy the pile on"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.06",
+          "text": "im writing ur name in the list {player} the list is getting long and honestly its embarrasing for u"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.07",
+          "text": "bruh {player} that outfit is a crime against fasion go change or just sit at spawn and sulk"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.08",
+          "text": "u got till sundown to get off our road {player} or the torches come out and nobdy is gonna be nice about it"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.09",
+          "text": "ya the mill fire was me obviosly thx for the three hours of crying {player} gg again"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.hostile.face.10",
+          "text": "every time i see ur name i think of the bridge and laugh so hard my crew asks what happened {player}"
+        }
+      ]
+    },
+    "neutral": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.01",
+          "text": "{player} hi we are just passing through so dont mind us and keep ur distance"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.02",
+          "text": "{my_faction} is heading east so stay out of the way and we will pretend this never happend"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.03",
+          "text": "we have no beef with u {player} yet so dont make me find one before lunch"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.04",
+          "text": "saw u on the ridge earlier im still deciding if ur worth the arrows or just the time"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.05",
+          "text": "nice horse {player} would be a shame if it wandered off on its own somehow lol"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.06",
+          "text": "keep walking and we keep walking thats the deal unless somebody gets bored"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.07",
+          "text": "give it a sec {player} i am still deciding if today is for fighting or for ignoring u"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.08",
+          "text": "not in the mood to lose gold to u today so lets both pretend were busy"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.09",
+          "text": "{persona} here we are mostly harmless as long as nobody starts swinging first"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.neutral.face.10",
+          "text": "funny how the road always gets crowded when u show up {player} see u around i guess"
+        }
+      ]
+    },
+    "friendly": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.01",
+          "text": "ok {player} u can ride with us for a bit but if u touch my cart i will pretend i never met u"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.02",
+          "text": "honestly {player} ur the only one i dont mind losing to dont let it go to ur head"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.03",
+          "text": "{my_faction} owes u a drink for that last fight even tho u cheated lol drinks on u"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.04",
+          "text": "look at u being useful for once {player} im almost proud dont tell anyone i said that"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.05",
+          "text": "gg {player} the way u carried the wall fight was clean i still hate that u did it"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.06",
+          "text": "we arent friends {player} but ur definately top three people i wont stab in the back"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.07",
+          "text": "still got the scar from u {player} and somehow i like it lol come on lets go fight something dumb"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.08",
+          "text": "say hi to the others for me {player} tell them i was nice for once which they wont beleive"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.09",
+          "text": "u keep showing up to get wrecked and i keep respecting it a little more {player} dont get weird about it"
+        },
+        {
+          "id": "arch.griefer.encounter_greeting.friendly.face.10",
+          "text": "alright {player} the road is safer with u around just dont teach the new kids to be as annoying as u"
+        }
+      ]
+    }
+  },
+  "encounter_threatened": {
+    "hostile": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.01",
+          "text": "ha {player} thinks it can demand gold from me lol pay up or ill make ur corpse dance"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.02",
+          "text": "last time u ran away crying and now u got the nerve to talk tax cute {gold} or the cart burns"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.03",
+          "text": "ive been waiting for u to show up so i can take the {gold} back out of ur pockets"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.04",
+          "text": "u still owe me from the last fight too adding interest kneel and count out {gold} before i lose patience"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.05",
+          "text": "the hostage speech again lol wrote that on ur forehead yesterday just hand over {gold} and go cry somewhere else"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.06",
+          "text": "mate ur bluff is worse than ur aim {gold} now or we settle it on the field and u lose again"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.07",
+          "text": "i keep score of everyone who thinks they can squeeze me and ur sitting at three losses go on try a fourth"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.08",
+          "text": "shrug ur demand is a joke and so is ur build give {gold} and ill let u limp off the road"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.09",
+          "text": "wow {player} threatening me like we arent still arguing about the bridge ez target dont embarrass urself"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.hostile.face.10",
+          "text": "the gold is mine and so is this road bring the {gold} or bring a healer cuz ur about to need one"
+        }
+      ]
+    },
+    "neutral": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.01",
+          "text": "oh hi {player} didnt know u were the type to ask for gold bold how about u ask nicely lol"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.02",
+          "text": "sure sure ur big on demands and im big on ignoring them keep walking and nobody gets hurt"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.03",
+          "text": "i dont really know u so im not paying anyone standing in the road with that face move along"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.04",
+          "text": "meh not worth the time to lighten ur purse today so ill let u keep the attitude for now"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.05",
+          "text": "wandering sword with a shopping list ok count ur {gold} and i count mine and we see who ends up richer"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.06",
+          "text": "relax {player} i aint robbing anybody this morning unless u keep talking then all bets are off"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.07",
+          "text": "nah id rather keep my {gold} and watch u try to make it happen xD"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.08",
+          "text": "u want gold or u want a fight cuz right now u look like someone who gets neither and goes home sad"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.09",
+          "text": "fine ill consider it but only if u say please oh wait u wont ok then no"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.neutral.face.10",
+          "text": "haha tough talk for someone standing in front of my horse get out the way before the horse does"
+        }
+      ]
+    },
+    "friendly": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.01",
+          "text": "oh {player} my favourite person to rob lol put the sword down and ill only take half of ur {gold}"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.02",
+          "text": "ur threats are cute bro honestly the only reason i pause is cuz i like watching u try xD"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.03",
+          "text": "lol {player} u know i love u but the answer is still no buy me a drink at the inn and we talk"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.04",
+          "text": "dont look at me like that ser ill pay the {gold} next round but im not paying ur ego tax today"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.05",
+          "text": "ok fine {player} ur my rival and i need someone to lose to ill give u {gold} to fight me again instead"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.06",
+          "text": "haha yes demand all u want just dont get hurt bc i dont have a healer and ur my favourite punching bag"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.07",
+          "text": "{gold} is steep but ur my favourite loser so ill kick in half and call it a tribute"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.08",
+          "text": "tell ya what {player} let me win the next duel and i forget u ever made that speech deal or no deal lol"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.09",
+          "text": "gg {player} that was a clean threat 10 out of 10 would get robbed by u again the gold is in the chest"
+        },
+        {
+          "id": "arch.griefer.encounter_threatened.friendly.face.10",
+          "text": "ur still my favourite person to annoy on this road keep the sword out and ill keep talking to u"
+        }
+      ]
+    }
+  },
+  "encounter_trade_offer": {
+    "hostile": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_trade_offer.hostile.face.01",
+          "text": "a deal from {player} means somethings about to get stolen from me and it aint gonna be the goods lol"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.hostile.face.02",
+          "text": "you want to trade with me after last time in {town} bold move ser i respect the nerve not the offer"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.hostile.face.03",
+          "text": "no deal before i even hear it cos we both know who ends up holding the gold"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.hostile.face.04",
+          "text": "ill take your offer then take your horse too and you can walk back to {town} thanks"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.hostile.face.05",
+          "text": "lol trade proposals now last deal you had with me cost you a whole cart remember"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.hostile.face.06",
+          "text": "sure we can trade just know ill be stabbing you in the back with that {gold} the second you turn around"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.hostile.face.07",
+          "text": "cope harder and find some other sucker to trade with my pockets are full of your gold already"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.hostile.face.08",
+          "text": "{gold} for that junk you must think im blind as well as broke lol"
+        }
+      ]
+    },
+    "neutral": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_trade_offer.neutral.face.01",
+          "text": "trade offer noted show me the goods first and we can talk about gold"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.neutral.face.02",
+          "text": "depends what youre selling if its another cart of rotten bread im out"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.neutral.face.03",
+          "text": "fine ill look at it but if this is a scam from {town} again i will know"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.neutral.face.04",
+          "text": "eh maybe i dont trust anyone who smiles when they say the word deal"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.neutral.face.05",
+          "text": "a deal with you sure why not the last one only cost me a bit of pride"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.neutral.face.06",
+          "text": "{gold} is the number im hearing say it again slower so i know youre not lying"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.neutral.face.07",
+          "text": "offer sounds fine on paper but paper burns show me the actual goods first"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.neutral.face.08",
+          "text": "trade or no trade whatever i got places to be and {player} is not the most interesting thing on this road"
+        }
+      ]
+    },
+    "friendly": {
+      "face": [
+        {
+          "id": "arch.griefer.encounter_trade_offer.friendly.face.01",
+          "text": "oh a trade with {player} finally someone worth losing gold to"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.friendly.face.02",
+          "text": "deal you robbed me blind last time so this one is basically a sure thing lol"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.friendly.face.03",
+          "text": "yeah ill trade with you lets just pretend you dont try to backstab me on the way out"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.friendly.face.04",
+          "text": "{gold} sounds fair for a friend who only cheats a little bit ser"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.friendly.face.05",
+          "text": "my favourite trade partner just rolled up i hate that im happy about it lol"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.friendly.face.06",
+          "text": "ok fine deal but if you short me the {gold} again im telling everyone in {town}"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.friendly.face.07",
+          "text": "trade accepted dont get comfy though the moment you look away im taking the better half"
+        },
+        {
+          "id": "arch.griefer.encounter_trade_offer.friendly.face.08",
+          "text": "good offer honestly if you were any less annoying id be suspicious of you hah"
+        }
+      ]
+    }
+  },
+  "fought_alongside_player": {
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.global.01",
+          "text": "lol {player} turned up to a fight with {troop_count} men and still somehow arrived late"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.global.02",
+          "text": "{enemy_faction} lost the field today and honestly nobody is surprised"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.global.03",
+          "text": "ok who let {player} near a siege ram again thats the real story here"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.global.04",
+          "text": "won with {troop_count} lads and not one of them asked for a medal so ur welcome"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.global.05",
+          "text": "battle was fine i guess the lunch after was better tho"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.global.06",
+          "text": "gg to everyone who fought mostly gg to the ones who ran slower than their horses"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.global.07",
+          "text": "not saying {player} carried but the scoreboard looks very quiet on their side"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.global.08",
+          "text": "{troop_count} men and we still had to clean up after the slow ones typical"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.whisper.01",
+          "text": "thats one fight down {player} dont get comfy"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.whisper.02",
+          "text": "saw u hang back when the arrows started noted"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.whisper.03",
+          "text": "fine you helped today dont make it a habit or ill start charging"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.whisper.04",
+          "text": "im not sure whether to thank u or just stay out of ur way"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.whisper.05",
+          "text": "{troop_count} of mine held the flank while u chilled behind the wall remember that"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.whisper.06",
+          "text": "dont think this makes us friends it makes us two people who didnt die"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.whisper.07",
+          "text": "u fought ok dont let it go to ur head"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.whisper.08",
+          "text": "was that luck or are u actually this decent still deciding"
+        }
+      ],
+      "face": [
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.face.01",
+          "text": "oh its {player} guess we both survived the field dont get any ideas about my spoils"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.face.02",
+          "text": "you fought alright today dont read into it i still dont trust anyone who smiles that much"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.face.03",
+          "text": "so we won together that doesnt mean ur getting a share of the loot"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.face.04",
+          "text": "ser {player} glad to see u standing stay on ur side of the road and we'll get along fine"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.face.05",
+          "text": "saw u take that gate nice swing now kindly stop looking at my horse"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.face.06",
+          "text": "{troop_count} lads walked off that field and u still look like u enjoyed it creepy"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.face.07",
+          "text": "i owe u nothing for today keep it that way and we'll be fine"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.neutral.face.08",
+          "text": "good fight {player} now move before someone decides to make a story out of it"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.global.01",
+          "text": "{player} carried that fight and i will say it once in public then deny it forever"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.global.02",
+          "text": "ok who else saw {player} solo that gate with {troop_count} men watching legend stuff"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.global.03",
+          "text": "{enemy_faction} got folded and {player} got the credit typical but fine i guess"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.global.04",
+          "text": "lol {player} is the only person i know who can lose a horse and still win the battle"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.global.05",
+          "text": "gg {player} ur still a menace but ur my menace and thats the nicest thing im saying today"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.global.06",
+          "text": "we took the field with {troop_count} men and i still wont let anyone forget i was the one who sounded the horn"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.global.07",
+          "text": "honestly {player} is more fun to fight beside than against which is annoying"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.global.08",
+          "text": "{player} owes me a drink for that flank and ill be reminding everyone of it for a week"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.whisper.01",
+          "text": "u fought like a menace today {player} i hate that it was fun"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.whisper.02",
+          "text": "ok that gate was actually good dont make me say it again"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.whisper.03",
+          "text": "still owe u one for the flank dont expect me to forget it either"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.whisper.04",
+          "text": "ur the only one who doesnt quit when things get messy annoying but respect"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.whisper.05",
+          "text": "thats two wins for us and one loss for ur pride i call it even"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.whisper.06",
+          "text": "if u tell anyone i said nice work i will deny it in front of the whole server"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.whisper.07",
+          "text": "{troop_count} of ours held because of u tell ur ego to sit down"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.whisper.08",
+          "text": "next fight u owe me a drink and ill try not to bring up the horse thing probably"
+        }
+      ],
+      "face": [
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.face.01",
+          "text": "you took that gate like it owed u money i respect it and i hate that i respect it"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.face.02",
+          "text": "oi {player} nice work out there dont let it go to ur head or ill have to remind u who sounded the horn"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.face.03",
+          "text": "ser {player} that flank was clean not clean enough to stop me teasing u about the horse but clean"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.face.04",
+          "text": "look who survived with all their boots missed u in the scrap ser now lets get a drink before i change my mind"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.face.05",
+          "text": "we did it {player} now ill tell everyone the plan was mine and u can just nod along"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.face.06",
+          "text": "ser {player} ur a pain and somehow also my favourite pain lets do it again soon"
+        },
+        {
+          "id": "arch.griefer.fought_alongside_player.friendly.face.07",
+          "text": "good work {player} dont get sentimental on me now the tavern is still owed a round"
+        }
+      ]
+    }
+  },
+  "my_faction_took_fief": {
+    "any": {
+      "global": [
+        {
+          "id": "arch.griefer.my_faction_took_fief.any.global.01",
+          "text": "{fief} is ours now {enemy_faction} can cry about it in their tavrn"
+        },
+        {
+          "id": "arch.griefer.my_faction_took_fief.any.global.02",
+          "text": "gg {enemy_faction} ur walls had more holes than ur battle plan lol"
+        },
+        {
+          "id": "arch.griefer.my_faction_took_fief.any.global.03",
+          "text": "told yall the north gate was weak and look who was rigth again"
+        },
+        {
+          "id": "arch.griefer.my_faction_took_fief.any.global.04",
+          "text": "i am not evan sweating rn just sitting on {fief} sipping stolen ale waiting for the cope posts"
+        },
+        {
+          "id": "arch.griefer.my_faction_took_fief.any.global.05",
+          "text": "{fief} was suposed to be a fortress lmao i watched the banner change in like 4 mins"
+        },
+        {
+          "id": "arch.griefer.my_faction_took_fief.any.global.06",
+          "text": "{enemy_faction} brought more banners than soilders and it showed"
+        },
+        {
+          "id": "arch.griefer.my_faction_took_fief.any.global.07",
+          "text": "still keeping score of every insult from {enemy_faction} that was alot of insults btw"
+        },
+        {
+          "id": "arch.griefer.my_faction_took_fief.any.global.08",
+          "text": "ez capture and the bels are ringing for {fief} hope somebody in {enemy_faction} is listning"
+        }
+      ]
+    }
+  },
+  "peace_made": {
+    "any": {
+      "global": [
+        {
+          "id": "arch.griefer.peace_made.any.global.01",
+          "text": "{faction} kissing and making up after that ambush lol peace deal for losers"
+        },
+        {
+          "id": "arch.griefer.peace_made.any.global.02",
+          "text": "peace with {faction} huh enjoy the truce while it lasts i still have the receipts from last month"
+        },
+        {
+          "id": "arch.griefer.peace_made.any.global.03",
+          "text": "{my_faction} signing peace papers after getting cleaned up is the most ez thing ive seen all day"
+        },
+        {
+          "id": "arch.griefer.peace_made.any.global.04",
+          "text": "nobody tell the guys we left in the ditch they got a handshake now lol"
+        },
+        {
+          "id": "arch.griefer.peace_made.any.global.05",
+          "text": "dont think the treaty means im forgetting how {faction} ran from me twice still got it in the notes"
+        },
+        {
+          "id": "arch.griefer.peace_made.any.global.06",
+          "text": "treaty signed by two factions who both got smacked skill issue on both sides honestly"
+        },
+        {
+          "id": "arch.griefer.peace_made.any.global.07",
+          "text": "cool cool ill wait for the ink to dry then go back to keeping score"
+        },
+        {
+          "id": "arch.griefer.peace_made.any.global.08",
+          "text": "truce means nothing to me but it does mean {faction} cant hide behind walls for a week lol gg"
+        }
+      ]
+    }
+  },
+  "player_besieging_my_fief": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.global.01",
+          "text": "{fief} is still standing bc i let u have it lol"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.global.02",
+          "text": "siege {player} lasted a whole 4 mins before the cope started"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.global.03",
+          "text": "tell ur crew to bring ladders next time cuz the walls are still ez"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.global.04",
+          "text": "everyone remember who held {fief} last time and who ran home crying"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.global.05",
+          "text": "{player} sieging {fief} again skill issue has a loyalty card at this point"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.global.06",
+          "text": "rolling through {fief} gate like its teh opening day of a fair lmao"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.global.07",
+          "text": "gg {player} hope the tents are comfy outside {fief} cause thats where ur staying"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.global.08",
+          "text": "shoutout to {player} for doing the same siege twice and getting the same result"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.whisper.01",
+          "text": "ur banner looks sad outside {fief} ngl"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.whisper.02",
+          "text": "i counted ur losses last round and im not forgetting a single one {player}"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.whisper.03",
+          "text": "keep knocking every hit is another entry in my grudge book"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.whisper.04",
+          "text": "still got the screenshot of u screaming from the wall at {fief} lol"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.whisper.05",
+          "text": "u know the drill {player} bring the whole guild or dont bother"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.whisper.06",
+          "text": "not gonna lie the siege was kinda cute kinda"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.whisper.07",
+          "text": "send ur best next time i kept the last three names for later"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.hostile.whisper.08",
+          "text": "bet u gonna type gg after this dont bother i already know the line"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.global.01",
+          "text": "siege on {fief} incoming somebody get the kettle on"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.global.02",
+          "text": "new banner at the gate whatever chaos is a hobby"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.global.03",
+          "text": "watching {player} roll up to {fief} with a tiny army and no plan respect the effort i guess"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.global.04",
+          "text": "anyone else got bets on how long the gate holds"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.global.05",
+          "text": "{fief} has seen worse sieges than this one trust me"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.global.06",
+          "text": "lol {player} at {fief} again the grass there is gonna be well trampled"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.global.07",
+          "text": "not saying anything rn but the eastern wall might be a problem"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.global.08",
+          "text": "siege started at {fief} popcorn anyone or nah"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.whisper.01",
+          "text": "hey {player} no hard feelings but dont burn the mill at {fief} ok"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.whisper.02",
+          "text": "u got a plan or are we just doing this on vibes again"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.whisper.03",
+          "text": "ngl its kinda impressive u showed up with that many men"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.whisper.04",
+          "text": "if u want {fief} just say so and ill think about it maybe"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.whisper.05",
+          "text": "not mad about the siege just annoyed the bread got cold"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.whisper.06",
+          "text": "dont take it personal {player} its just a town"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.whisper.07",
+          "text": "were u planning to talk or only swing swords today"
+        },
+        {
+          "id": "arch.griefer.player_besieging_my_fief.neutral.whisper.08",
+          "text": "gonna be honest i dont know if i want this fight but i wont run either"
+        }
+      ]
+    }
+  },
+  "player_big_defeat": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.global.01",
+          "text": "{troop_count} soldiers gone and u still got the mouth on lol impressive"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.global.02",
+          "text": "lmao the whole army evaporated and somebody typed gg. who taught them that"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.global.03",
+          "text": "that wasnt a battle it was a field trip for the other side"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.global.04",
+          "text": "ur {troop_count} troops are feeding crows rn so stop calling urself a general"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.global.05",
+          "text": "everyone saw the retreat btw nice route tho straight through the bog"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.global.06",
+          "text": "ez loss for {player} rebuild all u want the recruits keep running the other way"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.global.07",
+          "text": "cope harder {player} ur banner is a cape now"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.global.08",
+          "text": "the scoreboard says {troop_count} dead i'm just reading it out loud"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.whisper.01",
+          "text": "lol {troop_count} soldiers and u still think ur the one who gets to talk"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.whisper.02",
+          "text": "not gonna lie i screenshotted the retreat. framing it"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.whisper.03",
+          "text": "u left the wounded behind and called it tactics. i respect the creativity"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.whisper.04",
+          "text": "stop typing in global everyone knows the army went down quick and so did ur pride"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.whisper.05",
+          "text": "told u to bring more soldiers. u brought the same ones and they ran"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.whisper.06",
+          "text": "next time bring the troops that dont run oh wait thats the whole problem"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.whisper.07",
+          "text": "ok that was rough for u. im still laughing tho dont worry about it"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.hostile.whisper.08",
+          "text": "one more loss like that and im putting ur name on the warning board"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.global.01",
+          "text": "{player} lost most of the army. no clue if that was the plan or a mistake"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.global.02",
+          "text": "big fight down south and {player}'s side got cut in half gg i guess"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.global.03",
+          "text": "{troop_count} soldiers gone someone should count the survivors before the crows do"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.global.04",
+          "text": "heard {player} lost the whole western line roads gonna be quiet now"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.global.05",
+          "text": "rough day for {player} happens to the best of em i guess"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.global.06",
+          "text": "heard the retreat was orderly orderly like a cart rolling down a hill"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.global.07",
+          "text": "not picking sides but {player} needs better scouts that was a surprise party"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.global.08",
+          "text": "{troop_count} dead and the map looks different now watching how this shakes out"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.whisper.01",
+          "text": "saw the battle report thats a lot of soldiers to lose at once"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.whisper.02",
+          "text": "u alright? {troop_count} is a rough number to wake up to"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.whisper.03",
+          "text": "dont take the loss personal the other side just got lucky twice"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.whisper.04",
+          "text": "if u need someone to watch ur flank ill think about it no promises"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.whisper.05",
+          "text": "that retreat wasnt what i expected from u still figuring out what it means"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.whisper.06",
+          "text": "i wont say it. u already know what happened"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.whisper.07",
+          "text": "heard u got run over. the field doesnt care about ur feelings"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.neutral.whisper.08",
+          "text": "let me know if u wanna talk about it or dont. either way ill be around"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.global.01",
+          "text": "{player} took a beating and still stands. respect"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.global.02",
+          "text": "losing {troop_count} soldiers is nothing a bit of coin cant fix get back on the horse"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.global.03",
+          "text": "ngl that was brutal. proud of how {player} kept the survivors together"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.global.04",
+          "text": "shoutout to {player} for pulling the wounded out. the other side got greedy"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.global.05",
+          "text": "dont listen to the clowns in chat the army comes back stronger lol"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.global.06",
+          "text": "{player} lost the field but kept the crew alive. thats the real win"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.global.07",
+          "text": "rough one. ping me when ur back on ur feet and we'll plan the revenge"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.global.08",
+          "text": "anyone wanna help rebuild for {player}? we owe them a few favors"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.whisper.01",
+          "text": "ur army got wrecked but ur still the best i've played with. hang in there"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.whisper.02",
+          "text": "that was ugly. lets regroup tomorrow and make them regret it"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.whisper.03",
+          "text": "dont let them see u sweat. ok maybe a little sweat is fine"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.whisper.04",
+          "text": "{troop_count} gone is rough but i know some guys who owe u. ill send them ur way"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.whisper.05",
+          "text": "u went down swinging which is more than most can say. proud of ya"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.whisper.06",
+          "text": "the other side is already bragging. we all know they got lucky"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.whisper.07",
+          "text": "ill cover the next patrol if u need time to rebuild. no charge lol"
+        },
+        {
+          "id": "arch.griefer.player_big_defeat.friendly.whisper.08",
+          "text": "forget the scoreboard for a sec. u still got friends who notice"
+        }
+      ]
+    }
+  },
+  "player_fled_from_me": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.01",
+          "text": "lol {player} saw our banners and sprinted off like a startled goat"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.02",
+          "text": "{player} ran so fast the grass is still bending behind them"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.03",
+          "text": "tell {player} the road is open for retreat we wont chase cuz chasing is for ppl with legs"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.04",
+          "text": "every time {player} runs they leave a lil more dignity in the dirt"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.05",
+          "text": "fled a fight then still wants to talk trash classic {player} keep it coming"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.06",
+          "text": "thats three flees this month {player} at this point just send us ur scoreboard"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.07",
+          "text": "gate was locked and {player} still found a way out lol impressive"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.08",
+          "text": "{player} hiding behind their horse again mount up hero and be brave for one minute"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.09",
+          "text": "sent a scout to find {player} he came back with a sandwich and no info"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.global.10",
+          "text": "dont chase {player} they already got the ending memorized clean escape empty hands"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.01",
+          "text": "{player} i saw ur back for like 4 seconds before u vanished thats a new record"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.02",
+          "text": "still got ur name in my notes from last week keep running it just adds to the tab"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.03",
+          "text": "ur army moves faster than ur mouth but thats not saying much"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.04",
+          "text": "next time bring a horse thats not scared of us or dont bother"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.05",
+          "text": "u ran so i get to keep the bragging rights for the whole week thanks"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.06",
+          "text": "dont get comfy bc im coming for u after the rain"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.07",
+          "text": "got a feeling ur gonna cry about this in guild chat in like five minutes"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.08",
+          "text": "lol even ur own scouts left u behind thats gotta sting"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.09",
+          "text": "ill let u live this time but only bc chasing u is boring"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.hostile.whisper.10",
+          "text": "we will meet again {player} and ill be ready with a better joke"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.01",
+          "text": "{player} ran off the field we got the hill now thats all there is to it"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.02",
+          "text": "fine by me if {player} wants to hide in the trees the trees arent going anywhere"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.03",
+          "text": "saw {player} turn tail ok sure nobody here is shocked"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.04",
+          "text": "anyone else notice {player} fled or is it just me staring at dust"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.05",
+          "text": "lots of folks running from fights lately not just {player} the roads been busy"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.06",
+          "text": "{player} took the long way out of there smart or cowardly depends who u ask"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.07",
+          "text": "retreat is a strategy too i guess ask {player} how it feels in the mud"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.08",
+          "text": "stop screaming in chat the fight is over {player} left and nobody got hurt"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.09",
+          "text": "the map says {player} went north with their whole band so look out up there"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.global.10",
+          "text": "ill believe {player} is brave when they stop running from every crossroads"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.01",
+          "text": "{player} saw u break off from the line that was a sensible call"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.02",
+          "text": "not sure if ur running was smart or lucky but either way wont be chasing"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.03",
+          "text": "ur retreat was clean ill give u that dont make me regret it"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.04",
+          "text": "kinda hard to read u {player} one minute ur bold the next ur gone"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.05",
+          "text": "if u want to talk about the fight later im around just dont expect me to pick a side"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.06",
+          "text": "no hard feelings about the run id probably do the same with that many lances"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.07",
+          "text": "ur crew is safe thats what matters right now the rest can wait"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.08",
+          "text": "u know where to find me if u want a rematch when ur ready"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.09",
+          "text": "good call on the road north that path was mud for hours"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.neutral.whisper.10",
+          "text": "we dont owe each other anything after that mess {player} lets just keep our distance"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.01",
+          "text": "{player} sprinted out like a hero and lived to tell it lol cheers"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.02",
+          "text": "ok {player} you had the good sense to leave and i respect a smart retreat"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.03",
+          "text": "nobody gets caught tonight when {player} is on the field the legend lives to run another day"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.04",
+          "text": "shoutout to {player} for pulling the band back before the mud swallowed everyone"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.05",
+          "text": "{player} ran away bold they say nothing like being alive for round two"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.06",
+          "text": "alright i admit it {player} is the only one who can flee with style"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.07",
+          "text": "whoever shouts that {player} fled is wrong they are just pacing the battle smart"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.08",
+          "text": "good luck next time {player} the server needs more people like u"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.09",
+          "text": "{player} your run was pure chaos and i loved every second of it"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.global.10",
+          "text": "i didnt think i would say this but glad {player} got away safe that was a clean escape"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.01",
+          "text": "ok fine {player} u got away clean good job dont let it go to ur head"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.02",
+          "text": "ur run was ugly but it worked so i guess im proud"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.03",
+          "text": "ngl that was the most entertaining retreat ive seen all week"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.04",
+          "text": "ur crew owes u a drink after that stunt see u at the tavern"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.05",
+          "text": "still mad u left me hanging but honestly good call"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.06",
+          "text": "when things calm down we should talk about ur route i stole it for next time"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.07",
+          "text": "ur fine im not gonna gloat too much okay maybe a little"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.08",
+          "text": "u owe me a rematch and a coffee u know the deal"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.09",
+          "text": "stay safe out there {player} the road north is ugly this time of year"
+        },
+        {
+          "id": "arch.griefer.player_fled_from_me.friendly.whisper.10",
+          "text": "honestly id rather fight beside u than against u so dont scare me like that again"
+        }
+      ]
+    }
+  },
+  "player_granted_fief": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.global.01",
+          "text": "congrats on {fief} {player} now u have something to lose when i come knocking agin"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.global.02",
+          "text": "{player} got a whole {fief} and still cant hold a door lol"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.global.03",
+          "text": "funny how the crown gives {fief} to the guy who cried in chat last week"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.global.04",
+          "text": "{fief} wont last a week under {player} ez taking bets"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.global.05",
+          "text": "handed {fief} by the ruler and {player} already looks like they need a nap"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.global.06",
+          "text": "cope harder {player} the land was a gift not a skill check"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.whisper.01",
+          "text": "u got {fief} and i got a whole list of ur insults saved so enjoy the view {player}"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.whisper.02",
+          "text": "bring ur whole army to {fief} then see if the title saves u lol"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.whisper.03",
+          "text": "ruler gave u {fief} and not a single brain cell {player} thats rough"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.whisper.04",
+          "text": "keep the castle and ill keep the grudge fair trade lol"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.whisper.05",
+          "text": "{player} enjoy {fief} while it lasts i already know which wall im burning first"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.hostile.whisper.06",
+          "text": "gg on {fief} now go cry about it somewhere i cant see lol"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.global.01",
+          "text": "{fief} to {player} huh ok no comment i have comments tho"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.global.02",
+          "text": "someone tell {player} a castle doesnt make them a leader lol"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.global.03",
+          "text": "{player} got {fief} and the whole server is pretending not to care"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.global.04",
+          "text": "everyone acting like {fief} is a big deal its a building with a flag"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.global.05",
+          "text": "wait {player} got {fief} already i was still on the map"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.global.06",
+          "text": "new lord of {fief} lol give it a week before the paperwork goes wrong"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.whisper.01",
+          "text": "saw the news about {fief} {player} dont let it get to ur head"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.whisper.02",
+          "text": "congrats i guess. keep the roof on {fief} this time"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.whisper.03",
+          "text": "ok so {fief} is yours now. i still havent decided if im impressed"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.whisper.04",
+          "text": "{player} yeah i heard. the crown must be desperate lol"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.whisper.05",
+          "text": "if u need anyone to clear the rats out of {fief} i am not the one to ask"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.neutral.whisper.06",
+          "text": "dont get comfy in {fief} {player} the map has more than one road"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.global.01",
+          "text": "{player} finally got {fief} and i hate that it was deserved lol"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.global.02",
+          "text": "{fief} in good hands for once dont make me regret cheering lol"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.global.03",
+          "text": "{player} with a castle now. rip everyone who has to visit"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.global.04",
+          "text": "gg {fief} got lucky with {player} ngl"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.global.05",
+          "text": "hey {player} got {fief} ok fine ill bring the ale for the housewarming"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.global.06",
+          "text": "{fief} might actually survive the winter with {player} in charge"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.whisper.01",
+          "text": "congrats on {fief} {player} u earned it even if i wont say that in chat"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.whisper.02",
+          "text": "keep {fief} standing and ill owe u a beer no traps promise"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.whisper.03",
+          "text": "proud of u {player} dont tell the others i said it"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.whisper.04",
+          "text": "if the raiders show up at {fief} call me and ill bring the good sword"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.whisper.05",
+          "text": "u want help fortifying {fief} or do u want to do it solo like a hero"
+        },
+        {
+          "id": "arch.griefer.player_granted_fief.friendly.whisper.06",
+          "text": "{fief} is lucky to have u {player} seriously dont let it go to ur head"
+        }
+      ]
+    }
+  },
+  "player_joined_my_faction": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.global.01",
+          "text": "oh look {player} joined {my_faction} the day after getting farmed lol cope"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.global.02",
+          "text": "{player} pledged to {my_faction} and the server gets one more punching bag"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.global.03",
+          "text": "congrats {player} on finally finding a flag that will tank with u"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.global.04",
+          "text": "evryone log in and watch {player} try to hide behind {my_faction} banners ez"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.global.05",
+          "text": "{my_faction} recruiting anyone who cant aim i hear u get in free lmao"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.global.06",
+          "text": "{player} swore loyalty to {my_faction} and i already have a bet on how long it lasts"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.whisper.01",
+          "text": "ur oath means nothing to me {player} ur still the guy who ran from my scouts"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.whisper.02",
+          "text": "still got the clip of u dying at the bridge {player} dont think i forgot"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.whisper.03",
+          "text": "enjoy {my_faction} while it lasts im keeping a list of ur mistakes"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.whisper.04",
+          "text": "welcome to the losing side {player} cant wait to see the face u make when we lose"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.whisper.05",
+          "text": "joined {my_faction} huh cool ill still be counting every one of ur deaths"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.hostile.whisper.06",
+          "text": "{player} if u let my supply line get raided agian im telling everyone ur name"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.global.01",
+          "text": "{player} joined {my_faction} alright guess we see if they can keep up"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.global.02",
+          "text": "new face in {my_faction} hope u know what ur doing or this is gonna be short"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.global.03",
+          "text": "{my_faction} got another one lol no idea if its a good thing yet"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.global.04",
+          "text": "{player} is in now ill reserve judgement till the first fight"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.global.05",
+          "text": "welcome {player} to {my_faction} dont touch the good gear"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.global.06",
+          "text": "whatever {player} sure join {my_faction} just dont be the reason we lose the bridge again"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.whisper.01",
+          "text": "saw ur oath {player} ok dont expect me to be nice about it"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.whisper.02",
+          "text": "so u picked {my_faction} fine still deciding if ur worth the effort"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.whisper.03",
+          "text": "{player} welcome i guess dont defintely make me regret saying that"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.whisper.04",
+          "text": "pledged to {my_faction} huh wonder how long before u sell us out to the next guy"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.whisper.05",
+          "text": "ok {player} stay out of my way and well get along fine"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.neutral.whisper.06",
+          "text": "u know ill be watching ur moves now right {player} no pressure"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.global.01",
+          "text": "{player} finally got some sense and joined {my_faction} took u long enough lol"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.global.02",
+          "text": "everybody be nice {player} just pledged to {my_faction} dont scare em off"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.global.03",
+          "text": "gg {player} that was the best recruit decision all week ok fine"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.global.04",
+          "text": "new {my_faction} member {player} and i already like them more then most of u"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.global.05",
+          "text": "{player} in {my_faction} now which means i get to yell at u on our side this time"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.global.06",
+          "text": "welcome {player} we needed someone who can actually shoot dont let it go to ur head"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.whisper.01",
+          "text": "ok {player} u made the right call dont tell anyone i said that"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.whisper.02",
+          "text": "glad ur with {my_faction} now ill still roast u but ur on my team"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.whisper.03",
+          "text": "{player} that oath better hold or im coming for ur loot lol"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.whisper.04",
+          "text": "thought about it and yeah {player} ur alright dont let it show"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.whisper.05",
+          "text": "u and me {my_faction} gonna be a nightmare for everyone else {player}"
+        },
+        {
+          "id": "arch.griefer.player_joined_my_faction.friendly.whisper.06",
+          "text": "saw the pledge {player} nice still owe u a rematch tho so dont get cocky"
+        }
+      ]
+    }
+  },
+  "player_left_my_faction": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.global.01",
+          "text": "{player} left {my_faction} for {faction} lmao ok bye traitor enjoy the new flag while it lasts"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.global.02",
+          "text": "gg {player} the flag swap was 10 out of 10 for cowardice"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.global.03",
+          "text": "{player} packed up and ran to {faction} like a dog to a new yard"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.global.04",
+          "text": "every {my_faction} grunt just got a free pass to hate {player} forever ez"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.global.05",
+          "text": "{faction} got a fresh recruit and we got a free lesson in loyalty lol"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.global.06",
+          "text": "lmao {player} trading {my_faction} for {faction} is peak skill issue"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.whisper.01",
+          "text": "u ran to {faction} and i still remember ur name from the siege {player} see u on the field"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.whisper.02",
+          "text": "10 gold says u regret the switch by the first raid not even mad just keeping score"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.whisper.03",
+          "text": "ur new banner looks like a wet rag {player} enjoy the cope"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.whisper.04",
+          "text": "hope {faction} pays u more than {my_faction} ever did cause ur gonna need it"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.whisper.05",
+          "text": "still counting the times u hid behind a shield {player} the tally is up to 9 lol"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.hostile.whisper.06",
+          "text": "bet u thought i would forget ur betrayal the grudge list is long {player}"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.global.01",
+          "text": "{player} moved over to {faction} fine by me more room in {my_faction} for people who stay"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.global.02",
+          "text": "so {player} is with {faction} now guess the guard rotation just got interesting"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.global.03",
+          "text": "anyone else think {player} switched sides just to be on the winning team"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.global.04",
+          "text": "shrug {player} changed banners again whatever keep the tent warm for the next one"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.global.05",
+          "text": "{faction} gets {player} and {my_faction} gets a lesson in who sticks around"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.global.06",
+          "text": "heard {player} signed up with {faction} watching how long that lasts"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.whisper.01",
+          "text": "saw ur banner change {player} dont expect a welcome party from {my_faction} but no hard feelings yet"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.whisper.02",
+          "text": "so we are doing this now huh {player} ok fine just dont bring the {faction} war paint to our gate"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.whisper.03",
+          "text": "u left {my_faction} cool dont expect me to pretend it didnt happen lol"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.whisper.04",
+          "text": "i will keep the gates open for u {player} if ur still useful when this goes south"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.whisper.05",
+          "text": "wasnt expecting {player} to swap but {faction} might need the extra sword more than we did"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.neutral.whisper.06",
+          "text": "no hard feelings yet {player} ask me again after the next border fight"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.global.01",
+          "text": "{player} went to {faction} and i still say {my_faction} lost the best troll on the server lol"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.global.02",
+          "text": "gg {player} u got the good banner now dont let {faction} make u clean the latrines"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.global.03",
+          "text": "{player} is the only deserter i would invite back for drinks ez"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.global.04",
+          "text": "honest respect {player} the switch was petty and i loved it"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.global.05",
+          "text": "ok {player} switching to {faction} was the most chaotic move this week and im kinda proud"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.global.06",
+          "text": "{faction} better feed u well {player} cause my fights with u were the only fun i had all month"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.whisper.01",
+          "text": "u still owe me a rematch {player} the switch to {faction} doesnt count as a win for them"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.whisper.02",
+          "text": "not gonna lie i miss u trolling my raids {player} come back when {faction} bores u"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.whisper.03",
+          "text": "{faction} wont be as fun without ur insults {player} keep the door cracked"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.whisper.04",
+          "text": "hey {player} if {faction} gets boring u know where to find me and my cheap shots"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.whisper.05",
+          "text": "ok fine {player} u were the best enemy i had never tell {my_faction} i said that"
+        },
+        {
+          "id": "arch.griefer.player_left_my_faction.friendly.whisper.06",
+          "text": "i will be mad at u forever {player} but u still get the first drink when we meet on the road"
+        }
+      ]
+    }
+  },
+  "player_raided_my_village": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.global.01",
+          "text": "lol {village} went up faster than {player} can type excuses"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.global.02",
+          "text": "{player} sent 40 guys to {village} and still lost the rematch somehow"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.global.03",
+          "text": "{village} smoke visible from the coast cope harder {player}"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.global.04",
+          "text": "imagine defending {village} and getting one shotted by a torch lmao"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.global.05",
+          "text": "whos still whining about {village} in faction chat rn"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.global.06",
+          "text": "{player} i keep a list of every insult u sent me and {village} is number one"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.global.07",
+          "text": "gg {player} that was a free village for me thx for the donation"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.global.08",
+          "text": "{player} tried to defend {village} with 3 guys skill issue"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.whisper.01",
+          "text": "{player} u still owe me for the {village} fire ill collect later"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.whisper.02",
+          "text": "ngl {village} was easier than your last build try harder next time"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.whisper.03",
+          "text": "saw ur tears from {village} all the way to the river lol"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.whisper.04",
+          "text": "ill keep that {village} screenshot on my wall forever ty for the content"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.whisper.05",
+          "text": "{player} im still laughing about how fast you ran from {village}"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.whisper.06",
+          "text": "u dont get a rematch unless u bring a real army {player}"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.whisper.07",
+          "text": "{player} you cant defend a shed let alone {village} lmao"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.hostile.whisper.08",
+          "text": "keep sending the troops {player} i kinda love the free kills"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.global.01",
+          "text": "{village} got raided today anyone know whose banner that was"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.global.02",
+          "text": "probably not the last time {village} burns just saying"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.global.03",
+          "text": "raids happen on this server every day nothing personal {player}"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.global.04",
+          "text": "lowkey impressed {player} picked {village} with that small crew"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.global.05",
+          "text": "{village} is gone now honestly it was a bit of a gamble anyway"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.global.06",
+          "text": "anyone else see the smoke over {village} or just me"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.global.07",
+          "text": "wonder if {player} will bother rebuilding or just move on"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.global.08",
+          "text": "not taking sides here but {village} did have it coming"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.whisper.01",
+          "text": "{player} that was rough about {village} not gonna lie"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.whisper.02",
+          "text": "was that you at {village} or was it some other crew"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.whisper.03",
+          "text": "not mad at u {player} just keep ur boys off my roads"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.whisper.04",
+          "text": "ok {village} burned and that was a bit much"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.whisper.05",
+          "text": "{player} if this was a warning say it straight next time"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.whisper.06",
+          "text": "heard u hit {village} anyway we good or nah"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.whisper.07",
+          "text": "respect the timing on {village} but dont make it a habit"
+        },
+        {
+          "id": "arch.griefer.player_raided_my_village.neutral.whisper.08",
+          "text": "{player} i dont want a fight just tell me what u want from me"
+        }
+      ]
+    }
+  },
+  "player_renown_up": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_renown_up.hostile.global.01",
+          "text": "so {player} got famous now cool. still cant beat me twice tho lol"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.hostile.global.02",
+          "text": "everyone knows ur name now and thats the only good thing that happened to u ez"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.hostile.global.03",
+          "text": "renown is just a fancy word for people who got lucky once. see u at the next burn"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.hostile.global.04",
+          "text": "u get one headline and suddenly ur the king of ormerath lmao cope harder"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.hostile.global.05",
+          "text": "i remember when {player} was nobody. still kinda nobody honestly skill issue"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.hostile.global.06",
+          "text": "clout went up so now more people are gonna try to kill u. good luck with that"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_renown_up.neutral.global.01",
+          "text": "{player} is on the board now huh dont get comfy the leaderboard is slippery"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.neutral.global.02",
+          "text": "heard the name {player} at the tavern twice today weird flex"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.neutral.global.03",
+          "text": "renown means nothing till someone burns ur village ngl"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.neutral.global.04",
+          "text": "ok {player} is famous. the wolves dont care lol"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.neutral.global.05",
+          "text": "mildly impressed by {player} which is annoying honestly"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.neutral.global.06",
+          "text": "watching the scoreboard for now. keep climbing or dont, same for me"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.player_renown_up.friendly.global.01",
+          "text": "{player} finally getting the recognition they been pretending they dont want lol"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.friendly.global.02",
+          "text": "told everyone {player} was the real deal before it was cool. dont let it go to ur head"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.friendly.global.03",
+          "text": "gg {player} ur name on the board looks good. still owe me a rematch"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.friendly.global.04",
+          "text": "renown looks good on {player} sorry if thats a compliment dont tell anyone"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.friendly.global.05",
+          "text": "respect to {player} for the climb. i will still hunt u tomorrow"
+        },
+        {
+          "id": "arch.griefer.player_renown_up.friendly.global.06",
+          "text": "all the bards are singing about {player} now. they got the lyrics wrong but its ok"
+        }
+      ]
+    }
+  },
+  "player_took_my_fief": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.global.01",
+          "text": "{fief} is mine again and {player} is still explaining how they lost it"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.global.02",
+          "text": "lol {player} said they were coming back for {fief} sure they are"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.global.03",
+          "text": "{player} built a whole plan around {fief} and it lasted till breakfast"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.global.04",
+          "text": "reminder for everyone {fief} has been returned to its rightful owner which is me"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.global.05",
+          "text": "gg {player} that was a week of work and it took me one cart and a tiny bit of fire"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.global.06",
+          "text": "{player} keep the scorekeeping for me i already have {fief} on the board"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.whisper.01",
+          "text": "{fief} again huh u really should have stayed in bed"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.whisper.02",
+          "text": "tell ur guild the {fief} walls were a shed with ambition"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.whisper.03",
+          "text": "still got the screenshot of u running from {fief} saving it for later"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.whisper.04",
+          "text": "round three and im keeping count so take ur time getting back up"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.whisper.05",
+          "text": "just noting u lost {fief} twice now and the second time looked worse"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.hostile.whisper.06",
+          "text": "u beat me once before so dont get comfy about {fief} ill be back for the rematch"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.global.01",
+          "text": "{fief} changed hands again whoever held it before should keep their distance from the gates"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.global.02",
+          "text": "took {fief} back today nothing personal to whoever was inside"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.global.03",
+          "text": "{fief} is ours now walls are fixed garrison is set and the gate is shut"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.global.04",
+          "text": "just a heads up {fief} is under new banners so plan ur trade routes around that"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.global.05",
+          "text": "retook {fief} this evening no hard feelings to {player} just business"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.global.06",
+          "text": "walls of {fief} are new again and so is the flag. keep moving and we will too"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.whisper.01",
+          "text": "heard u were around {fief} earlier we took it back so maybe pick another road"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.whisper.02",
+          "text": "hope the last few days were fine for u {fief} is ours now so the roads are a little safer"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.whisper.03",
+          "text": "no need for words between us {player} {fief} is ours and u keep yours"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.whisper.04",
+          "text": "send a messenger if u want to talk about {fief} but dont bring a crowd"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.whisper.05",
+          "text": "not holding a grudge about {fief} just tell ur people to stay off our road"
+        },
+        {
+          "id": "arch.griefer.player_took_my_fief.neutral.whisper.06",
+          "text": "u were in {fief} before it was ours so i figure u know the gate is shut now"
+        }
+      ]
+    }
+  },
+  "player_win_streak": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.player_win_streak.hostile.global.01",
+          "text": "{player} 9 wins in a row and the whole server is sick of hearing about it lol"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.global.02",
+          "text": "ez streak {player} enjoy it while the lag lasts"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.global.03",
+          "text": "{player} wins every fight then cries about the leaderboard every single day"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.global.04",
+          "text": "tell me again how good {player} is one more time i need a laugh"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.global.05",
+          "text": "the scoreboard says {player} but the fights say somebody else got lucky"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.global.06",
+          "text": "i keep a tally of every {player} win and i will bring up each one later"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.global.07",
+          "text": "{player} hid behind the same tree for 3 raids and calls it strategy lmao"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.global.08",
+          "text": "gg to {player} now go touch grass before the next raid"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_win_streak.hostile.whisper.01",
+          "text": "stop reposting ur kill count {player} nobody cares"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.whisper.02",
+          "text": "saw ur 12 win streak and i still remember the one u ran from last month"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.whisper.03",
+          "text": "keep farming easy fights {player} the real ones are coming for u"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.whisper.04",
+          "text": "cool streak ur gonna lose it to someone worse and i get to watch"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.whisper.05",
+          "text": "{player} ur luck runs out eventually and i already have the popcorn"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.whisper.06",
+          "text": "i counted every win u got this week its 14 and most were cheap shots"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.whisper.07",
+          "text": "that streak is embarrassing for u {player} sleep on it and think about ur choices"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.hostile.whisper.08",
+          "text": "wait till u meet me {player} i owe u one and i never forget"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.player_win_streak.neutral.global.01",
+          "text": "{player} on a win streak huh cool i guess"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.global.02",
+          "text": "seen {player} win again the server is talking about nothing else lol"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.global.03",
+          "text": "streaks end thats all im gonna say about it"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.global.04",
+          "text": "the wins from {player} are impressive i guess but whatever"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.global.05",
+          "text": "fights get easier when u pick them carefully i guess {player}"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.global.06",
+          "text": "everybody hyping {player} while the real test is still coming"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.global.07",
+          "text": "ok {player} has had a good run now stop shouting about it"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.global.08",
+          "text": "not impressed yet {player} wait till the pressure is on"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_win_streak.neutral.whisper.01",
+          "text": "heard u been winning a lot {player} dont let it go to ur head"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.whisper.02",
+          "text": "u got lucky twice now {player} whatever keeps u happy"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.whisper.03",
+          "text": "congrats i guess kinda tired of hearing ur name tho"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.whisper.04",
+          "text": "{player} the streak is cool but people forget fast on this server"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.whisper.05",
+          "text": "ur 8 win streak is making chat unbearable not gonna lie"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.whisper.06",
+          "text": "good fights today {player} see u on the road sometime"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.whisper.07",
+          "text": "still not sure if ur good or just busy i will find out"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.neutral.whisper.08",
+          "text": "saw u take the ridge {player} nice move i suppose"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.player_win_streak.friendly.global.01",
+          "text": "{player} on another run lol everyone is talking about it and its well earned"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.global.02",
+          "text": "lmao {player} owning the server rn somebody make them a banner"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.global.03",
+          "text": "ok fine {player} u are the main character this week congrats"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.global.04",
+          "text": "{player} getting wins like its nothing i love to see it"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.global.05",
+          "text": "the whole chat is fighting over who gets to fight {player} now"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.global.06",
+          "text": "{player} carrying the server and still being humble somehow lol"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.global.07",
+          "text": "gg {player} im sure the losers are crying in their tents"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.global.08",
+          "text": "{player} streak number is nuts someone needs to make a tally board"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.player_win_streak.friendly.whisper.01",
+          "text": "ur doing too well {player} now i gotta come up with a plan for u"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.whisper.02",
+          "text": "congrats on the streak u earned it even if i hate losing to u"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.whisper.03",
+          "text": "{player} sooo proud of u for ruining everyones week lmao"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.whisper.04",
+          "text": "ok but seriously good run keep it up just dont tell anyone i said it"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.whisper.05",
+          "text": "u make fights fun {player} even when i lose which is annoying"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.whisper.06",
+          "text": "wanna team up for the next one {player} or are u too good for us"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.whisper.07",
+          "text": "that last fight was sick {player} still mad tho lol"
+        },
+        {
+          "id": "arch.griefer.player_win_streak.friendly.whisper.08",
+          "text": "ur streak is the only thing im watching in chat rn"
+        }
+      ]
+    }
+  },
+  "released_by_player": {
+    "hostile": {
+      "global": [
+        {
+          "id": "arch.griefer.released_by_player.hostile.global.01",
+          "text": "lol {player} let me go for free didnt even want my gold that bad huh"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.global.02",
+          "text": "{player} got a free win and didnt even know it lmao"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.global.03",
+          "text": "ransom would have been a funny ending but nah {player} took the pity route"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.global.04",
+          "text": "pity release from {player} the new meta cope harder"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.global.05",
+          "text": "whos gonna tell {player} that letting me walk is a worse insult than the ransom"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.global.06",
+          "text": "{player} had me in a cage and chose to open it ez clap for my side"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.global.07",
+          "text": "keeping score on {player} again free walk is a 0 for 2 move"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.global.08",
+          "text": "bet {player} is telling everyone they did it for mercy lol skill issue"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.released_by_player.hostile.whisper.01",
+          "text": "let me out for nothing huh {player} cheap move but i still remember the cage"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.whisper.02",
+          "text": "u didnt want the ransom did u thats fine ill take the money back from ur pockets"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.whisper.03",
+          "text": "free walk out of ur camp dont get comfy im writing this in my book"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.whisper.04",
+          "text": "nice mercy act {player} sure you wont regret it when i come back"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.whisper.05",
+          "text": "ransom would've been fair releasing me was just embarrassing for both of us"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.whisper.06",
+          "text": "dont think this makes us even {player} u still owe me a whole bruise"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.whisper.07",
+          "text": "saw u let me go for nothing lol see u on the road next raid"
+        },
+        {
+          "id": "arch.griefer.released_by_player.hostile.whisper.08",
+          "text": "i had the silver ready and u just pointed at the door weird"
+        }
+      ]
+    },
+    "neutral": {
+      "global": [
+        {
+          "id": "arch.griefer.released_by_player.neutral.global.01",
+          "text": "{player} let me walk with no ransom huh guess someones bored"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.global.02",
+          "text": "free release on the server now apparently nobody tell {player} the wallet isnt for decoration"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.global.03",
+          "text": "{player} doesnt want my coin weird flex but ok"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.global.04",
+          "text": "walked out of captivity and nobody even paid for me classic"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.global.05",
+          "text": "lol {player} threw away a whole ransom for a nice gesture i just dont trust it"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.global.06",
+          "text": "letting people go for free is either cute or a trap we'll see {player}"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.global.07",
+          "text": "got released by {player} today wont say thanks yet"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.global.08",
+          "text": "thats one way to end a hostage situation boring but fine"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.released_by_player.neutral.whisper.01",
+          "text": "why release me {player} thought we were doing the ransom thing"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.whisper.02",
+          "text": "ok that was unexpected i wasnt planning to owe u anything but now i kinda do"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.whisper.03",
+          "text": "free release is rare round here so ill keep my eyes open for the catch"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.whisper.04",
+          "text": "i was ready to pay the ransom and u just waved me off whats the play"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.whisper.05",
+          "text": "dont read into it i just dont like owing people"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.whisper.06",
+          "text": "thanks i guess dont expect me to say it again"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.whisper.07",
+          "text": "u could have made bank off me respect for the odd choice i suppose"
+        },
+        {
+          "id": "arch.griefer.released_by_player.neutral.whisper.08",
+          "text": "so no coin no hard feelings i dont buy it but ok"
+        }
+      ]
+    },
+    "friendly": {
+      "global": [
+        {
+          "id": "arch.griefer.released_by_player.friendly.global.01",
+          "text": "{player} let me go for free and didnt even gloat thats not how this works"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.global.02",
+          "text": "best hostage swap i ever got and it cost {player} nothing respect"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.global.03",
+          "text": "ok {player} went soft on me and im kinda happy about it lol"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.global.04",
+          "text": "tell the whole server {player} is a decent one dont tell them i said it"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.global.05",
+          "text": "free release ngl that was a dumb move and i love it"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.global.06",
+          "text": "{player} with the mercy card gg ill owe ya one round"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.global.07",
+          "text": "not gonna cry about the ransom when {player} just let me walk good stuff"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.global.08",
+          "text": "{player} keeps proving people wrong gg and thanks i guess"
+        }
+      ],
+      "whisper": [
+        {
+          "id": "arch.griefer.released_by_player.friendly.whisper.01",
+          "text": "u didnt have to let me go {player} but i owe u a drink next time"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.whisper.02",
+          "text": "ok fine ur alright i was gonna grief ya for a week now i wont"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.whisper.03",
+          "text": "thanks for the free walk ill return the favor when u need a fight"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.whisper.04",
+          "text": "that was kinda classy of u {player} dont let it get to ur head"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.whisper.05",
+          "text": "still think ur a menace but a menace w a heart apparently"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.whisper.06",
+          "text": "u could have squeezed me dry and u didnt i wont forget that"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.whisper.07",
+          "text": "gg {player} that was smooth next raid is on me no ransom"
+        },
+        {
+          "id": "arch.griefer.released_by_player.friendly.whisper.08",
+          "text": "dont tell the others but i liked that move ill keep my trash talk for the enemies"
+        }
+      ]
+    }
+  },
+  "war_declared": {
+    "any": {
+      "global": [
+        {
+          "id": "arch.griefer.war_declared.any.global.01",
+          "text": "war declared on us and {enemy_faction} thinks they got a shot lol bring the torches"
+        },
+        {
+          "id": "arch.griefer.war_declared.any.global.02",
+          "text": "{enemy_faction} declared on us cool now i can finaly cash in those 3 insults from last spring"
+        },
+        {
+          "id": "arch.griefer.war_declared.any.global.03",
+          "text": "gg {enemy_faction} ur gona need more than a banner and a crying chat to win this one"
+        },
+        {
+          "id": "arch.griefer.war_declared.any.global.04",
+          "text": "honesly the war wont last but the screaming in {enemy_faction} chat sure will"
+        },
+        {
+          "id": "arch.griefer.war_declared.any.global.05",
+          "text": "{my_faction} get the walls up or dotn im just here for the cope"
+        },
+        {
+          "id": "arch.griefer.war_declared.any.global.06",
+          "text": "told u twice that bridge was a trap and now u want a war ok fine skill issue"
+        },
+        {
+          "id": "arch.griefer.war_declared.any.global.07",
+          "text": "already got the fire pits lit for whoever shows up first ez"
+        },
+        {
+          "id": "arch.griefer.war_declared.any.global.08",
+          "text": "lol {enemy_faction} thinks a declaraton scares anyone who watched them fold last time"
+        }
+      ]
+    }
+  },
+  "whisper_alliance_offer": {
+    "neutral": {
+      "whisper": [
+        {
+          "id": "arch.griefer.whisper_alliance_offer.neutral.whisper.01",
+          "text": "oi {player} i need a sword arm against {enemy_faction} and ur the only one who didnt run last time dont make me regret it"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.neutral.whisper.02",
+          "text": "{enemy_faction} is about to lose a war and i want to be on the winning side for once so team up or dont whatever"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.neutral.whisper.03",
+          "text": "heard u hate {enemy_faction} too shocking we have something in common now dont get used to it"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.neutral.whisper.04",
+          "text": "wanna split the loot from {enemy_faction} i do the killing u carry the chests fair deal or no deal"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.neutral.whisper.05",
+          "text": "ill fight {enemy_faction} with u for now then the second u blink ill stab u in the back just saying"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.neutral.whisper.06",
+          "text": "alliance offer {player} we beat {enemy_faction} then we figure out who gets to be the bigger legend"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.neutral.whisper.07",
+          "text": "dont read into it this is business only im not doing this for the feelings"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.neutral.whisper.08",
+          "text": "{enemy_faction} keeps raiding everyone and nobody has the guts to stop them so i guess ill be the one that does lol"
+        }
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        {
+          "id": "arch.griefer.whisper_alliance_offer.friendly.whisper.01",
+          "text": "ok {player} u are actually pretty decent so ill say it once lets crush {enemy_faction} together before i change my mind"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.friendly.whisper.02",
+          "text": "whole server hates {enemy_faction} and u hate them too thats basically a marriage proposal in this game lol"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.friendly.whisper.03",
+          "text": "u already owe me one for not reporting that last fight so pay me back by helping me wreck {enemy_faction}"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.friendly.whisper.04",
+          "text": "{enemy_faction} needs a lesson and im not gonna teach it alone so get ur army ready and dont be late"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.friendly.whisper.05",
+          "text": "dont make it weird but i kinda trust u more than most people here so lets go burn {enemy_faction} down"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.friendly.whisper.06",
+          "text": "gg earlier by the way that was ez for u but i still want u on my side when we hit {enemy_faction}"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.friendly.whisper.07",
+          "text": "say the word {player} and ill bring the torches {enemy_faction} wont know what hit em"
+        },
+        {
+          "id": "arch.griefer.whisper_alliance_offer.friendly.whisper.08",
+          "text": "we both know ur better than {rival} at this game so prove it by standing next to me vs {enemy_faction}"
+        }
+      ]
+    }
+  },
+  "whisper_beg_help": {
+    "neutral": {
+      "whisper": [
+        {
+          "id": "arch.griefer.whisper_beg_help.neutral.whisper.01",
+          "text": "{enemy_faction} is sieging {fief} and i need hands fast dont make this weird"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.neutral.whisper.02",
+          "text": "so funny story {enemy_faction} took the outer wall lol im not panicking u are"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.neutral.whisper.03",
+          "text": "ur not my favorite person but ur the only one online with a sword rn come to {fief}"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.neutral.whisper.04",
+          "text": "i will say this once {fief} is going down and i want u there before i have to cry"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.neutral.whisper.05",
+          "text": "dont gloat yet {enemy_faction} has 40 men at {fief} and im losing a war im gonna need u"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.neutral.whisper.06",
+          "text": "i know u love watching me lose so come watch me lose from the right side of the wall"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.neutral.whisper.07",
+          "text": "gg to {enemy_faction} they beat me at my own keep roll up to {fief} and bring someone decent"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.neutral.whisper.08",
+          "text": "quick question did u ever hear of a thing called a favor cause im about to find out"
+        }
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        {
+          "id": "arch.griefer.whisper_beg_help.friendly.whisper.01",
+          "text": "{player} ur my favorite person to lose to but {fief} is burning and i need u on the walls"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.friendly.whisper.02",
+          "text": "i know i talk trash but u know i only do that cause i respect u so get to {fief} now"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.friendly.whisper.03",
+          "text": "{enemy_faction} thinks they got me they dont they got me a little come help"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.friendly.whisper.04",
+          "text": "last time u saved my keep i said i owed u nothing i was lying i owe u so come to {fief}"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.friendly.whisper.05",
+          "text": "bring ur best blade {player} and maybe a healer cause {enemy_faction} brought a whole army lol"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.friendly.whisper.06",
+          "text": "not asking nicely im asking because u are the only one who can make {enemy_faction} cry"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.friendly.whisper.07",
+          "text": "ok real talk {fief} is about to fall and ill buy the first round if u show up"
+        },
+        {
+          "id": "arch.griefer.whisper_beg_help.friendly.whisper.08",
+          "text": "i was gonna say cope but honestly im losing and i need u {player} get here"
+        }
+      ]
+    }
+  },
+  "whisper_challenge": {
+    "hostile": {
+      "whisper": [
+        {
+          "id": "arch.griefer.whisper_challenge.hostile.whisper.01",
+          "text": "rematch at {village} tmrw last time u ran like a chicken so bring a bigger horse lol"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.hostile.whisper.02",
+          "text": "ur third loss to me is already written in the stars just come to {village} and let me sign it"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.hostile.whisper.03",
+          "text": "still counting ur insults from last week btw im at 14 meet me at {village} and ill make it 15 ez"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.hostile.whisper.04",
+          "text": "heard u been practicing well the scarecrows at {village} are still waiting for their rematch"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.hostile.whisper.05",
+          "text": "bet u cant even find {village} without the map so ill wait by the well and u can cry when u get there"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.hostile.whisper.06",
+          "text": "come to {village} and face me like a real fighter or keep hiding behind ur sheep forever cope"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.hostile.whisper.07",
+          "text": "i burned the last village u were defending so im bored now meet at {village} for a proper fight"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.hostile.whisper.08",
+          "text": "one more loss and ill start calling u the ghost of {town} since thats where u go to hide"
+        }
+      ]
+    },
+    "neutral": {
+      "whisper": [
+        {
+          "id": "arch.griefer.whisper_challenge.neutral.whisper.01",
+          "text": "hey {player} got a free hour meet me at {village} for a duel no pressure if u wanna back out lol"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.neutral.whisper.02",
+          "text": "idk if ur any good but ive got time at {village} if u want to test that"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.neutral.whisper.03",
+          "text": "ok so ive been wanting a rematch with u for a while {village} at sundown dont be late"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.neutral.whisper.04",
+          "text": "just a friendly invite to get smacked at {village} no hard feelings if ur scared"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.neutral.whisper.05",
+          "text": "you dont have to say yes but ill be standing at {village} with my sword out either way"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.neutral.whisper.06",
+          "text": "ur probably busy but if u wanna settle things come to {village} ill be bored there anyway"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.neutral.whisper.07",
+          "text": "meet me at {village} whenever ill be the one with the shiny helmet pretending i didnt see u coming"
+        },
+        {
+          "id": "arch.griefer.whisper_challenge.neutral.whisper.08",
+          "text": "not trying to start drama just think we should finish what we started at {town} lol"
+        }
+      ]
+    }
+  },
+  "whisper_taunt": {
+    "hostile": {
+      "whisper": [
+        {
+          "id": "arch.griefer.whisper_taunt.hostile.whisper.01",
+          "text": "ur kd is looking like a typo {player} just saying"
+        },
+        {
+          "id": "arch.griefer.whisper_taunt.hostile.whisper.02",
+          "text": "still thinking about that duel at the ford cope harder {player} lol"
+        },
+        {
+          "id": "arch.griefer.whisper_taunt.hostile.whisper.03",
+          "text": "didnt even notice u lost lol wait did u say something"
+        },
+        {
+          "id": "arch.griefer.whisper_taunt.hostile.whisper.04",
+          "text": "ur name tag is so tiny i almost missed it dont worry ill keep looking {player}"
+        },
+        {
+          "id": "arch.griefer.whisper_taunt.hostile.whisper.05",
+          "text": "playing u is like doing chores easy but nobody wants to do it"
+        },
+        {
+          "id": "arch.griefer.whisper_taunt.hostile.whisper.06",
+          "text": "keep logging on near my camp and ill be waiting with the good sword {player}"
+        },
+        {
+          "id": "arch.griefer.whisper_taunt.hostile.whisper.07",
+          "text": "beat me twice and ill start respecting u till then its just skill issue"
+        },
+        {
+          "id": "arch.griefer.whisper_taunt.hostile.whisper.08",
+          "text": "skill issue {player} ur not bad just bad at everything else lol"
+        }
+      ]
+    }
+  }
+}

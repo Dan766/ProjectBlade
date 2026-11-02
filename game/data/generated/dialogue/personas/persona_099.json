@@ -1,0 +1,327 @@
+{
+ "username": "SaddleQuote",
+ "signature": {
+  "ambient_trade": [
+   {
+    "id": "sig.persona_099.ambient_trade.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "two good saddles in {town} for {gold}. i'll come down a little if you're quick about it"
+   },
+   {
+    "id": "sig.persona_099.ambient_trade.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone need horses near {town}? fresh stock, {gold} a head, and i know the road"
+   },
+   {
+    "id": "sig.persona_099.ambient_trade.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "buying tack in {town}, paying well above the usual {gold}. bring me the bridles :)"
+   },
+   {
+    "id": "sig.persona_099.ambient_trade.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "tack prices in {town} dipped again. i've seen worse, still a decent time to buy"
+   },
+   {
+    "id": "sig.persona_099.ambient_trade.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "spare horse in {town}? will sell for {gold} and throw in a bridle for the trouble"
+   }
+  ],
+  "encounter_trade_offer": [
+   {
+    "id": "sig.persona_099.encounter_trade_offer.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, i won't sell you a thing at {gold} after that stunt. name a real figure and we can talk"
+   },
+   {
+    "id": "sig.persona_099.encounter_trade_offer.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, i'll give you a saddle for {gold} in {town}. take it or leave it, the road is long"
+   },
+   {
+    "id": "sig.persona_099.encounter_trade_offer.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} my friend, {gold} for the pair and i'll ride with you to {town} myself. deal?"
+   },
+   {
+    "id": "sig.persona_099.encounter_trade_offer.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, {gold} is light for those horses. meet me in {town} and we'll see what sticks"
+   },
+   {
+    "id": "sig.persona_099.encounter_trade_offer.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, you have a sharp offer there. {gold} plus a bridle and it's done, and i'll owe you one"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_099.encounter_greeting.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}! {persona} of {my_faction}. been a while. got any tack to move or do you want to buy?"
+   },
+   {
+    "id": "sig.persona_099.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, {persona} of {my_faction}. no need for swords, i only want to talk prices"
+   },
+   {
+    "id": "sig.persona_099.encounter_greeting.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, {persona} of {my_faction}. we both know you've robbed that road. still, a quick word about prices?"
+   },
+   {
+    "id": "sig.persona_099.encounter_greeting.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{persona} here, {my_faction} colors on my wagon, {player}. i'm buying saddles, not fighting."
+   },
+   {
+    "id": "sig.persona_099.encounter_greeting.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, good to see you on the road. {persona} of {my_faction} at your service, for a fair cut"
+   }
+  ],
+  "player_raided_my_village": [
+   {
+    "id": "sig.persona_099.player_raided_my_village.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "burning {village}? {player}, that is bad for trade on every road around here. no one buys from ashes"
+   },
+   {
+    "id": "sig.persona_099.player_raided_my_village.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you burned {village}. i lost a wagon's worth of trade there. bad business and i won't forget it"
+   },
+   {
+    "id": "sig.persona_099.player_raided_my_village.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{village} is burnt out. whoever did it has scared off every buyer from here to the coast"
+   },
+   {
+    "id": "sig.persona_099.player_raided_my_village.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, i heard about {village}. no hard feelings yet, but raids drive off the buyers i need"
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_099.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {enemy_faction} at war again. every road is closed and nobody is buying saddles"
+   },
+   {
+    "id": "sig.persona_099.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "war with {enemy_faction}? fine, but someone pay for the caravans we're going to lose"
+   },
+   {
+    "id": "sig.persona_099.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} declared on {enemy_faction}. i'm counting the cost in tolls and spoiled stock. hate this"
+   },
+   {
+    "id": "sig.persona_099.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "so {enemy_faction} is the enemy now. the tolls on that road just went up, mark my words"
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_099.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} at peace. finally the caravans can move. stock up on tack while prices settle"
+   },
+   {
+    "id": "sig.persona_099.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "peace with {faction} means cheaper roads and fewer bandits. good for business, mostly"
+   },
+   {
+    "id": "sig.persona_099.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} signed peace with {my_faction}. wagons are rolling again and the saddles are moving"
+   },
+   {
+    "id": "sig.persona_099.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} is at peace with {faction}. the inns will be full and the horses will sell :)"
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_099.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, thank you for letting me go instead of ransoming me. i'll remember it in my ledger, discount's yours"
+   },
+   {
+    "id": "sig.persona_099.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} let me go without ransom. fair dealing, i'll say that for them"
+   },
+   {
+    "id": "sig.persona_099.released_by_player.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you released me without a ransom. i still count my stolen stock as owed, mind you"
+   },
+   {
+    "id": "sig.persona_099.released_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} released me with no ransom. first honest deal i've had all month, saddle's on me next time"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_099.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat {troop_count} of my men on the road. my saddles are gone again. this is what the bandits do"
+   },
+   {
+    "id": "sig.persona_099.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {troop_count} men lost in that fight. i'll pay for the wagons back, can we talk terms?"
+   },
+   {
+    "id": "sig.persona_099.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}, {troop_count} of my men are on foot now. well fought. i'll still sell you a saddle at cost"
+   },
+   {
+    "id": "sig.persona_099.beat_by_player.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, {troop_count} men gone. you fight well, but every wagon you burn costs me money"
+   },
+   {
+    "id": "sig.persona_099.beat_by_player.05",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} beat {troop_count} men of mine. fair fight, and i'll make the cost back in tolls"
+   }
+  ],
+  "whisper_beg_help": [
+   {
+    "id": "sig.persona_099.whisper_beg_help.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, {enemy_faction} is at the gate of {fief}. send some men or come sell me your goods, i'll pay well"
+   },
+   {
+    "id": "sig.persona_099.whisper_beg_help.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {enemy_faction} may take {fief}. no one buys goods from a burnt town. name your price for help"
+   },
+   {
+    "id": "sig.persona_099.whisper_beg_help.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} i'm losing {fief} to {enemy_faction}. help me hold it and i'll owe you a season of cheap tack"
+   },
+   {
+    "id": "sig.persona_099.whisper_beg_help.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {fief} is nearly lost to {enemy_faction}. i can offer coin for the ride, won't pretend otherwise"
+   }
+  ],
+  "ambient_complaint": [
+   {
+    "id": "sig.persona_099.ambient_complaint.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "bandits again on the road out of {town}. three wagons gone this week and nobody pays for losses"
+   },
+   {
+    "id": "sig.persona_099.ambient_complaint.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{rival} undercut my saddles in {town} again. selling at a loss is not my hobby"
+   },
+   {
+    "id": "sig.persona_099.ambient_complaint.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} tolls are robbery. paid twice on one wagon and still got a pinched receipt"
+   },
+   {
+    "id": "sig.persona_099.ambient_complaint.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{rival} says my price is high. look at the toll bill, then tell me who's robbing whom"
+   },
+   {
+    "id": "sig.persona_099.ambient_complaint.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "{town} market is dead since the raids. nothing moves now but bandits and their friends"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_099.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "rain on the road to {town} again. every saddle i own smells like wet leather"
+   },
+   {
+    "id": "sig.persona_099.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{village} has the best cheese on this side of the river, don't tell the tollmen"
+   },
+   {
+    "id": "sig.persona_099.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone seen a good horse trader in {town}? i'm tired of my own company on this road"
+   },
+   {
+    "id": "sig.persona_099.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "my wagon axle broke outside {village} :( six hours to fix it, nothing stolen at least"
+   },
+   {
+    "id": "sig.persona_099.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag again on the eastern road. at least the caravans are slow enough to catch up"
+   }
+  ]
+ }
+}

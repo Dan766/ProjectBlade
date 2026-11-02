@@ -1,0 +1,319 @@
+{
+ "username": "duskveil88",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_011.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Well fought, {player}. You will get your ground back, but not today, and I will remember the flank."
+   },
+   {
+    "id": "sig.persona_011.beat_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You held the ford better than I expected, {player}. Come find me in Calvenza and I will show you where the road should have gone."
+   },
+   {
+    "id": "sig.persona_011.beat_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "That was a fair field, Ser {player}. Keep your {gold} for the levy next season, you will need it more than I will."
+   },
+   {
+    "id": "sig.persona_011.beat_player.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "You fought hard, Ser {player}. Next time keep your reserve behind the hedge line, it saved me more than once in the first war."
+   },
+   {
+    "id": "sig.persona_011.beat_player.05",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} took a fine hill today. I have seen veterans fold on it, so take the praise and keep your temper steady."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_011.beat_by_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Ser {player} ran me down fair and square at the ridge. I lost {troop_count} men to it and I still sleep well tonight."
+   },
+   {
+    "id": "sig.persona_011.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Good work on the ridge, {player}. You read my line better than most who have tried it. I will teach you the hedges sometime."
+   },
+   {
+    "id": "sig.persona_011.beat_by_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "You have a sharp eye, Ser {player}. I gave up the field because the ground was yours, though I suspect you outthought me too."
+   },
+   {
+    "id": "sig.persona_011.beat_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Lost the field to {player} and I will not pretend it did not sting. The lesson is patience, so back to the drawing board I go."
+   },
+   {
+    "id": "sig.persona_011.beat_by_player.05",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you won that day but do not think the causeway is yours yet. I have a long memory and a shorter temper than you think."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_011.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} held the left flank beside us against {enemy_faction} and never once broke rank. That is how the first war was won, really."
+   },
+   {
+    "id": "sig.persona_011.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Thank you for the flank today, {player}. We would not have held the bridge without those {troop_count} spearmen you brought."
+   },
+   {
+    "id": "sig.persona_011.fought_alongside_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Stand where you are, Ser {player}, and we will hold these {enemy_faction} lines together. Keep your eyes on the ridge, not the dust."
+   },
+   {
+    "id": "sig.persona_011.fought_alongside_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Good ground held against {enemy_faction} today. Nobody went home without a story, and {player} can count that as a win."
+   },
+   {
+    "id": "sig.persona_011.fought_alongside_player.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, I would fight beside you again without needing a map. Let us get the wounded to the wagons before the rain comes."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_011.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "You let me walk free instead of asking for gold, {player}. I will not forget that kindness, and the road to Calvenza is open to you."
+   },
+   {
+    "id": "sig.persona_011.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} let the captives go without ransom today. Not many lords would bother with that, and I think it was the better choice."
+   },
+   {
+    "id": "sig.persona_011.released_by_player.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Released without ransom, {player}. You made your point, and it cost you gold you could have used. We are square, mostly."
+   },
+   {
+    "id": "sig.persona_011.released_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Thank you to {player} for the release. Ormerath has enough feuds, and it is good to see one ended without a village burning."
+   }
+  ],
+  "player_joined_my_faction": [
+   {
+    "id": "sig.persona_011.player_joined_my_faction.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Welcome to {my_faction}, {player}. Ask me for a road map any time, and I will mark you the safest path to the fens."
+   },
+   {
+    "id": "sig.persona_011.player_joined_my_faction.02",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} has sworn to {my_faction}. Good, the banner needed a steady hand, and this one looks like it means it."
+   },
+   {
+    "id": "sig.persona_011.player_joined_my_faction.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "So you have joined {my_faction}, {player}. Keep your head down in the council halls and you will be fine, or so I hope."
+   },
+   {
+    "id": "sig.persona_011.player_joined_my_faction.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} now rides under {my_faction}. I will hold my tongue, but I have seen oaths broken before, so prove it on the field."
+   },
+   {
+    "id": "sig.persona_011.player_joined_my_faction.05",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you took the oath to {my_faction} quickly. I hope the banner does not regret it, and neither do I, yet."
+   }
+  ],
+  "player_granted_fief": [
+   {
+    "id": "sig.persona_011.player_granted_fief.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "The lords have given {fief} to {player}. A fine choice, and I expect the fields will be better kept for it. Good luck, Ser."
+   },
+   {
+    "id": "sig.persona_011.player_granted_fief.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "So {fief} went to {player}. I would have liked a word with the council first, but I suppose the decision is theirs."
+   },
+   {
+    "id": "sig.persona_011.player_granted_fief.03",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{fief} to {player}? I have held that ground longer than most of the council has been alive. Let us see how well it is kept."
+   },
+   {
+    "id": "sig.persona_011.player_granted_fief.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Congratulations on {fief}, {player}. Walk the walls yourself the first week. Lords who do rarely lose their towns."
+   },
+   {
+    "id": "sig.persona_011.player_granted_fief.05",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{fief} passed to {player} today. The people there will judge the grant by the harvest, not by the seal."
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_011.encounter_greeting.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, {persona} of {my_faction} here. Our roads meet often enough, so tell me what you need and I will point you on."
+   },
+   {
+    "id": "sig.persona_011.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, I am {persona} of {my_faction}. Mind the mud past the ford, it has swallowed better horses than yours."
+   },
+   {
+    "id": "sig.persona_011.encounter_greeting.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}. {persona} of {my_faction}. Your banners are on my road, but I am in no hurry to make a quarrel of it today."
+   },
+   {
+    "id": "sig.persona_011.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well met on the road, Ser {player}. {persona} of {my_faction} at your service, and the water here is good if your horses are thirsty."
+   },
+   {
+    "id": "sig.persona_011.encounter_greeting.05",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, it is {persona} of {my_faction}. Let us both keep our swords sheathed and our wagons moving, shall we?"
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_011.encounter_farewell.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Safe travels, Ser {player}. The fens are kind in the morning, so keep to the causeway and you will be home by supper."
+   },
+   {
+    "id": "sig.persona_011.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Farewell, Ser {player}. Keep your flank tight on the eastern road and you should miss the worst of the bandits."
+   },
+   {
+    "id": "sig.persona_011.encounter_farewell.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Farewell, Ser {player}. Do not let the road make you hasty. We will meet again, and I would rather it be over a table."
+   },
+   {
+    "id": "sig.persona_011.encounter_farewell.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Go well, Ser {player}. Let the horses drink at the next inn, and take the old causeway, it is shorter than the map suggests."
+   },
+   {
+    "id": "sig.persona_011.encounter_farewell.05",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Until the next crossing, Ser {player}. Do not let the rain catch you in the reeds, the mud there is no friend to anyone."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_011.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Has anyone come up from {town} lately? The mill there is running again and the bread is finally decent, I am told."
+   },
+   {
+    "id": "sig.persona_011.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "The fog over {village} came in early this morning. Keep your lanterns lit on the marsh road if you are heading out."
+   },
+   {
+    "id": "sig.persona_011.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Rain on the eastern road again. I remember when that stretch was only mud and reed, before anyone thought to lay stone."
+   },
+   {
+    "id": "sig.persona_011.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Anyone bound for {town} should bring spare shoes for the horses. The smithy there is slow and the road is rough."
+   },
+   {
+    "id": "sig.persona_011.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "Quiet night in {village}. I am drawing the old road maps again for the new lords, so ask if you need one."
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_011.player_big_defeat.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} lost {troop_count} men on the south road today. Hard loss, but the ones who come back stronger always have the best stories."
+   },
+   {
+    "id": "sig.persona_011.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, I heard about the {troop_count} you lost. Come by when you are ready and I will share what I wish someone had told me."
+   },
+   {
+    "id": "sig.persona_011.player_big_defeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "A bad day for {player}, losing {troop_count} men like that. The road does not care who you are, only how you prepare for it."
+   },
+   {
+    "id": "sig.persona_011.player_big_defeat.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} ran into a wall and lost {troop_count} men. Maybe scouts first next time, instead of charging the hedges head down."
+   },
+   {
+    "id": "sig.persona_011.player_big_defeat.05",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You took a heavy blow, {player}. Losing {troop_count} men is no small thing. Rebuild quietly, and do not let the taverns make you rash."
+   }
+  ]
+ }
+}

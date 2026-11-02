@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "job_id": "faction_01_b1",
+    "stage": "personas",
+    "prompt_file": "personas.md",
+    "prompt_hash": "65212a2c68f93b9baf475352f73129758095f0e8f175375198286f64855bb614",
+    "model": "haiku",
+    "cost_usd": 0.01228185,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:47:50+00:00"
+  },
+  "data": {
+    "personas": [
+      {
+        "id": "persona_001",
+        "username": "whiskerquorum",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "calculating",
+          "patient",
+          "gracious"
+        ],
+        "backstory": "Has held a seat on the Calvenza council since the second year of the server, and has never lost a vote they personally called. Quietly undermined {rival} over Brenzolo's toll loans and still denies it. Recruits anyone holding a crossbow and a grudge.",
+        "catchphrases": [
+          "{player}, might we speak in private before the vote?",
+          "Results speak louder than speeches, I find."
+        ],
+        "ai_adjust": {
+          "raid": -0.05,
+          "trade": 0.1,
+          "patrol": 0.0,
+          "besiege": -0.05,
+          "aggression": -0.1,
+          "flee_threshold": 0.05,
+          "loyalty": -0.1,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_002",
+        "username": "lanternsorry",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "eager",
+          "grateful",
+          "clumsy"
+        ],
+        "backstory": "Joined three weeks ago and thinks the fens are a soup. Got lost near Torre Sallante; a kind veteran walked them home and has been their shadow since. Nearly lost a fief to {rival} by clicking the wrong button.",
+        "catchphrases": [
+          "thank u {player}!!! ur so nice :)",
+          "wait is that good or bad?? :D"
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": -0.05,
+          "besiege": -0.1,
+          "aggression": -0.15,
+          "flee_threshold": 0.15,
+          "loyalty": 0.1,
+          "honor": 0.05
+        }
+      },
+      {
+        "id": "persona_003",
+        "username": "HelmDodger",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "petty",
+          "smug",
+          "vindictive"
+        ],
+        "backstory": "On the server since the early days, keeps a private tally of every insult sent their way. Burned a Calvenza tax camp, then spent a week calling it a strategic withdrawal. Still insists {rival} owes them a rematch from Feltravo.",
+        "catchphrases": [
+          "still keeping score {rival} thats 4 now",
+          "lol cope {player} i'll wait"
+        ],
+        "ai_adjust": {
+          "raid": 0.15,
+          "trade": -0.05,
+          "patrol": 0.1,
+          "besiege": 0.05,
+          "aggression": 0.2,
+          "flee_threshold": -0.1,
+          "loyalty": -0.1,
+          "honor": -0.15
+        }
+      },
+      {
+        "id": "persona_004",
+        "username": "SmugRadish",
+        "chat_style": {
+          "case": "lower",
+          "typos": "frequent",
+          "emoticons": "frequent",
+          "punctuation": "minimal",
+          "verbosity": "short"
+        },
+        "traits": [
+          "sarcastic",
+          "loud",
+          "cheeky"
+        ],
+        "backstory": "Showed up with a cart of radishes and a mouth to match. Lost a supply line near Gorgola and blames the bridge, the weather and {rival}, in that order. Secretly respects anyone who has beaten them twice, and will never admit it.",
+        "catchphrases": [
+          "ok {player} that was cute :)",
+          "u call that a flank :) my radishes did better"
+        ],
+        "ai_adjust": {
+          "raid": 0.05,
+          "trade": 0.1,
+          "patrol": 0.05,
+          "besiege": 0.0,
+          "aggression": 0.1,
+          "flee_threshold": 0.1,
+          "loyalty": 0.05,
+          "honor": -0.05
+        }
+      },
+      {
+        "id": "persona_005",
+        "username": "dagg3rgoose21",
+        "chat_style": {
+          "case": "lower",
+          "typos": "rare",
+          "emoticons": "rare",
+          "punctuation": "chaotic",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "absurd",
+          "warm",
+          "theatrical"
+        ],
+        "backstory": "Feuding with a bridge outside Pescaldo since the early days; has named it Gerald. Gives everyone a nickname, including {rival}, who is now the Tax Goblin. Lost at Brollo when the cavalry got lost, and calls the defeat a bold retreat.",
+        "catchphrases": [
+          "the bridge at pescaldo has been informed of its crimes!!",
+          "{player} ur sheep has unionised. respect the sheep"
+        ],
+        "ai_adjust": {
+          "raid": 0.0,
+          "trade": 0.05,
+          "patrol": -0.05,
+          "besiege": 0.1,
+          "aggression": -0.05,
+          "flee_threshold": 0.15,
+          "loyalty": 0.1,
+          "honor": 0.0
+        }
+      },
+      {
+        "id": "persona_006",
+        "username": "FL1NT7",
+        "chat_style": {
+          "case": "lower",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "minimal",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "analytical",
+          "curt",
+          "exacting"
+        ],
+        "backstory": "Has played since the first war and has tuned every army composition since. Lost Sciaretto once to a 1:2 cavalry trap and has reviewed the replay about forty times. Calls {rival} a walking flank and will not drop it.",
+        "catchphrases": [
+          "{rival} lost on ratio alone. not luck",
+          "recheck ur composition {player} then talk"
+        ],
+        "ai_adjust": {
+          "raid": 0.0,
+          "trade": -0.1,
+          "patrol": 0.05,
+          "besiege": 0.15,
+          "aggression": 0.1,
+          "flee_threshold": -0.15,
+          "loyalty": -0.05,
+          "honor": -0.1
+        }
+      },
+      {
+        "id": "persona_007",
+        "username": "PuffinHearth",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "devout",
+          "gallant",
+          "romantic"
+        ],
+        "backstory": "Keeps a hearth-fire at Dolmare where lords come to swear oaths. Bested {rival} at Ostrenga and offered a rematch; it was accepted, then ignored. Holds that every fallen banner must be sung for.",
+        "catchphrases": [
+          "Let the ancestors witness the words spoken here.",
+          "I will not forget the debt owed by {rival}."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": -0.1,
+          "patrol": 0.1,
+          "besiege": 0.05,
+          "aggression": -0.05,
+          "flee_threshold": -0.1,
+          "loyalty": 0.2,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_008",
+        "username": "LadyGullmere",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "medium"
+        },
+        "traits": [
+          "stern",
+          "proud",
+          "sentimental"
+        ],
+        "backstory": "Holds the Gullmere banner near Caldoro and mentions it often. Lost a bannerman to a raid near Ussaglia and swore an oath to avenge him. The oath is unfulfilled, and {rival} enjoys reminding them.",
+        "catchphrases": [
+          "By my ancestors, {player}, you shall answer for this.",
+          "Our banner does not bow, though it may bend a little."
+        ],
+        "ai_adjust": {
+          "raid": -0.15,
+          "trade": 0.0,
+          "patrol": 0.1,
+          "besiege": 0.1,
+          "aggression": 0.05,
+          "flee_threshold": -0.2,
+          "loyalty": 0.15,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_009",
+        "username": "elder_curds",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "none",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "patient",
+          "wry",
+          "steady"
+        ],
+        "backstory": "On this server since the first war; remembers the fens before Calvenza was walled. Taught half the current lords to stock food, and still insists they learned nothing. Once lost Gaiazzo to one bad crossing and never lets anyone forget it.",
+        "catchphrases": [
+          "Calm down, {player}. I have watched this battle before.",
+          "Plenty of time left for both of you, {rival}."
+        ],
+        "ai_adjust": {
+          "raid": -0.1,
+          "trade": 0.05,
+          "patrol": 0.1,
+          "besiege": -0.05,
+          "aggression": -0.2,
+          "flee_threshold": 0.1,
+          "loyalty": 0.15,
+          "honor": 0.2
+        }
+      },
+      {
+        "id": "persona_010",
+        "username": "chalk_tallyman",
+        "chat_style": {
+          "case": "sentence",
+          "typos": "rare",
+          "emoticons": "none",
+          "punctuation": "proper",
+          "verbosity": "long"
+        },
+        "traits": [
+          "chatty",
+          "shrewd",
+          "pragmatic"
+        ],
+        "backstory": "Runs a wool route between Brenzolo and Calvenza, with a ledger of every toll paid. Ambushed by {rival} three times and forgave each one before the caravan unloaded. Hates bandits more than any lord, mostly because they never pay.",
+        "catchphrases": [
+          "Wool is 40 gold a bolt in Gaiazzo this week, friends.",
+          "No hard feelings, {player}. Shall we discuss a price?"
+        ],
+        "ai_adjust": {
+          "raid": -0.2,
+          "trade": 0.2,
+          "patrol": 0.05,
+          "besiege": -0.15,
+          "aggression": -0.15,
+          "flee_threshold": 0.1,
+          "loyalty": 0.05,
+          "honor": 0.0
+        }
+      }
+    ]
+  }
+}

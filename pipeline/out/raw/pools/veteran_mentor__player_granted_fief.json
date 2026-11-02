@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__player_granted_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c8d4b95f259c4b3e69183ddd9c5f5845c044e2a61ee4cb36d25a2b602a86510f",
+    "model": "haiku",
+    "cost_usd": 0.0048185500000000004,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:18:05+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{fief} handed out like a tavern tab. Fine. Let's see how long it stays in one pair of hands this time.",
+        "Back in the first war, a fief that came easy usually left just as easy. I'll be watching {fief} with interest.",
+        "Some of us spent years earning a keep. Others got one from a single audience. Enjoy the walls, {player}.",
+        "Could be a fine gift for {player}. Could also be a fine target. Hope the garrison is paid up.",
+        "Lord-granted fiefs are nice until the neighbors start asking why. Expect questions from {fief}'s borders soon.",
+        "Ruler's favorites get a castle and a lot of enemies. Hope {player} brought spare soldiers."
+      ],
+      "whisper": [
+        "{player}, I don't say this to be unkind, but {fief} came too easy. Easy things get watched closely here.",
+        "Congratulations on {fief}. I'll keep my opinion of the grant to myself for now, but I have one.",
+        "Don't mistake a title for respect. Respect comes from the people who've held a border for years.",
+        "You got {fief} without a single siege. I'd still like to see you hold it through one before I clap.",
+        "If you're expecting me to smile at the grant, you'll be waiting a while. Prove the ruler right, {player}.",
+        "Enjoy the new walls. I'll be the one counting the days before the first raid lands on {fief}."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{fief} changed hands by royal decree today. Interesting timing. Everyone keep an eye on the roads.",
+        "A new holder for {fief}. I've seen this movie before, and it ended with three rebellions and a fire.",
+        "Good to see the ruler rewarding someone. Let's see whether the rest of us get any notice first.",
+        "Fiefs are only as good as the people willing to defend them. Time will show what {player} is made of.",
+        "Hm. {fief} under new management. I'll reserve judgment until the first harvest comes in.",
+        "Whoever holds {fief} now, I hope they keep the mill running. Nothing sours a region like empty bread ovens."
+      ],
+      "whisper": [
+        "{player}, you've got {fief} now. Keep the granary full before anyone starts testing the walls.",
+        "I'm not sure whether to congratulate you or pity you. Ask me again after the first winter at {fief}.",
+        "The ruler's favor is a good start. Keeping the people of {fief} happy is the harder job.",
+        "Welcome to the responsibility side of things. The tavern sweets are much nicer than the tax ledgers.",
+        "If you want advice on {fief}, ask before you rebuild anything. I learned that one with a collapsed wall.",
+        "Gained a castle, and now you have to answer every rider who asks about it. Get used to that, {player}."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Well earned, {player}. {fief} is in good hands, and I'll say so to anyone who asks.",
+        "Our ruler finally got one right. {fief} deserves someone who shows up early and stays late.",
+        "Good to see {player} getting a proper reward. The old hands have been waiting on this for a while.",
+        "Raise a cup to the new holder of {fief}. Pay the garrison first and the rest will follow.",
+        "The best grants go to people who already act like lords. Congratulations on {fief}, {player}.",
+        "I remember the first time I was handed a fief. Tired, happy, and worried about the roof. Enjoy it, {player}."
+      ],
+      "whisper": [
+        "Congratulations on {fief}, {player}. Send word if you want me to look over the defenses sometime.",
+        "You earned that grant. Don't let the first rush of pride make you ignore the stores, though.",
+        "Proud of you for this one. Hold {fief} well and I'll tell the story at the tavern for years.",
+        "If the ruler's stewards give you trouble over {fief}, come find me. I've sorted that mess before.",
+        "New holder of {fief}, eh? Remember, the best lords I've known spent more time on roads than in halls.",
+        "Keep your head down at {fief} for a month and let the people see you work. The title will mean more then."
+      ]
+    }
+  }
+}

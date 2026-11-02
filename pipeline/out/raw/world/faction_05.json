@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "job_id": "faction_05",
+    "stage": "world",
+    "prompt_file": "world_faction.md",
+    "prompt_hash": "e4872c574b0af3e95948ddf8286d85f40ff5528423d155ee0a6385b6c1d7d4db",
+    "model": "haiku",
+    "cost_usd": 0.00726335,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T16:36:23+00:00"
+  },
+  "data": {
+    "name": "Lauresse Regency",
+    "adjective": "Lauressine",
+    "ruler_title": "Sovereign Child-King",
+    "short_lore": "Lauresse was once the most chivalric crown on the continent, its knights sworn to castles on every hill. Now the sickly child-king Sanhel lies in Ysembert while three regents bicker over a treasury that is empty, its granaries mortgaged to river bankers in Pellegrane. Fen raiders strike Ondrac's causeways unanswered, and every lord keeps his levies at home.",
+    "troop_names": {
+      "infantry": [
+        "Rauzel Spearmen",
+        "Vaubrune Pikemen",
+        "Essardon Guards"
+      ],
+      "archers": [
+        "Gallac Bowmen",
+        "Sorvelle Crossbowmen",
+        "Maurenc Longbowmen"
+      ],
+      "cavalry": [
+        "Dorvelle Horsemen",
+        "Caudrenne Lancers",
+        "Ardonesse Knights"
+      ]
+    },
+    "towns": [
+      {
+        "name": "Corbanel",
+        "blurb": "Wine-cellar town; the crown's last unpawned casks sleep under its market hall."
+      },
+      {
+        "name": "Ondrac",
+        "blurb": "Causeway town on the marsh edge, famous for its toll-gates and the grudge of Fen raids."
+      },
+      {
+        "name": "Tessaguel",
+        "blurb": "Cloth market where dyed silks fetch lordly prices, and where guild factors count the regents' debts."
+      },
+      {
+        "name": "Brisamont",
+        "blurb": "Hill-fort town with the realm's oldest tourney field and a legend of a dead king's horn."
+      },
+      {
+        "name": "Pellegrane",
+        "blurb": "Pilgrim-road town holding the mortgage deeds on half the royal granaries, owed to river bankers."
+      },
+      {
+        "name": "Mordelle",
+        "blurb": "Border town of wool and gallows, where rival regent banners hang side by side and never stop feuding."
+      }
+    ],
+    "castles": [
+      {
+        "name": "Castelnarc",
+        "blurb": "Largest keep in the realm; its walls still bear the scorch marks of the Regents' War."
+      },
+      {
+        "name": "Ysembert",
+        "blurb": "Sickroom fortress where the child-king sleeps under a dozen physicians' watchful eyes."
+      },
+      {
+        "name": "Montsorel",
+        "blurb": "Hilltop castle whose lord claims the regency by right of his mother's blood."
+      },
+      {
+        "name": "Nerveille",
+        "blurb": "Marshland castle guarding the causeway; its garrison is paid late and its keeper is often drunk."
+      },
+      {
+        "name": "Garrouse",
+        "blurb": "Mountain keep with a gate of black oak and a legend of a knight who never came down."
+      },
+      {
+        "name": "Ombrelac",
+        "blurb": "Lakeside castle whose moat is said to hold the drowned crowns of old kings."
+      },
+      {
+        "name": "Seguiral",
+        "blurb": "Abbey-castle famous for its wall tapestries, sold piece by piece to pay mercenary wages."
+      },
+      {
+        "name": "Tourbelle",
+        "blurb": "Tower-castle of the eastern march, where lords refuse to send levies beyond their own borders."
+      },
+      {
+        "name": "Ravinesse",
+        "blurb": "Cliffside castle whose lord turned coat three times in one summer; no one trusts his banner."
+      }
+    ],
+    "villages": [
+      {
+        "name": "Auberrac",
+        "blurb": "Vineyard hamlet with a famous sour red that soldiers drink before every battle."
+      },
+      {
+        "name": "Pichelle",
+        "blurb": "Mill village whose waterwheel is the regency's only dependable tax income."
+      },
+      {
+        "name": "Sanquerec",
+        "blurb": "Chapel village where a miracle spring is said to cure the ailing king's fever."
+      },
+      {
+        "name": "Ganteil",
+        "blurb": "Shepherd village known for glove-makers and a long feud with the nearby lord's pigs."
+      },
+      {
+        "name": "Roucalh",
+        "blurb": "Quarry village supplying the great castles; its stonemasons strike whenever pay is late."
+      },
+      {
+        "name": "Vignebel",
+        "blurb": "Orchard village; its cider is served at every regent's feast and blamed for every quarrel."
+      },
+      {
+        "name": "Lorgesse",
+        "blurb": "Ferry village where river-guild toll-men and royal sergeants trade insults every day."
+      },
+      {
+        "name": "Dusmerc",
+        "blurb": "Forest-edge village of charcoal burners who sell to whichever lord pays first."
+      },
+      {
+        "name": "Fontagne",
+        "blurb": "Spring village with a stone well carved with the old kings' names, half scratched out."
+      },
+      {
+        "name": "Cazelune",
+        "blurb": "Hunting village where the regents hold tournaments to prove which of them is bravest."
+      },
+      {
+        "name": "Brenvaud",
+        "blurb": "Bridge village guarding the only dry crossing; its lord has never paid a toll himself."
+      },
+      {
+        "name": "Aurigol",
+        "blurb": "Gold-dust village whose miners are paid in promissory notes from the empty treasury."
+      },
+      {
+        "name": "Teoulac",
+        "blurb": "Fishing village on a mere; locals claim a drowned knight rings the bell at night."
+      },
+      {
+        "name": "Ymbrane",
+        "blurb": "Hill village known for falconers, whose hawks are gifts exchanged between rival lords."
+      },
+      {
+        "name": "Sauvanesse",
+        "blurb": "Monastery village whose scribes keep the realm's genealogies, and forge them when needed."
+      },
+      {
+        "name": "Quelmont",
+        "blurb": "Quiet hamlet of salt-pan workers, fighting the river-guild over every bag they sell."
+      },
+      {
+        "name": "Bertrevol",
+        "blurb": "Pasture village whose sheep are the last reliable wool bond left to the crown."
+      },
+      {
+        "name": "Mezeroc",
+        "blurb": "Stone bridge village where a lord's murder in the reeds still goes unsolved."
+      },
+      {
+        "name": "Oulhac",
+        "blurb": "Iron-smithing village whose forges melt down old banners to make pikeheads."
+      },
+      {
+        "name": "Presquel",
+        "blurb": "Orchard village beside a ruined manor; its heir is the child-king's rival for the crown."
+      },
+      {
+        "name": "Serrandol",
+        "blurb": "Ridge village with a watchtower that signals the border; its beacon is lit far too often."
+      }
+    ]
+  }
+}

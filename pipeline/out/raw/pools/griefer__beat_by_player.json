@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "griefer__beat_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ee9cb1dcdf0546ffba91c0384997a0ae25e4f89a2d994ea602eb75a52c6141a7",
+    "model": "haiku",
+    "cost_usd": 0.0073196500000000005,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:01:10+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "lol {player} got lucky with the terrain thats it",
+        "{player} wins one field fight and suddenly everyone is a strategist cute",
+        "i lost on purpose to see how {player} acts when the crowd is watching embarrassing for both of us",
+        "rematch whenever ur ready {player} ill bring the whole cart this time",
+        "{troop_count} troops and still couldnt hold a hill respect for the effort tho",
+        "gg {player} now go count ur wins on ur fingers ill wait",
+        "screenshot it {player} i wanna see the face of the guy who lost to someone who skipped the tutorial lol",
+        "my lads were the strongest team for five minutes today i call that a win",
+        "{player} farming easy kills then calling it a battle noted",
+        "ill be bringing {troop_count} more next time and this time i wont be nice about it"
+      ],
+      "whisper": [
+        "still thinking about the flank {player} u got lucky with the slope",
+        "ok fine that was a good charge dont get used to it",
+        "{troop_count} of my lads are still bitching about that field ur fault",
+        "ill remember this one {player} like i remember every other time u beat me",
+        "stop smiling at the loss screen its creepy",
+        "count the dead from today and tell me who the real winner is hmm",
+        "i need a little revenge and ur the only option left {player} sorry not sorry",
+        "ur lucky i didnt bring the archers or this would be a different convo",
+        "next field is mine {player} dont be late to the funeral of ur reputation",
+        "get some sleep {player} u look like a guy who won one fight and forgot the rest"
+      ],
+      "face": [
+        "oh its {player} again fine ill let u walk off today but im counting",
+        "you got the field and i got the blame typical bring a bigger army next time",
+        "stop grinning {player} im still standing and ur still a bit annoying",
+        "{troop_count} lads couldnt do it and u think ur a legend now lol",
+        "victory suits u sadly enjoy it while my boot is still on ur side of the mud",
+        "remember this face {player} the next battle is where i ruin ur whole week",
+        "congrats on the win now go pretend u did it alone like the rest of us know u didnt",
+        "u beat me in a field u didnt beat my memory of every insult u ever said",
+        "ill keep quiet today but i keep receipts {player} and they add up",
+        "id say gg but u know i dont mean it see u at the next muddy hill"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} won a field fight cool the grass didnt care",
+        "wins are wins i guess the next one might not be so dull",
+        "{player} took the field today nobody is crying yet so ill call it neutral",
+        "lost {troop_count} men to {player} this afternoon and still find it kinda funny",
+        "not gonna lie the field was lovely for a fight both of us got muddy",
+        "good battle {player} rough one for me but ill live",
+        "one field doesnt decide much just a bad afternoon for the loser",
+        "server will forget this by tomorrow just saying",
+        "bit of luck bit of skill bit of mud thats the whole story",
+        "ok {player} won moving on the tavern has better drama"
+      ],
+      "whisper": [
+        "gg {player} that flank was sharp still mad tho",
+        "dont take it personal {player} it was just a field",
+        "{troop_count} lads cost me more than i'd like but whatever the mud was everywhere",
+        "saw ur banner on the ridge nice touch wont forget it",
+        "u won fair enough dont make me say it twice",
+        "im not annoyed just noting that i lost and u were the reason",
+        "next one is gonna be different {player} or maybe not who knows",
+        "honestly best fight ive had all week dont tell anyone",
+        "we'll see who laughs last probably not u {player}",
+        "noted {player} ur bored of me already arent u"
+      ],
+      "face": [
+        "nice field {player} ill give u that dont get cocky",
+        "ok u won my boots are still dry so im not sulking",
+        "{troop_count} of mine still hurt from that charge tell ur lads good work",
+        "so thats how u fight weird but it worked",
+        "stop standing there like the mud is yours it isnt",
+        "guess im the one with sore legs now have a good day {player}",
+        "quick question did u plan that charge or just get lucky dont answer lol",
+        "whatever u do next time make sure ur not standing in my path",
+        "fine by me the field is yours the next one isnt",
+        "didnt expect that from u {player} gonna keep an eye on u now"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} beat me in a field and im honestly kinda proud dont let it go to ur head lol",
+        "gg {player} ez win for u ill have revenge at the next bonfire",
+        "who knew {player} could actually fight stop being impressive its annoying",
+        "lost {troop_count} men to ur crew and still want to buy u a drink",
+        "ur banner looked lovely up there {player} shame i had to ruin it",
+        "ok fine {player} u earned the bragging rights for today dont make it a habit",
+        "one battle win and ur acting like royalty still love it tho",
+        "respect {player} those flanks were sick dont tell the other griefers i said that",
+        "wouldve been mad but honestly that was the most fun ive had in a while",
+        "if u ever need someone to lose to again {player} u know where to find me"
+      ],
+      "whisper": [
+        "gg {player} ur a menace and i like it next field my lads owe u a beer",
+        "ok that charge was clean u got me good dont get smug about it",
+        "i'd be furious but honestly u made the whole day worth it",
+        "{troop_count} lads down and im laughing guess ill buy the next round",
+        "u keep winning and i keep coming back which is kinda pathetic on both our parts",
+        "quick note {player} that was a proper fight rematch soon or i get bored",
+        "im not sulking im plotting ur still my favorite person to lose to",
+        "dont tell anyone but i enjoyed getting beaten by u today",
+        "ok u win this round {player} ill tell the lads u were actually scary",
+        "stop being good at this u make me look bad in front of everyone"
+      ],
+      "face": [
+        "oh no its {player} again good fight by the way bet u hate hearing that",
+        "ur army is kinda terrifying tbh still gonna make u pay for it",
+        "i lost but im grinning like an idiot blame ur flanking",
+        "{troop_count} of mine are still picking mud out of their teeth nice work {player}",
+        "u beat me fair and square now buy me a drink before i get nasty",
+        "honestly ur the only one who makes losing fun dont change anything",
+        "shake my hand {player} and promise me a rematch with less mud next time",
+        "ok fine ur annoyingly good at this i hate it a little and love it more",
+        "gg {player} seriously next time im bringing the whole cart so be ready",
+        "u won i lost we both had fun thats the good stuff right there"
+      ]
+    }
+  }
+}

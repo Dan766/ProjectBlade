@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "job_id": "persona_039",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "82fd2f5724ff84cab12e14a8d104cb86251751e9aa3b7442d68910c5f8adef61",
+    "model": "haiku",
+    "cost_usd": 0.006853250000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:33:25+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} guys to me and still typed gg lol ez :) cope harder xD"
+      },
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{gold} gold richer and {player} is already typing the excuses xD ez :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "u fought like a levy with a broken spoon {player} :) ur ledger entry is getting longer xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "gg {player} ur troops held the line better than i expected :) still ez tho xD"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ez {player} {troop_count} men gone and ur pride is next xD go on run back to ur keep lol :)"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "ok {player} got me that time lol enjoy it while it lasts xD ill be counting :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "lucky shot {player} thats 1 for u and a lot for me to remember :) xD"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "fine {player} u got me this time :) doesnt mean u won the war xD"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{troop_count} men lost and im not even mad lol okay im mad xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "gg {player} seriously :) my levies ran into ur blade and didnt stand a chance xD"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} AGAIN lol at this point ill write a whole chapter about ur {troop_count} men xD keep the ledger going :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "ok {player} this is getting personal :) ill never forget that {troop_count} man charge xD cope"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} beat me again lol ur becoming a problem and i kinda respect it xD dont let it go to ur head :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "third time {player} :) i swear ur the only one who keeps doing this xD ill still get u back"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} u keep beating me and honestly thats the best part of this server :) xD"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} ran before we even clashed lol the ledger just got a new entry xD scared much :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "u turned tail {player} lol ur party ran so fast i almost felt bad xD catch me when ur brave :)"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "wow {player} ran away again lol the road to ur keep must be real long xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "lol {player} ur men took off like they saw me coming :) smart or scared xD"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} ran off lol fine ill chase u next time :) you know i always find u xD"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} got a mouthy little army and {player} thinks thats a team lol :) xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} u keep following {rival} around like a levy after a free meal :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "still got the list {player} every insult u ever typed is sorted by date xD ur next :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} would never admit it but they sleep better knowing im still out here xD :)"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} meet me at {village} at dawn if u got the nerve :) ill bring the whole ledger xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "rematch time {player} {town} gates at noon bring whatever army u have left :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "u know where {town} is {player} ill be waiting with the torches :) come get ur revenge xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "hey {player} got a free afternoon? {village} is the spot lol ill even let u pick the field xD"
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ha {player} threatening me with {gold} gold lol ur serious xD come take it then :) ill bring the ledger and ur whole list"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{gold} gold for passing through? ur joking {player} lol ill pay in arrows instead xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player} just asking for {gold} gold again lol ur practically my tax collector now xD ill think about it :)"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "surrender? ur funny {player} lol my men dont fold for {gold} gold xD try again :)"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "oh look its {player} lol still wearing that same banner xD {persona} of {my_faction} is here to collect :)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} fancy meeting u on the road :) {my_faction} says hi and ur losing again xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "hey {player} {persona} here from {my_faction} lol fine u can pass if u promise to lose again :) xD"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} i was hoping id run into u out here xD {my_faction} never forgets a loss :)"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} has {troop_count} men and {gold} gold in the chest lol come try it xD :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "just counted {gold} gold in {fief} and my levies still smell victory xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} troops in {fief} and not one of em has lost a fight this week :) xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is mine lol {gold} gold {troop_count} men and a ledger full of insults xD ez :)"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} men in one go lol id laugh but i already did xD cope :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} {troop_count} men gone just like that lol ur army folded faster than my patience xD ez :)"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "ouch {player} {troop_count} men down that was rough lol still got the ledger tho xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "sorry about the {troop_count} men {player} :) well not really xD"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} took a bad hit with {troop_count} men lost stay alive out there lol the ledger misses u already xD"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else lagging near {town} or is it just me lol :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "the fog over {village} is so thick i cant see my own horse xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "who keeps stealing the bread from the {town} market lol bring it back xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "rain again in {village} ugh my bowstring is soaked :) xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{town} has the worst tavern on the map and i will fight anyone who says otherwise lol xD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "roleplayer__ambient_chatter",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "177f402905aee00a47aae909eb34f3ea5b61d36d138fca9d03b6f7b15e4866d5",
+    "model": "haiku",
+    "cost_usd": 0.00373885,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:09:22+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "The rain over {town} has soaked every banner in the square, yet I stand here proud as ever, friend.",
+        "Ser, whoever planted the cabbages beside the old well must be a poet, for they grow with a grace I cannot explain.",
+        "I swear on my grandfather's sword that the ale in {village} tastes of boot leather, and I shall tell the innkeeper so.",
+        "Weary I am, traveller, of hearing bards sing of dragons when the true beast is the tax collector who never sleeps.",
+        "Mark this day in the chronicles: the moon rose red over the eastern hills, and no omen-reader in the realm has dared explain it.",
+        "Our ancestors built these walls to outlast every storm, and I trust they would be ashamed to see the mud creeping over the gate.",
+        "Ser, a word of advice: never trust a cloud that hangs low over the marsh road, for it has swallowed better riders than you.",
+        "Bah, the mill-stream has frozen again, and the miller swears by his saints it is a plot against honest bread. Hell of a season.",
+        "I was once a fool who chased glory across three shires, and now I pray for nothing more than a quiet fire and a dry bench.",
+        "If the bridge at {town} collapses under the weight of my boasting, friend, I shall demand the builders be hanged at once."
+      ]
+    }
+  }
+}

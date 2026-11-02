@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "username": {"type": "string", "minLength": 3, "maxLength": 24},
+    "chat_line": {"type": "string", "minLength": 1, "maxLength": 140}
+  },
+  "required": ["username", "chat_line"],
+  "additionalProperties": false
+}

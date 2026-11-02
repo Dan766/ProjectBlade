@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "trader__player_granted_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "61dbe5ae3ffdf347130c075c09bbe5b8103045e705d1a3cf9245ac597bdd22ae",
+    "model": "haiku",
+    "cost_usd": 0.00491195,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:13:31+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} got {fief} handed over by the ruler? Lovely. Tolls there will be fun to raise.",
+        "Nothing says fair market like a fief given out by favour. Hope {fief}'s roads stay safe for everyone else.",
+        "Congratulations to {player} on {fief}. I'll be counting the coin I didn't make there, thank you very much.",
+        "Caravans will route around {fief} from now on. Someone should tell the ruler a town without trade is just a ruin.",
+        "Another castle for {player}, another ledger I'd like to see audited. Just curious what the books look like.",
+        "Favours from the crown don't make a market. Prices in {fief} will tell the real story, mark my words."
+      ],
+      "whisper": [
+        "Heard the ruler gave you {fief}. Enjoy it, {player}. I'll be sending my caravans the long way round.",
+        "Pleased for you, truly. Pity my offer for the {fief} salt rights got ignored in favour of a friend.",
+        "You got {fief} for free and I paid a fortune to get near it. Call me jealous. I'm not wrong though.",
+        "Don't expect me to bring you any goods from now on, {player}. Your tolls already cost me a fortune.",
+        "Every merchant in {fief} is wondering what you'll charge them. I'd start a list of who to avoid.",
+        "Enjoy the title, {player}. Titles don't fill a warehouse. Rude of the crown not to ask me first."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "New lord in {fief}. Let's see if the tolls stay sane or the roads go quiet. Could go either way.",
+        "{fief} changed hands by royal decree. Traders, check your prices before you make the trip.",
+        "Who holds {fief} matters less to me than whether the bridge tolls hold steady. Keep it fair.",
+        "Fresh grant for {fief} means fresh rules. Anyone know what the new lord plans for the market square?",
+        "Heard {player} has {fief} now. Caravans will still go where the coin is good, whoever's flag flies.",
+        "Rulers come and go, but a good road is forever. Let's see whether {fief} keeps its roads open."
+      ],
+      "whisper": [
+        "Congratulations on {fief}, {player}. Let me know what your tolls look like before I unload any wool there.",
+        "So the crown gave you {fief}. Fine by me, as long as the road fees don't double overnight.",
+        "Heard you're taking over {fief}. Care to share your plans for the market? Helps me plan my routes.",
+        "I'll be watching {fief} closely under your rule. Good trade keeps everyone rich. Bad trade gets noticed.",
+        "Don't mind me looking over your new books, {player}. Every lord in {fief} gets the same look from me.",
+        "A castle and a title. Impressive, {player}. Now what's the price of a safe escort through {fief}?"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Good news for trade: {player} now holds {fief}. Expect cheaper salt and fewer bandits on those roads.",
+        "Raise a cup to {player}, new lord of {fief}! My caravans will be the first ones through the gates.",
+        "{fief} with a fair lord at the helm? Now that's a market worth investing in. Well done, {player}.",
+        "Anyone with goods to sell, head to {fief}. {player} is known to pay honest prices. Good for business.",
+        "Half the realm was jealous of {player} this week, and I'm happy to be the other half. {fief} needs this.",
+        "Good for {fief}, good for the roads, good for my ledger. Long may {player} hold that castle."
+      ],
+      "whisper": [
+        "Congratulations on {fief}, {player}! Want first pick of my spices when your stores are up? Friends' rates.",
+        "Proud of you for getting {fief}. If you need a supplier for the new walls, I have contacts.",
+        "I knew the crown would see sense eventually. Let's sit down over a drink and talk about {fief}'s trade.",
+        "Well earned, {player}. Shall I send a caravan to {fief} to restock? First shipment's on me.",
+        "{fief} is in good hands now. I'd gladly escort your next delivery if you ever need one, no charge.",
+        "A castle is a lot of upkeep, {player}. Tell me what you need and I'll find you a deal."
+      ]
+    }
+  }
+}

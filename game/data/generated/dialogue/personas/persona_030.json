@@ -1,0 +1,267 @@
+{
+ "username": "Piketh_Goldhand",
+ "signature": {
+  "ambient_trade": [
+   {
+    "id": "sig.persona_030.ambient_trade.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Salt out of Eepsaa is fetching a fine price in {town} this week, {gold} a sack if you can find it. Ask me before you sell."
+   },
+   {
+    "id": "sig.persona_030.ambient_trade.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Wool is moving well out of {town}. I would pay {gold} for a good cart and still turn a profit on the Tiiruus road."
+   },
+   {
+    "id": "sig.persona_030.ambient_trade.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Anyone with spare grain near {town}? I will take it at {gold} and haul it south before the prices slip again."
+   },
+   {
+    "id": "sig.persona_030.ambient_trade.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Buying dried fish at {gold} a barrel in {town}. Good weight, fair measure, and I pay on delivery. Honest coin only."
+   },
+   {
+    "id": "sig.persona_030.ambient_trade.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "Selling a small lot of iron ingots out of {town} for {gold}. The caravan leaves at dusk, so speak up quickly."
+   }
+  ],
+  "encounter_trade_offer": [
+   {
+    "id": "sig.persona_030.encounter_trade_offer.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "I do not love you much, Ser {player}, but I can be persuaded. Offer me {gold} for safe passage through {town} and we may both walk away richer."
+   },
+   {
+    "id": "sig.persona_030.encounter_trade_offer.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, the road is long and my mules are tired. Shall we talk about {gold} for the goods in this cart and avoid any unpleasantness near {town}?"
+   },
+   {
+    "id": "sig.persona_030.encounter_trade_offer.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, you always did have a fine eye for a bargain. Make it {gold} and the salt is yours, and I will throw in what I know of the roads around {town}."
+   },
+   {
+    "id": "sig.persona_030.encounter_trade_offer.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Good to see you, Ser {player}! I can do {gold} on this deal, which is less than I wanted but more than the road will pay you. Shall we shake on it?"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_030.encounter_greeting.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Greetings, Ser {player}. I am {persona} of the {my_faction}, and my salt wagons are on the road. Keep your blades sheathed and we shall both reach market."
+   },
+   {
+    "id": "sig.persona_030.encounter_greeting.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, I am {persona} of the {my_faction}. Your men are standing too close to my salt carts. Step back and we can discuss a fair toll instead."
+   },
+   {
+    "id": "sig.persona_030.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}! {persona} of the {my_faction} at your service. Are you carrying anything worth trading, or only the usual wind and bad news from the north roads?"
+   },
+   {
+    "id": "sig.persona_030.encounter_greeting.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "This is {persona} of the {my_faction}, Ser {player}. Our paths cross again. I hope the roads have been kind to your coin purse this season."
+   }
+  ],
+  "player_raided_my_village": [
+   {
+    "id": "sig.persona_030.player_raided_my_village.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} burned {village} to the ground, and every torch cost me a cart route and a fair bit of profit. Bad for business."
+   },
+   {
+    "id": "sig.persona_030.player_raided_my_village.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, {village} was burned. I would rather talk terms than swords, so name a price for the damage and we shall see."
+   },
+   {
+    "id": "sig.persona_030.player_raided_my_village.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Burning {village} was a poor trade, Ser {player}. Ash makes a dreadful market."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_030.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has gone to war with {enemy_faction}. Wars close roads and scare off buyers. Pray it ends quickly."
+   },
+   {
+    "id": "sig.persona_030.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Another war with {enemy_faction}. Salt prices will climb before the week is out, and nobody asked the merchants."
+   },
+   {
+    "id": "sig.persona_030.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Good coin does not come from a battlefield. {my_faction} and {enemy_faction} should remember that before the bills come due."
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_030.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Peace between {my_faction} and {faction} at last! The caravans can finally move without a bodyguard the size of a village."
+   },
+   {
+    "id": "sig.persona_030.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} have agreed to peace. I will be buying wine tonight, and I expect the tolls to fall soon."
+   },
+   {
+    "id": "sig.persona_030.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Well done, {my_faction} and {faction}. Peace is the best stock a trader can hold, and it does not spoil on the road."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_030.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you let me go without asking for ransom. That is a generous kind of deal, and I will remember it when prices are right."
+   },
+   {
+    "id": "sig.persona_030.released_by_player.02",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Ser {player} released me without ransom. Now that is good business sense. I owe them a cask of wine."
+   },
+   {
+    "id": "sig.persona_030.released_by_player.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, thank you for letting me go. I will settle my debt on fair terms, and do not expect me to forget the favour."
+   },
+   {
+    "id": "sig.persona_030.released_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Ser {player} let me walk out of captivity. I still think your tolls are a disgrace, but I will not argue with a free wagon."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_030.beat_by_player.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, you have beaten my {troop_count} men on the field. I will admit it, though I would rather have kept my wagons whole. Name a fair price for your trouble."
+   },
+   {
+    "id": "sig.persona_030.beat_by_player.02",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Ser {player} routed {troop_count} of my men today. Bad for my accounts, and I will be recovering that coin for a while."
+   },
+   {
+    "id": "sig.persona_030.beat_by_player.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{troop_count} men lost to Ser {player} today. Business is business, and I will be more careful on the Tiiruus road next time."
+   }
+  ],
+  "whisper_beg_help": [
+   {
+    "id": "sig.persona_030.whisper_beg_help.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, {enemy_faction} is pressing on {fief} and my caravans are trapped inside. Name your price for an escort and I will pay it."
+   },
+   {
+    "id": "sig.persona_030.whisper_beg_help.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, I am losing {fief} to {enemy_faction}. Help me hold the gate and I will sell you salt at cost for a season."
+   },
+   {
+    "id": "sig.persona_030.whisper_beg_help.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, {fief} will fall without help. A war ruins every route I own. Lend a hand and I will give you a fair cut of the profit."
+   }
+  ],
+  "ambient_complaint": [
+   {
+    "id": "sig.persona_030.ambient_complaint.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Road tolls around {town} have doubled again. Somebody please tell the lords that a toll which kills the trade does not pay anyone."
+   },
+   {
+    "id": "sig.persona_030.ambient_complaint.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{rival} is undercutting every salt price in the market. That is no way to run a trade, and the rest of us pay for it."
+   },
+   {
+    "id": "sig.persona_030.ambient_complaint.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Bandits on the road out of {town} took two wagons last week, and the escort fees keep climbing. Good men are not cheap."
+   },
+   {
+    "id": "sig.persona_030.ambient_complaint.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} tariffs on wool are unjust. Honest merchants are squeezed while the cheats walk freely through the gates."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_030.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Rain again over {village} and the road is a bog. Mules are sulking and my boots are ruined. Anyone else headed to {town} tonight?"
+   },
+   {
+    "id": "sig.persona_030.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "The market in {town} smells of fresh bread this morning. Good weather for trade, and the wine is cheap if you ask nicely."
+   },
+   {
+    "id": "sig.persona_030.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Heard the bridge near {village} might be repaired before winter. Hopefully the carts stop sinking into the mud."
+   },
+   {
+    "id": "sig.persona_030.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Fog so thick on the Tiiruus road I nearly drove into a ditch. Lesson learned: travel at dawn and keep a lantern lit."
+   }
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "job_id": "griefer__player_renown_up",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "b7cd9c3b345535d4dd6e7c58fbd6fce3eedec6e4cf15d694b6390efa43ac07f4",
+    "model": "haiku",
+    "cost_usd": 0.0038305500000000003,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:01:50+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "so {player} got famous now cool. still cant beat me twice tho lol",
+        "everyone knows ur name now and thats the only good thing that happened to u ez",
+        "renown is just a fancy word for people who got lucky once. see u at the next burn",
+        "u get one headline and suddenly ur the king of ormerath lmao cope harder",
+        "i remember when {player} was nobody. still kinda nobody honestly skill issue",
+        "clout went up so now more people are gonna try to kill u. good luck with that"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} is on the board now huh dont get comfy the leaderboard is slippery",
+        "heard the name {player} at the tavern twice today weird flex",
+        "renown means nothing till someone burns ur village ngl",
+        "ok {player} is famous. the wolves dont care lol",
+        "mildly impressed by {player} which is annoying honestly",
+        "watching the scoreboard for now. keep climbing or dont, same for me"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} finally getting the recognition they been pretending they dont want lol",
+        "told everyone {player} was the real deal before it was cool. dont let it go to ur head",
+        "gg {player} ur name on the board looks good. still owe me a rematch",
+        "renown looks good on {player} sorry if thats a compliment dont tell anyone",
+        "respect to {player} for the climb. i will still hunt u tomorrow",
+        "all the bards are singing about {player} now. they got the lyrics wrong but its ok"
+      ]
+    }
+  }
+}

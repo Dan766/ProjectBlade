@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "trader__beat_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "5355bbc5437ac862a7c5135d06e2cad455eccd8d4c8b1f878e1146eab045810e",
+    "model": "haiku",
+    "cost_usd": 0.007656649999999999,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:12:40+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Lost a field fight to {player} and the wagon train took the hit. Somebody owes me a refund on that escort.",
+        "Fine, {player} won the field. Now every road trader in Ormerath will pay for it in tolls. Thanks a lot.",
+        "Five hundred gold in mercenary pay, gone in one afternoon. Remind me never to hire swords near {player}.",
+        "Another battle lost, another ledger in the red. Whoever keeps picking fights with {player} is bad for trade.",
+        "Ran the numbers on today's fight. Losses outweigh the loot by a mile. Expect higher prices from my stalls.",
+        "Our line broke at the ford. Good for {player}, terrible for anyone trying to ship grain through there.",
+        "Lost {troop_count} men and the cart with them. Next time I'm paying for insurance I actually read.",
+        "The fight is over, the bill is not. Those {troop_count} hired blades cost more than they earned me.",
+        "Congratulations to {player}, I suppose. Every victory like that scares off the caravans I need.",
+        "Win or lose, the road tax still comes due. Today it came due twice. Hope the spoils were worth it."
+      ],
+      "whisper": [
+        "Enjoy the field, {player}. I'll be remembering the price of those {troop_count} crossbows for a long while.",
+        "Well fought, I'll admit. Doesn't change that you cost me a shipment of salt. We'll be square eventually.",
+        "A win is a win, but you've made my routes twice as dangerous. My next insurance premium is on you.",
+        "Keep your victory. I'll be sending my prices up on every wagon heading toward your holdings. Consider it a tax.",
+        "I'm not sore about losing the field. I'm sore that you took it on a road I use. Find another one.",
+        "That was expensive, {player}. The mercenaries want paying and the buyers want their goods. Neither cares who won.",
+        "Lost {troop_count} men today. I'm not after blood, just a fair accounting. Consider the bill sent.",
+        "You beat me fair, and I respect a good position. But my caravans won't be crossing your land again.",
+        "Don't pretend you did this for peace. You did it for the spoils. I'll find my margin somewhere else.",
+        "Next time you want to fight, let's talk terms first. Losing a battle is a lot cheaper than losing a route."
+      ],
+      "face": [
+        "{player}. Good work on the field, I'll give you that. Now I'm three wagons short and in a foul mood, so mind your step.",
+        "You caught my line on the ridge and turned it inside out. Clever, if you ask a merchant. Expensive, if you ask my accountant.",
+        "Save the victory speech. I have {troop_count} men to pay and a cargo that won't be selling anywhere near as well now.",
+        "Lost the field, lost the wagons, lost my patience. Don't expect me to smile at you until I've rebuilt the ledger.",
+        "Fine, you won. I'll be counting every coin I owe to get back on my feet, and I'll remember who made that necessary.",
+        "Stand aside, {player}. My men are carting the wounded and my pride is somewhere in the mud back there.",
+        "Every battle you win is a tariff on my trade routes, you know. The crown won't pay my losses for me.",
+        "The field's yours, but the road beyond it still belongs to me. Tolls, insurance, and a sour attitude. You're welcome.",
+        "I'd offer you a drink, but I'm busy calculating what a stolen cart is worth. Hope the loot covers the mood.",
+        "You broke my formation and my week in one afternoon. I'll survive. Just don't expect me to wave on the way past."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Battle at the ford ended with {player} on top. Prices on the east road will likely wobble for a few days.",
+        "Field fight outcome noted. Losses on my side are manageable. Caravans resume tomorrow at the usual rate.",
+        "Lost a skirmish, not a season. Trade lanes don't close over one bad afternoon, whatever the rumors say.",
+        "Wagon losses this morning are going on my ledger. If anyone needs freight hauled, I'm still taking orders.",
+        "Hard day in the field. Still, a broken line makes for a cheaper road than a broken market, so I'll take it.",
+        "Anyone else seeing grain prices spike after the skirmish? Could be the rumors, could be the {troop_count} carts missing.",
+        "Field results are in. Nobody's happy, nobody's ruined. Back to haggling over fodder at the usual stalls.",
+        "Some traders gamble on war. I just count the cost afterward. Today's count is not encouraging, but it's survivable.",
+        "The contract on the river crossing is off until the dust settles. Anyone with a claim, send it in writing.",
+        "Lost the field to {player}. Fair enough, the terrain favored them. Will be looking at better scouting next time."
+      ],
+      "whisper": [
+        "Good fight, {player}. My men are regrouping and my ledger is bleeding, but the books will balance eventually.",
+        "I suspect you know the cost of that battle already. If you'd like to talk trade rather than swords, I'm listening.",
+        "Lost the field this morning. Not the end of my world, just the end of a good week. Care to make it up in trade?",
+        "The road through your valley is still open to me, I assume? I'd rather not renegotiate my tolls after today.",
+        "Battles come and go. My wagons come and go. I'd like to keep my wagons intact, so let's keep this civil.",
+        "You outmaneuvered us cleanly. I'll write that down as a lesson in terrain, not a grudge. Ledger's clean on my side.",
+        "I've got {troop_count} men limping back to camp. Could you tell me which roads your people will be patrolling?",
+        "No hard feelings, {player}. Just let me know before your next skirmish, so I can route the convoys around it.",
+        "We lost the field, you kept it. I'd rather hear your terms than keep guessing. Shall we talk over a cup?",
+        "Hope your men are paid well for this. Mine will be paid late, which is a lesson I should have learned sooner."
+      ],
+      "face": [
+        "{player}. That was a tidy win on the ridge. Mind if I ask where your supply line runs? It might be worth knowing.",
+        "Lost the field, not the argument about prices. I'll be by your camp tomorrow, if you're interested in some salt.",
+        "Good ground choice, I'll admit. My scouts missed the marsh. Lesson learned, and I'm not sore about it, really.",
+        "Your men fought well. Mine fought well enough. The difference was the mud, and I'll be sure to look at maps next time.",
+        "Field's yours. The wagons are mine, and I'd like to get them moving before the rain. Could you point me to an open road?",
+        "Morning, {player}. No need for swords today. I'm more interested in whether this battle changes the price of oats.",
+        "We lost. Accept it and move on. Two hundred gold worth of mercenaries makes a poor argument in a court of law.",
+        "Hmm. You won and I'm short on cash. Doesn't mean I can't be civil. Mind if I buy you a meal at the inn?",
+        "The fight's over, and I've got a cart to repair. If you need anything hauled, I'm still in the business.",
+        "Let's call it even on pride, since the field went your way. There's still plenty of coin to be made here."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Lost the field, but {player} fought square and didn't burn the carts. Honest win, honest loss. Respect.",
+        "Congrats to {player} on the ridge. Drinks at the inn on me, once my wagons stop smelling of smoke.",
+        "Battle went to {player} today. Good thing I fund half their supply lines. Who says we can't both profit?",
+        "Lost a few wagons at the ford. Whoever set that trap, I'd like to buy them a round after I've counted the damage.",
+        "The field went to {player}, and I'm honestly glad someone sensible is holding the high road. Keep it open for traders.",
+        "Good battle, all things considered. Bloodied but in business. See you at the next caravan run, {player}.",
+        "Took a beating in the field, but my accountants say we're fine. Strong contracts carry you through bad afternoons.",
+        "Lost the ridge fight to {player}. Next week's supply run is still on, and I'll be bringing extra bolts of wool.",
+        "Honest fight, honest losses. I'd take a loss to a friend over a win to a bandit any day. Keep the roads clear, {player}.",
+        "Our lines broke at the ford. Good news is {player} doesn't hold grudges, so the next trade deal is already sketched."
+      ],
+      "whisper": [
+        "Don't let the field get you down, {player}. The ridge was a rough spot, and I'd still trust you with my cargo.",
+        "I heard the battle went your way. Drop a line when you have a moment, I've got a profitable proposal in mind.",
+        "Lost a few carts, but you kept your word and that matters more to me. Want to renegotiate our next shipment together?",
+        "Your men held their ground well today. My men ran. I'll pay you the difference next time we share a table.",
+        "No hard feelings from my side, truly. Let's talk about a future convoy before the bandits notice we're both wounded.",
+        "Was the fight worth it for you, {player}? I'd much rather you saved those swords for the highway robbers.",
+        "The damage isn't so bad. A few wagons, a few mules. My advisors say a friendly partner recovers faster than a bank.",
+        "You fought hard, and I respect that. Next time, let's have the fight in the market, where we both win.",
+        "I'm sending a bottle of decent wine to your camp. Consider it a thank you for keeping the eastern road calm.",
+        "A loss on the field, but I'm still ahead on goodwill. Call me when you're back in town, {player}. Ale's on me."
+      ],
+      "face": [
+        "{player}, you fought a clean battle today. I lost the ridge, but I'd still trust you to escort my last wagon through the pass.",
+        "Well played on the field. I'm short a few carts, but I'm not short on respect, and that's worth more than wagons.",
+        "I came to bargain, not to brawl. You won the fight, so the least I can do is buy you supper once my men stop complaining.",
+        "Lost the ridge to a good friend. I'd rather lose to you than to anyone with a worse sense of fair play. Shall we talk prices?",
+        "Your formation was beautiful, {player}. Mine was a mess. Let me pay for the repairs, and we'll call it an education.",
+        "Ha! The field's yours, friend, but your standing with my caravans is still intact. Mind if I put in a bid for escort work?",
+        "You beat us fair and square, and I'd rather lose to someone honest than win against someone who cheats. Well done, {player}.",
+        "Next time we meet, I'll have a better scouting report. For now, let's just shake hands and count what's left in the cart.",
+        "Hard to be sore with someone who makes a battle this interesting. Lost the field, gained a story for the tavern.",
+        "{player}, I've half a mind to hire you for the next run. The men who beat me are the ones I want guarding my wagons."
+      ]
+    }
+  }
+}

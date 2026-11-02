@@ -1,0 +1,291 @@
+{
+ "username": "xX_S4geMeta_Xx",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_076.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost to a 3 to 1 cav ratio expected gg"
+   },
+   {
+    "id": "sig.persona_076.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} ur left was ok ur center was not fix the center before u queue again"
+   },
+   {
+    "id": "sig.persona_076.beat_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "we both know ur cav was 4 to 1 on the right and that is why the gold is mine now gg {player}"
+   },
+   {
+    "id": "sig.persona_076.beat_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} brought {troop_count} and still couldnt hold the ford the ratio was never in ur favour"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_076.beat_by_player.01",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "lost {troop_count} to {player} my ranged were out of formation again"
+   },
+   {
+    "id": "sig.persona_076.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} {troop_count} lost and the cav ratio was 2 to 1 for u i will fix it by tuesday"
+   },
+   {
+    "id": "sig.persona_076.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "gg {player} ur flank was clean i misplaced {troop_count} troops and i will not do that twice"
+   },
+   {
+    "id": "sig.persona_076.beat_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} got {troop_count} of my troops on a 0.4 ratio i will be back with numbers"
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_076.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} again third time the spreadsheet is open stop being lucky"
+   },
+   {
+    "id": "sig.persona_076.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "lost {troop_count} to u again {player} i have recalculated everything and ur build is annoying but beatable"
+   },
+   {
+    "id": "sig.persona_076.beat_by_player_repeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} beat me twice now which means the cav composition was wrong i changed it and i am not telling u how"
+   },
+   {
+    "id": "sig.persona_076.beat_by_player_repeat.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} last time u got a lucky flank this time i brought the numbers see u in the field"
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_076.player_win_streak.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} on a streak streaks are just variance until the numbers catch up with them"
+   },
+   {
+    "id": "sig.persona_076.player_win_streak.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} is winning a lot variance i have the sheet dont worry"
+   },
+   {
+    "id": "sig.persona_076.player_win_streak.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} ur streak is annoying i respect the cav count dont let it go to ur head"
+   },
+   {
+    "id": "sig.persona_076.player_win_streak.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} keeps winning and people keep calling it skill. it is composition. look at the sheet"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_076.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} troops that is what happens when u skip the scouting"
+   },
+   {
+    "id": "sig.persona_076.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} u lost {troop_count} u rushed the center i saw it coming from the second you formed up"
+   },
+   {
+    "id": "sig.persona_076.player_big_defeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} went down hard flank ratio was 1 to 3 this is what happens without a sheet"
+   },
+   {
+    "id": "sig.persona_076.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} rough one ur numbers were fine the positioning was not ill send the breakdown if u want it"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_076.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} meet me at {town} with whatever u have bring the full cav line this time or dont bother"
+   },
+   {
+    "id": "sig.persona_076.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} the {village} road is open i have run the numbers and i think we can play it out there"
+   },
+   {
+    "id": "sig.persona_076.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} ur last result was luck i want a rematch at {village} on a clear field no excuses"
+   },
+   {
+    "id": "sig.persona_076.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} i am at {town} with a balanced line if u want to test ur flank come out and try"
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_076.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} on the same side vs {enemy_faction} for once {troop_count} troops and the ratio held gg"
+   },
+   {
+    "id": "sig.persona_076.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} u ok on the left cav was perfect dont tell anyone i said that"
+   },
+   {
+    "id": "sig.persona_076.fought_alongside_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "gg {player} ur line held well against {enemy_faction} the cav to archer ratio was right for once i am impressed but i will not say it again"
+   },
+   {
+    "id": "sig.persona_076.fought_alongside_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{troop_count} troops against {enemy_faction} and it worked the numbers were correct the flank was still the weak point"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_076.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} troops in the field today and {gold} gold in the chest the meta is not hard to read if u can count"
+   },
+   {
+    "id": "sig.persona_076.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "holding {fief} with {troop_count} men my cav to archer ratio is 3 to 1 and i will not be adjusting it"
+   },
+   {
+    "id": "sig.persona_076.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{gold} gold and no losses since the last spreadsheet update i am not bragging i am reporting"
+   },
+   {
+    "id": "sig.persona_076.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "just reviewed the {fief} garrison {troop_count} troops and every one is in the right spot that is the whole strategy"
+   }
+  ],
+  "my_faction_took_fief": [
+   {
+    "id": "sig.persona_076.my_faction_took_fief.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} took {fief} from {enemy_faction} the ratio was right it was never going to be close"
+   },
+   {
+    "id": "sig.persona_076.my_faction_took_fief.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is ours now {enemy_faction} brought the wrong composition and paid for it next"
+   },
+   {
+    "id": "sig.persona_076.my_faction_took_fief.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has {fief} {enemy_faction} lost it in four minutes i timed it"
+   },
+   {
+    "id": "sig.persona_076.my_faction_took_fief.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} belongs to {my_faction} now ratio was 2 to 1 on the walls {enemy_faction} tried not enough cav"
+   }
+  ],
+  "player_besieging_my_fief": [
+   {
+    "id": "sig.persona_076.player_besieging_my_fief.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} is sieging {fief} good i have the numbers for the relief and u will not like them"
+   },
+   {
+    "id": "sig.persona_076.player_besieging_my_fief.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} u are sieging {fief} and i doubt the garrison is going to be the problem u should worry about"
+   },
+   {
+    "id": "sig.persona_076.player_besieging_my_fief.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} {fief} is garrisoned properly come try it i will be watching the flank"
+   },
+   {
+    "id": "sig.persona_076.player_besieging_my_fief.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{fief} is under siege by {player} the walls hold for now and the ratio gets worse every hour u sit there"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_076.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "the weather over {town} is terrible for archers ranged units cant see through the rain adjusting the sheet"
+   },
+   {
+    "id": "sig.persona_076.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else lagging near {village} or is it just me the server is clearly unstable"
+   },
+   {
+    "id": "sig.persona_076.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{village} has the best cavalry grazing in the realm i have checked it three times"
+   },
+   {
+    "id": "sig.persona_076.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "someone tell the {town} merchants that bread prices are wrong i have the numbers"
+   }
+  ]
+ }
+}

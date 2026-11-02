@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "memer__my_faction_took_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "362e15abd01c921dfd6de515ec64623382a6cb4b2f438fea108d85f51d081679",
+    "model": "haiku",
+    "cost_usd": 0.00371125,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:03:18+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "{fief} is ours. the moat has been informed and it is not taking it well :(",
+        "{enemy_faction} left the gate unlocked and i have already started a petition to have them fined for it xD",
+        "took {fief} today. my knees are filing a formal complaint but it was worth it",
+        "{enemy_faction} i know where your spoons are kept. come collect them any time :)",
+        "is a town ever truly won or do we just borrow the walls for a while... {fief} says it's ours now",
+        "the bell tower of {fief} now rings only when i walk past it. it is very dedicated to me :)",
+        "sobbing openly into my cider. {fief} is {my_faction} now and i have never been happier :'(",
+        "next up is the cheese shop across the road. i have never felt so powerful!!!! also the pigeons are mine now"
+      ]
+    }
+  }
+}

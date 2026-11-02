@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "job_id": "tryhard__encounter_alliance_no",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "55dfe2b617cacc3cd210a8a89f3c6bea53277c1d5fed6f1b726fbec41f5b5710",
+    "model": "haiku",
+    "cost_usd": 0.00403065,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:14:56+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "no alliance. last time you brought me into a fight i lost 40 percent of my levies to your bad timing",
+        "{player} asks for a pact like it is a favour i owe. it isnt. no",
+        "i ran the numbers on you. the answer is still no",
+        "{rival} would take that offer. go ask them, they seem to enjoy losing with company",
+        "your pikes are half the army you claim. not allying with that",
+        "the honest answer is no. the less honest answer is that i would sooner fight you alone",
+        "allied with you once. my reinforcements arrived 9 minutes late. never again",
+        "move along. im not spending my supply line on someone who retreats mid engagement"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "no alliance. nothing personal, my ratios just dont justify the split",
+        "i dont ally with anyone whose composition i havent scouted. come back with a proper army list",
+        "the terms are bad for me. even if they were good, i still dont trust the timing",
+        "no. keep your banners off my flank and we will both be fine",
+        "a pact halves my reinforcement pool and doubles my paperwork. pass",
+        "im not interested in a split reward. the maths are against it every time",
+        "ask again when you have something to offer that isnt just a warm body in the line",
+        "no alliance. if {rival} comes at you first, i will watch with interest"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "i like fighting you, which is why i wont ally. shared fronts make us both lazy",
+        "no alliance this time ser. we are too evenly matched for a pact to pay off",
+        "your scouting is good. your decision to split forces is not, so i will not be joining you",
+        "tempting, but a pact gives you my cavalry and me your bad habits. no",
+        "i would rather beat you cleanly in the field than win with a split reward. gg",
+        "no. but if you want a practice duel before the next siege, bring your best setup",
+        "honestly the answer is still no. your gear curve is strong, keep it that way",
+        "gg. not now. i need you dangerous, not dependent on me"
+      ]
+    }
+  }
+}

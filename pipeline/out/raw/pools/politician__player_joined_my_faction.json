@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "politician__player_joined_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "f70631c87a109615365bd3c7e0b1b9fc7ea641580df44f7685621ca6bc995d52",
+    "model": "haiku",
+    "cost_usd": 0.005250250000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:08:33+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} has sworn to {my_faction} at last. I shall reserve judgement until the council sees whether the oath holds.",
+        "Oaths are cheap in this realm, but {my_faction} keeps a long ledger. We shall see which column {player} lands in.",
+        "A new oath to {my_faction} has been recorded. Nobody on this council was consulted, which I find curious.",
+        "Welcome to {my_faction}, {player}. Do try to read the charter before the next vote. It is rather important here.",
+        "{player} joins our ranks with great ceremony. Ceremony does not win a seat, though. Ask anyone who lost one.",
+        "Good news for {my_faction}: another banner has been raised at our hall. I trust the newcomer knows where the doors are."
+      ],
+      "whisper": [
+        "{player}, your oath is noted. So is the remark you made about the last council. We shall speak again once you have learned some manners.",
+        "You have sworn to {my_faction}, {player}. A sensible choice, given the alternatives. Do not make me regret vouching for you.",
+        "A quiet word, {player}. Loyalty sworn under pressure rarely lasts. I will be watching the next vote closely.",
+        "{player}, I did not think you would kneel. Perhaps you will find my patience more useful than your pride.",
+        "Your oath arrived before your manners did, {player}. I shall keep both in my notes for the next council session.",
+        "Do not mistake a seat for a friendship, {player}. I have not forgotten who opposed the grant at the last sitting."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has sworn to {my_faction}. The council will decide what that means, as it always does.",
+        "Another oath recorded today. Whether it proves wise remains to be seen, and the council is in no hurry to decide.",
+        "Our ledger now lists {player} among our sworn members. Let us hope the fiefs they hold are as sound as their words.",
+        "Oaths are easily sworn and seldom kept, yet the council will still hold {player} to this one. We shall see.",
+        "{my_faction} accepts {player}'s oath. A reasonable step, though the true test comes at the next vote.",
+        "I note {player} has joined us quietly, without any fanfare. Perhaps that is how most useful alliances begin."
+      ],
+      "whisper": [
+        "{player}, you have sworn to {my_faction}. Welcome. I would be glad to discuss how your interests and ours might align.",
+        "Congratulations on your oath, {player}. Now that you are one of us, we should discuss what a vote in council is worth to you.",
+        "A small matter, {player}. Your oath is recorded, but the council still wants to know where your loyalties truly sit.",
+        "{player}, I hope you chose us for good reasons. Ambition is welcome here, provided it is patient and properly argued.",
+        "Now that you have sworn, {player}, I may finally share a few things about the council that others have kept quiet.",
+        "You are sworn to {my_faction} now, {player}. Let us meet and see whether your ambitions and mine can sit at the same table."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} has joined {my_faction}, and I could not be more pleased. The council will remember who stood with us from the start.",
+        "Splendid news! {player} swears to {my_faction} and brings a fine reputation with them. Let the banners be raised.",
+        "With {player} sworn in, {my_faction} grows stronger. Ser, your place on the council is already being discussed.",
+        "Our ranks gain a capable new member today. {player} has chosen well, and I shall say so loudly at the next sitting.",
+        "{player} is now ours, and frankly the best recruit of the season. I shall toast the oath properly this evening.",
+        "Welcome to {my_faction}, {player}. Those who serve well here are rewarded, and I intend to see that you are."
+      ],
+      "whisper": [
+        "{player}, I am delighted by your oath. Let us draft a plan for your first fief before the next council sits.",
+        "Well sworn, {player}. Between us we can see certain rivals removed from the council table by the next harvest.",
+        "You have made a wise choice, {player}. Stay close to me and I will ensure your name is heard in every chamber.",
+        "I hoped you would come to us, {player}. A person of your talents deserves a seat that others envy. Let me arrange it.",
+        "{player}, a quiet word of thanks. Your oath strengthens our position, and I do remember those who strengthen it.",
+        "Now that you are sworn, {player}, we should speak about recruiting a few sympathetic allies. I have names in mind."
+      ]
+    }
+  }
+}

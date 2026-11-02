@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "job_id": "conv_b09",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "cd0f123bc045e13e8f8a017c926d05e0d7abcfca08a6fbb63128196a291f620b",
+    "model": "haiku",
+    "cost_usd": 0.00838265,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:42:26+00:00"
+  },
+  "data": {
+    "conv_041": [
+      {
+        "speaker": "SirButtonsworth",
+        "text": "heard the salt legue is handing out {gold} to whoever votes rite lmao :) sounds like a bribe tbh",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_Yarr0wReign_Xx",
+        "text": "Every vote is a favour returned, SirButtonsworth. Nobody is bribing anyone. Ask EarlSootmere what his ledger shows this month.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "EarlSootmere",
+        "text": "ledger is clean. the ratio was the problem for ur side, not mine. {town} still has no garrison to speak of",
+        "delay_s": 9
+      },
+      {
+        "speaker": "SirButtonsworth",
+        "text": "lmaooo garrison? {town} has more goats than soldeirs :) the goats r loyal tho",
+        "delay_s": 4
+      },
+      {
+        "speaker": "EarlSootmere",
+        "text": "goats do not count toward troop totals. {troop_count} is the only number that matters",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_Yarr0wReign_Xx",
+        "text": "I would not dismiss the goats, EarlSootmere. I did hear that {village} has been asking the envoys about grain contracts.",
+        "delay_s": 8
+      }
+    ],
+    "conv_042": [
+      {
+        "speaker": "SparrowSpite",
+        "text": "lmao the wardenry banner over {town} looks sad from up here :( u can see it from the walls",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "Interesting. Tesnovar has lost more than a banner this season, I think. The {gold} in dues has not been seen since the muster.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "pfft ur dues r a rumour :) ask ur treasurer where the {gold} went lol",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "I would rather ask my own treasurer where the coin went, friend. Ours is rather more forthcoming with its accounts.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "ur league counts coin like a hungry crow :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "Crows are patient birds, SparrowSpite. Perhaps that is why I have been watching {village} more closely than your envoy has.",
+        "delay_s": 9
+      }
+    ],
+    "conv_043": [
+      {
+        "speaker": "SerTankardell",
+        "text": "Hark! Tesnovar Wardenry has declared war upon {enemy_faction}. Our oath still binds us all, and the banners fly at dawn.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "rustcouncil07",
+        "text": "oh wow ok. so tesnovar just lit that fire huh. a quiet word SerTankardell? just between us, tsevaret might pay for a seat at that table",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SerTankardell",
+        "text": "Tsevaret may keep its whispers, Rustcouncil. Tesnovar does not hide its intentions. We shout them from the battlements.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "xX_PatinaSage_Xx",
+        "text": "Pack bread for two days before the fens, friend. Whatever the cause, the road to {enemy_faction} will be longer than any speech.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "rustcouncil07",
+        "text": "bread is cheap but {gold} for a whole garrison is not. who is funding this one tankardell",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_PatinaSage_Xx",
+        "text": "Let him ask his questions, Tankardell. I will be at the granary counting our {troop_count} spears, as any sensible man would.",
+        "delay_s": 7
+      }
+    ],
+    "conv_044": [
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "ok does the mule button feed the mules or the grain?? sorry :( i accidentally sent {troop_count} soldiers to the mule pen",
+        "delay_s": 0
+      },
+      {
+        "speaker": "fernz",
+        "text": "lol u fed the mules? they still smell ur garrison from {town}",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "wait mules are not food?? sorry :( i need to lie down now",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "the mules are unbothered by ur ambush wagg0nrookie7 :) they have eaten about {gold} worth of grain since lunch",
+        "delay_s": 7
+      },
+      {
+        "speaker": "fernz",
+        "text": "ambush? i just wanted my mule back. whole {village} laughed at me for it",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Wagg0nRookie7",
+        "text": "im not running a mule shop!!! i just wanted a snack :(( i will pay u back fernz i promise",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Mulehaul402",
+        "text": "pay back in grain not mules. the mules have opinions about that :)",
+        "delay_s": 5
+      }
+    ],
+    "conv_045": [
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "Oh no, I thnik {player} jsut lost most of thier army :( the scouts say the whole column got cut up near {village}",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Those who march without water are beaten before the first charge. I have seen it at {town}, and I suspect {player} has too.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "I feel awful :( I was gonna ask {player} to trade me {troop_count} spearmen for some grain lol",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Then we help them rebuild, Pikkerel. Spare grain and honest drills will do more than pity. We ride at first light.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "Ok ok, I am going to get the grain bags :) sorry for being so loud about it.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Do not apologise for caring, friend. The loud ones often keep the line from breaking. Bring the bags to {town} by dusk.",
+        "delay_s": 8
+      }
+    ]
+  }
+}

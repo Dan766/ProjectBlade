@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "job_id": "conv_b38",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "98a52408eefdabb9484f4b55089ea4220ffc562d81d4ed2a10f915217d0c4d50",
+    "model": "haiku",
+    "cost_usd": 0.00700525,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:45:32+00:00"
+  },
+  "data": {
+    "conv_186": [
+      {
+        "speaker": "reedtoll",
+        "text": "{player} is all over the road chat. folks at the {town} inn were trading stories about them last night.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "lol called it. {player} was just some guy with a sword until last week",
+        "delay_s": 4
+      },
+      {
+        "speaker": "reedtoll",
+        "text": "still a guy with a sword. just a famous one now. dont let it go to ur head.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "famous means more folks to bother lol. good. i have been waiting for this",
+        "delay_s": 5
+      },
+      {
+        "speaker": "reedtoll",
+        "text": "careful with that. the {village} folks dont like being bullied by renowned types. they remember.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "xX_Fiddl3Kid_Xx",
+        "text": "bullied?? i was just knocking over the tollhouse fence lol. still laughing",
+        "delay_s": 3
+      }
+    ],
+    "conv_187": [
+      {
+        "speaker": "THIM7",
+        "text": "WAR!!! Tesnovar declared on {enemy_faction} tonite, we r marchin on {town} at dawn!!! ur banners r gonna burn",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Dovran_Oatsworn",
+        "text": "By my oath to this road, I hold it. I pray this war ends before harvest, though I will fight in it.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Brakken_Mouthy",
+        "text": "lol thim7 u said that last time and we lost {village} to a bunch of farmers",
+        "delay_s": 5
+      },
+      {
+        "speaker": "THIM7",
+        "text": "shut up brakken!!! we didnt lose, we RETREATED strategicly!!! {troop_count} ppl and a goat",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Dovran_Oatsworn",
+        "text": "Brakken, I ask you to mind your tongue. We march under one banner now, whatever grudges we carry.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Brakken_Mouthy",
+        "text": "fine dovran {enemy_faction} wont last a week anyway lol",
+        "delay_s": 8
+      },
+      {
+        "speaker": "THIM7",
+        "text": "{gold} gold says we take {town} before they finish their soup!!!",
+        "delay_s": 4
+      }
+    ],
+    "conv_188": [
+      {
+        "speaker": "BaronParsnyp",
+        "text": "heard sum1 lost their whole army at {village}!!! :D i keep score, u dont want the number",
+        "delay_s": 0
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Pride does not feed a garrison. That army was lost the moment its supplies ran dry. Keep your food stocked before the fens.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "cope!! its just troops, they cost {gold} gold and ur still the one crying in chat :P",
+        "delay_s": 4
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Rough as it is, the lesson stands. Those soldiers marched without a quartermaster, and nobody thinks of that until the road goes quiet.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "BaronParsnyp",
+        "text": "lol they had {troop_count} ppl and marched into {town} with no bread xD",
+        "delay_s": 6
+      },
+      {
+        "speaker": "MoleWarden",
+        "text": "Go easy on them, Baron. Every veteran on this road has lost an army once. The ones who stayed learned from it.",
+        "delay_s": 8
+      }
+    ],
+    "conv_189": [
+      {
+        "speaker": "Rhyeh",
+        "text": "pikemen r overrated. cavalry or nothin lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Cavalry wins fights but eats gold. Fine saddles, fair price, no bandits. Ask.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "CAVALRY?? my {troop_count} archers say hi :D they dont need a horse to hit ur face xD",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "archers die to one rainy day lol. ask anyone who fought near {town}",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Rain hurts bows more than horses, honestly. Bring spare strings. Still, cavalry for open fields.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "bro the spearmen just stand there like fence posts :P nobody respects a fence",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "fence posts r literally why archers r useless. buncha lukewarm guys in a line. wow",
+        "delay_s": 7
+      },
+      {
+        "speaker": "drumdwarf",
+        "text": "nickname unlocked: the lukewarm fence. {gold} gold says u cant hit me with ur wagons lol",
+        "delay_s": 6
+      }
+    ],
+    "conv_190": [
+      {
+        "speaker": "Falkyn",
+        "text": "oi slugg!!! ur wool is overpriced and ur stall smells like wet sheep :D sorry if that was rude!! im still learning",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Wool is {gold} a bolt, first come. Your insult was free, so I suppose it is worth exactly what you paid.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Falkyn",
+        "text": "lol that was so mean slugg :( but also kinda good?? how do u say stuff like that",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Practice. The {town} stall next door sells the same wool for less. I would not tell you that if you were not so eager.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Falkyn",
+        "text": "ohh!! thank u so much slugg!! ur so nice :D dont tell ur rivals tho lol",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Slugg",
+        "text": "I have no rivals, only customers who have not yet learned my prices. Good day, Falkyn.",
+        "delay_s": 7
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+ "_comment": "Battle tunables (Phase 3). Read by scripts/battle/battle.gd. Multipliers: >1 = better.",
+ "type_matchup": {
+  "_doc": "attacker type -> defender type -> damage multiplier",
+  "infantry": {
+   "infantry": 1.0,
+   "archers": 1.1,
+   "cavalry": 1.3
+  },
+  "archers": {
+   "infantry": 1.2,
+   "archers": 1.0,
+   "cavalry": 0.7
+  },
+  "cavalry": {
+   "infantry": 0.8,
+   "archers": 1.3,
+   "cavalry": 1.0
+  }
+ },
+ "command_matchup": {
+  "_doc": "my command -> their command -> my effectiveness",
+  "hold": {
+   "hold": 0.7,
+   "advance": 1.1,
+   "flank": 0.8,
+   "charge": 1.3,
+   "retreat": 1.0
+  },
+  "advance": {
+   "hold": 0.9,
+   "advance": 1.0,
+   "flank": 1.1,
+   "charge": 0.9,
+   "retreat": 1.2
+  },
+  "flank": {
+   "hold": 1.3,
+   "advance": 0.9,
+   "flank": 1.0,
+   "charge": 0.8,
+   "retreat": 1.2
+  },
+  "charge": {
+   "hold": 0.8,
+   "advance": 1.2,
+   "flank": 1.3,
+   "charge": 1.1,
+   "retreat": 1.4
+  },
+  "retreat": {
+   "hold": 0.3,
+   "advance": 0.3,
+   "flank": 0.3,
+   "charge": 0.3,
+   "retreat": 0.3
+  }
+ },
+ "command_type_bonus": {
+  "hold": {
+   "infantry": 1.1,
+   "archers": 1.25,
+   "cavalry": 0.8
+  },
+  "advance": {
+   "infantry": 1.15,
+   "archers": 1.0,
+   "cavalry": 1.0
+  },
+  "flank": {
+   "infantry": 0.9,
+   "archers": 1.0,
+   "cavalry": 1.25
+  },
+  "charge": {
+   "infantry": 1.0,
+   "archers": 0.8,
+   "cavalry": 1.2
+  },
+  "retreat": {
+   "infantry": 1.0,
+   "archers": 1.0,
+   "cavalry": 1.0
+  }
+ },
+ "command_help": {
+  "hold": "Stand firm; archers shoot. Breaks charges, but a flank turns it.",
+  "advance": "Steady infantry push. Solid against flanks, weak to a charge.",
+  "flank": "Cavalry swing around. Punishes a static Hold, dies to a Charge.",
+  "charge": "All in, cavalry first. Crushes advances and flanks; impales on a Hold.",
+  "retreat": "Try to break off. Easier with more cavalry; you deal little damage."
+ },
+ "retreat_incoming": 0.6,
+ "terrain": {
+  "plains": {
+   "infantry": 1.0,
+   "archers": 1.0,
+   "cavalry": 1.1
+  },
+  "forest": {
+   "infantry": 1.1,
+   "archers": 0.9,
+   "cavalry": 0.7
+  },
+  "hills": {
+   "infantry": 1.05,
+   "archers": 1.15,
+   "cavalry": 0.85
+  },
+  "marsh": {
+   "infantry": 0.9,
+   "archers": 1.0,
+   "cavalry": 0.6
+  },
+  "desert": {
+   "infantry": 0.95,
+   "archers": 0.95,
+   "cavalry": 1.15
+  },
+  "ash": {
+   "infantry": 1.0,
+   "archers": 1.0,
+   "cavalry": 0.9
+  },
+  "mountains": {
+   "infantry": 1.0,
+   "archers": 1.1,
+   "cavalry": 0.6
+  }
+ },
+ "leader": {
+  "tryhard": 1.08,
+  "veteran_mentor": 1.06,
+  "griefer": 1.03,
+  "roleplayer": 1.03,
+  "politician": 1.0,
+  "memer": 1.0,
+  "trader": 0.97,
+  "newbie": 0.93,
+  "bandit": 0.9,
+  "caravan": 0.85,
+  "player": 1.0,
+  "garrison": 1.8,
+  "_garrison_doc": "garrison = defenders behind walls"
+ },
+ "tier_power": [
+  1.0,
+  1.8,
+  3.0
+ ],
+ "tier_vulnerability": [
+  1.0,
+  0.75,
+  0.55
+ ],
+ "lethality": 0.25,
+ "killed_share": 0.35,
+ "luck": [
+  0.7,
+  1.3
+ ],
+ "max_rounds": 5,
+ "rout_below": 0.35,
+ "escape": {
+  "base": 0.35,
+  "own_cavalry": 0.5,
+  "enemy_cavalry": -0.3,
+  "min": 0.1,
+  "max": 0.9
+ },
+ "xp": {
+  "winner": [
+   0.08,
+   0.04
+  ],
+  "loser": [
+   0.02,
+   0.01
+  ]
+ },
+ "loot_share": 0.5,
+ "prisoner_share": 0.3,
+ "ransom_per_prisoner": 20,
+ "lord_ransom": 400,
+ "wounded_heal_per_day": 0.15,
+ "player_start": {
+  "troops": 25,
+  "mix": [
+   0.5,
+   0.3,
+   0.2
+  ],
+  "tiers": [
+   0.7,
+   0.25,
+   0.05
+  ],
+  "gold": 800
+ },
+ "hire_cost": 15,
+ "ai_commands": {
+  "_doc": "weights per archetype; 'counter' = play what beats the opponent's last command; 'tactician' is a balance probe standing in for a skilled player (leader 1.0); 'always_*' are balance probes that play one command every round",
+  "griefer": {
+   "charge": 3,
+   "advance": 3,
+   "flank": 2,
+   "hold": 1,
+   "retreat": 0.3
+  },
+  "tryhard": {
+   "counter": 5,
+   "hold": 1,
+   "flank": 1,
+   "charge": 1,
+   "advance": 1,
+   "retreat": 0.5
+  },
+  "veteran_mentor": {
+   "counter": 3,
+   "hold": 2,
+   "advance": 1,
+   "flank": 1,
+   "charge": 1,
+   "retreat": 0.5
+  },
+  "roleplayer": {
+   "charge": 3,
+   "hold": 3,
+   "advance": 1,
+   "flank": 0.5,
+   "retreat": 0
+  },
+  "trader": {
+   "hold": 3,
+   "advance": 1,
+   "flank": 0.5,
+   "charge": 0.5,
+   "retreat": 1.5
+  },
+  "politician": {
+   "hold": 2,
+   "flank": 2,
+   "advance": 1,
+   "charge": 0.5,
+   "retreat": 1
+  },
+  "memer": {
+   "hold": 1,
+   "advance": 1,
+   "flank": 1,
+   "charge": 1,
+   "retreat": 0.5
+  },
+  "newbie": {
+   "hold": 1,
+   "advance": 1,
+   "flank": 0.5,
+   "charge": 1.5,
+   "retreat": 1.5
+  },
+  "bandit": {
+   "charge": 2,
+   "advance": 2,
+   "flank": 1,
+   "hold": 0.5,
+   "retreat": 0.5
+  },
+  "caravan": {
+   "hold": 3,
+   "retreat": 2,
+   "advance": 0.5,
+   "flank": 0.2,
+   "charge": 0.2
+  },
+  "player": {
+   "hold": 1,
+   "advance": 1,
+   "flank": 1,
+   "charge": 1,
+   "retreat": 0.2
+  },
+  "tactician": {
+   "counter": 8,
+   "hold": 0.5,
+   "advance": 0.5,
+   "flank": 0.5,
+   "charge": 0.5,
+   "retreat": 0.3
+  },
+  "always_hold": {
+   "hold": 1
+  },
+  "always_flank": {
+   "flank": 1
+  },
+  "garrison": {
+   "hold": 4,
+   "advance": 1,
+   "flank": 0.5,
+   "charge": 0.5,
+   "retreat": 0
+  }
+ },
+ "counter": {
+  "hold": "flank",
+  "advance": "charge",
+  "flank": "charge",
+  "charge": "hold",
+  "retreat": "charge"
+ },
+ "losing_retreat_boost": 3.0,
+ "retreat_when_below": {
+  "_doc": "an AI only considers Retreat when its strength is below this x the enemy's",
+  "default": 0.8,
+  "trader": 1.0,
+  "caravan": 1.1,
+  "newbie": 1.0,
+  "politician": 0.9,
+  "roleplayer": 0.0,
+  "griefer": 0.6
+ },
+ "numbers_exponent": 0.8
+}

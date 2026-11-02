@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "roleplayer__player_joined_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "d37aa8b897918f87c6609fd1fbe5982b105924826cbd2434cba6aac8dee11c2d",
+    "model": "haiku",
+    "cost_usd": 0.005375950000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:11:10+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Ser {player} kneels to {my_faction} now. Let the bards sing of how cheaply that knee was bent.",
+        "Another banner to choose from, and {player} has chosen the one that pays. Hardly the stuff of legend, friends.",
+        "I shall not pretend to trust the new oath of {player}. Words spoken for a purse are soon forgotten.",
+        "{my_faction} gains a recruit with a loose tongue and a looser loyalty. Ancestors preserve us all.",
+        "They swear, they kneel, they rise again under another crest. Ser {player} is a banner-hopper, plain and simple.",
+        "Mark this day, for {my_faction} has taken in a sword that will turn in the first wind that blows."
+      ],
+      "whisper": [
+        "Your oath to {my_faction} is fresh, ser {player}, and I have seen fresher ones break. Do not think me fooled.",
+        "Keep your new allegiance close and your back closer. Oaths sworn in haste have a way of being tested.",
+        "I shall be watching the hand that signed that oath, ser {player}. Forgive me if I do not sup with you.",
+        "Kneel as you like. A kneeling traveller may still rise with a knife, and I intend to remember where you knelt.",
+        "You have traded one banner for another with a smile, ser {player}. Such a smile is rarely worth its price.",
+        "Ser {player}, the ink on that oath is barely dry, and already I smell the old loyalties on your cloak."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Ser {player} has sworn to {my_faction}. Time will show whether the oath is worn as a cloak or a chain.",
+        "New colours for {player} today. I shall reserve judgement until the first hard road has been travelled.",
+        "The oath is spoken, and the banners of {my_faction} have one more name upon their roll. Let us see what follows.",
+        "Another soul has pledged to {my_faction}. Many pledges are sung loudly at dusk and forgotten by morning.",
+        "I neither cheer nor jeer at the oath of {player}. Deeds, not declarations, will decide what the saga makes of you.",
+        "So it is done: {player} rides under the banner of {my_faction}. The road ahead will test that vow soon enough."
+      ],
+      "whisper": [
+        "Your oath to {my_faction} has been heard, ser {player}. I shall take its measure in the days to come.",
+        "Welcome to the banners, ser {player}. A word of counsel: a vow is easy at the hearth and harder on the road.",
+        "I have no quarrel with your oath, ser {player}, though I have seen many such oaths made in good weather.",
+        "Do not expect warmth from me yet, ser {player}. Earn your place at the table, and we shall speak again.",
+        "Your pledge to {my_faction} is noted, friend. Keep it as carefully as you keep your coin purse.",
+        "The oath is taken. Now the harder question remains: will you keep it when no one is watching, ser {player}?"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} has sworn to {my_faction}, and the hall rings with the joy of it. Raise a cup to a loyal heart!",
+        "Let the bards hear it: {player} has taken the oath of {my_faction}. A proud day for our house and our ancestors.",
+        "Welcome home, ser {player}. The banners of {my_faction} are the brighter for your pledge, and so are we.",
+        "Ser {player} joins our ranks today, and I name that a deed worth remembering. Long may the oath hold strong.",
+        "A fine pledge from a fine traveller. {my_faction} is blessed to call ser {player} one of its own.",
+        "The old songs speak of such oaths. Today one more verse has been written, and {player} is its hero."
+      ],
+      "whisper": [
+        "My heart is glad at your oath, ser {player}. Come to the hall tonight, and let us drink to what lies ahead.",
+        "You have pledged yourself to {my_faction}, ser {player}, and I count that pledge a gift to us all.",
+        "Your name will be spoken with pride at our hearth, ser {player}. Any friend of this banner is a friend of mine.",
+        "I shall stand at your side when the trials come, ser {player}. You have my word, sworn on my own ancestors.",
+        "Welcome, friend. Few swear allegiance with such clear eyes. Let us make sure the saga does your oath justice.",
+        "Take this quiet word from me: the oath you swore today will be honoured by every hand beneath this banner."
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "griefer__encounter_farewell",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "0d3201c316e43fbf8e38743377fff91f6a61c8295194affb2b135fc88c6469f6",
+    "model": "haiku",
+    "cost_usd": 0.008290700000000002,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: Additional properties are not allowed ('neutral' was unexpected)"
+    ],
+    "created_at": "2026-11-01T17:01:22+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "later {player} dont let the door hit u on the way out lol",
+        "bye {player} ill remember this one for the scoreboard",
+        "run along now {player} the adults are talkin",
+        "gg {player} that was ez",
+        "see u never {player} actually no see u next tuesday when ur bored again",
+        "cope harder {player} i can hear it from here",
+        "wave bye {player} i wont miss ur face ur still in my score book from last time",
+        "ur leaving already? cant even finish the fight lol skill issue",
+        "heard about ur wagon shame about the wheels that was my doing lol",
+        "i counted ur deaths on my fingers {player} now im outa fingers"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "ok {player} cool see you around i guess",
+        "fine by me {player} keep ur distance and well be fine",
+        "headin off now dont follow me",
+        "not worth my time {player} go on",
+        "alright {player} safe travels dont trip on ur own sword",
+        "eyes on u {player} just saying that dont mean much tho",
+        "later dont make me regret lettin u walk",
+        "ill pretend i didnt see ur face today {player}",
+        "road is long {player} hope ur horse doesnt start talking back",
+        "enough chatter im off to count sheep"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "ok {player} fine ur alright for a sweaty loser fight u again soon",
+        "catch u later {player} dont die to some goblin without me",
+        "ye ye go on before i get soft and start likin u",
+        "{player} ur the only one who can beat me and i hate that a lil bit",
+        "bye {player} stay out of trouble or send me the drama first",
+        "same time next week {player} ill bring the gold this time maybe",
+        "dont get too comfy {player} i still got ur last 3 wins in the book lol",
+        "night {player} go rest ur tiny brain for the rematch",
+        "gg {player} honestly that was kinda fun dont tell anyone",
+        "take care {player} not that i care lol"
+      ]
+    }
+  }
+}

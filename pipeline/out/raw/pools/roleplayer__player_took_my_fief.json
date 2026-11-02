@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "job_id": "roleplayer__player_took_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "85afd761de44fb84687bcd2b378bd1d3b38634af2edb5b148ce8e315d90bfbb8",
+    "model": "haiku",
+    "cost_usd": 0.00460505,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:11:29+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{fief} was taken by treachery, not by valour. Let every hall in the realm remember who now wears its stolen banner.",
+        "So {player} now sits in {fief}. Enjoy the draughts, ser. Stone walls keep out thieves far better than they keep out memory.",
+        "I expected little from {player}, yet even I did not expect a wall to be bought so cheaply.",
+        "Mark it well: {fief} fell to a cunning raid, not a fair siege. Such victories sour quickly in the mouth.",
+        "The gates of {fief} now open for a usurper. I will have them back, and my ancestors will witness it.",
+        "Ser {player} may hold {fief} tonight. Let them savour it, for the stones remember whose hands raised them."
+      ],
+      "whisper": [
+        "You have my stones now, ser {player}. Keep them warm, for I have a long memory and a longer patience.",
+        "Enjoy {fief} while its walls still stand. I will be counting the nights you spend behind them.",
+        "A castle taken in the dark is still a castle taken. Do not mistake my silence for surrender.",
+        "Mind the wine in the cellars of {fief}, ser {player}. It was poured by a steward with a grudge.",
+        "Your bannermen will tire of guarding a fortress that does not love them. I will wait for that day.",
+        "You have taken {fief} and a debt along with it, ser {player}. Debts in this realm are always collected."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{fief} has changed hands again. I take no side in the matter, but I note who is now counting the coin.",
+        "The walls of {fief} are in new hands. Good fortune to {player}, though I suspect the next siege is not far off.",
+        "Some say {player} took {fief} by cunning, others by coin. I say only that the reckoning is not yet written.",
+        "Word travels slowly on these roads, yet it reached me that {player} now holds {fief}. I shall reserve judgment.",
+        "A quiet morning's work at {fief}, if the rumours are true. Let the chroniclers decide the rest.",
+        "{fief} has a new keeper of its gates. I wish {player} the patience to hold what they have won."
+      ],
+      "whisper": [
+        "I have no quarrel with you over {fief}, ser {player}. Keep it well, and we shall speak civilly when next we meet.",
+        "The fall of {fief} was clever work. I would be glad to hear how you came by the postern, should you care to share.",
+        "I shall not pretend the loss stings less for being fairly won. Hold {fief} well, friend.",
+        "Do not expect me to thank you for {fief}, ser {player}, nor to curse you for it. The road is long and so is memory.",
+        "If you need a second opinion on the walls of {fief}, send word. I know those stones better than most.",
+        "No blood has been spilt between us yet, ser {player}. Let us keep it so while the realm is watching."
+      ]
+    }
+  }
+}

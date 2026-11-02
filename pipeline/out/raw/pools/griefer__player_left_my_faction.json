@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "griefer__player_left_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "e6740b43f265e34c3e2c1e5d2f0413e99887368a5f6dcc2e172fb9aa9e0e89d5",
+    "model": "haiku",
+    "cost_usd": 0.0046225500000000004,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:01:52+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} left {my_faction} for {faction} lmao ok bye traitor enjoy the new flag while it lasts",
+        "gg {player} the flag swap was 10 out of 10 for cowardice",
+        "{player} packed up and ran to {faction} like a dog to a new yard",
+        "every {my_faction} grunt just got a free pass to hate {player} forever ez",
+        "{faction} got a fresh recruit and we got a free lesson in loyalty lol",
+        "lmao {player} trading {my_faction} for {faction} is peak skill issue"
+      ],
+      "whisper": [
+        "u ran to {faction} and i still remember ur name from the siege {player} see u on the field",
+        "10 gold says u regret the switch by the first raid not even mad just keeping score",
+        "ur new banner looks like a wet rag {player} enjoy the cope",
+        "hope {faction} pays u more than {my_faction} ever did cause ur gonna need it",
+        "still counting the times u hid behind a shield {player} the tally is up to 9 lol",
+        "bet u thought i would forget ur betrayal the grudge list is long {player}"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} moved over to {faction} fine by me more room in {my_faction} for people who stay",
+        "so {player} is with {faction} now guess the guard rotation just got interesting",
+        "anyone else think {player} switched sides just to be on the winning team",
+        "shrug {player} changed banners again whatever keep the tent warm for the next one",
+        "{faction} gets {player} and {my_faction} gets a lesson in who sticks around",
+        "heard {player} signed up with {faction} watching how long that lasts"
+      ],
+      "whisper": [
+        "saw ur banner change {player} dont expect a welcome party from {my_faction} but no hard feelings yet",
+        "so we are doing this now huh {player} ok fine just dont bring the {faction} war paint to our gate",
+        "u left {my_faction} cool dont expect me to pretend it didnt happen lol",
+        "i will keep the gates open for u {player} if ur still useful when this goes south",
+        "wasnt expecting {player} to swap but {faction} might need the extra sword more than we did",
+        "no hard feelings yet {player} ask me again after the next border fight"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} went to {faction} and i still say {my_faction} lost the best troll on the server lol",
+        "gg {player} u got the good banner now dont let {faction} make u clean the latrines",
+        "{player} is the only deserter i would invite back for drinks ez",
+        "honest respect {player} the switch was petty and i loved it",
+        "ok {player} switching to {faction} was the most chaotic move this week and im kinda proud",
+        "{faction} better feed u well {player} cause my fights with u were the only fun i had all month"
+      ],
+      "whisper": [
+        "u still owe me a rematch {player} the switch to {faction} doesnt count as a win for them",
+        "not gonna lie i miss u trolling my raids {player} come back when {faction} bores u",
+        "{faction} wont be as fun without ur insults {player} keep the door cracked",
+        "hey {player} if {faction} gets boring u know where to find me and my cheap shots",
+        "ok fine {player} u were the best enemy i had never tell {my_faction} i said that",
+        "i will be mad at u forever {player} but u still get the first drink when we meet on the road"
+      ]
+    }
+  }
+}

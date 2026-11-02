@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "job_id": "persona_010",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "bd0e028f73f6d56aa3411687297f660cfaee4adc27b06416733963975f7c0e59",
+    "model": "haiku",
+    "cost_usd": 0.00652795,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:30:37+00:00"
+  },
+  "data": {
+    "ambient_trade": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Bolts are fetching {gold} apiece in {town} this week. Good time to sell, good time to buy."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Anyone hauling salt out of {town}? I will pay {gold} a sack, fair price, no haggling tantrums."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Tip for the caravan folk: stock that sits in {town} for a week loses more than it gains. Move your goods."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Paying {gold} for good dyed cloth in {town}, coin on delivery. The ledger never lies."
+      }
+    ],
+    "encounter_trade_offer": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}, a fair offer: {gold} for the lot, delivered to {town} without a single toll. I am not robbing you, I promise."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I can pay {gold} for your goods, {player}, which is a good price in {town} this season. Take it or leave it, but do not come back asking for more."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}, I would rather buy than fight. {gold} is on the table for safe passage to {town}. Bandits never pay, so you would be the first."
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ah, {player}, good to see you on this road! {persona} of {my_faction}, at your service. Care to trade some news, and maybe some wool?"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, {persona} of {my_faction}. Our caravans are headed for the same market, so let us keep this road peaceful and profitable."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}. {persona} of {my_faction} here. I have forgiven worse than your banners, but I keep a ledger, and you are now in it. Shall we talk terms before this turns ugly?"
+      }
+    ],
+    "player_raided_my_village": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Burning {village} was a poor trade, {player}. Ruined stock does not sell, and that is the only lesson that matters to me."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, a private word. You burned {village} and I lost three bolts of wool. Name a price for the damage and we can still do business."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Who burned {village}? Half the wool route passes through there, and now my caravans take the long road and pay double the tolls."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has declared war on {enemy_faction}. Every war closes a road, and every closed road costs me coin. Wonderful."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Heralds in {my_faction} are shouting about {enemy_faction} again. Wars are bad for trade. Insurance rates will climb by the week."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "War with {enemy_faction}, and {my_faction} will pay for it in tolls and lost cargo. I am writing this into the ledger."
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} have made peace. Good news for the wool route. Prices will settle and the tolls might finally stop climbing."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Peace between {my_faction} and {faction} at last, a treaty worth the parchment. Caravans can move without escorts, which saves me a fortune."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Ink is drying on the treaty between {my_faction} and {faction}. Lower risk means lower insurance, and lower insurance makes a happy ledger."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player}, you let me go instead of ransoming me. That is the sort of deal I respect. Your name is already in my ledger in gold."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} released me without a ransom. Rare sight in these parts. Ransoms are a bad investment anyway, so well done, I say."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, you let me walk without a ransom. I will not forget the ambush, and I will not forgive it either. Fair is fair."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}, your {troop_count} men beat mine in the field. I lost a fortune in mail and horses. Fine. Now let us talk about who pays for the damage."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, {troop_count} troops ended my fight today. I tallied the losses and they cost more than the battle was worth. Let us talk terms."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} beat me in the field with {troop_count} troops and I do not begrudge it. Victories cost less than wars, and you won this one fairly."
+      }
+    ],
+    "whisper_beg_help": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player}, {fief} is under siege by {enemy_faction}. I can pay you well for relief, and the garrison will remember your name. Name your fee."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, {enemy_faction} is at the gates of {fief}. Help me hold it and I will double whatever the crown offers you. Is that a deal?"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player}, my wool is stuck inside {fief} while {enemy_faction} blocks the road. Ride with me and I will cover the supply costs for the whole campaign."
+      }
+    ],
+    "ambient_complaint": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Another toll gate outside {town}, and another cart robbed on the same road. Bandits never pay a single coin of tax, and I never get a receipt."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{rival} wants double for an escort again. Protection that costs more than the cargo is just robbery with manners."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{faction} raised the tolls again while the road to {town} keeps crumbling. Someone is pocketing the difference, and it is not the road."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Three of my carts were stripped on the road to {town} this month, and not one bandit paid a toll. Rude, that."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain on the road out of {town} again. Mud costs me a wheel a week, and the wheelwright charges me for the privilege."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Anyone know whether the {village} mill is running? Flour is cheap there and I have a buyer waiting in {town}."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lag ate three of my ledger entries again. Forty tolls logged, half of them gone. Infuriating, but the rest still balance."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lovely evening over {village}. Dry roads and steady weather keep prices calm. Long may it last."
+      }
+    ]
+  }
+}

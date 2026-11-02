@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "trader__peace_made",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "e772c5f8de991e2adfb1b632ea88089224edb190c7cf72cf5cbb1714fbda1aff",
+    "model": "haiku",
+    "cost_usd": 0.0036713500000000003,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:12:57+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "Peace between {my_faction} and {faction} means the northern road is finally open. Caravans, here we come.",
+        "Tolls on the {faction} crossing should drop now that the treaty is signed. Finally, a number that makes sense.",
+        "Peace with {faction} means fewer bandits hiding behind old war banners. Shame it took this long to happen.",
+        "Years of war and iron still kept climbing. Peace is the first good news my ledger has seen in ages.",
+        "I'll raise a cup to peace with {faction}. Strictly for the trade routes, of course, not the wine.",
+        "Armies come and go, but a road that stays open earns the same coin every season. Wiser than any sword.",
+        "Pricing on {faction} wool just shifted with the treaty. Anyone else want in before the rush hits?",
+        "Hope this peace holds. A treaty that breaks by spring is worse for margins than a war we all expected."
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "job_id": "roleplayer__player_fled_from_me",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "9e1e374c124cf45b85b11412dfe6beb95c2e389563e4347d7721e2637cf7f6e3",
+    "model": "haiku",
+    "cost_usd": 0.006473650000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:11:18+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Let the minstrels sing that {player} turned tail like a hound before the iron was even drawn. A shameful flight, friend.",
+        "The field lay empty of any stand, for {player} chose the hedgerow over honour. The ancestors do not forget such cowardice.",
+        "Ser {player} ran from the field like a frightened stag. I shall remember that flight at every table in Ormerath.",
+        "Did the banners of {player} fly so proudly before the trumpets sounded? Pity they lowered so quickly when the steel appeared.",
+        "A wise choice, perhaps, to keep one's skin whole. But a name carried away in fear is a name that will not be sung.",
+        "Let all who ride these roads know: {player} abandoned their companions and their colours in the same breath. A grim tally.",
+        "Spare me the sermons on tactics. A retreat is a retreat, and the minstrels will call it a rout by the next moon.",
+        "Mark this day well: the coward's road was taken by {player}, and the dust of their horses still hangs over the valley.",
+        "How swiftly the proud ones forget their oaths when the iron rises. {player} has earned a lasting shame by this flight.",
+        "Ha! A rout in all but name. Let no one say {player} stood their ground, for the hoofprints say otherwise, friends."
+      ],
+      "whisper": [
+        "You fled before a single blow was struck, ser {player}. I shall not forget the sight of your back to the field.",
+        "Your flight has made me a promise: we shall meet again upon a road of my choosing, and you will not run then.",
+        "A coward's gait is a poor disguise, ser {player}. Next time, stand and face the steel, or bend the knee in the dust.",
+        "I had hoped for a worthy foe. Instead I found a hedgerow and a hasty retreat. Do not expect my mercy twice, friend.",
+        "Your banners fled faster than your horses, ser {player}. Consider this a warning: the debt of this shame is owed to me.",
+        "They say the ancestors favour the brave. Yours must have turned their faces away this morning, ser {player}.",
+        "Enjoy your flight while the wind is kind. I will find you, and when I do, you will answer for every step you ran.",
+        "Do not mistake my silence for forgiveness. You abandoned your own companions in the field, and I have not forgotten it.",
+        "A rout without a single arrow loosed. Pray I never again see such a shameful sight from you, ser {player}.",
+        "I have sent word to every hall that will listen. The name of {player} will be spoken with a sneer for seasons to come."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "The road to the east was busy this morning. Some rode in, some rode out, and {player} chose the quickest way home.",
+        "A prudent retreat is still a retreat, though the wise need not decide which it was. Let the chroniclers argue it.",
+        "The field was emptied before the first horn sounded. I make no judgement on {player}, for I have fled myself on lesser days.",
+        "Fear is a poor companion on a long road. {player} seems to have discovered as much this morning on the open road.",
+        "Let those who have never turned their horse weigh the matter. As for me, I count the day's sum and move on.",
+        "Two parties met, one party remembered it had urgent business elsewhere. A common tale, and {player} told it well.",
+        "Ser {player} took the sensible path today. Whether it was the honourable one, time and tongues will decide.",
+        "Weary of talk of banners and bravery. The sun is high, the road is long, and I have no wish to dwell on {player}'s haste.",
+        "There is no shame in choosing the day's battle, only in choosing it badly. I shall leave the verdict to the ravens.",
+        "The valley has returned to its quiet. Whatever was decided by {player} this morning, the birds did not stop singing for it."
+      ],
+      "whisper": [
+        "Ser {player}, our paths crossed and parted without blood. I see no reason that should change, so long as yours stays on its road.",
+        "You turned away before the field was joined. A cautious habit, friend. I will remember it, as I remember every face I meet.",
+        "No grudge sits in me over this morning's flight, ser {player}. Only a note in my ledger, to be read when the road is longer.",
+        "Your retreat was sensible, ser {player}, though I did not expect such caution from one who names themselves so boldly.",
+        "Let us keep our distance in the future. Neither of us need prove anything on a road as quiet as this one.",
+        "I would have liked to see your colours held high, ser {player}. Still, a living traveller is a useful acquaintance.",
+        "Do not think I count your flight against you. Every captain has ridden away once. I merely note that you did it today.",
+        "Ser {player}, I bear you neither love nor loathing. Only a wish that the next meeting finds us both in clearer spirits.",
+        "A cautious hand on the reins is no crime. Yet caution has a cost, and I wonder if you have counted it, ser {player}.",
+        "You left the field as the wind turned, ser {player}. Good fortune to you on the road, and may it be a long one."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} withdrew from the field with a clear head and a steady hand. A wise judgement, and one I hold in high regard.",
+        "No dishonour in a ride away when the odds are poor. Ser {player} chose to live and fight another day. May the ancestors bless that wisdom.",
+        "The field was not worth a single good life, and Ser {player} knew it. Let the bards sing of prudence, for once.",
+        "Ser {player} led their band from danger without a single companion lost. That is a deed worth recounting at the hearth.",
+        "Some call it flight. I call it a retreat that saved good souls from the grave. Well done, ser {player}.",
+        "Ser {player} has my respect. A battle lost is no shame when the company returns whole to the hearth.",
+        "Let no one speak ill of Ser {player} for a timely withdrawal. The bravest captains know when the field is not theirs to win.",
+        "I rode out with a heavy heart this morning, but I was glad to see Ser {player} safe from the press of steel.",
+        "A wise leader counts their people before their pride. Ser {player} did exactly that today, and I honour the choice.",
+        "The road will meet us again, ser {player}, and when it does I hope the banners are high and the field is kinder."
+      ],
+      "whisper": [
+        "Ser {player}, do not let the taunts of others weigh on you. Retreat is not the same as defeat, and I know it well.",
+        "You made a hard choice today, ser {player}. I would have made it too, and I am glad you still ride beside your friends.",
+        "Come to the hearth when the road allows. A cup, a fire, and a word of comfort await Ser {player}, whatever the day brought.",
+        "The field was no place for your company this morning, ser {player}. Let us regroup and find the next battle worth our banners.",
+        "Do not let the chroniclers twist your flight into shame, friend. I was there and I saw the wisdom in it.",
+        "Your steady head saved more than your skin today, ser {player}. Keep that head, and I shall keep my sword at your side.",
+        "A bitter morning, but you came through it. Ser {player}, I am glad of that above any trophy from the field.",
+        "Count yourself lucky, ser {player}, and count your friends luckier still. There will be other fields, and better days upon them.",
+        "Your withdrawal was honourable, ser {player}. Rest tonight, and let the dawn bring a clearer path.",
+        "Should the grim tide come again, ser {player}, ride with me. We have shared a road today and I would share another."
+      ]
+    }
+  }
+}

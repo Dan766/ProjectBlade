@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "politician__beat_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c3362c1cdedcb02489121d93984a5c48189051d09e285165085eb1fc1da5c670",
+    "model": "haiku",
+    "cost_usd": 0.0077033499999999994,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:07:44+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "The field belonged to us today. The council will want to know why {player} lost it so quickly.",
+        "Another banner fallen to {troop_count} of our men. Some lords should consider their war chests before their pride.",
+        "Such a bold charge, {player}. Pity it ended with your troops scattered across the moor. Next council session, perhaps?",
+        "Our victory cost {troop_count} soldiers. Yours cost a good deal more, I suspect. I will let the ledgers speak.",
+        "I hope {player} enjoyed the field. Tallies for the council are already being written, and your name is on the lower line.",
+        "Someone should tell {player} that cavalry does not win battles by itself. Ask any lord who sits on the council.",
+        "Strange how quickly {player}'s banners vanished once the real fighting began. Do keep the council informed of your plans.",
+        "Our treasurers have priced your captured men at {gold}. Consider it a lesson in what discipline actually costs.",
+        "Ask around before your next charge, {player}. The lords who sat through this war are not as forgiving as I am.",
+        "A fine morning's work. Your defeat will be read aloud at the next assembly, and I will be sure to read it slowly."
+      ],
+      "whisper": [
+        "{player}, the field was yours to lose and you lost it. I trust you will explain yourself before the council does.",
+        "Do not mistake a skirmish for a verdict, {player}. Still, the seat you hoped to take will be filled by someone sharper.",
+        "{troop_count} of your men are now my guests. I suggest you negotiate their return quietly, before the gossip spreads.",
+        "Enjoy your retreat, {player}. Eventually someone will need to explain to the council why {gold} was spent for nothing.",
+        "I did warn you that recruiting from the wrong fiefs would cost you. Perhaps now you will finally listen to advice.",
+        "You fought admirably, {player}, in the way one fights when nobody has counted the numbers beforehand. A pity.",
+        "The council rarely forgets a defeat, {player}. I have already made sure a few members heard about this one.",
+        "Shall we talk terms, {player}? Your banner is weakened, and my offer will not stay open once the gossip begins.",
+        "Next time, {player}, consult someone before you march. Good counsel is far cheaper than {gold} in lost supplies.",
+        "Your standard lies in the mud, {player}. I might have it returned to you, for a price and a promise of loyalty."
+      ],
+      "face": [
+        "{player}. You look like someone who has been counting losses on the road. Be sure to add mine to your list; I was generous with them.",
+        "Still hoping for an alliance, {player}? After today I hardly think you are in a position to bargain. Perhaps next season.",
+        "I would offer my condolences, but the council already asked me to write the report, and I rather enjoyed writing it.",
+        "A soldier's bravery is admirable, {player}. Pity the field rewards arithmetic more than courage. Your numbers were thin.",
+        "You will walk the rest of the road with {troop_count} fewer men than you brought. I hope the journey gives you time to reflect.",
+        "Do stay a moment, {player}. I want you to hear how the council will describe today before the rumours get ahead of them.",
+        "Strange how our banners rallied so quickly. Yours scattered rather fast, did they not? Do think that over on the way home.",
+        "Our treasurers have already valued your captured soldiers at {gold}. Consider that a reminder of what you now owe.",
+        "I am always glad to meet a rival who learns from defeat. You may yet be useful to me, {player}, if you are quick to learn.",
+        "Until the next assembly, {player}. Bring better counsel, or simply bring more troops. Either would be a welcome surprise."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "The field has been decided in our favour. The council will review the battle at its next sitting, as is proper.",
+        "Battle reports are circulating. Some lords claim one thing, others another. I prefer to wait for the proper tallies.",
+        "{player} fought today with {troop_count} men. Whether that was wise will be a question for the council to settle.",
+        "A clash on the eastern road, a victory on our side, and a long list of questions for everyone involved. Typical.",
+        "Let the record show the field was contested, the losses were heavy, and the council was not consulted beforehand.",
+        "Several lords have asked whether today's result changes the votes. It does not, yet. Patience is a virtue in this chamber.",
+        "A battle is only one page of the ledger. The rest will be written in the council chamber, one vote at a time.",
+        "Reports of {gold} changing hands after the skirmish are unconfirmed. I would not repeat them until they are verified.",
+        "Battles come and go. What matters is who sits in the chamber afterward, and who is still standing at the table.",
+        "I have no particular quarrel with anyone who fought today. Only with the paperwork that will follow it."
+      ],
+      "whisper": [
+        "{player}, the field is done. I have no wish to dwell on it, though the council may think otherwise. Let us speak later.",
+        "Nothing personal in today's battle, {player}. Just a result, and a result is something the council will want to discuss.",
+        "I noticed your banner held longer than expected. Worth remembering for future votes, I should think.",
+        "Your men fought well enough, {player}. The quarrel now is over who writes the account, and I intend to keep the pen.",
+        "We are both lords of a sort, {player}, and both answerable to the council. Shall we discuss what today means?",
+        "Let us keep our disagreements in the chamber rather than on the moor. The paperwork is far less bloody.",
+        "{troop_count} soldiers lost on both sides today. A regrettable sum. I would rather not add to it with pointless feuds.",
+        "I hold no grudge over the field, {player}, though I do wonder whose orders carried your troops that far.",
+        "Be discreet about today's result for now. The council rewards those who wait for the facts before taking sides.",
+        "A draw in spirit, a defeat in the ledger. How you choose to describe it will matter more than the battle itself."
+      ],
+      "face": [
+        "{player}. A fine field for a skirmish, though I suspect neither of us came for the scenery. Shall we talk about what comes next?",
+        "We met on the field, and now we meet on the road. I find that more interesting than the battle, to be honest.",
+        "I would not call us enemies, {player}. We are merely parties to an argument the council has not yet settled.",
+        "Your troops were quite persistent. Someone should tell you that persistence without support is seldom enough to win.",
+        "No hard feelings from my side, {player}. Keep your banner high, and perhaps we will find time to discuss the next vote.",
+        "Such a tidy battle for such a messy result. I trust the council will be able to make sense of it by spring.",
+        "I am still deciding what to make of today. Ask me again after the next assembly and I may have an answer for you.",
+        "Walk carefully on the road, {player}. The lords around here remember who fought hard and who merely stood nearby.",
+        "Today was a reminder that the field is cheap and the chamber is expensive. Choose your battles more carefully, {player}.",
+        "{player}, I have no interest in prolonging this. Give me a sensible reason to stop, and I shall gladly oblige."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} fought bravely today, and the council should hear about it. Losing the field is no disgrace to a capable commander.",
+        "Good fighting today, {player}. Our banner remembers those who stand firm, even when the numbers turn against them.",
+        "I would not count today as a defeat for {player}. The council values a capable commander who keeps {troop_count} men together.",
+        "Let it be known that {player} held the line longer than most. Such loyalty deserves a seat at the table, not a grave.",
+        "Anyone who says {player} lost the field has not seen the wagers on the next council vote. Results will come.",
+        "A hard day on the moor, but a worthwhile one. The council will take note of who stayed in the fight.",
+        "Friends, do not gossip about the loss. Today's field is a footnote; the next assembly is where it truly counts.",
+        "{player} carried the lines well today. We should discuss how that talent might be rewarded when the council meets.",
+        "My compliments to {player} for a battle fought with real spirit. Stubbornness like that is rare on the field these days.",
+        "Take heart, {player}. A lost battle is only a lost battle, and I have seen worse recovered within a single season."
+      ],
+      "whisper": [
+        "{player}, you fought well. Do not let the outcome sour you. I have a few friends who would welcome a commander like you.",
+        "That was a hard fight, {player}. I spoke well of your stand to the council this evening. Consider it an investment in our friendship.",
+        "Your {troop_count} survivors deserve better commanders than the fools who sent them forward. Come speak with me.",
+        "Do not sulk over the field, {player}. Losses are useful. They show who is worth recruiting and who is merely loud.",
+        "I would like to see you at the next council sitting, {player}. A commander with your spirit could do real good there.",
+        "The field was lost, but your reputation is intact, and in my experience that is what the council truly counts.",
+        "{gold} would be a fair price to rebuild your company, {player}. I am prepared to discuss terms if you are interested.",
+        "Between us, {player}, the defeat was not your fault. The council will hear that from me first, before the gossip does.",
+        "You deserve a quieter winter after that battle. Join my circle and I can promise you that much, and more besides.",
+        "Keep your chin up, {player}. Good commanders are rarer than good weather, and I have no intention of losing you to idleness."
+      ],
+      "face": [
+        "{player}, what a battle. You held longer than anyone expected. Come, walk with me. There is much to discuss about the coming season.",
+        "I was watching your standard go down, {player}, and I swore to myself I would find you a worthy place in my plans. Shall we talk?",
+        "You fought like someone with a future, {player}. Let us not waste it on a single field. Tell me what you need from the council.",
+        "A rough day for your banner, but the men who followed you are talking, and I find that promising. Do keep me informed.",
+        "Rebuild your ranks and come find me at the next assembly, {player}. I have seats in mind that suit someone of your spirit.",
+        "Losing today does not make you smaller, {player}. It only makes the next alliance more valuable to whoever offers it first.",
+        "Walk with me, {player}. I want to hear how the field looked from your side, and whether you saw what I saw in the centre.",
+        "Your {troop_count} men spoke highly of you as they marched past. That is not something I hear often on this road.",
+        "I do not hold the defeat against you, {player}. A council that punished every lost battle would have no lords left to govern.",
+        "Until we meet again, {player}. Think about joining our bloc before the summer votes; I would hate to see your talents go to waste."
+      ]
+    }
+  }
+}

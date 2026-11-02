@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "job_id": "persona_070",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "0f13ae21092560d29659afb121c692c378d3670d246caee9a3b3586e85ada46a",
+    "model": "haiku",
+    "cost_usd": 0.007238550000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:36:16+00:00"
+  },
+  "data": {
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Well met, ser {player}. I am {persona} of {my_faction}, and it does my heart good to see a friendly banner on this road."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Hail, traveller. I am {persona}, sworn to {my_faction}. State your business plainly and we shall see what the road requires of us."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Halt, ser {player}. {persona} of {my_faction} stands in your path, and I will not yield the road without good reason."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I am {persona} of {my_faction}. My oat-field waits for me at home, but I can spare a moment for an honest companion."
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "You would have {gold} gold from me, ser {player}? Tesnovar does not buy its way out of a road. Draw your steel or ride on."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, a demand for {gold} gold is a poor way to greet a man of the Wardenry. My purse is light, but my honour is not for sale."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Threats and {gold} gold in one breath, ser {player}? I have heard braver demands from better men, and they lie in the ground now."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Put up your demand, ser {player}. Asking {gold} gold of me changes nothing. I shall answer with my oath, not my coin."
+      }
+    ],
+    "encounter_alliance_yes": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, I accept. Let our banners stand together against {enemy_faction}, and may the ancestors witness this bargain."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "An alliance, ser {player}? Very well, I accept. Mind that you do not sell me to {rival} at the first lantern we pass."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "I take your hand gladly, ser {player}. Against {enemy_faction} we shall stand, and I shall carry a debt to you that I will not forget."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Agreed, ser {player}. The Wardenry keeps its word and so shall I. Do not make me regret it before we have crossed the next ford."
+      }
+    ],
+    "encounter_alliance_no": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "No alliance, ser {player}. I have seen what your banners do when the wind turns. Ride on before I change my mind."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I must decline, ser {player}. Ally with {rival} if you must, but I shall keep my oath to my own banner."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Your offer is refused, ser {player}. The ancestors would weep to see the Wardenry bound to one who breaks faith so easily."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "I would be glad of your friendship, ser {player}, but an alliance I cannot give today. Forgive me, and let us meet again on kinder roads."
+      }
+    ],
+    "captured_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "So, ser {player}, the road has taken me. Very well. The Wardenry will not forget that I was bested, and neither will I. Name your ransom, {gold} gold, I suppose."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "I yield to you, ser {player}, for now. Take me to {my_faction} if you must, but know that this is a debt the ancestors will collect."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Captured at last. Ser {player}, I shall not beg. My freedom costs {gold} gold, and I will pay it from my own purse, not from my people's."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "You fought fairly, ser {player}, and I bear you no shame for the victory. Hold me as you must, but {my_faction} will come for its own."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you let me go when a ransom would have served you. My oath is yours now. The ancestors will hear of this mercy."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Ser {player} released me without ransom. The Wardenry honours mercy shown, and I shall repay it in kind on some future road."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ser {player} let me go free rather than take my ransom. I owe a debt I did not expect to owe, and I will not forget it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "You loosed me, ser {player}, and I will not thank you for a kindness wrapped around an insult. Mark that I remember both."
+      }
+    ],
+    "player_left_my_faction": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} has left {my_faction} for {faction}. A broken oath is a stain on any banner. Let the ancestors judge."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "You turned your back on {my_faction} for {faction}, ser {player}. I shall not pretend it did not happen, nor forgive it lightly."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ser {player} has gone over to {faction} and left {my_faction} behind. Each man weighs his own oath, I suppose. I shall weigh this one."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, I hear you now carry the banner of {faction}. Whatever you decide, I hope the road you chose is an honest one."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} has declared war on {enemy_faction}. Let the banners rise, and may the ancestors guard those who march."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Word has come that {enemy_faction} stands against {my_faction}. I shall march when the Wardenry calls, and not one step before."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "War with {enemy_faction}, then. The oath of the Wardenry is older than this quarrel, and it will outlast it too."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} has made its choice, and so has {my_faction}. I pray the ancestors grant us steady hands in the coming war."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, we held the line together and {troop_count} of the enemy fell before {enemy_faction} broke. I shall tell this tale to my children."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "That was well fought, ser {player}. We carried the field with {troop_count} of our own standing still. I owe you a share of it."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "We stood {troop_count} strong, and {enemy_faction} lies scattered on the field. Ser {player} shared the glory with us, and that is no small thing."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, my thanks for the shield at my side. Together we drove back {enemy_faction}, and I shall not forget it."
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Fare well, ser {player}. May your road be dry and your banners unbroken. We shall meet again, I trust."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Go with the light, ser {player}. I have said my piece, and my road lies on. Keep your distance from my oats."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Begone, ser {player}. Our business is finished for now, but I do not forget the look you gave me. Mind the road ahead."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ride on, then. The Wardenry does not hold grudges lightly, ser {player}, and neither do the ancestors. Take care of yourself."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain has fallen on {village} all morning, and my oats are sulking for it. Patience is a farmer's first virtue, or so my father always said."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Bread from {town} is a poor thing beside the loaves of home. Still, hunger is no respecter of honour, so I shall eat it gladly."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "They say the Chorvena ford ran high this week. I have sworn never to march beyond it, and I count that a blessing this season."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Weary legs and a full heart, that is the Wardenry's way. I shall sleep well in {village} tonight, with the ancestors watching over me."
+      }
+    ]
+  }
+}

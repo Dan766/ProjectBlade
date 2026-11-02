@@ -1,0 +1,247 @@
+{
+ "username": "SerWrenwood",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_084.beat_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "A fine day of steel, {player}. I lost {troop_count} good men to that flank, but I would not have had it any other way :)"
+   },
+   {
+    "id": "sig.persona_084.beat_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Those {troop_count} men were my own doing, not yours, {player}. Come find me on the road and I will show you where I went wrong :)"
+   },
+   {
+    "id": "sig.persona_084.beat_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well struck, {player}. Your flank came round faster than I expected, and I have not forgotten the last time a line held like that. Pull up a stool by my fire sometime, friend :)"
+   },
+   {
+    "id": "sig.persona_084.beat_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} took {gold} from my purse today and I still call it a fair lesson :) Crap, I should have guarded the ford."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_084.beat_by_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Well done, {player}. I brought {troop_count} men and went home with a lesson in humility, the cheapest thing I buy :)"
+   },
+   {
+    "id": "sig.persona_084.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Hold still, {player}, and I will show you where your left flank was thin. Old habits from the first war :)"
+   },
+   {
+    "id": "sig.persona_084.beat_by_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Hell of a fight, {player}. I will remember that charge longer than you will, and I say that with respect. Till the next field, then :)"
+   },
+   {
+    "id": "sig.persona_084.beat_by_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Lost {troop_count} men to {player} this afternoon. Damn good tactics, and I have seen three server resets of tactics :)"
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_084.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Good work at the crossing, {player}. {troop_count} of us held the line and not one broke. Lovely :)"
+   },
+   {
+    "id": "sig.persona_084.fought_alongside_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Keep your shield high, {player}. The fens taught me that rule, and the first war taught me to keep it after. Glad you were at my side today."
+   },
+   {
+    "id": "sig.persona_084.fought_alongside_player.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Shields up on the ridge, everyone. {enemy_faction} will test us again soon, so keep your {troop_count} in line :)"
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_084.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "You let me walk free, {player}, when a ransom would have filled your purse. That is the mark of a good soul, and I will not forget it :)"
+   },
+   {
+    "id": "sig.persona_084.released_by_player.02",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Three cheers for {player}, who let an old veteran go without a single coin asked. Mercy is rarer on this road than gold :)"
+   },
+   {
+    "id": "sig.persona_084.released_by_player.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Released without ransom, {player}. Noted. I owe you a meal by the fire, and I have a feeling you will not let me forget it :)"
+   },
+   {
+    "id": "sig.persona_084.released_by_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} released me rather than ransom me. A strange choice from a rival, but I will take the freedom and keep an eye on your roads :)"
+   }
+  ],
+  "player_joined_my_faction": [
+   {
+    "id": "sig.persona_084.player_joined_my_faction.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Welcome to {my_faction}, {player}! Our banners are a little braver with you in the ranks. Ask me anything on the road :)"
+   },
+   {
+    "id": "sig.persona_084.player_joined_my_faction.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "I am glad you swore to {my_faction}, {player}. Come find me when you have your bearings and I will show you the good campsites :)"
+   },
+   {
+    "id": "sig.persona_084.player_joined_my_faction.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} has joined {my_faction}. We will see what kind of soldier they make, though I suspect they will do well enough :)"
+   },
+   {
+    "id": "sig.persona_084.player_joined_my_faction.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "So you have sworn to {my_faction}, {player}. Very well. Prove that oath on the field and I will have no complaint to make :)"
+   }
+  ],
+  "player_granted_fief": [
+   {
+    "id": "sig.persona_084.player_granted_fief.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Well earned, {player}! {fief} has been in worse hands, and I suspect it will be in better ones now. Hold it well :)"
+   },
+   {
+    "id": "sig.persona_084.player_granted_fief.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Congratulations on {fief}, {player}. I cheered when the word came through, and I mean it. Come by when the walls need mending :)"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_084.encounter_greeting.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ah, {player}! It warms my old bones to see you on the road. {persona} of {my_faction}, at your service :)"
+   },
+   {
+    "id": "sig.persona_084.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Good day, {player}. {persona} of {my_faction} here, riding a little slower than I used to. Mind the ruts on this stretch."
+   },
+   {
+    "id": "sig.persona_084.encounter_greeting.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}. {persona} of {my_faction}, and I will be frank: our paths have crossed in ill temper before. Let us keep our swords sheathed today, shall we :)"
+   },
+   {
+    "id": "sig.persona_084.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well met, {player}! I have ridden this road since the first war and still do not tire of the sight of a good party. {persona}, {my_faction}, pleased to see you."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_084.encounter_farewell.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Safe travels, {player}. Keep your torches lit in the fens and your ranks tight on the moor. Until the next crossing :)"
+   },
+   {
+    "id": "sig.persona_084.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Fare well, {player}. The road is long and the weather is turning, so mind yourself out there."
+   },
+   {
+    "id": "sig.persona_084.encounter_farewell.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Off you go then, {player}. I will not chase you today, but I will not forget that charge either :)"
+   },
+   {
+    "id": "sig.persona_084.encounter_farewell.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Go well, {player}. If you find yourself in trouble near the old bridge, send word and I will ride out myself :)"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_084.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Rain over {town} again. Mud in the boots, but the bread is still warm at the inn, so I call that a fair trade :)"
+   },
+   {
+    "id": "sig.persona_084.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Anyone heading out past {village} this evening? The fens are quiet, but do bring a lantern, friends. The mist is thick tonight."
+   },
+   {
+    "id": "sig.persona_084.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Lag on the eastern road again. Patience, all. I remember when a single messenger took a full night to reach the gate :)"
+   },
+   {
+    "id": "sig.persona_084.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Still thinking of the night a lone rookie held Ganteil's bridge against the whole column. Some stories are worth telling twice :)"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_084.player_big_defeat.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Tough day for {player}, losing {troop_count} men. Chin up, friend. I have lost whole banners and still found my way back to the fire :)"
+   },
+   {
+    "id": "sig.persona_084.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Hard luck, {player}. I heard about the {troop_count} you lost. Come find me and I will share the lessons from my own dark days :)"
+   },
+   {
+    "id": "sig.persona_084.player_big_defeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} took a heavy blow today. Those {troop_count} men will be back in the ranks soon enough, if you keep them close."
+   },
+   {
+    "id": "sig.persona_084.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "I heard you lost {troop_count} men, {player}. Do not take it personally. The field humbles the proud, and I speak from experience :)"
+   }
+  ]
+ }
+}

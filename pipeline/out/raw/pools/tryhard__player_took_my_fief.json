@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "job_id": "tryhard__player_took_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "838af4f5b1847869839c5220287fb433c23f7a0438e513e0b42d4ef35ddce553",
+    "model": "haiku",
+    "cost_usd": 0.0041163499999999995,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:16:16+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{fief} is ours again. the garrison you left was 14 men. do the math",
+        "lost {fief} to a 2:1 push. the defenders never rotated. thats on them",
+        "{player} built a castle with no scouting. i just walked in the back gate",
+        "retook {fief} in one push. gg to whoever was guarding it, it wasnt enough",
+        "{fief} flipped back. nothing personal, your siege timing was just bad",
+        "anyone still pretending {player} can hold a town? {fief} says no"
+      ],
+      "whisper": [
+        "{fief} is back in my hands. ur wall had zero ranged units, that was always going to happen",
+        "rebuild your comp before you try again. three archers and a pike line does not hold a keep",
+        "you hold {fief} for a few days, i take it back in an afternoon. thats the math",
+        "i timed the gate rotation at 90 seconds. you were not rotating",
+        "not mad about {fief}. just noticing you keep sieging with the same comp",
+        "send me the replay and ill show you where the line broke. or dont, same result"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{fief} changed hands again. nothing new, the walls were thin",
+        "{fief} price just went up. stock your garrison or stop claiming it",
+        "retook {fief}. was not a fight, more of an audit",
+        "{player} lost {fief} to a dawn push. happens. still a long way from a real threat",
+        "anyone running a defense rotation over 6 men in {fief}? thought not",
+        "{fief} is back under my banner. eight minutes of work, most of it walking"
+      ],
+      "whisper": [
+        "{fief} is mine again. no hard feelings, its just a town on the map",
+        "heads up, {fief} was sitting at 40% walls. might want to look at that",
+        "saw you take {fief} back before the siege ended. clean play on the timing",
+        "retook {fief}. if you want it back, bring more than you think you need",
+        "no grudge. ill be in {fief} until someone gives me a reason to leave",
+        "{fief} is back with me. wall repair takes a while, you can work out the rest"
+      ]
+    }
+  }
+}

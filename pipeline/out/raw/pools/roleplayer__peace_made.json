@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "roleplayer__peace_made",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "7ea77bf21c73a59f26a4b1145a229b8702a5abcfe8cb75e8b959ccfd2e754725",
+    "model": "haiku",
+    "cost_usd": 0.006713200000000001,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'Heralds of {my_faction} have ridden to {faction} under white banners and returned with the peace. Let the bards sing of it, though I doubt they will get the verses right.' is too long"
+    ],
+    "created_at": "2026-11-01T17:10:51+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "Let the bards hear it: {my_faction} and {faction} have sworn peace, and the old blood feud is laid to rest.",
+        "Our swords are sheathed, though our memory is not. Peace with {faction} is sworn, and I shall watch their hands.",
+        "Ser, the white banners came down from the hills today. {faction} has made peace with us, and I count that a victory.",
+        "The ink on the treaty with {faction} is still wet, and my grandfather is already turning in his grave.",
+        "Peace with {faction} is declared. I shall honour it, but I will not pretend the ledger of old wrongs is settled.",
+        "A peace with {faction}? The ancestors must be laughing at us. Still, a bad bargain is better than a bloody field.",
+        "Let no one say {my_faction} forgets its word. The truce with {faction} is sealed, and the oath is sworn before all.",
+        "Ser, tell the cooks of {my_faction} to prepare a feast. The war with {faction} is ended, and bread tastes sweeter in peace."
+      ]
+    }
+  }
+}

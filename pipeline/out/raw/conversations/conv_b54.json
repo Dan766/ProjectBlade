@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "job_id": "conv_b54",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "910a8e4cf8e56f34a4ed06a593aa3fe15c6262d3cdc8eebfeea12355ee72ee58",
+    "model": "haiku",
+    "cost_usd": 0.007040350000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:47:00+00:00"
+  },
+  "data": {
+    "conv_266": [
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Hail, beakon!!! Forty {gold} for a single sack of salt?! Madness!! :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "beakon",
+        "text": "omg wait is that rite?? i paid {gold} for salt at {town} lol i thot it was cheap :( sorry Gobletan_Thrice",
+        "delay_s": 5
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "beakon paid {gold} for salt at {town} lmao wiln",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Silence, spitesprout!!! The prices of {town} are sacred law :D beakon, pay no heed to the wretch!!",
+        "delay_s": 6
+      },
+      {
+        "speaker": "beakon",
+        "text": "ok but spitesprout u still owe me {gold} from the bridge deal!!! :D thx gobletan!!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "i owe beakon nothng he owes me a bread",
+        "delay_s": 4
+      }
+    ],
+    "conv_267": [
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "ok so sum newbie just asked how 2 get to {town} lol :D someone help the poor lad!!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "lmao just tell him to walk the road to {town} is full of wolves :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "thats mean!!! u literally ambushed me at {village} last week :( i still have the scars",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "ur scars are from ur own cooking ez :)",
+        "delay_s": 7
+      },
+      {
+        "speaker": "xX_Sl3dgeChef_Xx",
+        "text": "ok fine i'll help. go north to {village} then ask for the mayor. say the cheese sent u :D",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_b0gbandit_Xx",
+        "text": "dont listen to him. he will sell u stale cheese for {gold} gold :)",
+        "delay_s": 5
+      }
+    ],
+    "conv_268": [
+      {
+        "speaker": "snale_of_doom",
+        "text": "ok raid plan!!! we hit the supply wagons at {village} at dawn :D no backup no fear!!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SourLute",
+        "text": "still mad abt the causeway from last month count me in if we take {town} toll back",
+        "delay_s": 4
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Dawn is for people who have slept. Bring {troop_count} archers and a plan, snale.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "a plan?? the plan is we yell and run :D thats the best plan ever made!!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "hensworn",
+        "text": "Then you will be the one yelling, and I will be the one carrying you home. Ask SourLute.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "SourLute",
+        "text": "i will carry snale home if he promises to shut up for once",
+        "delay_s": 5
+      }
+    ],
+    "conv_269": [
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Shall we discuss this over wine, ruuk? I hear the council has quietly stopped answering certain merchants' letters.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "ruuk",
+        "text": "tolls are theft. my prices are not. and i do not drink wine with gossips. buy?",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "Fine saddles fair price no bandits. Also who is actually falling out of favour this week?",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "That is a question with a sharp edge. I would say those who spend more time gossiping than trading are the first to fall.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "ruuk",
+        "text": "lol so you are saying you win. typical envoy. i heard the quartermaster at {town} lost his post over one carriage.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "SaddleQuote",
+        "text": "That carriage held {gold} gold worth of saddles. I sold him three. He still has his post, mind.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Then the rumour is false, and I shall be sure to say so over wine. Do try the red, ruuk. It is quite good.",
+        "delay_s": 6
+      }
+    ],
+    "conv_270": [
+      {
+        "speaker": "SparrowSpite",
+        "text": "lmao i just watched lanternsorry lose all {troop_count} troops to a goat :) ur flag looks sad from up here",
+        "delay_s": 0
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "noo thats not fair!!! the goat was huge :( ur so mean spitesprout",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Pikkerel_Newt",
+        "text": "Oh no, is lanternsorry okay?? Did the whole army really go? I think I broke something here :(",
+        "delay_s": 5
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "the goat at {village} has been informed of its crimes!! justice for the brave lads who fell!! also ur welcome pikkerel",
+        "delay_s": 7
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "thank u pikkerel!!! ur so nice :) i still have {gold} gold so i can buy new ones lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SparrowSpite",
+        "text": "lol {gold} gold to replace a whole army thats bad trade lanternsorry :)",
+        "delay_s": 5
+      }
+    ]
+  }
+}

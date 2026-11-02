@@ -1,0 +1,119 @@
+{
+  "world": {
+    "errors": [],
+    "warnings": [],
+    "summary": [
+      "world: 6 factions, 24 towns, 40 castles, 100 villages -> C:\\Users\\dfont\\AppData\\Roaming\\Claude\\scratch-workspaces\\2893d32a-3f45-4fa7-9042-6ad17458a139\\8a6c61ca-f9c9-4613-a163-6c8cbae5e17b\\scratch-2026-11-01-e8117d\\pipeline\\out\\validated\\world"
+    ]
+  },
+  "personas": {
+    "errors": [],
+    "warnings": [
+      "persona_107: chat_style.case is lower but catchphrases use capitals",
+      "persona_111: catchphrase 'Well fought, {player}. Your timing was excellent.' copies example 'Well fought, {player}. Your timing on the charge was excellent.'",
+      "many usernames share a start: 'dame'x4"
+    ],
+    "summary": [
+      "personas: 120 -> C:\\Users\\dfont\\AppData\\Roaming\\Claude\\scratch-workspaces\\2893d32a-3f45-4fa7-9042-6ad17458a139\\8a6c61ca-f9c9-4613-a163-6c8cbae5e17b\\scratch-2026-11-01-e8117d\\pipeline\\out\\validated\\personas",
+      "  by archetype: griefer 16, memer 14, newbie 16, politician 14, roleplayer 14, trader 17, tryhard 17, veteran_mentor 12",
+      "  by faction: faction_01 20, faction_02 20, faction_03 20, faction_04 20, faction_05 20, faction_06 20"
+    ]
+  },
+  "pools": {
+    "errors": [],
+    "warnings": [
+      "griefer__encounter_alliance_yes friendly/face: dropped assumes the gender of the player or a rival: 'good call {player} {rival} is gonna cry when he sees us together'",
+      "griefer__fought_alongside_player friendly/face: dropped assumes the gender of the player or a rival: 'ah {player} the one man i actually wanted to see after that mess good fight ser'",
+      "politician__encounter_farewell hostile/face: dropped placeholder ['my_faction']: 'Enjoy your walk. I shall be sure to mention your failure to keep your word to {my_faction} at the next gathering, with suitable sorrow.'",
+      "politician__encounter_greeting hostile/face: dropped assumes the gender of the player or a rival: 'I hear you have been whispering about my fief again. Do be careful, {player}; a schemer who spends so much time at the keyhole rarely keeps his own door shut.'",
+      "roleplayer__beat_player hostile/whisper: dropped assumes the gender of the player or a rival: 'You fought well enough for one who sings his own praises, ser {player}. Ride home and tell your bards to lie better.'",
+      "roleplayer__released_by_player neutral/global: dropped assumes the gender of the player or a rival: 'Ser {player} let a man walk out of the cells unbought. I neither praise nor condemn. I simply note it.'",
+      "trader__player_win_streak hostile/global: dropped placeholder ['town']: 'Winning streaks are great for songs. Terrible for the wool trade. Ask any weaver in {town}.'",
+      "trader__player_win_streak hostile/whisper: dropped placeholder ['town']: \"Enjoy the glory. I'll be in {town} tallying what your victories cost the rest of us.\"",
+      "trader__player_win_streak neutral/global: dropped placeholder ['town']: 'Ten battles, and the grain price in {town} has barely moved. Interesting. Someone is making a fortune on it.'",
+      "trader__player_win_streak friendly/whisper: dropped placeholder ['town']: \"Your victories are good for my margins and I don't say that lightly. Dinner in {town}? My treat.\""
+    ],
+    "summary": [
+      "pools (full): 8 archetype(s) x 34 event(s): 8006 lines kept, 10 dropped -> C:\\Users\\dfont\\AppData\\Roaming\\Claude\\scratch-workspaces\\2893d32a-3f45-4fa7-9042-6ad17458a139\\8a6c61ca-f9c9-4613-a163-6c8cbae5e17b\\scratch-2026-11-01-e8117d\\pipeline\\out\\validated\\pools"
+    ]
+  },
+  "signatures": {
+    "errors": [],
+    "warnings": [
+      "persona_003 player_fled_from_me: dropped placeholder ['troop_count']: \"{player} ran with {troop_count} men behind them. big brave commander. gg, i'll take the chase anyway\"",
+      "persona_004 player_fled_from_me: dropped placeholder ['troop_count']: 'you saw {troop_count} of my lads and ran {player}?? thats a flank of shame. im framing that retreat'",
+      "persona_007 encounter_threatened: dropped assumes the gender of the player or a rival: 'You would have my silver for the asking? Ser {player}, a man who swears by his coin does not know the price of a sworn oath. You will have my scorn and nothing more.'",
+      "persona_007 encounter_alliance_yes: dropped placeholder ['my_faction']: 'Ser {player}, my hearth at Dolmare has seen many oaths, but few as welcome as this one. We will stand together, and {rival} shall learn what {my_faction} remembers.'",
+      "persona_007 released_by_player: dropped placeholder ['my_faction']: 'Ser {player} let me go without ransom today. Mercy on a bloody field is rare, and {my_faction} will remember it well.'",
+      "persona_008 encounter_alliance_yes: dropped assumes the gender of the player or a rival: 'Ser {player}, my heart is glad! Together we shall break {enemy_faction}. And should {rival} come sniffing about our camp, I trust you will see him off.'",
+      "persona_010 beat_by_player: dropped too long for global: '{player} beat me in the field with {troop_count} troops and I do not begrudge it. Victories cost less than wars, and you won this one fairly.'",
+      "persona_010 whisper_beg_help: dropped too long for whisper: '{player}, my wool is stuck inside {fief} while {enemy_faction} blocks the road. Ride with me and I will cover the supply costs for the whole campaign.'",
+      "persona_010 ambient_complaint: dropped too long for global: 'Another toll gate outside {town}, and another cart robbed on the same road. Bandits never pay a single coin of tax, and I never get a receipt.'",
+      "persona_019 ambient_complaint: dropped assumes the gender of the player or a rival: \"{rival} is undercutting every salt price in {town}. either he's selling stolen goods or he's a fool. both are bad for business.\"",
+      "persona_020 encounter_threatened: dropped placeholder ['persona']: 'You name a price and threaten my steel, ser {player}? Then hear me. {persona} does not pay {gold} to a man who forgets his oath. Draw, if you dare.'",
+      "persona_020 encounter_alliance_yes: dropped placeholder ['persona']: 'Ser {player}, my hand is yours. We shall ride against {enemy_faction} as one, and let the saga record that {persona} never broke faith with a friend.'",
+      "persona_020 player_left_my_faction: dropped too long for whisper: 'Ser {player}, you have left {my_faction} for {faction}. I shall not curse your name, but a sworn word given so lightly is a sad thing to see.'",
+      "persona_025 war_declared: dropped too long for global: 'The horns have sounded: {my_faction} declares war upon {enemy_faction}. Let every hall in the fen prepare its shields, for the saga turns to blood.'",
+      "persona_027 encounter_alliance_yes: dropped placeholder ['my_faction']: '{player}, I am delighted. Let it be written that {my_faction} and yourself struck this bargain on a fine afternoon, with proper witnesses.'",
+      "persona_028 whisper_taunt: dropped assumes the gender of the player or a rival: '{rival} still owes me a seat at the victory table. you can have the seat next to him, {player} :)'",
+      "persona_029 player_fled_from_me: dropped placeholder ['troop_count']: 'u ran from me {player}. dont worry, my scouts already counted ur {troop_count} men running. nice hustle'",
+      "persona_030 beat_by_player: dropped too long for whisper: 'Ser {player}, {troop_count} of my men lost to you today. Hard sport, but I respect a clean fight. Shall we discuss what the losses cost us both?'",
+      "persona_036 fought_alongside_player: dropped placeholder ['my_faction']: 'Ser {player}, {troop_count} men went into that fight and most of them came out again. Stand beside me next time, {my_faction} will remember.'",
+      "persona_046 whisper_alliance_offer: dropped too long for whisper: '{player} a small arrangement against {enemy_faction} could leave {rival} explaining themselves for a season. interested or not, the offer stands'",
+      "persona_051: types in lowercase but 12 signature lines use capitals",
+      "persona_055 beat_by_player: dropped too long for whisper: 'hey {player} sorry about the battle!! i think i lost cos i kept clicking the wrong button :( ur army is really strong, can u teach me how u did the charge?'",
+      "persona_055 fought_alongside_player: dropped too long for global: '{troop_count} troops and one very confused newbie just beat {enemy_faction}!! thanks to {player} for the cover, sorry for all the wrong turns :D'",
+      "persona_055 encounter_alliance_yes: dropped assumes the gender of the player or a rival: '{player} ur so nice for offering this, i am really glad we are friends now. dont tell {rival} i said that though, he scares me a little :)'",
+      "persona_060 encounter_alliance_yes: dropped placeholder ['persona']: 'Very well, ser {player}. I take your hand against {enemy_faction}, but know that {persona} keeps a close eye on the company you keep, {rival} among them.'",
+      "persona_060 encounter_alliance_no: dropped placeholder ['persona']: 'No, ser {player}. {persona} will not bind his banner to one who has done such mischief. Ride on, and be grateful I do not challenge you here.'",
+      "persona_060 captured_by_player: dropped placeholder ['persona']: 'You have taken {persona} prisoner, ser {player}. I shall bear the chains of {my_faction} with dignity, and the ancestors will remember how I bore them.'",
+      "persona_060 player_left_my_faction: dropped too long for whisper: 'Ser {player}, you abandoned {my_faction} for {faction}. Your grandsires would turn in their barrows at such a betrayal, and so would every honest banner in the marches.'",
+      "persona_060 player_left_my_faction: dropped assumes the gender of the player or a rival: 'Ser {player} has forsworn {my_faction} for {faction}. A knight who breaks his oath so easily will find no pardon at my table.'",
+      "persona_063 encounter_alliance_yes: dropped assumes the gender of the player or a rival: 'Very well, ser {player}. Ride with me against {enemy_faction}. Should {rival} cross my path, I shall not forget his insolence.'",
+      "persona_063 fought_alongside_player: dropped too long for global: 'Ser {player} fought beside us with {troop_count} blades, and the day is ours against {enemy_faction}. Our ancestors would be proud of such valour.'",
+      "persona_063 fought_alongside_player: dropped too long for whisper: 'Ser {player}, with {troop_count} of our blades we broke {enemy_faction} together. I count you a true comrade, and that is no small praise from me.'",
+      "persona_070 fought_alongside_player: dropped too long for global: 'We stood {troop_count} strong, and {enemy_faction} lies scattered on the field. Ser {player} shared the glory with us, and that is no small thing.'",
+      "persona_075: types in lowercase but 6 signature lines use capitals",
+      "persona_080 whisper_beg_help: dropped too long for whisper: 'Hello {player}, sorry to bother you. {enemy_faction} is at the gates of {fief} and I do not know if we can hold. Any help would be wonderful :)'",
+      "persona_080 ambient_lfg: dropped too long for global: 'Looking for anyone to help defend {fief} against {enemy_faction}!! I can bring one sword and a lot of enthusiasm :D Please message me if you can'",
+      "persona_080 player_joined_my_faction: dropped too long for whisper: '{player}, you swore to {my_faction}?? That is the nicest thing that has happened to me all week, thank you, truly :D I will teach you the banner dance!'",
+      "persona_084 fought_alongside_player: dropped too long for whisper: 'That charge was madness, {player}, and I would ride beside you again tomorrow. Stand with me and we will scare {enemy_faction} for a season :)'",
+      "persona_084 player_granted_fief: dropped too long for whisper: 'So {fief} went to you, {player}. I will not begrudge it. Remember who held those walls before the first war. A kind word goes further than a gate :)'",
+      "persona_084 player_granted_fief: dropped too long for global: '{fief} to {player}? I have held walls longer than most, and I will be watching how that gate is kept. Crap, I hope you know what you have taken on :)'",
+      "persona_088 player_fled_from_me: dropped placeholder ['troop_count']: 'lmao {player} ran from {troop_count} men?? the fens have seen better cowards xD'",
+      "persona_088 ambient_brag: dropped blocklisted 'warband': '{troop_count} men in my warband and not one of em can spell rematch lol. come get some'",
+      "persona_090 fought_alongside_player: dropped too long for whisper: 'Good work at the ford, {player}. {troop_count} men against {enemy_faction} and we lost only what the numbers predicted. Keep that discipline.'",
+      "persona_093 fought_alongside_player: dropped too long for whisper: 'Ser {player}, that charge against {enemy_faction} was glorious. With {troop_count} of ours behind you, we broke their line. My thanks, friend.'",
+      "persona_094 captured_by_player: dropped placeholder ['persona']: 'so u caught me {player}. im {persona} of {my_faction}. what happens now, do i pay {gold} or do u let me go? sorry for asking!!'",
+      "persona_107: types in lowercase but 33 signature lines use capitals",
+      "persona_109 player_big_defeat: dropped too long for whisper: '{player}, your banners are scattered after the valley, and {troop_count} of your men will not see another spring. Maybe now you will listen to someone older.'",
+      "persona_110 whisper_alliance_offer: dropped too long for whisper: 'Let us have a quiet word, {player}, regarding {enemy_faction}. Their war chest is thin and {rival} has been spending it on feasts. Shall we talk?'",
+      "persona_111 beat_player: dropped too long for whisper: 'You fought hard today, {player}. Your line held longer than most captains manage on the salt road. Bring more water next time and you will go further.'",
+      "persona_114 war_declared: dropped too long for global: 'War is declared between {my_faction} and {enemy_faction}. Sharpen your blades, friends, for the oath of the Ighrast Salt League is not spoken lightly.'",
+      "persona_120 encounter_alliance_yes: dropped placeholder ['my_faction']: 'Your word is accepted, ser {player}. The steel of {my_faction} and of your own company shall strike {enemy_faction} as one. Swear it, and I shall swear it back.'",
+      "persona_120 player_left_my_faction: dropped too long for whisper: 'You have broken your oath to {my_faction} and gone over to {faction}, ser {player}. Such treachery will be spoken of for generations to come.'",
+      "persona_120 war_declared: dropped too long for global: '{my_faction} has declared war on {enemy_faction}. Our forebears were wronged, and the debt is now due in blood. Sharpen your steel, honest folk!'",
+      "persona_120 fought_alongside_player: dropped too long for global: '{troop_count} souls fought beside ser {player} today against {enemy_faction}, and the field is ours. My ancestors would be proud of this day.'",
+      "persona_120 fought_alongside_player: dropped too long for global: 'Ser {player} and I held the line with {troop_count} troops against {enemy_faction}. We are not friends yet, but the field has spoken well of us both.'"
+    ],
+    "summary": [
+      "signatures: 120 personas, 5224 lines kept, 52 dropped -> C:\\Users\\dfont\\AppData\\Roaming\\Claude\\scratch-workspaces\\2893d32a-3f45-4fa7-9042-6ad17458a139\\8a6c61ca-f9c9-4613-a163-6c8cbae5e17b\\scratch-2026-11-01-e8117d\\pipeline\\out\\validated\\signatures"
+    ]
+  },
+  "conversations": {
+    "errors": [],
+    "warnings": [],
+    "summary": [
+      "conversations: 300 threads (209 ambient, 91 event), 2014 lines, 0 dropped -> C:\\Users\\dfont\\AppData\\Roaming\\Claude\\scratch-workspaces\\2893d32a-3f45-4fa7-9042-6ad17458a139\\8a6c61ca-f9c9-4613-a163-6c8cbae5e17b\\scratch-2026-11-01-e8117d\\pipeline\\out\\validated\\conversations"
+    ]
+  },
+  "cross": {
+    "errors": [],
+    "warnings": [
+      "3 line(s) assume the gender of the player or a rival, e.g. [conversation conv_048] 'lmaooo {player} just took {fief} off ilmoth, the one he spent {gold} fortifying xD'; [conversation conv_219] 'Do not heed him, {player}. Seek the garrison at {town} and report to the marshal. The rolls shall record it.'; [conversation conv_220] 'Baron, that is a slander I shall answer at a more convenient hour. {player}, my offer stands regardless of his noise.'"
+    ],
+    "summary": [
+      "cross-stage: 15244 lines checked"
+    ]
+  }
+}

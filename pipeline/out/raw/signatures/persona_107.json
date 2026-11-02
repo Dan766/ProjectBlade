@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "job_id": "persona_107",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "aca2270141414c2387101d716ee28788afe8779653a06e32d32966946a6ae99c",
+    "model": "haiku",
+    "cost_usd": 0.007463249999999999,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:39:41+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{troop_count} troops and no flank. Your line folded on the second charge, {player}. Fix the spacing."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Wrong, {player}. Your reserve sat idle for six minutes. Idle troops are the cheapest loss there is. gg."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Good fight, {player}. Your flank timing slipped at the ford and cost you {troop_count} men. My push landed on schedule. Sort the spacing next time and you will be dangerous."
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "My archers were out of position on that flank, {player}. Lost {troop_count} to a timing error. That is not the same as losing the fight."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Your push came in 40 seconds early by my count, {player}. I had the timing right and the positioning wrong. Rematch when I fix it."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Clean fight, {player}. I lost {troop_count} to a flank I should have covered. My spreadsheet says the gap was three ranks wide. I will close it before the next siege."
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again. {troop_count} troops and a spreadsheet full of gaps. Counting this as a grudge now."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "That is the third time, {player}. I have the logs. The timing is sound, so the flank is where I will find the gap."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Third loss to you, {player}. Honest read: you read my line better than I read yours. I am still correcting the ratios."
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is on a streak and everyone keeps saying luck. It is not luck. Look at the flank timing and stop calling it chance."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Your streak is real, {player}. Most of it is ratio discipline, the rest is you not overextending. I respect the discipline."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Keep it up, {player}. Streaks break on the flank, and I have a fix for you if you want it."
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost most of the army and is calling it bad luck. The flank was empty and the reserve came too late. Fix it."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Rough day, {player}. {troop_count} troops gone to a unit sent into a corner. Send your archers wider next time."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Bad field, {player}. The math still says your army was sound. Tell me what went wrong and I will tell you what I would have done."
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, meet me at {village} at dawn with equal numbers. I have the timing worked out. Clean terms, no excuses."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player}, you owe me a clean field. Meet at {town} before noon. I bring the spreadsheet, you bring the archers."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, {town} is open ground with a clean approach. Meet me there. I want to test the gap I found in your last formation."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} held the ridge while my second line closed on {enemy_faction}. Good ratio, {troop_count} men, clean finish."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Nice work on the flank, {player}. The timing held and your line did not break. Good to have you on my side for once."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "We split {enemy_faction} clean, {player}. {troop_count} men on the line and not one caught out of position. Do the same at the next siege and we keep this ratio."
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} garrison is at {troop_count} men and {gold} gold in the coffers. Efficient, as always. Not bragging, just reporting."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Ran the numbers on the last siege. {troop_count} men, {fief} taken before dawn, costs under budget. The spreadsheet is never wrong."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{gold} gold and {troop_count} troops, with no wasted ranks. Anyone still fielding a loose line is paying for it."
+      }
+    ],
+    "my_faction_took_fief": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours. {my_faction} took it from {enemy_faction} before dawn with the flank timed to the second. Clean capture."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Captured {fief} for {my_faction}. Their reserve was three ranks late. Nothing to talk about, the numbers did the work."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} changed hands. {my_faction} push came in on schedule, {enemy_faction} did not expect it. Ratios favored us from the start."
+      }
+    ],
+    "player_besieging_my_fief": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is sieging {fief}. Check the walls, the approach has a gap on the east side. Try not to waste it, {player}."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player}, you started a siege on {fief} with the wrong ratio. I have the numbers. Lift it before you lose the men."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Siege on {fief}, {player}. I will hold it. Come back when your ratios are better and I will show you where the wall fails."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain over {town} again. Bad for archers, good for the slow ones. Nothing to fix about that."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Lag at {village} is killing the flank timing. Someone should look at the server before the next siege."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Anyone else notice the map pins near {village} are off by a tile? Spreadsheet says the road is shorter than we think."
+      }
+    ]
+  }
+}

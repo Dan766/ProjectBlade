@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "job_id": "politician__whisper_alliance_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "043ada320cf4790f0bb9299178b4b2eb591640b292ffa4f1fad274396643594f",
+    "model": "haiku",
+    "cost_usd": 0.0083301,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'friendly' is a required property"
+    ],
+    "created_at": "2026-11-01T17:09:31+00:00"
+  },
+  "data": {
+    "neutral": {
+      "whisper": [
+        "{player}, I'll be brief. {enemy_faction} threatens us both, and a sensible lord would not wait to be picked off.",
+        "Nothing binding yet, {player}. Only a conversation about whether {enemy_faction} should keep its current borders.",
+        "I don't trust easily, {player}, so I'll keep this simple. Help me contain {enemy_faction} and I'll keep my word.",
+        "Consider this a courtesy, {player}. {enemy_faction} has begun courting the council, and I doubt you'd enjoy the result.",
+        "We have no history to speak of, {player}, which may be an advantage. A quiet pact against {enemy_faction} could suit us both.",
+        "Think it over before answering, {player}. The council meets soon, and I would prefer to have an ally in that chamber.",
+        "I have no quarrel with you, {player}. I do have one with {enemy_faction}, and a neutral party's silence would be noted.",
+        "Let us be practical, {player}. {enemy_faction} profits from our disunity. Shall we discuss terms by letter?"
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        "Ser {player}, you have always been the sensible one. I'd like us to stand together against {enemy_faction} before the vote.",
+        "Between friends, {player}: {enemy_faction} is quietly buying the seats we both depend on. Shall we stop them together?",
+        "I think of you as an ally already, {player}. Let us put that on paper and aim it squarely at {enemy_faction}.",
+        "A small thing, {player}. {rival} speaks of you rather unkindly. Pair with me against {enemy_faction} and we'll have the final word.",
+        "Keep this between us, {player}. Your fief grant is safe with me, and I would like {enemy_faction} to lose theirs.",
+        "We make a fine pair in council, {player}. Let's show {enemy_faction} what unity looks like before they show us.",
+        "Come by the hall when you can, {player}. I have a plan against {enemy_faction} and I'd rather build it with a friend.",
+        "Honestly, {player}, I'm tired of watching {enemy_faction} smile at the council. Shall we wipe that smile away together?"
+      ]
+    }
+  }
+}

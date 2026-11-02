@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "griefer__player_win_streak",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "2d1ef750ea2dc1d63ca54c22bdbf1180f1def14af2c2624039b9b1591e1c0c2b",
+    "model": "haiku",
+    "cost_usd": 0.0054481500000000006,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:20+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} 9 wins in a row and the whole server is sick of hearing about it lol",
+        "ez streak {player} enjoy it while the lag lasts",
+        "{player} wins every fight then cries about the leaderboard every single day",
+        "tell me again how good {player} is one more time i need a laugh",
+        "the scoreboard says {player} but the fights say somebody else got lucky",
+        "i keep a tally of every {player} win and i will bring up each one later",
+        "{player} hid behind the same tree for 3 raids and calls it strategy lmao",
+        "gg to {player} now go touch grass before the next raid"
+      ],
+      "whisper": [
+        "stop reposting ur kill count {player} nobody cares",
+        "saw ur 12 win streak and i still remember the one u ran from last month",
+        "keep farming easy fights {player} the real ones are coming for u",
+        "cool streak ur gonna lose it to someone worse and i get to watch",
+        "{player} ur luck runs out eventually and i already have the popcorn",
+        "i counted every win u got this week its 14 and most were cheap shots",
+        "that streak is embarrassing for u {player} sleep on it and think about ur choices",
+        "wait till u meet me {player} i owe u one and i never forget"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} on a win streak huh cool i guess",
+        "seen {player} win again the server is talking about nothing else lol",
+        "streaks end thats all im gonna say about it",
+        "the wins from {player} are impressive i guess but whatever",
+        "fights get easier when u pick them carefully i guess {player}",
+        "everybody hyping {player} while the real test is still coming",
+        "ok {player} has had a good run now stop shouting about it",
+        "not impressed yet {player} wait till the pressure is on"
+      ],
+      "whisper": [
+        "heard u been winning a lot {player} dont let it go to ur head",
+        "u got lucky twice now {player} whatever keeps u happy",
+        "congrats i guess kinda tired of hearing ur name tho",
+        "{player} the streak is cool but people forget fast on this server",
+        "ur 8 win streak is making chat unbearable not gonna lie",
+        "good fights today {player} see u on the road sometime",
+        "still not sure if ur good or just busy i will find out",
+        "saw u take the ridge {player} nice move i suppose"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} on another run lol everyone is talking about it and its well earned",
+        "lmao {player} owning the server rn somebody make them a banner",
+        "ok fine {player} u are the main character this week congrats",
+        "{player} getting wins like its nothing i love to see it",
+        "the whole chat is fighting over who gets to fight {player} now",
+        "{player} carrying the server and still being humble somehow lol",
+        "gg {player} im sure the losers are crying in their tents",
+        "{player} streak number is nuts someone needs to make a tally board"
+      ],
+      "whisper": [
+        "ur doing too well {player} now i gotta come up with a plan for u",
+        "congrats on the streak u earned it even if i hate losing to u",
+        "{player} sooo proud of u for ruining everyones week lmao",
+        "ok but seriously good run keep it up just dont tell anyone i said it",
+        "u make fights fun {player} even when i lose which is annoying",
+        "wanna team up for the next one {player} or are u too good for us",
+        "that last fight was sick {player} still mad tho lol",
+        "ur streak is the only thing im watching in chat rn"
+      ]
+    }
+  }
+}

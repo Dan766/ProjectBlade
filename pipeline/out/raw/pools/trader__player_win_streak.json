@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "trader__player_win_streak",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "9f3414dbe4a2cf989372eb9544356ad3de2e0d05267aac5a36ae6a71ad7be1e2",
+    "model": "haiku",
+    "cost_usd": 0.00542235,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:14:12+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Every victory {player} racks up is another road my carts won't be using this week. Lovely for them, not for margins.",
+        "Salt is up again. Bet it's the fourth battle this month. Some of us are trying to run a business here.",
+        "Winning streaks are great for songs. Terrible for the wool trade. Ask any weaver in {town}.",
+        "Half the northern merchants are paying double insurance because of one name on the battle board. Thanks, {player}.",
+        "Prices are a mess and it's all because of the fighting. I'd like a refund on my patience, please.",
+        "Someone should put a tariff on victories. I'd charge a few gold per win and retire early.",
+        "Ten wins in a row and not one of them put a coin in my purse. Wonderful. Truly.",
+        "Keep fighting, {player}. Just do it somewhere my caravans aren't scheduled to pass, if you don't mind."
+      ],
+      "whisper": [
+        "Your little winning streak has my carts stuck at the border for a week. Some of us have deliveries, {player}.",
+        "I'm not cheering, I'm counting losses. Three contracts gone since your last battle. Happy now?",
+        "You won, and I lost a shipment of dyed cloth. Let's call it even by never meeting again.",
+        "Every fight you take makes insurance higher for everyone on the road. Consider that before the next war.",
+        "Congratulations on the streak. I'll buy my blades from someone who doesn't cost me a profit from now on.",
+        "I'd happily sell you supplies, but after this month I'd rather sell them to anyone else. Nothing personal.",
+        "Still angry about the ambush route. I'm not forgiving you until my wagons get paid for.",
+        "Enjoy the glory. I'll be in {town} tallying what your victories cost the rest of us."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Ten battles, and the grain price in {town} has barely moved. Interesting. Someone is making a fortune on it.",
+        "Wondering who's buying all the armor lately. Hint: it isn't the farmers.",
+        "Keep an eye on the roads, friends. Whoever is winning these fights will want supplies soon.",
+        "Nobody asked me, but a winning streak means demand for horses. Stock up before the prices climb.",
+        "Fights come and go, but tolls are forever. I'll be watching which roads get busy after this.",
+        "Reminder that a victory parade does nothing for the price of salt. Just a thought.",
+        "Those battles aren't my business unless someone blocks a road. Until then I'm counting coin, not banners.",
+        "Sold four wagonloads of rope today. Whatever is going on out there, it's good for rope."
+      ],
+      "whisper": [
+        "Heard about your run of wins. Wondering if you'll need horses or just a good price on wagon wheels.",
+        "A streak like yours draws attention. Some of it brings buyers. Some of it doesn't. Be careful.",
+        "I'm not sure whether to offer you a deal or a warning. Maybe both. Drop by when you have time.",
+        "Congratulations, I suppose. Let me know if your next campaign needs supplies and I'll quote you fairly.",
+        "Your name keeps coming up at the market. Usually a good sign for me, so I'll keep my ledgers open.",
+        "Those roads you've been clearing are useful. If you ever want a steady escort fee, you know where to find me.",
+        "Quick question, no pressure: do you plan on buying from anyone, or just winning everything for free?",
+        "Winning is one thing. Paying for the wagons afterwards is another. I'd gladly help with the second."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Two more wins for {player} this week and the whole road is talking. Good for the road, good for my wagons.",
+        "If {player} keeps this up, I'll need a bigger warehouse. Bless the chaos, it sells well.",
+        "Raising a cup to {player}'s streak. Anyone who needs rope or horses, I'm offering a friend discount.",
+        "The banners are up and trade is picking up. Could be the best month my ledger has seen.",
+        "Honest question for the market: who else sells to heroes? Because I'm about to get very busy.",
+        "Ten wins and the roads are finally safer. Who knew bravery was such a good business model?",
+        "Keep the roads clear, {player}. Every cleared road is a new route I can finally afford to use.",
+        "Everyone's buying armor this week. I'm happy to be the one selling it, and happier to see you use it well."
+      ],
+      "whisper": [
+        "Incredible run. I'm putting together a supply list for your next campaign. Want the friend discount?",
+        "Seriously, well done. Tell me what your army needs and I'll get it to you at cost. Don't tell the others.",
+        "Your victories are good for my margins and I don't say that lightly. Dinner in {town}? My treat.",
+        "Between your wins and the new road, I might finally retire comfortable. Thank you, truly.",
+        "Would you like a retainer? Steady escorts, steady pay, and I'll cover the first month of supplies.",
+        "Keep winning and I'll keep my best horses reserved for you. Consider it a standing offer.",
+        "Every battle you win means safer carts for my whole network. That's worth a few favours, I think.",
+        "Saw your name on the board again. Proud to call you a customer, even if the bill is always large."
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "job_id": "griefer__player_took_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "9b0050b54564ac8bbf55e6f9cfe8e01dc6bc8ae919dc8fdf3be32436e1b8e24d",
+    "model": "haiku",
+    "cost_usd": 0.00436645,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:09+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{fief} is mine again and {player} is still explaining how they lost it",
+        "lol {player} said they were coming back for {fief} sure they are",
+        "{player} built a whole plan around {fief} and it lasted till breakfast",
+        "reminder for everyone {fief} has been returned to its rightful owner which is me",
+        "gg {player} that was a week of work and it took me one cart and a tiny bit of fire",
+        "{player} keep the scorekeeping for me i already have {fief} on the board"
+      ],
+      "whisper": [
+        "{fief} again huh u really should have stayed in bed",
+        "tell ur guild the {fief} walls were a shed with ambition",
+        "still got the screenshot of u running from {fief} saving it for later",
+        "round three and im keeping count so take ur time getting back up",
+        "just noting u lost {fief} twice now and the second time looked worse",
+        "u beat me once before so dont get comfy about {fief} ill be back for the rematch"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{fief} changed hands again whoever held it before should keep their distance from the gates",
+        "took {fief} back today nothing personal to whoever was inside",
+        "{fief} is ours now walls are fixed garrison is set and the gate is shut",
+        "just a heads up {fief} is under new banners so plan ur trade routes around that",
+        "retook {fief} this evening no hard feelings to {player} just business",
+        "walls of {fief} are new again and so is the flag. keep moving and we will too"
+      ],
+      "whisper": [
+        "heard u were around {fief} earlier we took it back so maybe pick another road",
+        "hope the last few days were fine for u {fief} is ours now so the roads are a little safer",
+        "no need for words between us {player} {fief} is ours and u keep yours",
+        "send a messenger if u want to talk about {fief} but dont bring a crowd",
+        "not holding a grudge about {fief} just tell ur people to stay off our road",
+        "u were in {fief} before it was ours so i figure u know the gate is shut now"
+      ]
+    }
+  }
+}

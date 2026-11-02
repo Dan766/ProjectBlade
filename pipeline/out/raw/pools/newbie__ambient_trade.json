@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "newbie__ambient_trade",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "a3cbf8174a993bc62171bbd258bed52df2e5d917e176c70b9790483a3d8fde4c",
+    "model": "haiku",
+    "cost_usd": 0.0035460500000000002,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:04:44+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "anyone know if the smith in {town} buys iron ore?? i have like 3 and dont wanna sell for too little :(",
+        "sold a whole sack of turnips for {gold} gold!!! is that good or did i get robbed lol xD",
+        "wait so do i pay the merchant first or do i just take the bread and run?? asking for a friend (me)",
+        "why is the wool price different every time i come back, did the sheep unionize or something",
+        "thank you to the nice person who told me not to buy the rusty sword!!! you saved my {gold} gold :D",
+        "is haggling a real thing here?? i tried to haggle and the guy just stared at me for like a minute",
+        "ok so i bought a horse for {gold} gold and now i cant find where you put the saddle sorry if thats obvious",
+        "does selling stuff to the stall in {town} count as donating or do i still get the coins??",
+        "i think i overpaid for the candles but honestly the light is so pretty i dont even mind :)",
+        "who do i yell at for a fair price on rope... asking because i just paid {gold} for 2 feet of it"
+      ]
+    }
+  }
+}

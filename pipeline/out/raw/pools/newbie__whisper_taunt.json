@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "newbie__whisper_taunt",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c19afabd3aecd4b35d5a219ad7d4ad9c353a1c6a78b454ae2c2a70fdedfde09a",
+    "model": "haiku",
+    "cost_usd": 0.0037677500000000003,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:43+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "hey {player} ur standin right where i wanna be lol. dont move :)",
+        "u miss a lot w that bow huh. i counted 4 misses already xD sorry?? not sorry",
+        "is it rude to think ur armor is ugly?? sorry!! but its kinda ugly",
+        "lol {rival} says ur the worst fighter on this server. is that true?? :P",
+        "ill be waiting by the mill tmrw. dont make me come find u >:(",
+        "ur gonna be mad but i think ur hat is cursed. just saying :)",
+        "i honestly dont know what im doing but u look annoyed so i must be doing it right??",
+        "i was gonna be nice but ur really slow. like really really slow. sorry?? not sorry xD"
+      ]
+    }
+  }
+}

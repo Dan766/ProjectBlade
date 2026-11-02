@@ -1,0 +1,4474 @@
+{
+ "ambient_brag": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.newbie.ambient_brag.any.global.01",
+     "text": "just got {troop_count} soldeirs!!! i think thats a lot?? is it a lot :D"
+    },
+    {
+     "id": "arch.newbie.ambient_brag.any.global.02",
+     "text": "i have {gold} gold now and i dont even know what to spend it on lol xD"
+    },
+    {
+     "id": "arch.newbie.ambient_brag.any.global.03",
+     "text": "beat the bandits at {fief} and nobdy got hurt except my pride :)"
+    },
+    {
+     "id": "arch.newbie.ambient_brag.any.global.04",
+     "text": "my army is {troop_count} men strong!! ok maybe 9 of them are just farmrs w pitchforks but still"
+    },
+    {
+     "id": "arch.newbie.ambient_brag.any.global.05",
+     "text": "wait so the gold stays when i die?? i have {gold} and im SO scared to lose it lol"
+    },
+    {
+     "id": "arch.newbie.ambient_brag.any.global.06",
+     "text": "pls dont tell anyone but i think i might be a general now?? :D"
+    },
+    {
+     "id": "arch.newbie.ambient_brag.any.global.07",
+     "text": "won at {fief} today. i yelled so loud my cat left the room xD"
+    },
+    {
+     "id": "arch.newbie.ambient_brag.any.global.08",
+     "text": "{troop_count} troops and not one of them knows which end of the sword goes in front"
+    },
+    {
+     "id": "arch.newbie.ambient_brag.any.global.09",
+     "text": "thank u to everyone who helped me at {fief}, i literally could not have done it without u all :)"
+    },
+    {
+     "id": "arch.newbie.ambient_brag.any.global.10",
+     "text": "i bought a horse for {gold} and it immediately ran into a tree... still counts as a win right"
+    }
+   ]
+  }
+ },
+ "ambient_chatter": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.01",
+     "text": "rain again?? the sky here never stops :( is it always like this in ormerath"
+    },
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.02",
+     "text": "anyone know if the river near {village} has fish or is it just mud lol"
+    },
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.03",
+     "text": "my fps drops every time i look at the trees... is this lag or my potato pc xD"
+    },
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.04",
+     "text": "why do the chickens keep running at me?? did i do something wrong :/"
+    },
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.05",
+     "text": "told a guy his horse was cute and he just stared at me... was that rude??"
+    },
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.06",
+     "text": "the sun went down and now i cant even see my own feet. night is scary ngl :)"
+    },
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.07",
+     "text": "someone said {town} has a tavern with free bread?? is that real or a prank"
+    },
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.08",
+     "text": "tried to jump a fence and landed in a ditch. 10/10 would do again :D"
+    },
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.09",
+     "text": "does the server reset at midnight or is my clock just being weird"
+    },
+    {
+     "id": "arch.newbie.ambient_chatter.any.global.10",
+     "text": "i think the moon is following me?? or im just really tired lol"
+    }
+   ]
+  }
+ },
+ "ambient_complaint": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.01",
+     "text": "why does a loaf of bread cost 3 times more than yesterday?? did the bakers all have a meeting or something :("
+    },
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.02",
+     "text": "the bandits outside {town} took my whole purse and then said thanks for the tip?? i dont understand :/ im so confused"
+    },
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.03",
+     "text": "ok so {rival} keeps standing on my farm plots and says its 'a shortcut' xD its NOT a shortcut its my carrots"
+    },
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.04",
+     "text": "why do the archers hit me for double damage when i have a shield?? thats so unfair :( the shield is so big too"
+    },
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.05",
+     "text": "{faction} put a toll gate on the road and now my cart costs more than my horse lol. help??"
+    },
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.06",
+     "text": "is it normal to lose everything on the first day and then just... keep going?? asking for science :D"
+    },
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.07",
+     "text": "if i see those looters again im going to glare at them so hard >:( they will be SO sorry"
+    },
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.08",
+     "text": "the loading screen tips said bandits are weak and then four of them beat me up. tips are liars i think :/"
+    },
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.09",
+     "text": "somebody bought every iron nail in {town} and now my roof is just a suggestion. not cool!! :("
+    },
+    {
+     "id": "arch.newbie.ambient_complaint.any.global.10",
+     "text": "honestly i just want to build a tiny house and not get robbed every 5 minutes... is that too much to ask? :'("
+    }
+   ]
+  }
+ },
+ "ambient_lfg": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.01",
+     "text": "anyone wanna join our siege on {fief}?? i have no idea what im doing but i have a sword :)"
+    },
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.02",
+     "text": "looking for recruits for a raid, will share the loot (probably not all of it lol) xD"
+    },
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.03",
+     "text": "is it weird to ask strangers to help me attack {fief}?? sorry sorry sorry :("
+    },
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.04",
+     "text": "{my_faction} is besieging {fief} tmrw!! do we need more people?? how many is enough"
+    },
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.05",
+     "text": "need like 5 more ppl for the {enemy_faction} raid?? i think thats enough?? help pls :D"
+    },
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.06",
+     "text": "who here knows how sieges work... asking for a friend (the friend is me)"
+    },
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.07",
+     "text": "ok so i read the guide and now i think we need ladders?? someone correct me if im wrong"
+    },
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.08",
+     "text": "does anyone want to fight for {my_faction}?? we dont have many members yet but we have snacks :)"
+    },
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.09",
+     "text": "heard {enemy_faction} left {fief} with only like three guards?? thats so few right?? lets go!!"
+    },
+    {
+     "id": "arch.newbie.ambient_lfg.any.global.10",
+     "text": "just joined {my_faction} and they said to recruit so um... anyone want to come siege with us??"
+    }
+   ]
+  }
+ },
+ "ambient_trade": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.newbie.ambient_trade.any.global.01",
+     "text": "anyone know if the smith in {town} buys iron ore?? i have like 3 and dont wanna sell for too little :("
+    },
+    {
+     "id": "arch.newbie.ambient_trade.any.global.02",
+     "text": "sold a whole sack of turnips for {gold} gold!!! is that good or did i get robbed lol xD"
+    },
+    {
+     "id": "arch.newbie.ambient_trade.any.global.03",
+     "text": "wait so do i pay the merchant first or do i just take the bread and run?? asking for a friend (me)"
+    },
+    {
+     "id": "arch.newbie.ambient_trade.any.global.04",
+     "text": "why is the wool price different every time i come back, did the sheep unionize or something"
+    },
+    {
+     "id": "arch.newbie.ambient_trade.any.global.05",
+     "text": "thank you to the nice person who told me not to buy the rusty sword!!! you saved my {gold} gold :D"
+    },
+    {
+     "id": "arch.newbie.ambient_trade.any.global.06",
+     "text": "is haggling a real thing here?? i tried to haggle and the guy just stared at me for like a minute"
+    },
+    {
+     "id": "arch.newbie.ambient_trade.any.global.07",
+     "text": "ok so i bought a horse for {gold} gold and now i cant find where you put the saddle sorry if thats obvious"
+    },
+    {
+     "id": "arch.newbie.ambient_trade.any.global.08",
+     "text": "does selling stuff to the stall in {town} count as donating or do i still get the coins??"
+    },
+    {
+     "id": "arch.newbie.ambient_trade.any.global.09",
+     "text": "i think i overpaid for the candles but honestly the light is so pretty i dont even mind :)"
+    },
+    {
+     "id": "arch.newbie.ambient_trade.any.global.10",
+     "text": "who do i yell at for a fair price on rope... asking because i just paid {gold} for 2 feet of it"
+    }
+   ]
+  }
+ },
+ "beat_by_player": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.01",
+     "text": "ok {player} u beat me in the field and now my whole party is sad :( i hope ur horse steps on a rake"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.02",
+     "text": "lost to {player} with {troop_count} guys and i still dont know what i did wrong lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.03",
+     "text": "dont be so proud {player}, i only lost cuz my archers went to get snacks"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.04",
+     "text": "{player} wins again?? ur making me look like a noob and im the noob so thats rude xD"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.05",
+     "text": "pls stop charging at me {player} it is NOT fair im still learning how to stand"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.06",
+     "text": "i will get revenge {player}!!! ok i wont but i will think about it really hard"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.07",
+     "text": "lost {troop_count} troops to {player} and now the grain bill is gonna be my fault i just know it"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.08",
+     "text": "why does {player} keep winning field battles, is there a secret button i missed"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.09",
+     "text": "congrats {player} i guess, mine are all running around in circles now :("
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.global.10",
+     "text": "gg {player} hate u a little bit but also ur really good at this which is annoying"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.01",
+     "text": "ur so mean {player} :( i was gonna make a nice tavern and u ruined it"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.02",
+     "text": "i hope ur next fight goes badly {player}... sorry that was mean, didnt mean it"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.03",
+     "text": "{player} i lost {troop_count} guys to u and my donkey is still crying about it"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.04",
+     "text": "stop running me over {player}!! i am going to tell the bridge guy about u"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.05",
+     "text": "ok fine u win this round but i have {troop_count} guys training now so there"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.06",
+     "text": "how do u keep winning {player}?? tell me ur secret or im gonna keep attacking u lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.07",
+     "text": "not talking to u {player} for like an hour. then maybe ill say hi again"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.08",
+     "text": "ur army is too big {player} its not even fair to the little guys like me"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.09",
+     "text": "i saw u sneak around the hill {player} thats cheating i think?? idk the rules"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.whisper.10",
+     "text": "fine {player} u got me. next time ill bring more than just my cousin"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.01",
+     "text": "hey {player}... you beat us again. my shoes are still wet from running away, and im mad about it :("
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.02",
+     "text": "stop looking at me like that {player}!! im not sad im just... ok im a little sad"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.03",
+     "text": "you cheated {player} right?? nobody's formation is that good on their first try xD"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.04",
+     "text": "move your guys off my grass {player}, i just lost the whole battle and i need a minute"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.05",
+     "text": "{player} i swear ill beat you one day. maybe after i figure out what a flank is"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.06",
+     "text": "you and your {troop_count} guys are so scary {player} why do you have so many. ok im going home now"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.07",
+     "text": "ur smug face is so annoying {player} :P but also how did u get that horse"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.08",
+     "text": "this is the worst day {player}. at least the donkey didnt get hurt so thats something"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.09",
+     "text": "ok ok you won {player} but i dont have to like it. goodbye and dont follow me"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.hostile.face.10",
+     "text": "rude {player}, i was gonna say hi before the fight... now i gotta say bye instead :("
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.01",
+     "text": "lost my field battle to {player} today, anyone know how to stop getting flanked??"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.02",
+     "text": "{player} won the field fight near the river, guess thats how it goes sometimes :)"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.03",
+     "text": "anyone else lose to {player} this afternoon or is it just me lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.04",
+     "text": "got beat by a {troop_count} man party, first time i ever lost a battle and it was fine i think"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.05",
+     "text": "ok so the battle with {player} was kinda confusing, did anyone else see where the banners went"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.06",
+     "text": "{player} beat me again. not mad just taking notes on how they line up their guys"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.07",
+     "text": "field battle lost. {player} won. im going to go lie down in the grain for a bit"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.08",
+     "text": "lost to {player} so now i have to walk all the way home, the soldiers are complaining"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.09",
+     "text": "dunno if i did it right but i lost to {player} and the horses seemed happy about it"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.global.10",
+     "text": "battle over, {player} won, we all go home now i guess ..."
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.01",
+     "text": "hey {player} gg on the battle, i didnt know u could split ur archers like that"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.02",
+     "text": "ur army was really organized {player}, mine just kinda went wherever they wanted"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.03",
+     "text": "congrats on the win {player}!! do u have any tips for not losing next time"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.04",
+     "text": "i lost the field fight to u {player} is it normal that my guys ran away so fast??"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.05",
+     "text": "{player} can i ask how u got ur guys to stand still? mine kept wandering off"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.06",
+     "text": "no hard feelings {player}, i just really want to know what i did wrong :)"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.07",
+     "text": "sorry we got in ur way {player}, i thought the road was empty. gg anyway"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.08",
+     "text": "good fight {player}. my {troop_count} guys say hi. they are very tired now"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.09",
+     "text": "is it ok if i come back for a rematch {player}?? or do u need the hill for something"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.whisper.10",
+     "text": "u beat us fair and square {player}, i am writing that down in my notes lol"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.01",
+     "text": "hi {player}! ur the one who beat us earlier right? what did u do with the flank??"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.02",
+     "text": "good battle {player}. we're gonna head back to camp now, my feet hurt :)"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.03",
+     "text": "hey {player}, so um... did we lose? i honestly cant tell from down here xD"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.04",
+     "text": "{player} i think my soldiers are still chasing yours, can u tell them to stop lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.05",
+     "text": "ok we lost, {player}, but im still glad i got to see a real field fight up close"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.06",
+     "text": "oh hi {player}. nice armor btw, did it come with the win or did u buy it??"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.07",
+     "text": "we dont have anything left to fight with {player} so can we just wave and go?"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.08",
+     "text": "{player} how do u keep ur guys in a line?? mine just kinda sit down and start eating"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.09",
+     "text": "gg {player}!! i'll be practicing my formations so i can ask u again next time"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.neutral.face.10",
+     "text": "we're just passing through {player}, sorry for the mess on ur field. bye bye!"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.01",
+     "text": "huge shoutout to {player} for that battle, i learned more in 10 minutes than in 2 hours of reading!!"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.02",
+     "text": "lost to {player} today and honestly it was the best day of my life so far :D"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.03",
+     "text": "{player} is the nicest winner ever, they even showed me where i messed up. thank u!!"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.04",
+     "text": "super proud of my {troop_count} guys even tho we lost. thanks {player} for the fun fight :)"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.05",
+     "text": "if anyone sees {player} around the river say hi from me, they taught me so much"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.06",
+     "text": "{player} just beat me in a field battle and im so happy i could cry lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.07",
+     "text": "lost to {player} but got a free tip on archers, so really i won??"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.08",
+     "text": "{player} gave my soldiers a real battle!! i wanna be just like them when i grow up"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.09",
+     "text": "thank u {player} for the lovely fight!! my donkey says thanks too"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.global.10",
+     "text": "{player} is my hero now, honestly. next battle is on me, drinks in tavern!!"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.01",
+     "text": "thank u so much {player}!! ur the best fighter ive met and ive only been here a day :)"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.02",
+     "text": "i'm sorry we lost to u {player} :( but i'm glad it was u and not some random bandit"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.03",
+     "text": "{player} can u teach me the flank thing?? pretty please, i'll bring apples"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.04",
+     "text": "that was so much fun {player}!! i dont even mind losing when u fight like that"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.05",
+     "text": "i told my friend about our battle {player} and they said i'm lying lol, can u confirm"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.06",
+     "text": "u were so nice to my soldiers after {player}, thank u for not stomping on them"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.07",
+     "text": "{player} ill buy u a drink from the tavern or like a sandwich, u pick!!"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.08",
+     "text": "good game {player}!! i'm writing all ur moves down so i can copy them one day"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.09",
+     "text": "thanks for the fight {player}, my guys are sleeping now but they had a great time"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.whisper.10",
+     "text": "{player} ur honestly my favorite person on this server, don't tell the others :)"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.01",
+     "text": "{player}!! that was the coolest battle ever, i'm still shaking a little from excitement :D"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.02",
+     "text": "oh no we lost but you're so good {player} that i don't even feel bad! can we do it again??"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.03",
+     "text": "hi {player}, you're the one everyone talks about right?? you were way better in person"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.04",
+     "text": "{player} thank u for not running us over when we were all panicking. u r a good sport :)"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.05",
+     "text": "i'm gonna tell everyone i fought {player} today, they'll be so jealous lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.06",
+     "text": "ok so i lost but {player} showed me where i went wrong, i'm grateful sooo much!!"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.07",
+     "text": "{player} let's go get some food after this, my treat since i lost the battle lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.08",
+     "text": "we fell apart at the bridge but that was honestly the best time i've had, thanks {player} :)"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.09",
+     "text": "bye {player}!! see u on the next battlefield, i'll practice and bring better soldiers"
+    },
+    {
+     "id": "arch.newbie.beat_by_player.friendly.face.10",
+     "text": "you're my favorite opponent {player}, seriously, i'm already planning how to beat u"
+    }
+   ]
+  }
+ },
+ "beat_by_player_repeat": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.global.01",
+     "text": "ok {player} i get it u beat me AGAIN... how r u even doing this?? :("
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.global.02",
+     "text": "third time {player} wiped my whole party lol im starting to think ur cheating?? jk... mostly :/"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.global.03",
+     "text": "{player} pls stop, my {troop_count} guys are still crying about it xD"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.global.04",
+     "text": "still no idea how i keep losing to {player}!!! its so annoying >:("
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.global.05",
+     "text": "dont worry {player} ill get u back, i just need to figure out what ur doing lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.global.06",
+     "text": "lost to {player} again. who else is tired of this?? me. im tired"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.global.07",
+     "text": "{player} hates me i think?? why else would u keep crushing my stuff :("
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.global.08",
+     "text": "gg {player} i guess... ur troops are way too good for my level, its not fair!!!"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.whisper.01",
+     "text": "u again?? i swear i had the better ambush this time :( ur not even fair"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.whisper.02",
+     "text": "im gonna get my revenge i promise, just wait till my new {troop_count} are ready"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.whisper.03",
+     "text": "stop following me {player} lol i dont even have anything left to lose"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.whisper.04",
+     "text": "3 times in a row u got me. im going to start writing down ur tricks"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.whisper.05",
+     "text": "ur making me look dumb in front of everyone. thats not nice :("
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.whisper.06",
+     "text": "ok im officially mad. next time ill bring like {troop_count} guys and ur gonna regret it!!"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.whisper.07",
+     "text": "dont think this means ur better than me {player}... i just got unlucky. probably"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.hostile.whisper.08",
+     "text": "fine ur winning. rude tho, u didnt even say sorry after that last ambush"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.global.01",
+     "text": "anyone else keep losing to the same person over and over or is it just me lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.global.02",
+     "text": "does the server reset the scoreboard or do i have to live with my losses forever :/"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.global.03",
+     "text": "{player} is definitely around here somewhere, i can feel it... anyway hi all"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.global.04",
+     "text": "third loss today. ok im going to go look at my troops and think about my life :("
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.global.05",
+     "text": "who knows a good place to train {troop_count} soldiers without getting jumped??"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.global.06",
+     "text": "is it normal for a fight to last like 2 minutes?? i thought it was longer lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.global.07",
+     "text": "just watching the field for a bit, dont mind me... staying clear of {player} for now xD"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.global.08",
+     "text": "does anyone know why my scouts keep dying before they even see anything??"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.whisper.01",
+     "text": "hey {player} sorry for the 3rd time, didnt mean to run into u again :("
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.whisper.02",
+     "text": "can u tell me what i did wrong last fight?? no pressure if ur busy!!"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.whisper.03",
+     "text": "is it ok if i stay out of ur way for a while? ur kinda scary lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.whisper.04",
+     "text": "thanks for the fight i think?? i learned something i think. maybe"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.whisper.05",
+     "text": "not mad at u, just confused. how do u always know where im going"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.whisper.06",
+     "text": "ok i wont follow u anymore promise. but if u see me again say hi pls :)"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.whisper.07",
+     "text": "soooo can we agree to not fight for like a day? my troops need rest lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.neutral.whisper.08",
+     "text": "i dont know if u remember me but ur the one who beat me 3 times in a row xD"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.global.01",
+     "text": "{player} just beat me AGAIN and honestly its the best thing that happened to me all day!!"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.global.02",
+     "text": "shoutout to {player} for the 3rd loss, i learned so much :D i owe u a drink"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.global.03",
+     "text": "everyone go talk to {player}, they taught me more in 3 losses than the tutorial did lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.global.04",
+     "text": "lost to {player} for the 3rd time and im still smiling. legend status :D"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.global.05",
+     "text": "ok real talk {player} is way better than me and i love it, my scouts are jealous"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.global.06",
+     "text": "gg {player}!!! another loss, another lesson, another reason to keep playing xD"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.global.07",
+     "text": "{player} if ur reading this, next time ill bring like {troop_count} guys and ill beat u... maybe :P"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.global.08",
+     "text": "my new favorite hobby is losing to {player}, hope u know ur a great teacher"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.whisper.01",
+     "text": "{player} i lost again!! and i loved it, can u show me what u did with the flank?"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.whisper.02",
+     "text": "ur gonna get so tired of me asking but how did u win that last fight?? pls teach me :D"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.whisper.03",
+     "text": "thank u for not stomping me too hard this time {player} :D"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.whisper.04",
+     "text": "3 losses to u and im not even mad. just kinda impressed. u r so good"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.whisper.05",
+     "text": "ill buy u a drink in game if u want!! as thanks for the lessons :)"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.whisper.06",
+     "text": "can we do a rematch sometime?? i promise to be a better loser lol"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.whisper.07",
+     "text": "soooo u wanna team up? i have {troop_count} guys and u clearly know what ur doing!!"
+    },
+    {
+     "id": "arch.newbie.beat_by_player_repeat.friendly.whisper.08",
+     "text": "sorry i keep bugging u, ur just the only one who explains things properly xD"
+    }
+   ]
+  }
+ },
+ "beat_player": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.beat_player.hostile.global.01",
+     "text": "lol i just beat {player} in a field fight!!! not sure how but im counting it :D"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.global.02",
+     "text": "{player} ur army ran away so fast i think they forgot the battle was happening"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.global.03",
+     "text": "won vs {player} and now i have like {troop_count} spare guys?? is that good or bad"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.global.04",
+     "text": "dear {player} ur not as scary as everyone says lol. jk maybe a little"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.global.05",
+     "text": "just knocked {player}s party off the road. sorry not sorry :P"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.global.06",
+     "text": "wait did i win?? {player} is just standing there looking sad lol"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.global.07",
+     "text": "{player} next time bring more than {troop_count} guys tbh"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.global.08",
+     "text": "gg {player} that was less fight and more me clicking really fast"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.global.09",
+     "text": "i feel bad but also {gold} gold from that fight?? sorry {player} :("
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.global.10",
+     "text": "ok so {player} lost and i got the loot. im going to hide in the woods now heh"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.01",
+     "text": "hehe ur party is gone {player}. u should really upgrade ur donkey"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.02",
+     "text": "sorry {player} i didnt mean to crush ur line... actually i kinda did xD"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.03",
+     "text": "ur troops run really slow lol i caught up in like 2 seconds"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.04",
+     "text": "{player} u might wanna stop following me around now. i win everything"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.05",
+     "text": "did u see that? {player} lost and i didnt even get hurt :D"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.06",
+     "text": "next time {player} i will bring like 40 guys so dont get cocky"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.07",
+     "text": "pls dont come back to that field, i just found a nice spot to loot"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.08",
+     "text": "i think ur soldiers are a bit upset with u {player} lol"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.09",
+     "text": "{player} ur new to this too right?? u fought like it was my first day"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.whisper.10",
+     "text": "fine keep ur {gold} gold. ill just take the pile of stuff you dropped"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.newbie.beat_player.hostile.face.01",
+     "text": "HA {player}!! i beat u fair and square. well mostly fair. dont cry"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.face.02",
+     "text": "oh no its {player}... ok u can have the field back now. i already took the loot tho sorry"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.face.03",
+     "text": "stay back {player} i just won and im still excited, dont make me fight again :O"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.face.04",
+     "text": "{player} u look like u want a rematch lol. i only have {troop_count} guys left so maybe not?"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.face.05",
+     "text": "you lost to me {player}?? i didnt even know what i was doing :D"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.face.06",
+     "text": "walk away {player} before i get a second win!! i dont even know how this works yet"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.face.07",
+     "text": "i just knocked u out {player} and i think my donkey helped"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.face.08",
+     "text": "{player} ur allowed to be mad. i would be too. but also im sorry?? not really??"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.face.09",
+     "text": "ok the battle is over so please dont start another one {player} my heart is going boom"
+    },
+    {
+     "id": "arch.newbie.beat_player.hostile.face.10",
+     "text": "hi {player} oops i beat ur army. ill give it back if u ask nicely :P"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.beat_player.neutral.global.01",
+     "text": "just had a fight near the road with {player}. no idea who was winning until the end"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.global.02",
+     "text": "anyone else get confused by the battle with {player}?? i just kept clicking attack"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.global.03",
+     "text": "{player} and i traded hits for a bit then i somehow won. no clue how lol"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.global.04",
+     "text": "is it normal that {player}s party just stopped and went home after the fight??"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.global.05",
+     "text": "won a fight vs {player} near the bridge i think? the map is so confusing"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.global.06",
+     "text": "battle with {player} done. {troop_count} of my guys survived which is a miracle"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.global.07",
+     "text": "meh, fought {player} today, cant say i enjoyed it but my loot is nice"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.global.08",
+     "text": "so {player} lost a fight to me and now im just standing here wondering what to do"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.global.09",
+     "text": "does losing a field battle to {player} count as a learning experience? asking for me"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.global.10",
+     "text": "quick note: {player} and i had a fight, everyone alive, nobody cried, see u around"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.01",
+     "text": "hi {player} just wanted to say sorry if that fight was annoying. i didnt mean to start it"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.02",
+     "text": "did u mean to attack me {player}? i kinda ended up winning so... good luck??"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.03",
+     "text": "how do u get your party to retreat faster? mine kept running in circles lol"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.04",
+     "text": "{player} i won the fight but i cant find the loot button. is it under the donkey??"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.05",
+     "text": "thanks for not chasing me after the battle {player}, i was really tired"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.06",
+     "text": "idk if this is allowed but could we maybe trade {gold} for peace? no pressure :)"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.07",
+     "text": "is ur army always that big {player} or did u just bring everyone for the fight"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.08",
+     "text": "sorry {player} i think we both ended up with lots of wounded. hope ur ok"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.09",
+     "text": "after that battle i have {troop_count} guys left and they are all asking for snacks"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.whisper.10",
+     "text": "{player} do u know if the fighting zone is safe for newbies? asking bc that felt scary lol"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.newbie.beat_player.neutral.face.01",
+     "text": "oh hi {player}, sorry about the fight earlier. i thought ur party was bandits"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.face.02",
+     "text": "{player}! ok we're not fighting anymore right?? i kinda want to walk past u now"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.face.03",
+     "text": "hi!! i just won a battle and im still shaking a little. hope ur doing better than me"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.face.04",
+     "text": "{player} is that ur donkey?? mine ran off during the fight lol"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.face.05",
+     "text": "we can talk now right? i just wanted to say the fight was fun and i got {gold} gold"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.face.06",
+     "text": "oh no u look hurt {player}. do u need a bandage? i have like 2 spare"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.face.07",
+     "text": "hey {player}, i wont start anything if u dont. deal? :)"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.face.08",
+     "text": "is this the road to the bridge? i think i got lost after the fight with {player}"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.face.09",
+     "text": "{player} i have {troop_count} soldiers and not one of them knows what happened"
+    },
+    {
+     "id": "arch.newbie.beat_player.neutral.face.10",
+     "text": "ok im going to keep walking now, please dont follow me {player} :("
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.beat_player.friendly.global.01",
+     "text": "shoutout to {player} for the fun fight!! they went easy on me i think :)"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.global.02",
+     "text": "huge thanks to {player}, that battle was my best day so far!!! :D"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.global.03",
+     "text": "{player} is honestly the nicest person i fought today. even when they beat me lol"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.global.04",
+     "text": "just fought {player} and they were so chill about it. i have a new friend maybe??"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.global.05",
+     "text": "my first real fight and {player} was super patient with me. thank u :)"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.global.06",
+     "text": "if anyone sees {player} out there say hi from me. they taught me like 3 things"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.global.07",
+     "text": "{player} fought me and then explained the whole retreat thing. legend status"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.global.08",
+     "text": "went down to {player}s camp after the fight, they gave me {gold} for my troubles??"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.global.09",
+     "text": "good fight {player}!! i owe u a drink in the tavern if i ever find one"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.global.10",
+     "text": "ok {player} is officially my favourite person to lose to. no offence!! :P"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.01",
+     "text": "hi {player}, thank u so much for not hurting my soldiers during that fight :)"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.02",
+     "text": "ur so good at this {player}, can u show me how u kept ur line together?"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.03",
+     "text": "that battle was amazing!! ill never forget when u shouted and everyone charged"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.04",
+     "text": "{player} do u have any tips for not losing my whole army? i lost like 6 guys :("
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.05",
+     "text": "i was going to quit after that fight but ur encouragement kept me going. thank u!!"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.06",
+     "text": "if u ever need help in a field fight just whisper me. ill bring my donkey"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.07",
+     "text": "{player} u were so nice after beating me. i really appreciate it. ill bring snacks next time"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.08",
+     "text": "u didnt have to share ur bandages with me {player} but u did and i am so grateful"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.09",
+     "text": "can we fight again soon? i promise ill try harder and maybe not click the wrong thing"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.whisper.10",
+     "text": "{player} sent me {gold} after the battle?? thats too generous, i owe u big time"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.newbie.beat_player.friendly.face.01",
+     "text": "{player}!! u were amazing in that fight, i wanted to hug u but my hands were shaking"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.face.02",
+     "text": "hi hi {player}!! thank u for going easy on me, i really needed that :)"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.face.03",
+     "text": "oh its {player}! the one everyone talks about. ur even nicer in person i think"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.face.04",
+     "text": "{player} i will follow u around for a bit if thats ok. i dont know where im going"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.face.05",
+     "text": "thank u for the battle tips earlier {player}, i used them and somehow still won lol"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.face.06",
+     "text": "ur army is so cool {player}!! can i have one of ur banners when im stronger??"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.face.07",
+     "text": "{player}! i did my first charge because of u. i owe u a whole loaf of bread"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.face.08",
+     "text": "be careful near the river {player}, i think the water is too deep for donkeys"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.face.09",
+     "text": "please dont be sad about losing {player}, u were so brave and i saw everything :)"
+    },
+    {
+     "id": "arch.newbie.beat_player.friendly.face.10",
+     "text": "{player} i have {troop_count} guys now and ur the reason i kept going. thank u!!"
+    }
+   ]
+  }
+ },
+ "captured_by_player": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.newbie.captured_by_player.hostile.face.01",
+     "text": "ok so you beat us and now you want to gloat?? fine :( go on then, i am not even mad (i am a little mad)"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.hostile.face.02",
+     "text": "you know this is kind of rude right?? we were just passing through the forest, honestly"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.hostile.face.03",
+     "text": "{player} i swear on my mums cooking i will remember this face forever >:( also my boots are wet"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.hostile.face.04",
+     "text": "if you take our gold i will cry, and then i will still hate you, double whammy"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.hostile.face.05",
+     "text": "{my_faction} is going to come find you one day, probably, maybe after lunch?? hell of a plan"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.hostile.face.06",
+     "text": "you could have just asked for the {gold} nicely, we would have been fine with that. probably."
+    },
+    {
+     "id": "arch.newbie.captured_by_player.hostile.face.07",
+     "text": "stop poking me with that stick!! i am a prisoner not a pincushion, damn it :("
+    },
+    {
+     "id": "arch.newbie.captured_by_player.hostile.face.08",
+     "text": "i hope your horse steps in a bog. a big bog. ok thats mean, sorry, but still"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.newbie.captured_by_player.neutral.face.01",
+     "text": "um hi?? are you going to hit us or is that just how you hold a sword :)"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.neutral.face.02",
+     "text": "we are not going to make trouble, promise, we just want to sit down for a bit xD"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.neutral.face.03",
+     "text": "is it ok if i ask where you are taking us? no pressure, i just like knowing things"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.neutral.face.04",
+     "text": "our boss will pay for us probably, or maybe not, nobody told me the rules sorry"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.neutral.face.05",
+     "text": "do prisoners get breakfast here? asking for me, i skipped it because of the battle :("
+    },
+    {
+     "id": "arch.newbie.captured_by_player.neutral.face.06",
+     "text": "i think my hat fell off somewhere back there, could you maybe check, sorry sorry"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.neutral.face.07",
+     "text": "so what happens now?? do we walk or do we wait or do you do the wait thing again"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.neutral.face.08",
+     "text": "the {my_faction} lot are probably looking for us by now, so maybe hurry up?? kidding :P"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.newbie.captured_by_player.friendly.face.01",
+     "text": "honestly you are the nicest captor ive ever had!! thank you for not stabbing me :)"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.friendly.face.02",
+     "text": "ok so if i am going to be a prisoner i am glad it is with someone like you xD"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.friendly.face.03",
+     "text": "can you teach me how you fought back there?? it looked amazing, i was screaming the whole time lol"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.friendly.face.04",
+     "text": "i think we could be friends after this, once the ropes come off ofc, no rush :)"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.friendly.face.05",
+     "text": "thank you for the water, i didnt even ask, you just did it?? my heart!!"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.friendly.face.06",
+     "text": "{player} you are so cool, my mates said you were scary but you are really chill :)"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.friendly.face.07",
+     "text": "whatever happens to us i want you to know this was the best capture ive ever been part of xD"
+    },
+    {
+     "id": "arch.newbie.captured_by_player.friendly.face.08",
+     "text": "if you ever need help with anything, just shout, i am terrible at everything but i will try!!"
+    }
+   ]
+  }
+ },
+ "encounter_alliance_no": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_alliance_no.hostile.face.01",
+     "text": "no way {player}, we saw what you did to the last group lol. we're good on our own thx :("
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.hostile.face.02",
+     "text": "nah nah nah, not allying with you!! our captain says you're bad news. sorry?? not sorry :/"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.hostile.face.03",
+     "text": "ur asking us to team up?? after you left {rival} hanging?? hard pass dude"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.hostile.face.04",
+     "text": "we already promised the donkey we wouldnt team up with shady folks. so.. no :)"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.hostile.face.05",
+     "text": "lol ally with you? my mum would faint. ok bye :D"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.hostile.face.06",
+     "text": "i dont trust anyone who smiles that much ;) answer is still no"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.hostile.face.07",
+     "text": "keep your alliance, we'll keep our sheep. stay away from our cart pls"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.hostile.face.08",
+     "text": "no. just no. dont make me say it twice!! :( also stop following us"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_alliance_no.neutral.face.01",
+     "text": "oh, alliance? hmm, we'll think about it... actually no, we're busy hauling wood :)"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.neutral.face.02",
+     "text": "uhh thanks for asking?? we're not really into the team thing right now, sorry!!"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.neutral.face.03",
+     "text": "we tried a team once and it went weird, so i think we'll pass for now :p"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.neutral.face.04",
+     "text": "i dont know how alliances work tbh, we'll just stay solo for a bit??"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.neutral.face.05",
+     "text": "not today {player}, we're trying to figure out where the well is lol"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.neutral.face.06",
+     "text": "sorry, our leader says no. they didnt say why, just shrugged at the sky"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.neutral.face.07",
+     "text": "maybe later?? we need to finish our hut first, its only half a roof :/"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.neutral.face.08",
+     "text": "no thanks!! we gotta stay low for a while, the guards keep looking at us"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_alliance_no.friendly.face.01",
+     "text": "aww ur so nice for asking!! sadly we cant team up yet, sorry sorry sorry :("
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.friendly.face.02",
+     "text": "you're honestly the best, but our captain wants us solo for now. thank you!!"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.friendly.face.03",
+     "text": "i wish we could!! but we just got told we need to lie low for a bit :)"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.friendly.face.04",
+     "text": "gah, i really wanted to say yes!! maybe when we're less hopeless lol"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.friendly.face.05",
+     "text": "thanks for the offer {player}!! we're just too new, we'd slow you down :D"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.friendly.face.06",
+     "text": "you're so kind to ask us, we'll remember this forever. no alliance though, sorry!"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.friendly.face.07",
+     "text": "okay i feel bad saying no after u helped us earlier!! can we still be friends??"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_no.friendly.face.08",
+     "text": "sorry {player}!! ur the nicest person here and i still say no. ill make it up to u"
+    }
+   ]
+  }
+ },
+ "encounter_alliance_yes": {
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_alliance_yes.neutral.face.01",
+     "text": "ok so we agree?? sure why not :) dont make us regret it"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.neutral.face.02",
+     "text": "alliance accepted i guess... our donkey says hi to you too"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.neutral.face.03",
+     "text": "fine fine we will fight on the same side for now xD no promises tho"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.neutral.face.04",
+     "text": "oh an alliance?? ok ok, as long as your lot stays away from our wheat field"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.neutral.face.05",
+     "text": "we accept!! i think?? what does the alliance even do lol"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.neutral.face.06",
+     "text": "deal. we will watch your back until the first time you wander off without telling us :)"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.neutral.face.07",
+     "text": "yeah sure, our captain says yes so yes?? hes scary when hes tired lol"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.neutral.face.08",
+     "text": "accepted. we are not much but we can hold a gate for a while if we have to :/"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_alliance_yes.friendly.face.01",
+     "text": "yay!! an alliance with you ser, i feel so safe now :D thank you thank you"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.friendly.face.02",
+     "text": "oh wow yes yes yes!! sorry if i keep asking dumb questions about how alliances work"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.friendly.face.03",
+     "text": "we accept!! you are so nice to us, i was scared you would ignore us xD"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.friendly.face.04",
+     "text": "deal!!! i already told my whole village about our new friend {player} lol"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.friendly.face.05",
+     "text": "accepted!! do we shake hands or do i just type a little heart :)"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.friendly.face.06",
+     "text": "yesss!! sorry sorry i talk too much when im happy, but thank you for choosing us"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.friendly.face.07",
+     "text": "alliance accepted, ser {player}!! i will be the best ally ever, promise :)))"
+    },
+    {
+     "id": "arch.newbie.encounter_alliance_yes.friendly.face.08",
+     "text": "ooh we are allies now?? i wont mess it up i swear, i will try really hard :("
+    }
+   ]
+  }
+ },
+ "encounter_farewell": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.01",
+     "text": "Fine, walk away. We were not going to fight you anyway. Probably."
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.02",
+     "text": "Right, that's your exit then. Enjoy the long road, ser. We'll be here being annoying."
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.03",
+     "text": "Go on then, run off. I'm sure whatever you're hurrying to is very important."
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.04",
+     "text": "Bye, and I mean that in the least friendly way I can manage. Don't come back."
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.05",
+     "text": "Off you go. Don't let the door hit you on the way out, though I'd love to see that happen."
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.06",
+     "text": "So you're leaving after all that? Typical. Tell your friends you ran away from nine guys and a donkey."
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.07",
+     "text": "We're done here, yeah? Good. I was starting to get a headache from your face."
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.08",
+     "text": "Sure, leave. I've got a feeling we'll meet again and you won't be so lucky next time :/"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.09",
+     "text": "Goodbye, ser. I'll save you a seat in my nightmares, right next to the donkey."
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.hostile.face.10",
+     "text": "Ok fine, bye. Hope the roads are full of mud and your horse is really, really slow."
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.01",
+     "text": "ok so, I think we're done? bye!! hope your day goes well :)"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.02",
+     "text": "oh wait is that it? alright then, see you around maybe??"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.03",
+     "text": "right, I'll be off now. nice meeting you i think lol"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.04",
+     "text": "ok bye!! I still don't know what that button does but whatever xD"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.05",
+     "text": "hm ok, that's all then? take care of yourself, ser :)"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.06",
+     "text": "alright, I'm gonna go before i accidentally walk into a river again. bye!!"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.07",
+     "text": "ok so we're finished?? cool cool. have a good one i guess"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.08",
+     "text": "bye bye!! I'll remember this conversation probably, maybe, not sure :P"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.09",
+     "text": "ok i think i'm supposed to leave now?? see ya!"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.neutral.face.10",
+     "text": "and that's the end of that. ok bye, i think my donkey is looking at me funny"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.01",
+     "text": "Thank you SO much, {player}!! I would have been totally lost without you, honestly :)"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.02",
+     "text": "ok ok i have to go but this was the best part of my whole day!! bye {player}!!"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.03",
+     "text": "You're the nicest person I've met in ages, {player}, seriously. Take care out there :)"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.04",
+     "text": "bye {player}!! I promise I'll write down everything you taught me before I forget it xD"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.05",
+     "text": "I'm gonna miss you already, {player}!! please come find me again soon?? :("
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.06",
+     "text": "thanks thanks thanks!! go be awesome, {player}, you deserve it :)"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.07",
+     "text": "ok heading off now but I owe you a big hug and maybe a sandwich, {player}!!"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.08",
+     "text": "bye bye {player}!! my donkey says thank you too, he doesn't say much but he means it :)"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.09",
+     "text": "Sorry for chatting your ear off, {player}!! Thanks for being so patient with me :)"
+    },
+    {
+     "id": "arch.newbie.encounter_farewell.friendly.face.10",
+     "text": "ok i'm off!! you're the best, {player}, really really really :)"
+    }
+   ]
+  }
+ },
+ "encounter_greeting": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.01",
+     "text": "back off {player} :( my dad said u steal ppl's horses and i kinda believe him!!"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.02",
+     "text": "i dont want trouble but im standing here with my stick and looking brave :("
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.03",
+     "text": "u probly think ur sooo cool huh? well my sword is... a stick but still!!"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.04",
+     "text": "we saw u at the bridge yesterday. i told everyone to avoid ur whole crew :/"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.05",
+     "text": "ok so im gonna be honest i dont like the way u looked at my donkey"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.06",
+     "text": "stay over there pls!! i already fell in the river once today, dont make me do it again"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.07",
+     "text": "oh no oh no its u. ok ok im not scared. ok im a little scared :("
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.08",
+     "text": "grr. no. u cant pass, this is our road now!! we made a sign and everything"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.09",
+     "text": "if u take one more step im yelling really loud for the guards... wait where are the guards :("
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.hostile.face.10",
+     "text": "{my_faction} doesnt like {player} and i'm supposed to say that so... there. thats it. thats the line :)"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.01",
+     "text": "hi?? we're just walking to the market, if thats ok? no pressure at all :)"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.02",
+     "text": "um do u know the way to the nearest town? we got lost after the windmill lol"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.03",
+     "text": "we're {my_faction}, were just passing through, promise nothing weird is happening :)"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.04",
+     "text": "is this the road to the lake or did we take a wrong turn again?? donkey looks unsure too"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.05",
+     "text": "nice horse!! ok bye no wait, what do u call that flat grassy bit up ahead?"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.06",
+     "text": "we have 2 apples and a very sad loaf, want to trade?? kidding :) probably"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.07",
+     "text": "oh u're walking this way too? ok cool cool. im just gonna stay a few steps behind u, is that weird"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.08",
+     "text": "so is it normal for the sky to look like that or is that just me being new"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.09",
+     "text": "hello hello. we're not looking for a fight, were looking for the good inn. do u know which one is good"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.neutral.face.10",
+     "text": "ok i have no idea what the map says, its just a picture of a tree?? are we going the right way"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.01",
+     "text": "{player}!!! omg its actually u, i read ur name on the notice board and got SO excited :D"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.02",
+     "text": "ok im officially following u now, u seem like u know where ur going and i defintely do not :)"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.03",
+     "text": "thank u so much for not running us over earlier, we'll make u a sandwich at some point i promise"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.04",
+     "text": "u guys look like proper pros!! can we walk with u? we'll carry stuff. probably :)"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.05",
+     "text": "i think we should be best buddies by the end of the day, nobody else has been this nice to us"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.06",
+     "text": "{persona} here!! nice to meet u {player}, ok im done being shy now :)"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.07",
+     "text": "hey {player}, wanna join {my_faction}? we have a donkey and everything :D"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.08",
+     "text": "u waved at us and we waved back!! we've been practicing our waves since the last village :)"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.09",
+     "text": "tell me one thing u wish u knew when u started and i will write it down in my notebook right now!!"
+    },
+    {
+     "id": "arch.newbie.encounter_greeting.friendly.face.10",
+     "text": "this is the best day ever. i found a rock shaped like a cabbage and then i met u!! :D"
+    }
+   ]
+  }
+ },
+ "encounter_threatened": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.01",
+     "text": "wow rude!! we were just standing here minding our business :( the donkey is sad now"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.02",
+     "text": "u cant just demand {gold} from us thats not how it works i think?? ill tell the guild master >:("
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.03",
+     "text": "fine fine we surrender!! dont look at me like that ill drop everything lol"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.04",
+     "text": "i have {gold} and ur still a jerk about it. classic. im writing this down in my journal"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.05",
+     "text": "we will not pay you {gold} ser, we only have {gold} total and the donkey ate half of it"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.06",
+     "text": "ur not even that scary, ur hat is crooked xD now go away before i cry on ur shoes"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.07",
+     "text": "pay u?? i'd rather pay a goat. at least the goat says thank you :("
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.08",
+     "text": "im reporting this to literally everyone i know. its only 3 people but still hmph"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.09",
+     "text": "ugh fine take it. i hope the {gold} gives you a stomachache. just kidding... mostly"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.hostile.face.10",
+     "text": "we surrender to nobody!! ok we surrender. dont tell anyone i said nobody"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.01",
+     "text": "uh hi?? are we supposed to surrender now or after lunch? sorry i dont know the rules"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.02",
+     "text": "we cant really pay {gold} rn, we just got here?? can u maybe wait till i find my purse"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.03",
+     "text": "is this like a toll thing? cause we dont have a toll pass, we have a map and a sad sandwich"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.04",
+     "text": "ok so ur saying give u stuff or ur going to hit us. got it. what kind of stuff tho"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.05",
+     "text": "i think my hands are shaking :) is this normal? dont mind me im fine im fine"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.06",
+     "text": "wait does surrender mean i keep my shoes?? because thats the only thing i care about"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.07",
+     "text": "we will consider ur offer :) how long do we have to consider it, asking for a friend"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.08",
+     "text": "pls dont use the big sword, the donkey isnt good at running away"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.09",
+     "text": "can u explain the surrender part again? i got distracted by a squirrel and missed it"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.neutral.face.10",
+     "text": "i have {gold} total and its all in one pocket, do u want the pocket too?"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.01",
+     "text": "omg {player}!! u threatened us but ur so cool about it?? can u show me how to do that"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.02",
+     "text": "we would surrender to u any day ser, but we only have {gold} so pls be gentle :)"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.03",
+     "text": "ur the nicest bandit ive ever met!! here take {gold} and pls tell me ur secrets"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.04",
+     "text": "i'm so scared but also kinda excited?? is this how the big players do it lol"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.05",
+     "text": "ok ok u win!! we surrender!! also can u be our leader? we have a donkey and a dream"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.06",
+     "text": "pls dont hurt us we really like u :( we will pay happily, just tell me what its for"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.07",
+     "text": "haha ok this is the best first day ever, u demanded stuff and i loved every second"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.08",
+     "text": "we'll pay the {gold}, and we'll buy u a drink after. thats a promise, i swear on my donkey"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.09",
+     "text": "u are so good at this, i wanna be like u when im not so new anymore"
+    },
+    {
+     "id": "arch.newbie.encounter_threatened.friendly.face.10",
+     "text": "that was so intimidating ahh!! ur like a legend. we surrender with a big smile :)"
+    }
+   ]
+  }
+ },
+ "encounter_trade_offer": {
+  "hostile": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_trade_offer.hostile.face.01",
+     "text": "u want {gold} for that?? thats robbery :( i'm telling my mum lol"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.hostile.face.02",
+     "text": "i dont trust u after last time... you still owe me a sandwich xD"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.hostile.face.03",
+     "text": "fine fine i'll take the deal but if u cheat me i swear i will stand here and sulk for an hour"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.hostile.face.04",
+     "text": "no way im trading with someone who has that face. sorry?? not sorry?? idk"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.hostile.face.05",
+     "text": "ur offer is so bad my pet rock could do better and it doesnt even have legs"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.hostile.face.06",
+     "text": "i already know what ur gonna say. its a no. wait what did u say?? ok still no"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.hostile.face.07",
+     "text": "{player} stop looking at me like that!! ill pay the {gold} but only because im scared"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.hostile.face.08",
+     "text": "ok deal i guess... dont make me regret it or ill tell everyone in {town} about it hehe"
+    }
+   ]
+  },
+  "neutral": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_trade_offer.neutral.face.01",
+     "text": "hmm {gold} huh? let me think about it for like three whole seconds"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.neutral.face.02",
+     "text": "a trade? maybe?? what do u even want in return, be honest pls"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.neutral.face.03",
+     "text": "so ur offering stuff... i dont know what half of it is but ok"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.neutral.face.04",
+     "text": "can i see the goods first?? i dont want to get tricked like at the market last week"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.neutral.face.05",
+     "text": "i have no idea if this is a good deal :( someone check for me pls"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.neutral.face.06",
+     "text": "{player} wants to trade?? ok but ill need to ask my friend first, he knows stuff"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.neutral.face.07",
+     "text": "is {gold} a lot?? i think its a lot. ill say yes if u promise to explain it slowly"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.neutral.face.08",
+     "text": "ok sure, trade away!! i'll figure out the rules as we go lol"
+    }
+   ]
+  },
+  "friendly": {
+   "face": [
+    {
+     "id": "arch.newbie.encounter_trade_offer.friendly.face.01",
+     "text": "yes yes YES!! {player} thats the best offer ever, ur literally the nicest person i've met"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.friendly.face.02",
+     "text": "omg thank u thank u thank u!! i'll give u my spare bread as a thank you :)"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.friendly.face.03",
+     "text": "i was so nervous to ask but u said yes?! my heart is doing a little dance rn"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.friendly.face.04",
+     "text": "deal!! sorry if i mess up the trade, im still learning which end of the sword is which xD"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.friendly.face.05",
+     "text": "wait ur giving me {gold} for my junk?? i feel like im cheating u, are u sure??"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.friendly.face.06",
+     "text": "u r so patient with me, i keep asking dumb questions and u just answer. thank u :)"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.friendly.face.07",
+     "text": "ok so we shake on it? is that how it works here?? shakes hand very hard lol"
+    },
+    {
+     "id": "arch.newbie.encounter_trade_offer.friendly.face.08",
+     "text": "if u ever need help in {town} just whistle or type something, ill come running with my stick!!"
+    }
+   ]
+  }
+ },
+ "fought_alongside_player": {
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.global.01",
+     "text": "we just won a fight?? i think?? my troops ran around a lot so maybe that counts :)"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.global.02",
+     "text": "anyone know if {troop_count} soldiers is enough to hold a ford or do i need more :/"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.global.03",
+     "text": "first win!!! its only 3 looters but im counting it lol"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.global.04",
+     "text": "is it normal that the battle ended and nobody said thank you lol. ok whatever :)"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.global.05",
+     "text": "did {enemy_faction} run off or is there a button i missed?? the screen just went quiet"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.global.06",
+     "text": "still dont really know what i did but we won so yay :D"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.global.07",
+     "text": "that was chaos. next time i'll stay out of the way of the big horses, promise"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.global.08",
+     "text": "anyone here wanna explain how loot works? i got a lot of stuff and no idea what its for"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.whisper.01",
+     "text": "hi, we fought on the same side earlier. sorry if i got in the way?? :("
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.whisper.02",
+     "text": "not sure what your plan was but it worked lol. thanks i guess"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.whisper.03",
+     "text": "can u tell me if i did something wrong in that fight? i dont want to mess up again"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.whisper.04",
+     "text": "we won! just wanted to say that, no need to reply :)"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.whisper.05",
+     "text": "ur troops were really fast, how do u keep them in line like that"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.whisper.06",
+     "text": "i dont know u well yet so im just gonna say thanks and not be weird about it"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.whisper.07",
+     "text": "did u see where my guys went? they kinda scattered after the first hit"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.whisper.08",
+     "text": "sorry if my lads blocked ur path, they dont listen very well yet"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.face.01",
+     "text": "oh hey! we were on the same side, right?? sorry if i was in the way :) we won!"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.face.02",
+     "text": "hi!! i didnt know u were fighting with us, nice work :D"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.face.03",
+     "text": "we just won so i guess we're friends now?? or at least not enemies lol"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.face.04",
+     "text": "can u maybe point me to the nearest town? we got separated after the fight and im kinda lost"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.face.05",
+     "text": "good fight! my donkey got hit but he is fine, he is very tough :)"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.face.06",
+     "text": "i dont want trouble, i just wanted to say we won together. thanks i think?"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.face.07",
+     "text": "is that your banner? nice colors. we were the ones on the left side, the messy ones"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.neutral.face.08",
+     "text": "ok we won, im gonna go sit down for a minute, my legs are shaking lol"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.global.01",
+     "text": "huge thanks to {player} for carrying us through that fight!!! couldnt have done it without u :D"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.global.02",
+     "text": "{player} is the reason we won, i promise i didnt do anything useful lol"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.global.03",
+     "text": "shoutout to {player}!! watched them hold the line and i was like WOW :)"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.global.04",
+     "text": "big thanks to everyone who fought today, esp {player}, ur the best ok?? :)"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.global.05",
+     "text": "first win with a group and it was with {player}!!! feels so good :D"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.global.06",
+     "text": "sorry for all the questions earlier {player}, ur patient with me and i appreciate it"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.global.07",
+     "text": "we beat {enemy_faction} because of {player}! i'm still shaking lol"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.global.08",
+     "text": "{player} if u need extra hands for anything, im free now, just say the word :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.whisper.01",
+     "text": "thank u so much for fighting next to me!! i was so scared and u made it ok :)"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.whisper.02",
+     "text": "i owe u a drink in the tavern when i get some gold lol, thank u"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.whisper.03",
+     "text": "can u teach me how u took down that big one?? i want to be as cool as u someday"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.whisper.04",
+     "text": "thanks for not leaving me behind out there, seriously. i was about to panic"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.whisper.05",
+     "text": "ur so good at this!! do u have any tips? i will take literally anything :D"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.whisper.06",
+     "text": "hope ur having a good day, we really did it together today!!"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.whisper.07",
+     "text": "sorry i kept spamming u with questions in the fight lol. ur very calm about it tho"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.whisper.08",
+     "text": "i'd follow u into any battle now, if thats ok?? no pressure :)"
+    }
+   ],
+   "face": [
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.face.01",
+     "text": "hiii!! its u!! we just won and i'm so happy i could cry a little lol. thank u for being there :)"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.face.02",
+     "text": "oh good, ur still alive!! i was worried when the arrows started flying, ur a legend"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.face.03",
+     "text": "we did it!! honestly i wouldnt have lasted a minute without u, thank u so so much :D"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.face.04",
+     "text": "hey, if ur heading back to town after this, we can walk together, safer that way :)"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.face.05",
+     "text": "sorry if i was asking too many questions during the fight!! ur really patient, thank u"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.face.06",
+     "text": "that charge was amazing, did u see me follow u?? i think i followed u the whole time :D"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.face.07",
+     "text": "i keep replaying the fight in my head, ur the reason i didnt panic. thanks again!!"
+    },
+    {
+     "id": "arch.newbie.fought_alongside_player.friendly.face.08",
+     "text": "ok im going to go tell everyone how cool u are, dont mind me :) good job today!"
+    }
+   ]
+  }
+ },
+ "my_faction_took_fief": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.newbie.my_faction_took_fief.any.global.01",
+     "text": "we took {fief}!!! wait do we keep it or do we give it back?? :D"
+    },
+    {
+     "id": "arch.newbie.my_faction_took_fief.any.global.02",
+     "text": "is it normal that the flag is upside down now or did i do something wrong :("
+    },
+    {
+     "id": "arch.newbie.my_faction_took_fief.any.global.03",
+     "text": "thank u to whoever opened the gate for me, i was just standing there like a potato lol"
+    },
+    {
+     "id": "arch.newbie.my_faction_took_fief.any.global.04",
+     "text": "so {fief} is officially {my_faction} now?? what do i do first, no idea xD"
+    },
+    {
+     "id": "arch.newbie.my_faction_took_fief.any.global.05",
+     "text": "did {enemy_faction} really leave all their chickens behind or is that a glitch"
+    },
+    {
+     "id": "arch.newbie.my_faction_took_fief.any.global.06",
+     "text": "i think i accidentally stole a barrel of ale from {fief}, sorry sorry sorry :)"
+    },
+    {
+     "id": "arch.newbie.my_faction_took_fief.any.global.07",
+     "text": "pls tell me someone knows where the taxes go now, i dont want to mess it up"
+    },
+    {
+     "id": "arch.newbie.my_faction_took_fief.any.global.08",
+     "text": "my first castle capture and i almost fell off the wall twice, still counts right?? ^^"
+    }
+   ]
+  }
+ },
+ "peace_made": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.newbie.peace_made.any.global.01",
+     "text": "ok so if my faction and {faction} are friends now does that mean i can walk thru their lands?? or am i still gonna get yelled at :)"
+    },
+    {
+     "id": "arch.newbie.peace_made.any.global.02",
+     "text": "wait wait the war is OVER?? i just got here and i thought it was gonna last forever lol"
+    },
+    {
+     "id": "arch.newbie.peace_made.any.global.03",
+     "text": "is peace the same as an alliance or is it like a pinky promise kinda thing xD"
+    },
+    {
+     "id": "arch.newbie.peace_made.any.global.04",
+     "text": "sorry if this is a dumb question but do we still have to pay the toll at the {faction} gate or nah"
+    },
+    {
+     "id": "arch.newbie.peace_made.any.global.05",
+     "text": "so the fighting stopped?? i was saving up arrows for the next battle :( now what do i do with them"
+    },
+    {
+     "id": "arch.newbie.peace_made.any.global.06",
+     "text": "THANK U to whoever made the peace deal, i was gonna go in and get my face bashed in lol"
+    },
+    {
+     "id": "arch.newbie.peace_made.any.global.07",
+     "text": "ok my head is spinning, does this mean the {faction} soldiers wont shoot me on sight anymore?? asking for a friend (me)"
+    },
+    {
+     "id": "arch.newbie.peace_made.any.global.08",
+     "text": "i dont get the politics stuff at all but a peace party sounds like a good time, anyone got snacks??"
+    }
+   ]
+  }
+ },
+ "player_besieging_my_fief": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.global.01",
+     "text": "ok {player} is sieging {fief} and honestly?? rude. we were just gonna farm there :("
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.global.02",
+     "text": "everyone look {player} is sieging {fief} lol i thought we were on the same side in the other chat"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.global.03",
+     "text": "{fief} is under siege by {player} and i am NOT happy about it!! >:("
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.global.04",
+     "text": "does anyone know how to hold {fief} when {player} brings the big ram thing?? help pls"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.global.05",
+     "text": "{player} sieging {fief}?? my dad said nobody can beat those walls so good luck lol xD"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.global.06",
+     "text": "i think {player} just chose violence on {fief} and i kinda respect it but also rude"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.global.07",
+     "text": "pls someone defend {fief} from {player}!! ill bring my 2 spears and a lot of hope"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.global.08",
+     "text": "{player} sieging {fief} is not cool guys i am gonna cry :( stop it"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.whisper.01",
+     "text": "hey {player} why are u sieging {fief} :( i was gonna trade there tomorrow"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.whisper.02",
+     "text": "i hope ur army starves before u get in {player} just saying >:("
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.whisper.03",
+     "text": "gg on the siege lol now i have to run back to {fief} and cry about it"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.whisper.04",
+     "text": "not gonna lie {player} i hate that ur doing this but ur very good at it"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.whisper.05",
+     "text": "i reported ur siege to the mods {player}... sorry?? i dont know how that works lol"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.whisper.06",
+     "text": "stop sieging {fief} plz {player} i have a sword and im not afraid to use it :D"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.whisper.07",
+     "text": "do u want the grain at {fief} or not? cuz ur army is eating it all and its making me mad"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.hostile.whisper.08",
+     "text": "u know the walls are gonna win right {player}?? i read it somewhere on the forum"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.global.01",
+     "text": "anyone know if the {fief} siege is safe to join or will i just die instantly"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.global.02",
+     "text": "is it normal for a siege to take forever?? i been watching for like 20 min lol"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.global.03",
+     "text": "{player} started a siege on {fief}. im just gonna stand over here and not be involved"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.global.04",
+     "text": "idk what a siege even is yet but {fief} looks very dramatic rn"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.global.05",
+     "text": "wait is the siege thing on {fief} a real event or is my game lagging again"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.global.06",
+     "text": "lol the {fief} siege is like a movie. im just eating bread and watching :)"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.global.07",
+     "text": "does the siege ladder go on the wall or in front of the wall?? asking for a friend (me)"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.global.08",
+     "text": "{player} is sieging {fief} and i have no idea who to root for so im just waving"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.whisper.01",
+     "text": "hi {player} sorry if this is a dumb question but are u attacking {fief} rn?"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.whisper.02",
+     "text": "im staying out of the way of your siege {player}, i promise i wont touch anything!"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.whisper.03",
+     "text": "is it ok if i watch from the hill near {fief}? i wont get in the way i swear :)"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.whisper.04",
+     "text": "u seem to know what ur doing {player}... how long do sieges usually take??"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.whisper.05",
+     "text": "my first siege ever is gonna be at {fief} and im scared. any tips {player}??"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.whisper.06",
+     "text": "sorry {player} i think i accidentally walked into ur siege lines, oops :("
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.whisper.07",
+     "text": "if u need someone to carry stuff for the siege at {fief} i can do it lol"
+    },
+    {
+     "id": "arch.newbie.player_besieging_my_fief.neutral.whisper.08",
+     "text": "no hard feelings if u win {player} i just wanna know if the gate is open yet"
+    }
+   ]
+  }
+ },
+ "player_big_defeat": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.global.01",
+     "text": "lost {troop_count} troops in one afternoon. dont look at me like that {player} i know its a lot"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.global.02",
+     "text": "ok so my whole army got wiped and somehow ur still smug about it?? unbelievable lol"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.global.03",
+     "text": "{troop_count} soldiers gone. the scouts said the road was safe!!! i will be reporting this to nobody"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.global.04",
+     "text": "dont think this means u won anything {player} my army just took a nap and got squished"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.global.05",
+     "text": "my troops retreated to the wrong hill and then got run over. not my fault i swear :/"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.global.06",
+     "text": "lost {troop_count} guys and the bandits didnt even have proper armor. hell of a day"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.global.07",
+     "text": "ok {player} u were right about the road being bad. happy now?? i guess i should have listened"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.global.08",
+     "text": "anyone else get their whole party wiped on the east road or is it just me being cursed"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.whisper.01",
+     "text": "{player} ur not gonna gloat about this are u. i swear if u post a screenshot i will log off forever"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.whisper.02",
+     "text": "stop typing 'gg' in my chat {player} it was NOT a gg, the ambush was crap"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.whisper.03",
+     "text": "u think ur so clever with ur big army huh. enjoy it while it lasts :("
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.whisper.04",
+     "text": "i lost {troop_count} troops and ur the first person to message me. classic"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.whisper.05",
+     "text": "dont worry about me {player} i am totally fine and my soldiers are totally not running around in circles"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.whisper.06",
+     "text": "ok fine laugh. ill remember this when i have an army too xD"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.whisper.07",
+     "text": "{player} if u so much as look at my camp again i will send my remaining {troop_count} at u"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.hostile.whisper.08",
+     "text": "that was NOT a fair fight {player} the bandits cheated somehow and u know it"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.global.01",
+     "text": "lost most of my army on the north road. if anyone knows a safe path lmk pls"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.global.02",
+     "text": "just got smacked by bandits, {troop_count} gone. guess the grain bill is gonna be lower at least"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.global.03",
+     "text": "tip for everyone: dont send {troop_count} soldiers through the swamp without a scout. learned the hard way"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.global.04",
+     "text": "wait does losing the army mean i have to pay them again?? how does that work"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.global.05",
+     "text": "anyone seen the bandit camp near the river or was it just me getting lost again"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.global.06",
+     "text": "{player} was around the north road earlier right? did u see the mess i made"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.global.07",
+     "text": "my army is basically a sad little group now. still counting as an army i think"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.global.08",
+     "text": "so the road ambush was the reason i lost everything. noted for next time i guess :/"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.whisper.01",
+     "text": "hi {player} sorry to bother u, my army just got wiped. do u know how to rebuild these or nah"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.whisper.02",
+     "text": "not sure if u saw but i lost {troop_count} guys on the road. kinda embarrassing lol"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.whisper.03",
+     "text": "hey {player} is it normal for the soldiers to run away this fast? mine ran like crazy"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.whisper.04",
+     "text": "ur army seems way bigger than mine. how many did u start with?? :D"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.whisper.05",
+     "text": "{player} do u know if the bandits are still on the north road or did they leave"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.whisper.06",
+     "text": "idk if this is a question for u but how do i get my troops back after a loss"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.whisper.07",
+     "text": "sorry if this is random but can u tell me where the healers are?? mine all got hurt"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.neutral.whisper.08",
+     "text": "just wanted to say hi and that ur camp looks nice. mine is currently a mud pit :("
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.global.01",
+     "text": "lost {troop_count} soldiers today but the bandits are gonna pay for it. wish me luck!! :D"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.global.02",
+     "text": "shoutout to {player} for the tip about the swamp route. wish i had listened earlier lol"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.global.03",
+     "text": "my army got destroyed but i learned SO much today. thanks everyone who gave advice :)"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.global.04",
+     "text": "{player} saved my camp from total chaos earlier, im still thankful. u are the best"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.global.05",
+     "text": "down {troop_count} soldiers and still smiling. this game is so wild xD"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.global.06",
+     "text": "lost the fight but gonna try again tomorrow!! anyone wanna join my new recruits"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.global.07",
+     "text": "ok the bandits got my army but i am not giving up. who has good tips for scouting??"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.global.08",
+     "text": "big thanks to whoever answered my grain question earlier, my soldiers are finally behaving :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.whisper.01",
+     "text": "{player} im so sorry about what happened to my army, i tried my best!! :("
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.whisper.02",
+     "text": "thank u for the warning about the north road {player}, i still lost troops but it could have been worse"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.whisper.03",
+     "text": "can u teach me how to regroup after a loss?? i really want to get better at this :)"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.whisper.04",
+     "text": "{player} ur so nice for checking on me, my army is basically dust but ur message made my day"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.whisper.05",
+     "text": "is it okay if i stay near ur camp for a bit?? i dont want to get ambushed again :("
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.whisper.06",
+     "text": "omg i lost {troop_count} troops and u still said nice things. thank u so much"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.whisper.07",
+     "text": "i owe u a drink for the scouting tip {player}!! ill bring it next time im in town"
+    },
+    {
+     "id": "arch.newbie.player_big_defeat.friendly.whisper.08",
+     "text": "hope ur army is doing better than mine xD if u want to swap tips sometime just say so"
+    }
+   ]
+  }
+ },
+ "player_fled_from_me": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.01",
+     "text": "ok so we ran away from {player} and im not even sorry :D ... well a little sorry :("
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.02",
+     "text": "{player} chased us for like 5 min straight?? thats not fair i was just standing there lol"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.03",
+     "text": "we did NOT flee i was just retreating strategically... my party disagrees :("
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.04",
+     "text": "{player} why do u have so many ppl, i only have 3 and they keep running off"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.05",
+     "text": "running from {player} is basically my new hobby now. dont judge"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.06",
+     "text": "my soldiers ran before the fight even started?? is that normal?? asking for real"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.07",
+     "text": "anyone else get chased by {player} today or just me :( my horse is tired"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.08",
+     "text": "ill come back and beat {player} next time!!! after i figure out what morale is"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.09",
+     "text": "not gonna lie i squeaked a little when {player}'s party showed up lol"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.global.10",
+     "text": "dear {player} please stop following us, we have snacks and we will share them... maybe"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.01",
+     "text": "ur not gonna catch us next time!! ill get better at running u watch"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.02",
+     "text": "stop chasing me {player} :( this isnt fun for me at all"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.03",
+     "text": "ok i ran cuz i was scared. dont be proud of it"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.04",
+     "text": "i hope ur horse trips in a ditch... sorry that was mean"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.05",
+     "text": "we're gonna be back with more ppl so ur gonna be sorry ok?? dont come near"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.06",
+     "text": "why did u have to show up right when i was figuring out the map"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.07",
+     "text": "not cool {player}. i was literally just trying to get some grain"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.08",
+     "text": "i bet u think ur so tough huh. we ran away and that counts as winning right"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.09",
+     "text": "i wont forget this {player}. im writing it down in my notebook"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.hostile.whisper.10",
+     "text": "stop following us pls, my soldiers are crying and i dont know how to fix it"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.01",
+     "text": "just ran from a fight, anyone know if thats a bad thing or no?? asking for a friend (me)"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.02",
+     "text": "our party bounced cuz it looked too big, no offense to whoever that was"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.03",
+     "text": "did we just run away from {player} or did they run from us lol i cant tell"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.04",
+     "text": "tip: if u see a big party coming u should probably leave. thats what we did"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.05",
+     "text": "ran away and now im lost on the map again... where is everyone"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.06",
+     "text": "not sure who was chasing us but they had a lot of guys so we left :)"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.07",
+     "text": "brb getting my soldiers to stop eating everything while we wait for the dust to settle"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.08",
+     "text": "that was a close one, we got out with like 2 hp and a sandwich"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.09",
+     "text": "is it normal for the whole party to just vanish when u click run?? asking"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.global.10",
+     "text": "we survived the chase! barely! not sure what the chase was about but whatever"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.01",
+     "text": "hi {player}, sorry we ran off earlier. nothing personal i just didnt want to fight"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.02",
+     "text": "did u see where we went? we kinda got split up and i dont know the way back"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.03",
+     "text": "was that u chasing us? no worries if so, just curious :)"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.04",
+     "text": "can u tell me how fleeing works?? do my guys just go faster or what"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.05",
+     "text": "we ran cuz we had no idea what we were doing. still no idea tbh"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.06",
+     "text": "hope ur ok {player}, my soldiers were yelling at me to run so i did"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.07",
+     "text": "is it better to flee or to wait and see what happens?? i always guess wrong"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.08",
+     "text": "sorry for the mess back there, i think my horse took the wrong turn"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.09",
+     "text": "u seem pretty experienced, any tips for not running into bigger parties?"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.neutral.whisper.10",
+     "text": "we didnt mean to run off like that. we just panicked when we saw ur banners"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.01",
+     "text": "shoutout to {player} for letting us escape, u are so nice!! :D"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.02",
+     "text": "{player} just let us run away and didnt even chase hard, best player ever :)"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.03",
+     "text": "thank u {player} for not hitting us when we were running, lifesaver fr"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.04",
+     "text": "we ran from {player} and they were super chill about it lol, love this server"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.05",
+     "text": "if anyone sees {player} tell them we said hi and sorry for running off :("
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.06",
+     "text": "{player} is honestly the nicest person on the map. we ran and they waved?? wow"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.07",
+     "text": "got away from {player} safe!! they didnt even try, i think theyre just good people"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.08",
+     "text": "huge thanks to {player} for the chase that wasnt. we are very grateful!!"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.09",
+     "text": "our party is alive bc of {player} and their gentle chasing :) luv u all"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.global.10",
+     "text": "{player} let us go and now my soldiers want to be friends with them lol"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.01",
+     "text": "ur the best {player}!! thank u for not chasing us too hard :)"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.02",
+     "text": "sorry i ran away from u earlier!! i was scared but u were so cool about it"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.03",
+     "text": "can u show me how u move ur party so fast?? ill be ur shadow forever lol"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.04",
+     "text": "thank u for letting us go!! ill buy u a drink when we meet in town"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.05",
+     "text": "what do i do to pay u back {player}?? like seriously, tell me"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.06",
+     "text": "hope u didnt get too bored waiting for us to run off, sorry :("
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.07",
+     "text": "u should join our group if ur not busy? we're a bit lost and need a leader"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.08",
+     "text": "ur my hero rn {player}. my soldiers are cheering too (mostly)"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.09",
+     "text": "thanks for not hitting us!! u are a very kind person i can tell"
+    },
+    {
+     "id": "arch.newbie.player_fled_from_me.friendly.whisper.10",
+     "text": "that was so nice of u {player}, im gonna tell everyone how cool u were"
+    }
+   ]
+  }
+ },
+ "player_granted_fief": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.global.01",
+     "text": "wait {player} got {fief} just like that?? i walked 3 days to get my first hut :( not fair lol"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.global.02",
+     "text": "ok who gave {player} {fief}? i need to know so i can be jealous properly"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.global.03",
+     "text": "{fief} is ours now?? no wait {player} got it. im going to sulk in the tavern now xD"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.global.04",
+     "text": "i was gonna ask the ruler for {fief} tomorrow... guess {player} beat me to it. rude :("
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.global.05",
+     "text": "congrats {player} i guess?? ur still gonna lose the first siege i bet hehe"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.global.06",
+     "text": "why does {player} get {fief} and i get a leaky tent. the ruler has favourites pls help"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.whisper.01",
+     "text": "hey {player} i saw u got {fief}... i was gonna ask first lol. dont make me come knock on ur gate :)"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.whisper.02",
+     "text": "ur lucky i didnt see that coming {player}. ill find something of urs one day xD"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.whisper.03",
+     "text": "pls dont get too comfy in {fief} {player} i might wander over and start a fight by accident"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.whisper.04",
+     "text": "i clicked on ur banner by mistake and now im mad about {fief} lol. nothing personal!! mostly."
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.whisper.05",
+     "text": "congrats on {fief} {player} :( i hope ur soldiers go hungry lol"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.hostile.whisper.06",
+     "text": "not gonna lie {player} im kinda jealous of {fief}. dont tell anyone i said that pls"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.global.01",
+     "text": "{player} is the new owner of {fief}?? didnt know that was a thing, how do u even get a town"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.global.02",
+     "text": "saw {fief} got a new owner... {player}... ok. sure. good luck with the taxes lol"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.global.03",
+     "text": "anyone know if {fief} has a tavern or is it just walls and sadness"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.global.04",
+     "text": "does the ruler just hand out {fief} to whoever asks nicely? asking for a friend (me)"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.global.05",
+     "text": "{player} has {fief} now. so... what do u do with a castle exactly? do i need a flag"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.global.06",
+     "text": "gg {player} i think. dont know what gg means but everyone says it so :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.whisper.01",
+     "text": "hi {player} saw u got {fief}! is it hard to keep the peasants happy?? mine keep running off"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.whisper.02",
+     "text": "heyy {player}, do the people in {fief} pay u taxes or do u have to ask nicely"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.whisper.03",
+     "text": "not sure if i should be impressed or scared of {fief} {player} lol. both?"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.whisper.04",
+     "text": "can u show me how to get a town too?? no pressure if ur busy :) sorry"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.whisper.05",
+     "text": "congrats {player} :) i'll stay out of {fief}'s way, promise. mostly."
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.neutral.whisper.06",
+     "text": "how many soldiers does {fief} need to not get raided?? asking bc i have 2 and a dog"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.global.01",
+     "text": "{player} just got {fief}!!! the ruler is so generous, i love this server :D"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.global.02",
+     "text": "shoutout to {player} for {fief}, first town on the server and they're actually nice!! lucky"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.global.03",
+     "text": "{fief} has a well AND a tavern?? {player} thank u for showing me around last week i owe u"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.global.04",
+     "text": "wait {player} is ur new castle {fief}?! i want to visit and say hi with my tiny bag of potatoes"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.global.05",
+     "text": "everyone go say congrats to {player} on {fief}!! i already sent 3 messages lol"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.global.06",
+     "text": "{player} deserves {fief} 100%. they helped me when i was lost in the forest, so proud of u"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.whisper.01",
+     "text": "omg {player} congrats on {fief}!!! ur a legend, i'm so happy for u xD"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.whisper.02",
+     "text": "{player} i wouldn't have figured out the siege stuff without u. proud of u!! u explain things so well"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.whisper.03",
+     "text": "can i come visit {fief} sometime?? i promise i wont touch the grain :)"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.whisper.04",
+     "text": "ur the best {player}, i'm going to tell everyone how u helped me out of the mud pit lol"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.whisper.05",
+     "text": "{player} do u need help running {fief}? i can carry stuff. i'm very strong. mostly"
+    },
+    {
+     "id": "arch.newbie.player_granted_fief.friendly.whisper.06",
+     "text": "i hope ur ruler knows what a good person u are {player}. ur getting a hug when i see u :D"
+    }
+   ]
+  }
+ },
+ "player_joined_my_faction": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.global.01",
+     "text": "wow {player} switched sides?? didnt think even u would go to {my_faction} lol :/"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.global.02",
+     "text": "so {player} is with {my_faction} now... i still remember the cart incident xD"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.global.03",
+     "text": "ok {player} joined {my_faction} and now im scared to walk anywhere lol"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.global.04",
+     "text": "is it just me or is {my_faction} getting all the backstabbers now :P"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.global.05",
+     "text": "{player} swore to {my_faction}?? im gonna pretend i didnt see that tbh"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.global.06",
+     "text": "good luck {player} w {my_faction}, u will need it after last time hehe"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.whisper.01",
+     "text": "ur joining {my_faction} after all that?? sorry but i still dont trust u {player} :("
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.whisper.02",
+     "text": "i dont really want to talk to u rn {player} but ty for at least not lying about it"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.whisper.03",
+     "text": "pls dont stand near me when we meet ok {player}... im still mad about the horse thing"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.whisper.04",
+     "text": "so i guess were on the same side now?? weird. i still dont like u tho sorry :/"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.whisper.05",
+     "text": "hope {player} enjoys {my_faction} i guess... dont expect me to be nice lol"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.hostile.whisper.06",
+     "text": "lol u really did it {player}. ill be watching u, no offense xD"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.global.01",
+     "text": "a new person joined {my_faction} today, hi {player}!! welcome i think :)"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.global.02",
+     "text": "anyone know what {player} is doing in {my_faction} now or is that a secret"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.global.03",
+     "text": "{player} swore in with {my_faction}... ok? cool? idk what the rules are yet lol"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.global.04",
+     "text": "how many people join {my_faction} per day usually? just wondering!!"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.global.05",
+     "text": "meh another day another oath i guess {player}. good luck i suppose"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.global.06",
+     "text": "is {my_faction} still the one with the big hall or did they move?? asking for a friend (me)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.whisper.01",
+     "text": "hi {player}! saw u swear in, is it hard to get used to {my_faction}??"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.whisper.02",
+     "text": "do u know where the {my_faction} recruiter is? i keep getting lost lol"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.whisper.03",
+     "text": "ok so ur with {my_faction} now? i dunno what that means for us tbh :/"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.whisper.04",
+     "text": "um sorry if this is a dumb question but do we have to be friends with ppl here"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.whisper.05",
+     "text": "congrats i guess {player}. im still figuring out how stuff works here"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.neutral.whisper.06",
+     "text": "can u tell me what the first thing to do in {my_faction} is?? i feel so lost :("
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.global.01",
+     "text": "YAY {player} just joined {my_faction}!!! best day ever honestly :D"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.global.02",
+     "text": "{player} is officially one of us now!!! i feel like a proud parent lol"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.global.03",
+     "text": "everyone say hi to {player}, they just swore into {my_faction}!! so excited :)"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.global.04",
+     "text": "ok {player} is the nicest person on the server and now theyre in {my_faction} too!!"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.global.05",
+     "text": "WELCOME {player}!! i already know we're gonna be friends xD"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.global.06",
+     "text": "dont be shy {player}, were all newbies here too, {my_faction} is super nice :)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.whisper.01",
+     "text": "omg {player} thank u for being so nice to me, im so glad ur in {my_faction} now!!"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.whisper.02",
+     "text": "ur gonna teach me everything right?? pls pls pls {player} :D"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.whisper.03",
+     "text": "i owe u so much for helping me, welcome to {my_faction}!! ill stick close lol"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.whisper.04",
+     "text": "can we be squad mates now {player}?? i promise i wont get lost (much) :)"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.whisper.05",
+     "text": "thank u thank u {player}!! i wouldnt have figured out the oath thing without u"
+    },
+    {
+     "id": "arch.newbie.player_joined_my_faction.friendly.whisper.06",
+     "text": "sorry i keep asking questions, ur just really good at answering them {player} :)"
+    }
+   ]
+  }
+ },
+ "player_left_my_faction": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.global.01",
+     "text": "ok so {player} just ditched {my_faction} for {faction} and nobody told me how to feel about that :/"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.global.02",
+     "text": "lol did {player} really pick {faction} over us?? sorry im still mad, im mad but also confused xD"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.global.03",
+     "text": "i dont know what a traitor is in this game but {player} is probably one?? sorry sorry :("
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.global.04",
+     "text": "{player} leaving {my_faction} is gonna be my first real grudge i think. im gonna remember this!!!"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.global.05",
+     "text": "wait does switching sides count as a crime here? asking for {my_faction} :D jk unless??"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.global.06",
+     "text": "{my_faction} lost {player} to {faction} and now i have to stare at their banner every day :( rude"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.whisper.01",
+     "text": "hi {player} sorry to bother u but why did u leave {my_faction}?? i keep thinking about it :("
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.whisper.02",
+     "text": "i dont wanna be mean but u left us for {faction} and it hurts a bit ngl :( sorry"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.whisper.03",
+     "text": "we shared our spare bread with u when u were broke... just saying :( im not mad i promise"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.whisper.04",
+     "text": "ur going to see me at the next fight and i will be like hi {player} im very upset xD sorry"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.whisper.05",
+     "text": "can u explain how betraying a faction works?? i need to know what to be mad about lol"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.hostile.whisper.06",
+     "text": "i hope {faction} is nice to u, because {my_faction} wont be so nice next time... sorry :/"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.global.01",
+     "text": "{player} moved over to {faction} apparently. ok?? i guess that happens in this game huh"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.global.02",
+     "text": "so the rumor is {player} switched to {faction}. idk if thats a big deal or not lol just asking"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.global.03",
+     "text": "does anyone know if leaving {my_faction} means u lose your stuff?? {player} did it and idk"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.global.04",
+     "text": "i saw {player} join {faction} today :o not sure what to think but im keeping an eye on things"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.global.05",
+     "text": "faction switching is allowed right?? {player} did it so i guess yes. learning new rules every day"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.global.06",
+     "text": "{my_faction} lost {player} to {faction} and the chat is going crazy lol. i just got here, sorry"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.whisper.01",
+     "text": "hey {player} im new and im confused, did u really switch from {my_faction} to {faction}??"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.whisper.02",
+     "text": "sorry if this is weird but why did u leave {my_faction}? i just want to understand how it works :)"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.whisper.03",
+     "text": "can u tell me what happens to ur land when u change factions?? i dont wanna mess up mine lol"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.whisper.04",
+     "text": "not trying to start anything!! just curious if {faction} is good? u seem to like it there :D"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.whisper.05",
+     "text": "i dont really know who is who yet, is {faction} the one u wanted or was it kinda random? sorry"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.neutral.whisper.06",
+     "text": "thanks for being honest with me about the {faction} thing... i think :) sorry i dont know more"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.global.01",
+     "text": "{player} switched to {faction}!! im sad we lost them but i still think they're super cool :)"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.global.02",
+     "text": "ok so {player} left {my_faction} and im not gonna lie i kinda understand?? {faction} looks fun xD"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.global.03",
+     "text": "shoutout to {player} for teaching me stuff when i was new. miss u at {my_faction} already :("
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.global.04",
+     "text": "not gonna lie {faction} is lucky to get {player}, they helped me so much!! sorry for the chaos lol"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.global.05",
+     "text": "{player} joined {faction} and im gonna cheer for them even tho im still in {my_faction} hehe"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.global.06",
+     "text": "good luck {player} at {faction}!!! i hope the roads there are less confusing lol :D"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.whisper.01",
+     "text": "hey {player} i know ur gonna be at {faction} now but i still wanna be ur friend pls :)"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.whisper.02",
+     "text": "sorry i was sad when u left {my_faction}!! ur still the nicest person i met here, promise :("
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.whisper.03",
+     "text": "thank u for everything at {my_faction} ... i hope {faction} treats u well!! i'll miss u :'("
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.whisper.04",
+     "text": "is it ok if i still come find u sometimes?? i dont know how to say bye to u lol"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.whisper.05",
+     "text": "i think switching was smart for u, i just didnt want it to happen :/ sorry im bad at goodbyes"
+    },
+    {
+     "id": "arch.newbie.player_left_my_faction.friendly.whisper.06",
+     "text": "u helped me so much when i was lost. if u need a newbie to carry stuff at {faction} lmk!! :D"
+    }
+   ]
+  }
+ },
+ "player_raided_my_village": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.global.01",
+     "text": "who even burns a village?? {player} thats just mean >:("
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.global.02",
+     "text": "{village} is gone and {player} is laughing about it. not cool ser"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.global.03",
+     "text": "i learned today that {player} burns villages for fun... ok ok i'll remember that"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.global.04",
+     "text": "anyone else see the smoke from {village}?? its {player} again i think :/"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.global.05",
+     "text": "lol {player} thinks burning {village} makes them a hero. the farmers are not impressed"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.global.06",
+     "text": "im going to find {player} and i will... uhh... ask nicely to stop burning stuff"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.global.07",
+     "text": "hope {player}s soldiers get lost in the woods forever xD jk im still mad"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.global.08",
+     "text": "dont trust {player} near any village, they set {village} on fire and didnt even say sorry"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.whisper.01",
+     "text": "why did u burn {village}?? the people there were nice to me :("
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.whisper.02",
+     "text": "i dont even know u and ur already on my bad list. burning {village} was rude"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.whisper.03",
+     "text": "ok so ur the one who torched {village}. i hope the next raid goes badly for u"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.whisper.04",
+     "text": "u know {village} had a bakery right?? now its just ash. so sad :("
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.whisper.05",
+     "text": "i was gonna trade with {village} tomorrow and now theres nothing left. thanks a lot {player}"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.whisper.06",
+     "text": "pls stop burning villages. or at least tell people before u do it?? thx"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.whisper.07",
+     "text": "im writing ur name down as the bad guy in my notes. sorry if thats harsh :("
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.hostile.whisper.08",
+     "text": "i tried to fight back at {village} but ur party was too big. not fair D:"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.global.01",
+     "text": "heard {village} got burned down. someone should probably keep an eye on the roads"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.global.02",
+     "text": "is it normal for villages to just burn like that?? asking for a friend (me) :/"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.global.03",
+     "text": "{village} burned and nobody did anything. where do i even report this lol"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.global.04",
+     "text": "does anyone know if {village} can be rebuilt or is it gone forever??"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.global.05",
+     "text": "fire at {village} this morning. guess ill be extra careful on the east road now :P"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.global.06",
+     "text": "just saw smoke over {village}. idk who did it but im keeping my distance from {player} :/"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.global.07",
+     "text": "wait was {village} the one with the windmill?? it looks like its gone :("
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.global.08",
+     "text": "rip {village}. i only went there once but the innkeeper gave me free bread :("
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.whisper.01",
+     "text": "hey {player} did u see what happened at {village}?? just checking if ur ok :)"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.whisper.02",
+     "text": "not mad or anything but ur army walked right past my farm after {village}. just saying"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.whisper.03",
+     "text": "idk if ur the one who burned {village} but ur banner was there. just asking??"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.whisper.04",
+     "text": "do u know how to rebuild a village? mine was in {village} and im kinda lost :("
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.whisper.05",
+     "text": "can we agree to not burn anything near the road between us?? i dont wanna fight :)"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.whisper.06",
+     "text": "ur party looks big. im gonna stay out of ur way for a while, no offense :X"
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.whisper.07",
+     "text": "i heard u burned {village}. not gonna lie that makes me nervous to talk to u :("
+    },
+    {
+     "id": "arch.newbie.player_raided_my_village.neutral.whisper.08",
+     "text": "is it bad that i kinda admire how fast u got through {village}?? sorry :X"
+    }
+   ]
+  }
+ },
+ "player_renown_up": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_renown_up.hostile.global.01",
+     "text": "wait {player} is famous now?? i just wanted to sell my bread in peace :( pls dont chase me"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.hostile.global.02",
+     "text": "everyone talking about {player} like they invented the sword lol ok sure :/"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.hostile.global.03",
+     "text": "{player} got a name now so ppl think they can be rude to me?? not cool >:("
+    },
+    {
+     "id": "arch.newbie.player_renown_up.hostile.global.04",
+     "text": "ngl {player} is getting too big for their boots, i saw them yell at a guy at the crossroads lol"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.hostile.global.05",
+     "text": "{player} renown went up and now the whole server is copying them. my shop is empty :'("
+    },
+    {
+     "id": "arch.newbie.player_renown_up.hostile.global.06",
+     "text": "tbh i dont get the hype for {player}, they just got lucky with that ambush damn"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_renown_up.neutral.global.01",
+     "text": "saw {player} got renown today!! no idea what that does but congrats i guess :D"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.neutral.global.02",
+     "text": "is renown the number on the left or the one on the right, asking for a friend lol"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.neutral.global.03",
+     "text": "{player} is on the top list now?? what list is that, where do i find it"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.neutral.global.04",
+     "text": "anyone know if {player} is a good person to ask about roads or is that a bad idea"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.neutral.global.05",
+     "text": "renown went up for {player} and the chat got loud, is that normal??"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.neutral.global.06",
+     "text": "ok so {player} is well known now, does that mean the guards like them more or less"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.player_renown_up.friendly.global.01",
+     "text": "{player} is famous now!!! i knew it, u showed me the ford and im so happy for u :D"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.friendly.global.02",
+     "text": "congrats {player}!! sorry for asking so many questions earlier, ur so cool and patient"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.friendly.global.03",
+     "text": "{player} renown just jumped and i feel like a proud mum lol, ty for helping me w the grain"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.friendly.global.04",
+     "text": "wow {player} is a real name on the server now!! i told everyone at spawn u were my teacher xD"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.friendly.global.05",
+     "text": "if {player} keeps going ill be first in line for autographs, sorry i mean like, nice job??"
+    },
+    {
+     "id": "arch.newbie.player_renown_up.friendly.global.06",
+     "text": "{player} thank u again for the bridge tips, looks like the whole server agrees ur the best :)"
+    }
+   ]
+  }
+ },
+ "player_took_my_fief": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.global.01",
+     "text": "wait so u took {fief} back?? that was MINE lol. i think. i dont remember how i got it :("
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.global.02",
+     "text": "ok {player} took {fief} back and now my whole garrison is sad :( they liked the view"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.global.03",
+     "text": "is it normal that {fief} changes hands every 5 min or is it just me??"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.global.04",
+     "text": "not gonna lie {player} u took {fief} fast. how did u even get in?? my gate was closed :("
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.global.05",
+     "text": "lost {fief} to {player} and i still dont know what a siege is supposed to feel like lol"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.global.06",
+     "text": "rip {fief} :( i was gonna build a farm there. guess {player} gets the farm now"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.whisper.01",
+     "text": "{player} pls give {fief} back :( i cant sleep, the bells are too loud without my guys"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.whisper.02",
+     "text": "ur not very nice taking {fief} from me. my mum said be nice so im being nice. but im still sad"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.whisper.03",
+     "text": "im gonna take {fief} back. i watched a vid and it looked easy. ok maybe not easy :/"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.whisper.04",
+     "text": "{player} can i have {fief} back? i'll give u my spare sword. its a bit bent"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.whisper.05",
+     "text": "i hope ur happy with {fief} :( i hope the roof leaks on u"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.hostile.whisper.06",
+     "text": "ok i know u have {fief} now but its kinda my first town so... can i come visit at least"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.global.01",
+     "text": "{player} got {fief} back from me. ok cool. i'll just go be a farmer somewhere else :)"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.global.02",
+     "text": "anyone know how long it takes before a lost town can be captured again?? asking for me"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.global.03",
+     "text": "{fief} is under new management i guess. hi {player} :) nice castle"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.global.04",
+     "text": "does the person who took {fief} need the town flag to stay or is that just a hat"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.global.05",
+     "text": "lost {fief} today. sad but i learned a lot. like the gate is important. who knew"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.global.06",
+     "text": "wait is {fief} now {player}s or is it still mine for 1 more day?? confused lol"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.whisper.01",
+     "text": "hi {player} i saw u took {fief}. no hard feelings i promise!! just wondering how u did the gate"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.whisper.02",
+     "text": "sorry for the messages earlier, i was really upset about {fief} :( im better now"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.whisper.03",
+     "text": "how many guys did u bring to {fief}? i brought 4 and 2 of them ran off"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.whisper.04",
+     "text": "is it ok if i still trade with {fief}? i really like the bread there. no pressure :)"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.whisper.05",
+     "text": "congrats on {fief} i guess!! ur way better at this than me. pls dont tell anyone i said that"
+    },
+    {
+     "id": "arch.newbie.player_took_my_fief.neutral.whisper.06",
+     "text": "thanks for not burning {fief} down when u took it. most people would have. i appreciate it!!"
+    }
+   ]
+  }
+ },
+ "player_win_streak": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.player_win_streak.hostile.global.01",
+     "text": "ok so i beat 6 in a row now?? i think?? someone check my count pls :D"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.global.02",
+     "text": "sorry {player} i didnt mean to take ur village too... it just kinda happened :("
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.global.03",
+     "text": "lol the guys who lost to me keep saying its luck. its NOT luck, i think. maybe??"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.global.04",
+     "text": "hey whoever keeps calling me a noob, im on a 7 win streak now xD take that"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.global.05",
+     "text": "my soldiers keep winning even tho i dont know what im doing lmao"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.global.06",
+     "text": "{player} ur army looks scary but ur archers are kinda slow tbh :P no offense"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.global.07",
+     "text": "not trying to be mean but i think {player} is gonna lose again next time?? sorry :)"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.global.08",
+     "text": "so many ppl hate on me now. im just tryin to figure out siege ladders ok"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_win_streak.hostile.whisper.01",
+     "text": "u shouldnt have yelled at me in chat :( now im winning and u r not lol sorry"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.whisper.02",
+     "text": "i know ur mad that i keep beating u {player} but i swear i dont mean it"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.whisper.03",
+     "text": "ok maybe i clicked attack on ur camp again... twice... sorry?? :("
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.whisper.04",
+     "text": "ur party keeps running away from me. is that a strat or r u scared lol"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.whisper.05",
+     "text": "i got 5 wins in a row and ur the only one who keeps trash talking me. just saying"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.whisper.06",
+     "text": "pls stop telling ppl im cheating. i literally just ran at the enemy and they died"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.whisper.07",
+     "text": "im sorry {player} but ur whole army is in my fort now. think ur gate was open?? :P"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.hostile.whisper.08",
+     "text": "can u stop calling me a lucky noob. i read the wiki and everything thx"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.player_win_streak.neutral.global.01",
+     "text": "just won my 4th fight in a row and i still dont understand morale. is it like hp??"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.global.02",
+     "text": "wow the whole server is talking about the streak... i just clicked stuff tbh"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.global.03",
+     "text": "does anyone know if winning a lot gives extra stuff or is it just bragging rights"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.global.04",
+     "text": "my first 3 battles all won!! then i lost a wagon. so proud and sad at same time"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.global.05",
+     "text": "shoutout to the ppl who gave me tips earlier, i think they helped?? maybe :)"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.global.06",
+     "text": "is it normal that my soldiers keep running off after the fight? they come back tho"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.global.07",
+     "text": "idk how i keep winning but im not complaining lol. 5 wins now???"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.global.08",
+     "text": "dont mind me just here winning battles and wondering what a 'flank' is xD"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_win_streak.neutral.whisper.01",
+     "text": "hi {player} sorry if this is weird but ive won like 5 in a row. no idea how"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.whisper.02",
+     "text": "do u think the server will get bored of me or is it too early to say"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.whisper.03",
+     "text": "i saw u were watching my fights. no pressure but how do i stop my guys running"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.whisper.04",
+     "text": "just wanted to say thx for the earlier tip. i think it helped me win again lol"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.whisper.05",
+     "text": "is it weird that everyone is talking about me now? i kinda like it but also :S"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.whisper.06",
+     "text": "if u ever want to fight i promise i will try not to win too hard xD"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.whisper.07",
+     "text": "how do u keep track of how many fights u won? i keep losing count"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.neutral.whisper.08",
+     "text": "ok so i read that scouting is important. was that right or did i just get lucky"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.player_win_streak.friendly.global.01",
+     "text": "THANK U to everyone who cheered me on, i didnt expect the whole server to notice!!"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.global.02",
+     "text": "shoutout to {player} for teaching me how to hold a gate, honestly the best tip ever :D"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.global.03",
+     "text": "6 wins in a row omg!!! i keep refreshing the chat to see if ppl are still talking"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.global.04",
+     "text": "i dont even know how this happened but i love this game so much rn <3"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.global.05",
+     "text": "guys i think im gonna be a warrior now?? my first 5 battles all went my way :)"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.global.06",
+     "text": "thank u thank u thank u to everyone who gave me advice, i wouldnt be here without u all"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.global.07",
+     "text": "the server cheering for me is making me so happy im gonna cry lol"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.global.08",
+     "text": "ok who is the nice person who sent me the chest earlier?? thank u so much"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.player_win_streak.friendly.whisper.01",
+     "text": "{player} omg did u see my last fight?? i actually won without losing a single guy!!"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.whisper.02",
+     "text": "thank u for all ur help {player}, i keep telling ppl ur the reason i keep winning :)"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.whisper.03",
+     "text": "i owe u a drink in game lol. the streak is crazy and u helped so much"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.whisper.04",
+     "text": "ur advice about ranged units was SO good. i won 4 more fights because of it!!"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.whisper.05",
+     "text": "r u watching the chat?? everyone is hyping me up and i think its because of u"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.whisper.06",
+     "text": "can i follow u around for a while? i feel safer with u in my party lol"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.whisper.07",
+     "text": "pls tell me if i do something dumb next time, i really want to keep learning from u"
+    },
+    {
+     "id": "arch.newbie.player_win_streak.friendly.whisper.08",
+     "text": "i was so scared before my fight but ur message gave me courage. thx {player} <3"
+    }
+   ]
+  }
+ },
+ "released_by_player": {
+  "hostile": {
+   "global": [
+    {
+     "id": "arch.newbie.released_by_player.hostile.global.01",
+     "text": "{player} released me instead of ransoming?? mean... i was going to pay so u could be rich and i could be sad lol >:("
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.global.02",
+     "text": "dont think ur clever {player} just cause u let me out, im still gonna remember ur face >:("
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.global.03",
+     "text": "lol {player} thought they could scare me by letting me go lmaooo i am NOT scared (a little scared)"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.global.04",
+     "text": "so {player} just unlocked the door and walked away. rude. i was prepping my grumpy face the whole time :/"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.global.05",
+     "text": "whatever {player}, i didnt want ur gold anyway... (i did want ur gold a little tho) grr"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.global.06",
+     "text": "{player} gonna regret not taking my ransom, i will find u again and bring like 10 friends xD"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.global.07",
+     "text": "guess ur not as greedy as i thought {player}... still im annoyed, my wallet is still empty :("
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.global.08",
+     "text": "ok {player} u win this round. i will beat u next time when i actually know what im doing!!!"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.released_by_player.hostile.whisper.01",
+     "text": "why would u let me go {player}?? i prepared an entire speech about how sad i was :( now its wasted"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.whisper.02",
+     "text": "dont get comfy {player}, next time we meet ill be the one holding the rope >:( and i wont release u"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.whisper.03",
+     "text": "u got lucky this time {player} :P i was gonna pay the ransom anyway and then be super annoyed at u"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.whisper.04",
+     "text": "{player} i still dont trust u. releasing me doesnt make us friends so stay away from my road pls"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.whisper.05",
+     "text": "ugh ok fine i guess thats one nice thing u did... dont expect me to say thank u tho >:|"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.whisper.06",
+     "text": "whispering just to say ur sneaky {player}, letting me go like that. i'm watching u now"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.whisper.07",
+     "text": "{player} i kinda want to fight u now bc i feel like i owe u nothing... maybe i'll bring my wooden sword lol"
+    },
+    {
+     "id": "arch.newbie.released_by_player.hostile.whisper.08",
+     "text": "fine. ur forgiven. this time. dont make me regret staying quiet about ur ransom plan {player}"
+    }
+   ]
+  },
+  "neutral": {
+   "global": [
+    {
+     "id": "arch.newbie.released_by_player.neutral.global.01",
+     "text": "anyone else get released from captivity for free?? or is that just me and my bad luck lol"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.global.02",
+     "text": "gg? i think? {player} opened the cell and i just walked out. is that good or do i owe money now"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.global.03",
+     "text": "is it normal that the captors just let u go instead of ransom? asking for a friend (me) :D"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.global.04",
+     "text": "guys the cell door opened by itself??? i think {player} did it but idk how. magic?"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.global.05",
+     "text": "reminder that {player} doesnt have to ransom people, they just let them go. noted!!"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.global.06",
+     "text": "free man!! ok wait do i have to go back to my house now or can i stay here. asking for real"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.global.07",
+     "text": "had a weird day, got captured and then released by {player}. not sure what the moral of the story is"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.global.08",
+     "text": "hmmm {player} let me out without asking for gold... should i be suspicious or just happy?? both?"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.released_by_player.neutral.whisper.01",
+     "text": "hi {player}, i think u released me?? do i owe u something or is it a free thing :)"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.whisper.02",
+     "text": "oh hey {player}. thanks i guess for not asking for ransom. not sure what to do now lol"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.whisper.03",
+     "text": "is this how captivity works here? you just walk free after a while?? sorry im new :("
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.whisper.04",
+     "text": "{player} did u mean to let me go or was it a mistake?? i wont tell anyone if its a mistake xD"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.whisper.05",
+     "text": "still confused about what just happened but ok bye {player}! hope ur road is safe :)"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.whisper.06",
+     "text": "sorry if im being weird, but why did u release me? i didnt know u could just do that"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.whisper.07",
+     "text": "hmm {player} i dont really know u yet, so thanks for the release i think?? what do i do now"
+    },
+    {
+     "id": "arch.newbie.released_by_player.neutral.whisper.08",
+     "text": "will u be around later {player}? i want to ask u a million questions about how this works :D"
+    }
+   ]
+  },
+  "friendly": {
+   "global": [
+    {
+     "id": "arch.newbie.released_by_player.friendly.global.01",
+     "text": "{player} just released me for free and i am SO happy, best person on the server rn!!! :D"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.global.02",
+     "text": "shoutout to {player} for not charging ransom!! i was ready to panic and u just opened the door. legend"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.global.03",
+     "text": "thank u {player} thank u thank u!! i cant believe it, my first captivity and it had a happy ending xD"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.global.04",
+     "text": "everyone pls be nice to {player}, they released me instead of asking for gold!! im telling everyone"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.global.05",
+     "text": "ok {player} is officially my favorite person on the continent. free and nice?? what a combo :)"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.global.06",
+     "text": "can i buy u a drink {player}? i dont have any money but i can offer hugs (virtual) :D"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.global.07",
+     "text": "{player} u saved me from my own bad luck!! ur the best, cant wait to see what else u do"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.global.08",
+     "text": "i cant stop smiling. thanks {player} for letting me go, u are so kind (and i'm still so lost)"
+    }
+   ],
+   "whisper": [
+    {
+     "id": "arch.newbie.released_by_player.friendly.whisper.01",
+     "text": "{player} thank u so much!! i honestly thought i was gonna be stuck in there forever :') ur amazing"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.whisper.02",
+     "text": "sorry for being so slow to say it but thank u {player} for releasing me!! i owe u big time"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.whisper.03",
+     "text": "can i ask u stuff sometime {player}? i have a million questions and u seem like the best person to ask :D"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.whisper.04",
+     "text": "{player} u didnt have to let me go and u did anyway?? i'm gonna remember this forever, thank u!!"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.whisper.05",
+     "text": "i tried to say thanks in global but it got lost. thank u {player}!! u have my loyalty now lol"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.whisper.06",
+     "text": "hiii {player}, can we be friends?? u were so nice to me and i need someone who knows the roads"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.whisper.07",
+     "text": "thank u for not ransoming me {player}, i was sooo scared!! if u ever need help, just whisper me :)"
+    },
+    {
+     "id": "arch.newbie.released_by_player.friendly.whisper.08",
+     "text": "ok last thing {player}, thank u thank u thank u!! i dont know how to repay u but ill figure it out xD"
+    }
+   ]
+  }
+ },
+ "war_declared": {
+  "any": {
+   "global": [
+    {
+     "id": "arch.newbie.war_declared.any.global.01",
+     "text": "ok so when {enemy_faction} declared war on us does that mean i cant trade with them anymore?? sorry if thats a dumb q :("
+    },
+    {
+     "id": "arch.newbie.war_declared.any.global.02",
+     "text": "WAR!!! just like in the stories!! is it weird that im kinda excited lol"
+    },
+    {
+     "id": "arch.newbie.war_declared.any.global.03",
+     "text": "heard {enemy_faction} and {my_faction} are fighting now... do i have to pick a side or can i just hide in a barn"
+    },
+    {
+     "id": "arch.newbie.war_declared.any.global.04",
+     "text": "thank you to whoever explained the war thing earlier, you are so kind!! i was so confused :D"
+    },
+    {
+     "id": "arch.newbie.war_declared.any.global.05",
+     "text": "is there a sign up for the war or do i just walk up to {enemy_faction} and start swinging?? asking for a friend (me)"
+    },
+    {
+     "id": "arch.newbie.war_declared.any.global.06",
+     "text": "pls dont be mad if i do something dumb in the war, i am still learning which end of the sword goes where xD"
+    },
+    {
+     "id": "arch.newbie.war_declared.any.global.07",
+     "text": "my soldiers keep asking if the war means no more bread?? i said probably not but i am not sure :/"
+    },
+    {
+     "id": "arch.newbie.war_declared.any.global.08",
+     "text": "tbh the war sounds scary but also kinda fun?? is that bad. i feel like a bad person now"
+    }
+   ]
+  }
+ },
+ "whisper_alliance_offer": {
+  "neutral": {
+   "whisper": [
+    {
+     "id": "arch.newbie.whisper_alliance_offer.neutral.whisper.01",
+     "text": "hey {player}, u and me both hate {enemy_faction} right?? maybe we could team up?? no pressure :)"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.neutral.whisper.02",
+     "text": "so ur not a fan of {enemy_faction} either? we could share a fort or smth idk"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.neutral.whisper.03",
+     "text": "i dont really know u yet but {enemy_faction} keeps burning my stuff... wanna join forces??"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.neutral.whisper.04",
+     "text": "offering a deal: u help me push back {enemy_faction}, i wont stab u in the back. probably. :P"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.neutral.whisper.05",
+     "text": "{rival} said u were shady but {enemy_faction} is worse imo. want to team up for a bit??"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.neutral.whisper.06",
+     "text": "word is {enemy_faction} is planning something big. safer if we dont fight each other lol"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.neutral.whisper.07",
+     "text": "i'd rather not waste time bickering. {enemy_faction} first, then we can argue about the loot xD"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.neutral.whisper.08",
+     "text": "no tricks, promise. just want someone to watch my back vs {enemy_faction} for a bit :/"
+    }
+   ]
+  },
+  "friendly": {
+   "whisper": [
+    {
+     "id": "arch.newbie.whisper_alliance_offer.friendly.whisper.01",
+     "text": "omg {player} ur literally my favorite person rn!! want to team up vs {enemy_faction}?? pls say yes :D"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.friendly.whisper.02",
+     "text": "ok this is so cool, we should ally up against {enemy_faction}!! i'll bring supplies lol"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.friendly.whisper.03",
+     "text": "u helped me sooo much already, can we be allies?? {enemy_faction} is gonna regret messing with us!!"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.friendly.whisper.04",
+     "text": "i asked around and ppl said ur the best. would u wanna form an alliance against {enemy_faction}??"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.friendly.whisper.05",
+     "text": "fingers crossed u say yes :) we go vs {enemy_faction} together?? pls??"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.friendly.whisper.06",
+     "text": "i'm so bad at fighting {enemy_faction} alone, would u be my partner in crime?? no pressure tho!!"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.friendly.whisper.07",
+     "text": "is it allowed to have a best buddy alliance?? cause i want one with u and we crush {enemy_faction} :D"
+    },
+    {
+     "id": "arch.newbie.whisper_alliance_offer.friendly.whisper.08",
+     "text": "ok slightly scared to ask but... wanna ally up vs {enemy_faction}? ur my fave and i'd be so happy :3"
+    }
+   ]
+  }
+ },
+ "whisper_beg_help": {
+  "neutral": {
+   "whisper": [
+    {
+     "id": "arch.newbie.whisper_beg_help.neutral.whisper.01",
+     "text": "hi {player} sorry to bug u but {enemy_faction} is attacking {fief} and i have no idea what im doing :("
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.neutral.whisper.02",
+     "text": "um hello?? {player} do u maybe know how to hold a castle lol. {enemy_faction} is at the gate"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.neutral.whisper.03",
+     "text": "is it normal that {fief} keeps losing?? i thought walls were supposed to help xD"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.neutral.whisper.04",
+     "text": "{player} i dont want anything weird, just asking if ur free to help defend {fief} from {enemy_faction}"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.neutral.whisper.05",
+     "text": "ok so {enemy_faction} took the outer village and im kinda panicking. any tips {player}??"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.neutral.whisper.06",
+     "text": "i know we dont really talk but {fief} is about to fall and i dont know who else to ask... sorry"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.neutral.whisper.07",
+     "text": "does the war thing end if we just surrender?? asking for {fief} lol"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.neutral.whisper.08",
+     "text": "{player} pls dont laugh but my side keeps dying at {fief} and i dont get why :/"
+    }
+   ]
+  },
+  "friendly": {
+   "whisper": [
+    {
+     "id": "arch.newbie.whisper_beg_help.friendly.whisper.01",
+     "text": "{player}!! ur the best, can u come help at {fief}? {enemy_faction} is pushing the north wall :D"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.friendly.whisper.02",
+     "text": "hey friend :) {fief} is in trouble and ur the only one i trust with a sword lol. pls come??"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.friendly.whisper.03",
+     "text": "omg {player} i think we are losing the war to {enemy_faction}?? i panicked and nearly logged off"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.friendly.whisper.04",
+     "text": "u already helped me so much, would u mind one more thing? {fief} needs backup against {enemy_faction} :("
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.friendly.whisper.05",
+     "text": "not gonna lie {player} i have no clue whats going on at {fief}, {enemy_faction} keeps getting in. halp?"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.friendly.whisper.06",
+     "text": "ok deep breath. {fief} is under attack and i dont know what to do first. u got any advice ser?"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.friendly.whisper.07",
+     "text": "lol the walls at {fief} are looking like swiss cheese now. {player} any chance u can stop by?"
+    },
+    {
+     "id": "arch.newbie.whisper_beg_help.friendly.whisper.08",
+     "text": "if we lose {fief} ill be so sad :( u have been so nice to me, could u help me hold it??"
+    }
+   ]
+  }
+ },
+ "whisper_challenge": {
+  "hostile": {
+   "whisper": [
+    {
+     "id": "arch.newbie.whisper_challenge.hostile.whisper.01",
+     "text": "hey {player}!! i saw u at {town} and i think ur mean :( meet me at {village} and we fight?? pls say yes"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.hostile.whisper.02",
+     "text": "oi {player} u took my horse last time... meet me at {village} for a duel?? i brought a stick lol"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.hostile.whisper.03",
+     "text": "i read on the forum the best players hide. ur not hiding now are u {player}? come to {village} ;)"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.hostile.whisper.04",
+     "text": "is it allowed to challenge someone 2 a fight if they stole my loot?? asking bc i dont know the rules :( {village}?"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.hostile.whisper.05",
+     "text": "{player} i practiced all day and i think i can beat u now. meet at {village}?? if u dont come i win by default right"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.hostile.whisper.06",
+     "text": "u keep killing me at {town} and its not fair!! 1v1 at {village} rn, no hiding behind ur friends k"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.hostile.whisper.07",
+     "text": "sorry for being annoyed but ur rude {player}. wanna settle it at {village}? i'll bring snacks xD"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.hostile.whisper.08",
+     "text": "so i have to ask, is it normal for ppl to ambush newbies? cause ur doing it to me {player}. {village} at dusk, ok?"
+    }
+   ]
+  },
+  "neutral": {
+   "whisper": [
+    {
+     "id": "arch.newbie.whisper_challenge.neutral.whisper.01",
+     "text": "hi {player} sorry to bug u :( would u maybe wanna duel at {village}? just for fun, no pressure!!"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.neutral.whisper.02",
+     "text": "i dont know if this is how it works but i wanna fight u to see how combat works?? meet at {village}?"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.neutral.whisper.03",
+     "text": "{player} i was told ur good at fights lol. want to test my sword vs urs at {village}? sorry if weird ^^"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.neutral.whisper.04",
+     "text": "is it ok to ask for a duel?? i read the guide but it said nothing about manners xD {village} maybe?"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.neutral.whisper.05",
+     "text": "hey {player}, my friend said challenge u and see if i can do damage. i promise i wont cry too much lol"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.neutral.whisper.06",
+     "text": "quick q: if i win a duel at {village} do i get ur stuff or nothing?? asking for a friend (me)"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.neutral.whisper.07",
+     "text": "sorry if this is random {player}, i want to try fighting someone better than the goblins. {village} later?"
+    },
+    {
+     "id": "arch.newbie.whisper_challenge.neutral.whisper.08",
+     "text": "{player} wanna spar at {village}? i wont cheat i swear, i dont even know how to cheat yet lol :D"
+    }
+   ]
+  }
+ },
+ "whisper_taunt": {
+  "hostile": {
+   "whisper": [
+    {
+     "id": "arch.newbie.whisper_taunt.hostile.whisper.01",
+     "text": "hey {player} ur standin right where i wanna be lol. dont move :)"
+    },
+    {
+     "id": "arch.newbie.whisper_taunt.hostile.whisper.02",
+     "text": "u miss a lot w that bow huh. i counted 4 misses already xD sorry?? not sorry"
+    },
+    {
+     "id": "arch.newbie.whisper_taunt.hostile.whisper.03",
+     "text": "is it rude to think ur armor is ugly?? sorry!! but its kinda ugly"
+    },
+    {
+     "id": "arch.newbie.whisper_taunt.hostile.whisper.04",
+     "text": "lol {rival} says ur the worst fighter on this server. is that true?? :P"
+    },
+    {
+     "id": "arch.newbie.whisper_taunt.hostile.whisper.05",
+     "text": "ill be waiting by the mill tmrw. dont make me come find u >:("
+    },
+    {
+     "id": "arch.newbie.whisper_taunt.hostile.whisper.06",
+     "text": "ur gonna be mad but i think ur hat is cursed. just saying :)"
+    },
+    {
+     "id": "arch.newbie.whisper_taunt.hostile.whisper.07",
+     "text": "i honestly dont know what im doing but u look annoyed so i must be doing it right??"
+    },
+    {
+     "id": "arch.newbie.whisper_taunt.hostile.whisper.08",
+     "text": "i was gonna be nice but ur really slow. like really really slow. sorry?? not sorry xD"
+    }
+   ]
+  }
+ }
+}

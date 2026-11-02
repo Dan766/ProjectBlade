@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "job_id": "politician__encounter_farewell",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "2d98c423e3b629625ba716758b2588252b0440a5532e3d09e72eadd992a5c4f8",
+    "model": "haiku",
+    "cost_usd": 0.0047446499999999996,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:07:25+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "I shall remember this little exchange when the council next sits, {player}. Memory is a patient sort of weapon, you know.",
+        "Go on, then. Walk away. The rest of the realm will be talking about who blinked first, and I do hope it is not you.",
+        "We are finished here, and I suspect the fief will be better governed for it. Try not to trip over your own ambitions on the road.",
+        "Mind the bridge at the ford, {player}. It has a habit of collapsing under people who stand too near to my dealings.",
+        "A pleasure as always, which is to say not at all. I will draft the minutes of this meeting myself, so you may rest assured of their accuracy.",
+        "Good day. I have three letters to write before supper, and at least one of them will concern you and the company you keep.",
+        "Off you go. When the vote comes, I expect your absence will be noticed far more than your presence ever was.",
+        "Farewell, {player}. Do not bother sending word of the next council. I have already told the others what to expect from you.",
+        "Enjoy your walk. I shall be sure to mention your failure to keep your word to {my_faction} at the next gathering, with suitable sorrow.",
+        "I think we both know this will not end well for one of us, and I have already made my choice of which one. Good day."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Very well. We shall speak again when there is something worth the time, though I am not yet convinced there will be.",
+        "Thank you for your company this afternoon. I will weigh what you said against what others have told me, and then decide what it meant.",
+        "Until we meet at the council, I suggest you consider which side of the table you would prefer to sit on. The seating is not yet fixed.",
+        "Good day to you. Mind the carts on the east road; they have been blocking traffic since the harvest levies were announced.",
+        "We have covered a good deal of ground today. I shall see what the fief elders make of it before I commit to anything further.",
+        "Farewell for now. I expect a number of rumours will reach you before sundown, and I would be grateful if you judged them on their merits.",
+        "This has been a useful conversation, if not a conclusive one. Let us reconvene once the tithe reports have been read and properly argued over.",
+        "Take care on the road. Plenty of people are asking questions about the grain stores this week, and I should hate for you to be caught unawares.",
+        "Well, that was civil enough. I will consider your proposal alongside the others on my desk, which is a longer list than you might imagine.",
+        "I have other appointments, I am afraid. But do give my regards to whoever it is you are answering to these days, for I have been wondering."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ah, {player}, you have made my day considerably brighter. We must dine properly soon and perhaps draft something together for the council.",
+        "Safe travels, my friend. Keep your ears open in the market; I am certain you will hear something useful for both of us.",
+        "Off to the western fiefs, then? Send word of any movements there, and I shall return the favour with everything I learn.",
+        "Go with my blessing, though I confess my blessing is always conditional on your continued enthusiasm for our little arrangement.",
+        "You are one of the few who truly understands how these things are done. Let us speak again before the next vote, and bring your best ideas.",
+        "Another splendid meeting. I shall write to the others tonight and tell them you are the sort of ally they ought to have counted on sooner.",
+        "Walk well. Should anyone ask your opinion of me, I trust you will remember that I have been nothing but generous to your interests.",
+        "Off you go, then. I have a few quiet words to arrange on your behalf, and I rather enjoy being the one who makes things happen.",
+        "It is always a pleasure to speak with someone who sees the realm's future as clearly as you do. Let us keep this partnership quietly in mind.",
+        "Farewell, dear friend. Remember that a well-placed favour today is worth a dozen speeches in the council hall next season."
+      ]
+    }
+  }
+}

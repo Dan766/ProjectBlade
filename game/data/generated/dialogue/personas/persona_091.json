@@ -1,0 +1,291 @@
+{
+ "username": "TurnipTheFlank",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_091.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} men to a 3:1 cav ratio. that is the whole battle"
+   },
+   {
+    "id": "sig.persona_091.beat_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "your formation folded at minute 4. the numbers were never in your favour ser"
+   },
+   {
+    "id": "sig.persona_091.beat_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "clean fight {player}. your archers were out of position for the first ten minutes but the rest was sound. {gold} gold of loot is a fair price for the lesson"
+   },
+   {
+    "id": "sig.persona_091.beat_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{gold} gold and {troop_count} of your men gone. recalc before the rematch ser {player}"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_091.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "my archers were out of position. {troop_count} men lost to a flank that should not have worked. {player} got lucky on the left"
+   },
+   {
+    "id": "sig.persona_091.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "lost {troop_count} to you {player}. my cav ratio was off by a full point. next time i bring more horse"
+   },
+   {
+    "id": "sig.persona_091.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "well fought {player}. your flank timing was correct. i lost {troop_count} because my reserve went to the wrong side. gg"
+   },
+   {
+    "id": "sig.persona_091.beat_by_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} took the field with {troop_count} of mine on the wrong side of the board. i will be recalculating for a week"
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_091.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} again. third loss to you and the cause is always the same. the cav ratio. i am fixing it"
+   },
+   {
+    "id": "sig.persona_091.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{troop_count} men again {player}. this is no longer coincidence. i will be at the field you least expect"
+   },
+   {
+    "id": "sig.persona_091.beat_by_player_repeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} keeps winning and i keep checking the same numbers. the answer is in my notebook somewhere. i will find it"
+   },
+   {
+    "id": "sig.persona_091.beat_by_player_repeat.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "you have beaten me again {player}. credit for consistency. the rematch is a formality and i have the figures"
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_091.player_win_streak.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has won the last several engagements. the server is watching and so am i. the streak ends when my ratios say so"
+   },
+   {
+    "id": "sig.persona_091.player_win_streak.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "your win streak is noticed ser {player}. statistically it breaks soon. i am keeping the notebook open"
+   },
+   {
+    "id": "sig.persona_091.player_win_streak.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "a streak like that is not luck {player}. the composition is sound. i have not found the flaw yet but i will"
+   },
+   {
+    "id": "sig.persona_091.player_win_streak.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} this streak is a number and numbers are mine to fix. enjoy it while the ratios still favour you"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_091.player_big_defeat.01",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} lost most of the host. the reason is the ratio, never the nerve. recalc before the next march"
+   },
+   {
+    "id": "sig.persona_091.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} that was a crushing loss. the cavalry went in too early. i would say gg but you did not earn it today"
+   },
+   {
+    "id": "sig.persona_091.player_big_defeat.03",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{troop_count} men gone in one engagement. the composition was broken from the start. not my problem this time"
+   },
+   {
+    "id": "sig.persona_091.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} the army is gone and you know why. the same mistake i made at my last siege. i blamed the archers. you should blame the formation"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_091.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} meet me at {town} with your full host. no mercenaries. the numbers will settle it"
+   },
+   {
+    "id": "sig.persona_091.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{village} is a fair field. i have checked the terrain. bring your cavalry and we will see whose ratio holds"
+   },
+   {
+    "id": "sig.persona_091.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "i have calculated the odds at {town} and they favour me. come and prove the numbers wrong {player}"
+   },
+   {
+    "id": "sig.persona_091.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} a rematch at {village}. i will bring the optimal mix this time. do not bring the same army"
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_091.fought_alongside_player.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} your flank held and that is why we won. {troop_count} men and the timing was clean. keep the same formation next time"
+   },
+   {
+    "id": "sig.persona_091.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "the win against {enemy_faction} was efficient. your cavalry ratio was correct for once {player}. do not let it go to your head"
+   },
+   {
+    "id": "sig.persona_091.fought_alongside_player.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} and i took {enemy_faction} apart with {troop_count} men. the combined composition is the best i have seen this month"
+   },
+   {
+    "id": "sig.persona_091.fought_alongside_player.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "fine work ser {player}. the army was in order. i will note this setup in my book"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_091.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is ours. {troop_count} men, {gold} gold, zero waste. the optimal host does not need luck"
+   },
+   {
+    "id": "sig.persona_091.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "my northern host counts {troop_count} and the cav ratio sits at 2:1. that is the balance i run. check the numbers yourself"
+   },
+   {
+    "id": "sig.persona_091.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{gold} gold in the treasury and not one coin spent on anything that does not win battles"
+   },
+   {
+    "id": "sig.persona_091.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} garrison is at full strength. {troop_count} men. the rest of the server is still guessing"
+   }
+  ],
+  "my_faction_took_fief": [
+   {
+    "id": "sig.persona_091.my_faction_took_fief.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has taken {fief} from {enemy_faction}. the siege was timed to the minute. timing was the whole plan"
+   },
+   {
+    "id": "sig.persona_091.my_faction_took_fief.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is now {my_faction}. {enemy_faction} lost it to an overextended supply line. not a surprise to anyone who counted"
+   },
+   {
+    "id": "sig.persona_091.my_faction_took_fief.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} holds {fief} as of this hour. {enemy_faction} brought the wrong mix and the result was predictable"
+   },
+   {
+    "id": "sig.persona_091.my_faction_took_fief.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} falls to {my_faction}. the next target is already in my notebook and it is not where {enemy_faction} expects"
+   }
+  ],
+  "player_besieging_my_fief": [
+   {
+    "id": "sig.persona_091.player_besieging_my_fief.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has started a siege of {fief}. the walls will hold longer than your ratio expects. count the garrison"
+   },
+   {
+    "id": "sig.persona_091.player_besieging_my_fief.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} get off {fief} or bring more than archers. i have the numbers and they do not favour you"
+   },
+   {
+    "id": "sig.persona_091.player_besieging_my_fief.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "your siege at {fief} is inefficient {player}. ladders before rams would save you a day. just a note"
+   },
+   {
+    "id": "sig.persona_091.player_besieging_my_fief.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} is sieging {fief}. i have seen this formation before and the outcome was not in their favour"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_091.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "the road to {town} is a bottleneck. anyone sending cavalry through there is wasting horses"
+   },
+   {
+    "id": "sig.persona_091.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{village} has the best grain in the region. the food math alone makes it worth holding"
+   },
+   {
+    "id": "sig.persona_091.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag at {town} again. a fair fight needs stable ticks. i have logged it for the admins"
+   },
+   {
+    "id": "sig.persona_091.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "my notebook has twelve pages on {village} alone. the terrain favours pike in the north"
+   }
+  ]
+ }
+}

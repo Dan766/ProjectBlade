@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "trader__player_besieging_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "37c57bc1d9f777f41d641449b5d670ebfb4c04f47e97cbad7d18f5f064664221",
+    "model": "haiku",
+    "cost_usd": 0.004847550000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:13:21+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Siege lines around {fief} and nobody's buying a single crate. Wonderful for my margins, said no merchant ever.",
+        "Our grain convoy is stuck outside {fief} because of this siege. Who pays for the lost days, exactly?",
+        "Every lord with a siege engine fancies themselves a strategist. Meanwhile my tallow sits rotting in a cart.",
+        "Forty wagons idle at the {fief} gate. Forty! I've started calculating how many lost weeks a siege costs.",
+        "Trade routes to {fief} are closed. Lift the siege or name a toll I can afford to pay, please.",
+        "Haggling is fine. Sieges are not. Shall we agree my wagons pass freely again before the week is out?",
+        "I've already priced in a winter without a working wall at {fief}. Really hope this was worth the margins, {player}.",
+        "Salt, grain, wool, all stuck behind one camp outside {fief}. Someone explain the logic to me, because I can't find it."
+      ],
+      "whisper": [
+        "Your siege just cost me three contracts, {player}. I'm not angry, I'm just keeping accounts.",
+        "Lift the siege and I'll forget the lost shipment. Refuse and I start pricing your supply line.",
+        "Strange thing, {player}. Every siege I've watched ends with someone paying for the wall repairs. Usually not the besiegers.",
+        "Walls can be repaired. Lost trust takes longer. Consider that before your next ram swings, {player}.",
+        "A ledger doesn't forget, {player}. Your name now sits next to 'siege' and 'losses' in mine.",
+        "My caravan guards are already talking about hiring out to someone less likely to start a fight. Thanks for that.",
+        "Tell me your price for ending this, {player}. Be honest, and I'll be honest back.",
+        "If this is about an old grievance, say it plainly. Sieges are a terrible way to settle accounts, {player}."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Heard there's a siege at {fief}. Anyone know if the gates will be open for trade by next week?",
+        "Siege at {fief} again. Dried fish jumped in price overnight. Watch your purses, friends.",
+        "Not taking sides here. I just want my wagons to reach {fief} without a soldier poking at them.",
+        "Quiet markets make for quiet nerves. If the siege at {fief} ends, I'll have stock ready at fair rates.",
+        "Sieges come and go, but the roads remain. Does anyone know which way the grain trade is leaning?",
+        "Whoever is at {fief}'s walls, please mind the bridge. It's the only crossing my carts can use.",
+        "I've seen nine sieges this year. Each one costs me about a week of sales. Try not to make it ten.",
+        "Keeping my head down and my accounts open. Once the siege at {fief} wraps up, I'll be first with a cart."
+      ],
+      "whisper": [
+        "Heard about the siege at {fief}, {player}. Still interested in a fair share of my wool once the gates open?",
+        "No grudges from me, {player}. I'd just like to know when my supply carts can safely move again.",
+        "You're camped outside my town, {player}, which makes this a bit awkward. Shall we talk terms over tea?",
+        "Friendly warning: every day at {fief} costs me about forty gold in spoiled goods. Can we keep it short?",
+        "I don't care who wins, {player}. I care who pays the toll afterward. Interested in a quick arrangement?",
+        "Sieges are bad for everyone's books, {player}. Mind telling me how long you plan to keep this up?",
+        "If you're short on supplies outside {fief}, I can sell you bread at a fair rate. Business is business.",
+        "No need to glare at my caravan, {player}. We're merchants, not generals. Let's see what the market says."
+      ]
+    }
+  }
+}

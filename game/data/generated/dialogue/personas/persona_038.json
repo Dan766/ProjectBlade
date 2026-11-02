@@ -1,0 +1,261 @@
+{
+ "username": "Mire_Ledger",
+ "signature": {
+  "ambient_trade": [
+   {
+    "id": "sig.persona_038.ambient_trade.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Salt is selling for {gold} a sack in {town} and I still think that is cheap. Anyone with a cart and a strong back, come see me."
+   },
+   {
+    "id": "sig.persona_038.ambient_trade.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Buying dyed wool in {town} at a fair figure this week. Bring your bales to me and we will talk numbers properly."
+   },
+   {
+    "id": "sig.persona_038.ambient_trade.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Anyone shipping grain from {town} to the coast? I will pay {gold} for a seat on the wagon, no tricks."
+   },
+   {
+    "id": "sig.persona_038.ambient_trade.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Dyed wool sells for {gold} a bolt upriver now. Sell to me and I will carry it south at a margin you will like."
+   }
+  ],
+  "encounter_trade_offer": [
+   {
+    "id": "sig.persona_038.encounter_trade_offer.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, I know you have no love for my carts and I have no love for your raiding. Still, I will pay {gold} for safe passage to {town}. Business is business, not forgiveness."
+   },
+   {
+    "id": "sig.persona_038.encounter_trade_offer.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, I have a cart of salt bound for {town} and an offer of {gold} for an escort. Take it or leave it, but my prices do not move twice."
+   },
+   {
+    "id": "sig.persona_038.encounter_trade_offer.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, my old friend, you have carried my wool before and never cheated me. Give me {gold} and I will sell you the fine bolts from {town} at cost. Shall we shake on it?"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_038.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Halt, {player}. This is {persona} of {my_faction}, and I have had four carts bled dry by your sort on this road. Keep your distance and we shall both keep our purses."
+   },
+   {
+    "id": "sig.persona_038.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Good day, {player}. {persona} of {my_faction} here, with salt and wool on the cart and a sharp eye on the road. Anything you want to buy or sell before we part ways?"
+   },
+   {
+    "id": "sig.persona_038.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}! {persona} of {my_faction} at your service. The road has been quiet and my carts are full, so if you have goods to move, we should talk before the next toll gate."
+   }
+  ],
+  "player_raided_my_village": [
+   {
+    "id": "sig.persona_038.player_raided_my_village.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{village} is ash, and that will send the wool price up for every honest trader on the road. Think about the damage you did to the market."
+   },
+   {
+    "id": "sig.persona_038.player_raided_my_village.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, burning {village} cost me two carts and a week of contracts. Name a price to stop and I'd sooner pay than fight."
+   },
+   {
+    "id": "sig.persona_038.player_raided_my_village.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Word is {village} went up in smoke. Bad for business on every road, and bad for anyone wanting a fair price on salt this season."
+   },
+   {
+    "id": "sig.persona_038.player_raided_my_village.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, I have not decided if you are a reaver or simply a poor planner. Tell me which, and perhaps we can still do business."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_038.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has declared war on {enemy_faction}. Roads will close, prices will jump, and every honest cart will pay for it."
+   },
+   {
+    "id": "sig.persona_038.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "War between {my_faction} and {enemy_faction}. Somebody tell the generals that wool does not weave itself in a siege."
+   },
+   {
+    "id": "sig.persona_038.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} and {my_faction} at war again. I have three caravans sitting idle and a lot of salt going soft."
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_038.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Peace between {my_faction} and {faction}, finally. The toll roads will open and my carts can breathe again."
+   },
+   {
+    "id": "sig.persona_038.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has made peace with {faction}. Good news for the wool trade and for every farmer who likes to keep his barn full."
+   },
+   {
+    "id": "sig.persona_038.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Terms are signed between {my_faction} and {faction}. With luck the bandits will have less excuse to hide in the reeds."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_038.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you let me walk instead of ransoming me. Remember that, because my next salt cart to you comes at cost."
+   },
+   {
+    "id": "sig.persona_038.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Released by {player} without ransom. Fair play, and I will not forget it when the next toll ledger is drawn up."
+   },
+   {
+    "id": "sig.persona_038.released_by_player.03",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} released me rather than ask a ransom. Odd sort of mercy, but I will take the cart back and count the rest as a loss."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_038.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat my men at the ford with {troop_count} of their own. Lost a whole cart to it, but I will sell the horses anyway."
+   },
+   {
+    "id": "sig.persona_038.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {troop_count} of your men broke my line today. Well fought. Shall we settle the cost of the losses over a cup of wine?"
+   },
+   {
+    "id": "sig.persona_038.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, {troop_count} blades and you still left me standing. A good fight costs both of us, so let us talk terms on the horses before we part."
+   },
+   {
+    "id": "sig.persona_038.beat_by_player.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, you beat me with {troop_count} men and I will not pretend otherwise. But the road is still open to traders, and I will pay for it."
+   }
+  ],
+  "whisper_beg_help": [
+   {
+    "id": "sig.persona_038.whisper_beg_help.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, {enemy_faction} is pressing {fief} and my coffers are thin. Send men if you can spare them and I will pay in salt."
+   },
+   {
+    "id": "sig.persona_038.whisper_beg_help.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {fief} is under threat from {enemy_faction}. I know this is bad for business, so name a fair figure to help us hold it."
+   },
+   {
+    "id": "sig.persona_038.whisper_beg_help.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, you have been square with me for years. {fief} is failing against {enemy_faction}. I would rather trade favours than lose a town."
+   },
+   {
+    "id": "sig.persona_038.whisper_beg_help.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, I hate to ask. {enemy_faction} is grinding down {fief} and I cannot afford to lose it. Name your terms and I will listen."
+   }
+  ],
+  "ambient_complaint": [
+   {
+    "id": "sig.persona_038.ambient_complaint.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Bandits are robbing carts again on the road past {town}. A toll gate every mile and still they get through. Wretched."
+   },
+   {
+    "id": "sig.persona_038.ambient_complaint.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{rival} is undercutting every salt merchant in {town}. Not fair dealing, that, and it is ruining the price for everybody."
+   },
+   {
+    "id": "sig.persona_038.ambient_complaint.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} wants a cut of every cart crossing their land now. Business like that drives honest traders off the road."
+   },
+   {
+    "id": "sig.persona_038.ambient_complaint.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Saw {rival} sell horses at a loss just to spite me. Petty, and it makes the whole market sour."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_038.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Rain on the eastern shallows again, and my boots are full of water. Brings the mud, but at least it keeps the bandits indoors."
+   },
+   {
+    "id": "sig.persona_038.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Anyone else lagging badly around {village}? My cart is stuck halfway across a ford and the map is not loading properly."
+   },
+   {
+    "id": "sig.persona_038.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Had the finest bowl of stew in {town} last night. Good cheese, decent ale, and the innkeeper gave me a fair rate."
+   },
+   {
+    "id": "sig.persona_038.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Fog rolling off the marsh near {village} this morning. Good cover for a caravan, bad cover for a man with a map."
+   }
+  ]
+ }
+}

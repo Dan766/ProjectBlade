@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "memer__encounter_greeting",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "3e221f2304ac33819e4c12be17f9f4a4aa3e14a0f0b822ef5b5fe3df535df060",
+    "model": "haiku",
+    "cost_usd": 0.00852787,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2662 (char 2661)"
+    ],
+    "created_at": "2026-11-01T17:24:37+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "oh look its {player}... i have been waiting three whole days to be insulted by you xD",
+        "the bridge remembers what you did {player}. the bridge has not forgiven you. neither have i :)",
+        "turn around {player} my chicken does not like your horse",
+        "i challenge you to a duel of insults. you go first. you will lose. i will still win xD",
+        "my faction has filed a formal complaint about your face. the complaint is also a sandwich",
+        "one more step and i shout your name into the wind so every goat knows you are here",
+        "ser {player} we have met before and i still have the receipt for the time you stole my hat",
+        "i was going to be mean but then i saw your hat. mean again. the hat is punishment enough :)",
+        "you have walked into our field of mud and there is no going back xD",
+        "{my_faction} does not trade with people who walk like that. go away or pay in turnips"
+      ]
+    },
+    "neutral": {
+      "face": [
+        "oh {player}. cool. we are going to walk past each other now and not say anything, yes?",
+        "morning ser. i am not looking at your saddle. i am looking at the sky. the sky is very interesting",
+        "we are just passing through. you do your thing, i do my thing, the goat does its own thing xD",
+        "hello {player}. i have decided to be neutral today. it is a big decision and i am proud :)",
+        "{persona} here. im only a little bit suspicious of you, which is the normal amount",
+        "is that a sword or a very long spoon. either way i respect the spoon :)",
+        "we are at peace for now {player}. the peace lasts until somebody sneezes xD",
+        "i do not know you and you do not know me and this is a healthy relationship",
+        "my chicken is watching you. do not worry she is not sacred today. probably",
+        "so we are both going the same way, which is the way away from each other. good plan"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "{player}!! my favorite person on this road, the rest are just goats with opinions :)",
+        "ser {player} i have saved you a seat at the imaginary feast. the feast is very fancy",
+        "you look like someone who knows where the good mushrooms are. tell me everything xD",
+        "{player} you are officially in the top three people i would share my last turnip with",
+        "i heard you fell in the river yesterday. honored to walk with such a fearless river hero :)",
+        "our parties are now one party. the party has no leader but me. i am the leader xD",
+        "{persona} salutes {player} with a very dignified wave. the wave is still in progress",
+        "finally a friendly face. the chicken approves of you, which is rare, be proud",
+        "hop on the cart {player}, we are going to the place with the big cake. no questions :)",
+        "say hi to {my_faction} everyone, {player} is with us and that means we win the road today xD"
+      ]
+    }
+  }
+}

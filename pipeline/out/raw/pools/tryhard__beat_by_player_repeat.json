@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "tryhard__beat_by_player_repeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c763d453cdd167f558484786125b468d052be05ef8c45596acdbfb4e0c9e3452",
+    "model": "haiku",
+    "cost_usd": 0.00581365,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:14:54+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "third loss to {player}. i keep bringing {troop_count} and keep getting the same result. ill fix the comp, not the luck",
+        "gg {player}. again. stop turtling in forests and ill stop beating you there",
+        "still losing to {player} means my queue for open ground is wrong. not the map, not the luck",
+        "ill keep posting results till the ratio flips. {player} is not a meta, just a habit",
+        "lost to {player} a third time. blame goes on my line being thin, not my strategy",
+        "i ran the numbers on {player}s groups. they win on tempo, not troops. sorting that out",
+        "{player} farms the same flank every time. predictable. i have a counter drafted",
+        "another one for {player}. not a fluke. theyre just better at reading my line"
+      ],
+      "whisper": [
+        "third one now. ill stop being polite. next open field fight, bring everything",
+        "your flank timing was the only good part. the rest was a gift to you",
+        "same {troop_count} next time, same map. ill show you what 2:1 looks like on open ground",
+        "gg. you won again. i dont have to like it",
+        "stop pulling from the forest, its a coin flip and you know it",
+        "you keep winning on the same trick. its not clever anymore, its a pattern i can break",
+        "i lost {troop_count} to you last time because of my spacing. fixed. see you on the plain",
+        "im done wasting time on this. next time you lose, you lose to a real plan"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} beat me again. fine. ill note it and move on",
+        "lost to {player} third time. tells me more about my setup than theirs. adjusting",
+        "gg. not my best day, not yours either. your flank was clean",
+        "keep an eye on {player}, theyve got a repeatable push. dont sleep on it",
+        "third loss to {player}. noted. next fight i commit to a different line",
+        "{troop_count} wasnt enough again. meta shifts, so do i",
+        "gg {player}. wary of your reinforcements now. thats on me",
+        "losing to {player} three times in a row means the matchup is real. respect it"
+      ],
+      "whisper": [
+        "gg. third time now. im going to start watching how you rotate",
+        "your archer line held better than mine. i noticed. thats all",
+        "ill take the loss. next fight is on open ground, not your choice of ground",
+        "i dont hate losing to you. i hate not knowing why. tell me what you saw",
+        "{troop_count} wasnt the problem. my timing was. ill be sharper",
+        "stop baiting me into the marsh. i know the trick now",
+        "gg. you clearly run a comp that works. im studying it",
+        "figure we meet again. when we do, my numbers will be cleaner"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "lost to {player} three times and somehow i enjoyed it. gg, but the next one is mine",
+        "{player} is the only one who makes me redo my whole comp. respect",
+        "gg {player}. third loss, best fight of the week. dont get comfy",
+        "{player} keeps beating me and i keep coming back. good sign for both of us",
+        "shoutout to {player} for making me better. still going to win the next one",
+        "three losses to {player}. honestly the most useful fights ive had all month",
+        "gg {player}. you beat my comp twice in a row. im not bitter, im taking notes",
+        "best opponent on this server is {player}. annoying, but i respect the map reading"
+      ],
+      "whisper": [
+        "ur flank timing beat me again. honestly its good. teach me the pull sometime",
+        "gg. third loss and i still learned something. next open field, your call on comp",
+        "ur archers held better than mine did. my positioning was off. my fault",
+        "rematch when ur free. ill bring a cleaner comp, you bring the same flank",
+        "you keep beating me. lets swap notes on the ratio, ill share mine first",
+        "lost three times to you. im not mad. i want to see what you do with cav next",
+        "gg. honest question: when do you commit reserves? i keep guessing wrong",
+        "three losses, same result. still my favorite fight on the server. good game"
+      ]
+    }
+  }
+}

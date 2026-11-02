@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "job_id": "conv_b53",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "64ae77358a1a1ca8589201beb9d1314b0363bcb6ae27154014dedecc345aeff9",
+    "model": "haiku",
+    "cost_usd": 0.014424900000000001,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'Rot is not my habit. The garrison of {troop_count} marched south under a sealed writ, and I will not say more. Ask {player} what they paid for it.' is too long"
+    ],
+    "created_at": "2026-11-01T17:47:58+00:00"
+  },
+  "data": {
+    "conv_261": [
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Let the dawn witness this oath, Eeel. Your Wardenry has mocked the Salt League long enough, and I will answer it at {town}.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Eeel",
+        "text": "gg. you brought {troop_count} to a fight that needed one clean push. the ratio was off, not the plan",
+        "delay_s": 6
+      },
+      {
+        "speaker": "spitesprout",
+        "text": "eeel lost {gold} in the marsh and still talks like a king lmao",
+        "delay_s": 4
+      },
+      {
+        "speaker": "LARKZ7",
+        "text": "the chicken remains unbeaten. respect it :D",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Eeel",
+        "text": "{village} was never yours to defend seal. the marsh took your men not my plan",
+        "delay_s": 5
+      },
+      {
+        "speaker": "DawnwatchSeal",
+        "text": "Mock if you must. The salt remembers every debt, and I will collect it in good time, Eeel.",
+        "delay_s": 9
+      }
+    ],
+    "conv_262": [
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Well, {fief} has changed hands. Nothing personal, {player}. Trade is trade, and I moved {gold} of salt out before the gates fell.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Keep your wells full, friend. A ledger can be rewritten, but a fief left undefended rarely comes back to its old keeper.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "I have no quarrel with the victor. {player} played the board better than I did, and that is worth something.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Perhaps. Those {troop_count} men marched out under a sealed writ, and that is hardly a victory worth bragging over.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Bragging is not my habit. I will be at {town} by week's end, buying back what I lost and then some.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DameTallowhelm",
+        "text": "Then we shall see whose wells run dry first. Keep yours full, friend, and watch the road to {village}.",
+        "delay_s": 8
+      }
+    ],
+    "conv_263": [
+      {
+        "speaker": "SmugRadish",
+        "text": "ok new guy asking for help lol. ask away i guess :) the road out of {village} is full of bandits, just saying",
+        "delay_s": 0
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Pay no mind to him, friend. The road out of {village} is quiet by day. Wool is {gold} a bolt in {town}, if you want coin fast.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "the bridge near {village} is on notice!! dont take the north road tho, {troop_count} raiders camp there lol :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SmugRadish",
+        "text": "owl_be_back is so dramatic :) chalk you still charging for advice??",
+        "delay_s": 6
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Advice is free, Smug. The coin is not. If the newcomer wants a steady trade, I will gladly sell them a bolt of wool for {gold}.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "owl_be_back",
+        "text": "wool for {gold}?? thats highway robbery!!! ok ok i kid :D go with chalk_tallyman, he is honest mostly",
+        "delay_s": 3
+      }
+    ],
+    "conv_264": [
+      {
+        "speaker": "h4rrowz",
+        "text": "cope ratiognat u got rolled again lol :) that {troop_count} cav push at {town} was filthy",
+        "delay_s": 0
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "cav count was the whole story. you had {troop_count} and still walked into the ford",
+        "delay_s": 6
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "the ford was never the problem. ur scouts saw nthing and still called it a win :D",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "scouts do not matter if the reserve is wrong. {gold} in spare coin and you still lost the field",
+        "delay_s": 8
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "{gold} spare coin lmao thats the joke ratio. next round at {village} then, bring ur brain :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "ratiognat",
+        "text": "{village} was rigged in your favor and you still lost. the joke is you",
+        "delay_s": 7
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "running this bit since spring, dont stop now :) cope cope cope",
+        "delay_s": 3
+      }
+    ],
+    "conv_265": [
+      {
+        "speaker": "HornMisfire",
+        "text": "wait did {player} really leave for {faction}?? i thought we were all on the same horn... sry",
+        "delay_s": 0
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "A matter for the council, I think. Oaths do not travel so easily, and {player} knew that when they took {gold}.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Dovran_Oatsworn",
+        "text": "By the oath of Lisnik Gate, I hold this road. Betrayal is a heavy word, but it is a true one here.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "spindly_knight",
+        "text": "Sorry!! Did i say that right? :D I dont know much about the factions yet, is it really betrayal?? :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HornMisfire",
+        "text": "idk either. {player} was nice to me in {village} once... maybe they had a reason?? or maybe not lol",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ConsulCometa",
+        "text": "Reasons are cheap. {troop_count} of our men were stationed at {town} on the strength of that loyalty.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Dovran_Oatsworn",
+        "text": "Then let the council weigh it. I only ask that no one sell the road to {faction} while we argue.",
+        "delay_s": 10
+      }
+    ]
+  }
+}

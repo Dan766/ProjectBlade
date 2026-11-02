@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "politician__encounter_alliance_yes",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "8d66547e512dd41e518d21efd5326c1d7c7873a428deda4d8d7fcd2e12ea6aa1",
+    "model": "haiku",
+    "cost_usd": 0.003960450000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:07:31+00:00"
+  },
+  "data": {
+    "neutral": {
+      "face": [
+        "Very well, {player}. I shall accept your alliance, though I expect the council to hear of it before the week is out, and I will not be the one who explains why.",
+        "An alliance, then. How convenient. Lords who come asking for favours are often the first to forget them, so I shall keep a careful ledger.",
+        "I accept. Let us put the terms in writing so that no one, least of all {rival}, can later claim we agreed to something we did not.",
+        "Agreed. Mark that I was the one who extended the hand first, should the minutes ever be read aloud at the next assembly.",
+        "Fine. Your banners may fly beside mine for now, though I have seen many such arrangements dissolve once the harvest taxes fall due.",
+        "I shall accept, {player}. Do not mistake courtesy for trust. I simply prefer to keep my rivals where I can see them.",
+        "Very well. I will bring the proposal before the council tomorrow, where I am certain a few members will ask questions you may not enjoy answering.",
+        "Accepted. I am sure {rival} will be delighted to hear of it, or will at least pretend to be, which at court amounts to much the same thing."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Gladly, {player}! Together our fiefs could outvote everyone who has been sneering at us in the great hall, and I do enjoy the thought of that.",
+        "You have made a sensible choice, and I would hate for you to regret it. Let us draft the charter before someone else thinks of the idea.",
+        "I accept with real pleasure. Between the two of us, the council seats will fall to people who actually understand how this realm works.",
+        "Splendid. I had hoped you would come to me first, and I shall tell the others the idea was mine from the start, naturally.",
+        "Yes, yes, a thousand times yes. Bring your envoys to supper and we will sort out who gets which fief over a very good bottle of wine.",
+        "Agreed, and happily so. With you at my side, {rival} will find it much harder to explain away the failed grain levy in front of the assembly.",
+        "I accept, {player}. You have a sharp mind for these matters, and I suspect we will recruit a few more allies before the next vote.",
+        "A wise decision, and one I shall be sure to mention when the next council seat is discussed. Shall we say the bell tower at dusk?"
+      ]
+    }
+  }
+}

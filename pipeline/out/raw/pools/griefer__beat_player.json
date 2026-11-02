@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "griefer__beat_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "c4f924eb7910b6a9310c35695618b92f93f36a7d3e655c5bab6a5adab9ee632e",
+    "model": "haiku",
+    "cost_usd": 0.007579549999999999,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:01:13+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} lost {troop_count} men and still typing lol",
+        "gg {player} nice to see ur army turn into a picnic",
+        "anyone else hear {player} crying from the south road",
+        "{player} tried to charge and got charged rite back ez",
+        "reminder {player} owes me a rematch and a apolgy",
+        "{player} brought {troop_count} guys and left with like 4 lmao",
+        "skill issue is contagious and {player} caught it bad",
+        "{gold} gold to whoever gets {player} to rage quit i will pay",
+        "i have a screenshot of {player} running and i will post it every day",
+        "{player} keeps saying wait til next time next time is every battle lol"
+      ],
+      "whisper": [
+        "still laughing about that charge {player} u looked like a sheep wit a sword",
+        "ur {troop_count} men were brave till they saw me shame",
+        "dont bother replying i already know ur gonna cope",
+        "i saved the screenshot of ur face its my wallpaper now",
+        "u can keep ur {gold} i dont need it i just want the rematch",
+        "every time u show up im winning again at this point its a hobby",
+        "{player} what was that formation even supposed to be lol",
+        "seriously tho u need better scouts they all ran the wrong way",
+        "not mad but if u post that screenshot im gona troll ur whole team",
+        "win twice more and u get a lil badge of shame no pressure"
+      ],
+      "face": [
+        "oh look its {player} still got the same sad {troop_count} lads",
+        "you again you brought {troop_count} men and they all left early",
+        "hand over the {gold} or we do this the fun way ok fine just the fun way",
+        "{player} lol u went down like a wet sack ez now hand me ur horse",
+        "walk back to ur camp and tell them the big battle was rough",
+        "i been waiting for u since the last fight bored outta my skull",
+        "nah dont run lol i just wanna see ur face when we do it again",
+        "{troop_count} men and not one of em could hold a line embarassing",
+        "say it to my face {player} oh wait u just did lol",
+        "gg again u should really stop showing up like a bad smell"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "the field fight ended {player} got a bruise and kept walking",
+        "{troop_count} men fell today in the field and nobody remembers why",
+        "decent fight by {player} kinda messy ill give it a c minus",
+        "who wants to bet on {player} next week im not doing it i just wanna know",
+        "fields are wet and {player} is muddy thats the whole news",
+        "server chat is lagging again and everyone wants to fight not me today",
+        "{gold} in loot from the field split it or dont i dont care",
+        "meh that battle was fine nobody got a trophy so whatever",
+        "going to bed before the next raid dont wake me unless its real",
+        "counted the bodies in the field twice it was {troop_count} both times"
+      ],
+      "whisper": [
+        "gg {player} that was a fine scrap dont make it a habit",
+        "heard ur lads ran off at the end no judgment just noting it",
+        "u want to trade some gold or are we done hitting each other",
+        "not personal today just tired of all these battles",
+        "ur formation was alright next time maybe dont line up like a fence",
+        "i aint gonna lie that charge was clean dont tell anyone",
+        "u lost {troop_count} men in the field could have been worse for both of us",
+        "im heading east for a while if u see me ur not gonna like it",
+        "no more {gold} bribes pls im done playing for coins",
+        "lets stop trading blows and do some trading goods instead"
+      ],
+      "face": [
+        "{player} aye good fight i still got my horse so no complaints",
+        "{troop_count} of ur lads ran off today guess we all have bad days",
+        "move along and we move along thats how this should go",
+        "ur banner looks good on that hill dont get any ideas about the field",
+        "not my fight today ser my men need rest and so do yours",
+        "well that was loud anyway i got places to be so keep your sword sheathed",
+        "you went for the flank and it worked respect i guess dont do it again",
+        "still standing good take ur wounded and head home before dark",
+        "{gold} in coin was all i got from that and it wasnt worth the blisters",
+        "nice to meet u properly {player} dont expect me to remember the rest"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} took that battle like a pro honestly respect",
+        "lol {player} got smoked but still looked cool doing it respect",
+        "{player} forgot to bring snacks but the fight was great anyway",
+        "shoutout to {player} for a fight that made my hands shake a little",
+        "{troop_count} men against {player} and nobody got hurt bad lovely",
+        "gg {player} that was a proper fight next one is on me",
+        "next time someone fights {player} bring extra arrows they stubborn",
+        "lol {player} tried to ram the gate and the gate won still a legend",
+        "my favorite opponent is {player} cause they never quit annoying but good",
+        "{gold} to the first person who gets {player} a better horse lol"
+      ],
+      "whisper": [
+        "ok that was rough but u held up well {player} proud of ya",
+        "u got me good with that flank dont let it go to ur head tho",
+        "not gonna lie u made me sweat see u at the next scrap",
+        "my front line is wrecked from that fight but worth it ur a menace in a good way",
+        "ill buy u a drink at the next market if u stop cutting my lads up",
+        "thats the best fight we had all week dont tell the others i said it",
+        "i was gonna gloat but ur honestly so good i cant be bothered",
+        "round two when ur ready ill try not to cry this time",
+        "tell ur scouts to stop running from me they were great sport",
+        "u always make me laugh even when ur getting wrecked keep it up {player}"
+      ],
+      "face": [
+        "{player} good to see u still standing that was a proper scrap",
+        "oh its {player} u fight like a dog with a bone i respect it",
+        "ur lads are brave {player} but mine were braver today lol kidding",
+        "nice horse {player} i would steal it but ur too quick on the draw",
+        "shake on it {player} next fight we both bring {troop_count} and see who cries",
+        "{player} i saw u take that hit and still swing thats the stuff",
+        "hey {player} next round ill go easy on ya maybe probably not",
+        "{gold} says ur the toughest in these parts dont tell the others",
+        "u good ya took a nasty hit at the field pour some water on that",
+        "{player} ur the only one i actually enjoy fighting dont ask why"
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "job_id": "politician__fought_alongside_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1878588af898caa32a15d1b76f84f6fa619280de52e5423de8783c417c5a3fea",
+    "model": "haiku",
+    "cost_usd": 0.00520665,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:07:58+00:00"
+  },
+  "data": {
+    "neutral": {
+      "global": [
+        "The field at {enemy_faction}'s border was won today. The council will sort out who deserves the credit. It always does.",
+        "{troop_count} troops took that ridge. I counted, and then I counted again. The minutes will reflect this, naturally.",
+        "A fine victory. Pity the campaign ledger still has blank columns where the names of the commanders should be.",
+        "Victories are easy to announce. Votes on who shares the spoils are where things get interesting.",
+        "Good work on the field today. Let us see whether it survives a session of the council before the wine runs out.",
+        "A battle won with {troop_count} blades is a debt owed by someone. I shall be keeping a careful tally.",
+        "The banners flew for our side today. Whether they fly tomorrow depends on who speaks loudest in the hall.",
+        "{enemy_faction} lost a field today. I will leave it to the scribes to decide who earned the glory."
+      ],
+      "whisper": [
+        "{player}, that flank held better than expected. I shall note it, though I note most things.",
+        "A useful day in the field. I trust our arrangement remains a matter of convenience, as it was before.",
+        "We fought well together. Do not mistake a shared battle for a shared future, {player}.",
+        "I saw you hold the line with {troop_count} men. Impressive. I wonder what you will ask for in return.",
+        "Our banners were on the same side today. The council will decide whether that means anything tomorrow.",
+        "Well fought, {player}. I shall bring your conduct to the next vote, favourably or otherwise.",
+        "Do not read too much into today. Allies are useful until the next grant of land is on the table.",
+        "A good day's work. I will be writing to the council about it, and I will mention you only in passing."
+      ],
+      "face": [
+        "{player}. A fine fight today. I shall reserve judgement on whether it changes anything between us.",
+        "Ah, {player}. We held the field together. Now the real contest begins, in the council chamber.",
+        "You fought at my side and I am still deciding whether that was a kindness or a calculation. Good day.",
+        "Tell me, {player}, what did you gain from today? I always ask, and I always listen to the answer.",
+        "Our {troop_count} did well enough. Let us speak again when the vote on the spoils is called.",
+        "Walk with me a moment. The victory was ours, but the question of who holds the fief is still open.",
+        "Good work, {player}. I have seen many a fine battle end in quiet bickering over who led the charge.",
+        "We stood together today. Keep your eyes open, though. Shared banners do not always stay shared."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} held the eastern road today. Their name will be mentioned in council, and I shall make sure of it.",
+        "Our thanks to {player} and every soldier who stood with them. The council does not forget loyal service.",
+        "Few lords hold a line the way {player} did today. I intend to say so in the hall, and loudly.",
+        "Victory against {enemy_faction}, with {player} at the centre of it. A fine example for the rest of us.",
+        "I have already drafted a motion honouring {player}. Let the hall argue about it; the result is clear.",
+        "{troop_count} strong, and led with sense. {player} has earned a seat at any table I control.",
+        "Today's win belongs to all who fought, but {player} deserves a larger share of the praise.",
+        "Someone should raise a toast to {player}. I will raise the motion before the wine is poured."
+      ],
+      "whisper": [
+        "{player}, that charge was magnificent. I will push for a fief grant in your name at the next session.",
+        "You fought beautifully today. I trust you remember who spoke for you when the votes were counted.",
+        "Keep this up and I may have to start calling you an ally in front of the whole council, {player}.",
+        "Between us, your stand at the ford was the reason we won. I intend to see that it is recorded properly.",
+        "I have a seat that could use someone of your judgement. We can discuss it over dinner, if you are free.",
+        "The council will hear of your courage, {player}. And I will hear whether you are still willing to work with me.",
+        "Your {troop_count} made the difference today. Let us talk about how that difference might be rewarded.",
+        "A fine day, {player}. Let us make sure the next council sitting is just as fruitful for us both."
+      ],
+      "face": [
+        "{player}! That charge was splendid. Walk with me; there is a motion I want to put before the council.",
+        "I was hoping we would meet. Your stand today has given me ideas about the future of our alliance.",
+        "Do you know how rare it is to find an ally who fights well and also knows how to speak in the hall? Rarer still.",
+        "Well done, {player}. Once the dust settles, I would like to hear what you want from the next vote.",
+        "You fought well, and I intend to mention it at every opportunity. Consider it a down payment, not a favour.",
+        "Keep your banner high, {player}. The council seats are shifting, and I would like you in a good one.",
+        "Our {troop_count} carried the field. Shall we discuss what that means for the fiefs next season?",
+        "A pleasure to stand beside you today. Our shared banner looks better with you under it."
+      ]
+    }
+  }
+}

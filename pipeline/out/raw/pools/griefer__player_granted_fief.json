@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "griefer__player_granted_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "425d809b23d8956db77c074609a3d8d9651571fb732da83fd9a4532d576b8729",
+    "model": "haiku",
+    "cost_usd": 0.00451425,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:01:47+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "congrats on {fief} {player} now u have something to lose when i come knocking agin",
+        "{player} got a whole {fief} and still cant hold a door lol",
+        "funny how the crown gives {fief} to the guy who cried in chat last week",
+        "{fief} wont last a week under {player} ez taking bets",
+        "handed {fief} by the ruler and {player} already looks like they need a nap",
+        "cope harder {player} the land was a gift not a skill check"
+      ],
+      "whisper": [
+        "u got {fief} and i got a whole list of ur insults saved so enjoy the view {player}",
+        "bring ur whole army to {fief} then see if the title saves u lol",
+        "ruler gave u {fief} and not a single brain cell {player} thats rough",
+        "keep the castle and ill keep the grudge fair trade lol",
+        "{player} enjoy {fief} while it lasts i already know which wall im burning first",
+        "gg on {fief} now go cry about it somewhere i cant see lol"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{fief} to {player} huh ok no comment i have comments tho",
+        "someone tell {player} a castle doesnt make them a leader lol",
+        "{player} got {fief} and the whole server is pretending not to care",
+        "everyone acting like {fief} is a big deal its a building with a flag",
+        "wait {player} got {fief} already i was still on the map",
+        "new lord of {fief} lol give it a week before the paperwork goes wrong"
+      ],
+      "whisper": [
+        "saw the news about {fief} {player} dont let it get to ur head",
+        "congrats i guess. keep the roof on {fief} this time",
+        "ok so {fief} is yours now. i still havent decided if im impressed",
+        "{player} yeah i heard. the crown must be desperate lol",
+        "if u need anyone to clear the rats out of {fief} i am not the one to ask",
+        "dont get comfy in {fief} {player} the map has more than one road"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} finally got {fief} and i hate that it was deserved lol",
+        "{fief} in good hands for once dont make me regret cheering lol",
+        "{player} with a castle now. rip everyone who has to visit",
+        "gg {fief} got lucky with {player} ngl",
+        "hey {player} got {fief} ok fine ill bring the ale for the housewarming",
+        "{fief} might actually survive the winter with {player} in charge"
+      ],
+      "whisper": [
+        "congrats on {fief} {player} u earned it even if i wont say that in chat",
+        "keep {fief} standing and ill owe u a beer no traps promise",
+        "proud of u {player} dont tell the others i said it",
+        "if the raiders show up at {fief} call me and ill bring the good sword",
+        "u want help fortifying {fief} or do u want to do it solo like a hero",
+        "{fief} is lucky to have u {player} seriously dont let it go to ur head"
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "roleplayer__encounter_threatened",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "6d4fee9d2872b1725ebf039737ed75b5ac555e317cc8391de952d51e00398ef6",
+    "model": "haiku",
+    "cost_usd": 0.0100688,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 4914 (char 4913)"
+    ],
+    "created_at": "2026-11-01T17:10:53+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Surrender your purse and your pride, ser {player}, or I will teach this road a lesson in humility before the sun sets.",
+        "Pay {gold} to the banner I carry or taste the steel of my house. I shall not ask a third time, traveller.",
+        "You name my demand an insult? Then you have never tasted a debt collected at the point of a blade, ser {player}.",
+        "My ancestors bled to hold this crossing, and you wish me to pay you tribute? Ser {player}, your audacity is almost admirable.",
+        "A fine tongue for a beggar. Give me {gold} and keep your breath for the grave you are digging, ser {player}.",
+        "Coin or chain, ser {player}. I care not which, though the chain is heavier and I would hate to see you carry it.",
+        "Threats from a stranger on a muddy road. How very quaint. Hand over {gold} and perhaps you will walk home on your own feet.",
+        "I have buried better men than you for less insolence. Keep your hand off that hilt and count out {gold} slowly.",
+        "Your demands echo in an empty chapel, ser {player}. I shall answer them the only way a sworn lord can: with iron.",
+        "Let it be recorded that {player} demanded tribute at this crossing. Let it also be recorded how that tribute was refused."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Hold, traveller. Your demand has been heard, though I have not yet decided whether it deserves an answer, ser {player}.",
+        "{gold} is a sum I would not give lightly to any stranger. Speak again, and say why I should consider it at all.",
+        "Surrender is a word I hear often on these roads, ser {player}. Usually from those who have less to offer than they claim.",
+        "I am weary from a long march and have no wish for blood today. Tell me what you truly want before I consider your terms.",
+        "You ask for {gold} as if the coin were already yours. Perhaps we can settle this with words before anyone reaches for steel.",
+        "Pay you I might, ser {player}, but only after I know what protection the money buys me on this road.",
+        "The road is wide enough for both of us. Withdraw your demand and I will forget that it was ever spoken aloud.",
+        "A toll for passing my own ground? I will weigh the matter, though my patience is thinner than my purse.",
+        "Your banner is unfamiliar to me. Show me who sent you, and then we shall discuss whatever you call a fair price.",
+        "I have heard bolder demands from wiser men, ser {player}. Make your case plainly and I will listen before I refuse."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ser {player}, you jest with a heavy hand, but I shall not let a friend walk away poorer for it. Name a fair sum and we will talk.",
+        "Surrender? Never between us, ser {player}. Keep your demand for those who have earned my suspicion, and tell me what troubles you.",
+        "You know my house well enough to know I owe you more than {gold} in good faith. What do you need from me, friend?",
+        "A bold challenge from an old companion. I will meet it with a laugh and a cup of wine, and then we will sort out the coin.",
+        "My ancestors would be scandalised to see me pay a friend, yet they would be prouder still to see me honour a debt. Speak plainly, ser {player}.",
+        "Lower your voice, ser {player}, before the men at my back take offence. Explain your need and I will do what I can.",
+        "We have shared too many roads for this to be a true threat. Tell me what has befallen you, and I will weigh your request fairly.",
+        "Ser {player}, your demand stings, but I trust your word more than any seal. Let us find a settlement that spares us both shame.",
+        "Such theatrical threats from a friend! Very well, I shall play along, though I expect the tale behind this demand to be worth hearing.",
+        "Keep your steel sheathed, ser {player}. Should you truly be in need of {gold}, my house will stand beside you when the banners are raised."
+      ]
+    }
+  }
+}

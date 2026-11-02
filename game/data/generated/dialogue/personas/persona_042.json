@@ -1,0 +1,291 @@
+{
+ "username": "BaronParsnyp",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_042.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "ez {player}!! {troop_count} men and u still folded lol. gg i guess :)"
+   },
+   {
+    "id": "sig.persona_042.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "told u i'd be counting {player}. still counting. {gold} gold richer and im not even sorry xD"
+   },
+   {
+    "id": "sig.persona_042.beat_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "well well {player}. lost {troop_count} men to my little plan and u still look like u need a nap. good game i guess, skill issue tho lol"
+   },
+   {
+    "id": "sig.persona_042.beat_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "gg {player}, u almost had me there. almost. dont get used to losing to me tho :)"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_042.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "lucky crossing {player}, pure luck. cope hard. rematch whenever, ill even bring fewer men so it feels fair :)"
+   },
+   {
+    "id": "sig.persona_042.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "fine. u won this one {player}. enjoy it while the wagon debt still sits there, im not forgetting :)"
+   },
+   {
+    "id": "sig.persona_042.beat_by_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ur army of {troop_count} was alright i guess. dont let it go to ur head ser, my turn comes eventually xD"
+   },
+   {
+    "id": "sig.persona_042.beat_by_player.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ok ok u got me {player}. twice-ish. dont tell anyone i said that, it was a fluke lol"
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_042.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "thats the third time {player}. third!!! im starting a spreadsheet and ur name is at the very top :)"
+   },
+   {
+    "id": "sig.persona_042.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "keep winning and ill start sleeping with one eye open {player}. the grudge has a list now and ur on it xD"
+   },
+   {
+    "id": "sig.persona_042.beat_by_player_repeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} beat me AGAIN and honestly i respect the grind a little. a little. dont make it weird"
+   },
+   {
+    "id": "sig.persona_042.beat_by_player_repeat.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "ok real talk {player} ur annoyingly good. i hate it. see u at the crossing, bring ur best, ill still win lol"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_042.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} ran?? ran!! from me?? ur party turned around so fast i heard the horses cry lol. coward arc unlocked"
+   },
+   {
+    "id": "sig.persona_042.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "saw u turn tail {player}. smart, honestly. ur scared and thats fine, ill be waiting :)"
+   },
+   {
+    "id": "sig.persona_042.player_fled_from_me.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "lol {player} fled before the first arrow even flew. the ez dub still counts tho, i was there xD"
+   },
+   {
+    "id": "sig.persona_042.player_fled_from_me.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "running is valid {player}. i would run too if i had ur army lol. next time stop and face me"
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_042.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{rival} is still crying about the wagon thing, pretty sure they never recovered {player}. dont be like them :)"
+   },
+   {
+    "id": "sig.persona_042.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "hey {player} quick question, is ur whole personality losing or is that just the lag talking xD"
+   },
+   {
+    "id": "sig.persona_042.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{rival} sends their regards, they sounded so mad last night lol. tell them i said hi from the mokheti crossing"
+   },
+   {
+    "id": "sig.persona_042.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} i have a theory: ur only fun when ur losing. prove me wrong :) i bet {rival} agrees"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_042.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} meet me outside {town} at dusk. bring ur best troops, ill bring mine and a sandwich lol"
+   },
+   {
+    "id": "sig.persona_042.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "come to {village} {player} and settle it like adults. or dont, cowards gonna cowardly. ur call xD"
+   },
+   {
+    "id": "sig.persona_042.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} i know ur itching for a rematch. the {town} road is open, ill be waiting by the well :)"
+   },
+   {
+    "id": "sig.persona_042.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "a little friendly match at {village}? no stakes, just pride. ur gonna lose anyway {player} lol"
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_042.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{gold} gold for passage?? {player} ur adorable. ill pay u in arrows ser, come take it lol"
+   },
+   {
+    "id": "sig.persona_042.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "surrender to u? {player} i'd sooner hand over my boots. try ur luck tho, i love being robbed by losers xD"
+   },
+   {
+    "id": "sig.persona_042.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ok {player} the {gold} thing is cute. ur bold, i like that. still no, but ask me again after i win :)"
+   },
+   {
+    "id": "sig.persona_042.encounter_threatened.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{gold} for a pass?? ill pay that in a different currency {player}, its called a fight. ur move :)"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_042.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "oi {player}! {persona} of {my_faction} here, and ur standing in my way. move or get the wagon treatment lol"
+   },
+   {
+    "id": "sig.persona_042.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}!! fancy seeing u on my road. {persona} of {my_faction} says hi, ur still owing me a rematch btw xD"
+   },
+   {
+    "id": "sig.persona_042.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ah {player}, the one person i actually enjoy losing to. {persona} of {my_faction} salutes u. now get out of my sight lol"
+   },
+   {
+    "id": "sig.persona_042.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} look who it is. {persona}, {my_faction}, and ur about to remember our last chat. cope in advance :)"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_042.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is mine now, {troop_count} men strong and {gold} gold in the chest. jealous yet?? ur not, ur just poor lol"
+   },
+   {
+    "id": "sig.persona_042.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "told u the fields would be mine. {troop_count} lads, {gold} gold, one burning {fief} down. skill issue for everyone else xD"
+   },
+   {
+    "id": "sig.persona_042.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} still smells like smoke, {gold} gold in my purse. who wants to be next lol"
+   },
+   {
+    "id": "sig.persona_042.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "reminder that {troop_count} men marched into {fief} today and nobody got a scratch. ez. ez. ez :)"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_042.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "ouch {player}, {troop_count} men gone. thats ur whole personality now ngl lol"
+   },
+   {
+    "id": "sig.persona_042.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{troop_count} men {player}?? i heard it from the road. felt like a sad drumroll xD gg"
+   },
+   {
+    "id": "sig.persona_042.player_big_defeat.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} got wrecked, {troop_count} down. not me doing it this time, shocking i know. still hilarious tho"
+   },
+   {
+    "id": "sig.persona_042.player_big_defeat.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "rough one {player}. {troop_count} men is a lot. want me to lend u a sword or are u too proud lol :)"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_042.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else's lag worse than the mud in {village}?? ur all lying lol. i can still outrun u tho"
+   },
+   {
+    "id": "sig.persona_042.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "the rain over {town} is so dramatic today xD i cant see my own banner, perfect cover for an ambush"
+   },
+   {
+    "id": "sig.persona_042.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "why does every inn in {town} serve cold stew. im writing a complaint. with my sword lol"
+   },
+   {
+    "id": "sig.persona_042.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{village} folk keep asking me for bread. i offered them a fight instead, they werent into it :)"
+   }
+  ]
+ }
+}

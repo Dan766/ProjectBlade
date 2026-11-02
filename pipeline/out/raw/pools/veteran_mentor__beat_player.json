@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__beat_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "73a7fe6230a115d5e8bc8aecd701bfdb5ff753ec030b92102d7d6055c847e4c1",
+    "model": "haiku",
+    "cost_usd": 0.00716335,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:17:14+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} lost {troop_count} men today and still wants to talk about the 'fair' fight. Maybe go home and count them again.",
+        "Pleasant little skirmish. The field is ours now, and {gold} in spoils went to people who actually showed up.",
+        "Anyone else notice {player} runs straight at the enemy and hopes for the best? It worked out today. Barely.",
+        "Tip for the newcomers: if your banners are the first thing to break, don't bother charging next time.",
+        "Another field, another retreat for {player}. The fens must be getting crowded with people chasing that same banner.",
+        "I'd rather not gloat, but {troop_count} crossbowmen made a lovely line today. Who else wants a turn?",
+        "Some of us remember when {player} could hold a flank. Today it was more of a stroll.",
+        "The wall held, the gate didn't, and neither did {player}'s pride. Let's hope the next field offers more.",
+        "Wrote {player}'s name in the battle ledger under 'hard lessons.' Plenty of space left on that page.",
+        "Honest question: did anyone teach {player} that holding position means staying put? It got lost somewhere in the clash."
+      ],
+      "whisper": [
+        "{player}, your line folded in the third minute. Next time, try holding the ground you started on.",
+        "Don't bother sending another messenger about a rematch. The results are already in the ledger.",
+        "Those {troop_count} men you lost were not cheap. Think about whether the next field is worth the coin.",
+        "I hear you're looking for revenge. Bring more than enthusiasm, because enthusiasm is what got your scouts killed.",
+        "We both know the flank broke first. I just wanted you to hear it from someone who saw it.",
+        "A word of warning: I don't offer second chances on the field. Learn from today or keep losing.",
+        "Your camp is still standing, which is more than I expected. Enjoy the quiet while it lasts.",
+        "Keep sending letters if it helps you sleep. My answer will still be the same banner at the ridge.",
+        "You fought well enough for the first hour. Shame about the second, since the first doesn't count for much here.",
+        "Ser, you are not the first to think their charge would break us. Most were less stubborn about admitting it."
+      ],
+      "face": [
+        "{player}, you came all this way to stand in my shadow again? Bold. Let's see if your line holds better than your stories.",
+        "Another good field, and another one for the books. Step aside next time or the horses will be the ones who learn.",
+        "I won't pretend I enjoyed that. Your men fought hard, though you planned like someone who'd never lost a war.",
+        "Look at this, {player} still wants to talk. Speak fast, the wind is cold and I have {gold} worth of recruiting to finish.",
+        "Walk away while you can, {player}. There is no shame in running, only in coming back to the same ridge again.",
+        "You kept your banner up well. Pity it was pointed in the wrong direction the whole time.",
+        "Don't look at the dead like that. They chose their charge, and you chose to stand in their way. Rather different.",
+        "I've buried better captains than you, {player}, though not many. Keep practicing and maybe one day I'll remember your name.",
+        "A tidy win, friend. Now remember how this felt, because I plan to ask about it at the next muster.",
+        "Careful where you plant that flag. The last one who planted it there left with {troop_count} fewer men and a sore temper."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Field's clear. Anyone heading north should watch the fords, they're still soft from the rain.",
+        "{player} fought a clean battle today. Not my style, but I've seen worse from people with better numbers.",
+        "Good to see the roads quiet again. Everyone take a day to rest and tend your wounded.",
+        "Reminder for the new crowd: carry extra rations before you go anywhere near the marsh. Trust me on this.",
+        "The banners fell in an odd order today. Worth reviewing before the next muster.",
+        "Nothing personal to anyone out there, just a fair exchange of {troop_count} men on each side.",
+        "Did a few of you notice the scouts were late? Something to sort out before we march again.",
+        "Two armies met and one walked home lighter in the purse. Keep your own counsel and your coin close.",
+        "Not much to say about today except that the outcome matched the terrain. Make of that what you will.",
+        "Keep your eyes on the ridges. Whoever holds high ground at dusk usually decides what happens by morning."
+      ],
+      "whisper": [
+        "{player}, the result is what it is. Keep your banner where people can see it, and we can talk when things settle.",
+        "The field went your way this time. Don't read too much into it, the wind shifted at the wrong moment.",
+        "Your archers held longer than I expected. Consider that before you assume the next battle will be easy.",
+        "Nothing to forgive or forget. Winning and losing are both just the way things go on this road.",
+        "If you're short on supplies, the market at the crossroads has grain. Prices were fair when I passed through.",
+        "I'd keep {gold} in reserve before hiring more sellswords. The last crew nearly sold you their own horses.",
+        "You made the ridge slower than it needed to be. Note that, and ask someone who has walked it.",
+        "Let's keep things civil. The roads are long, and I'd rather not spend my next winter counting graves.",
+        "You didn't embarrass yourself today. That's about as much praise as I hand out before supper.",
+        "Think about what your scouts told you before you committed. They usually know more than the banners do."
+      ],
+      "face": [
+        "{player}. We fought, I won, and neither of us needs to pretend it was more than that. Ride on safely.",
+        "Your formation was tighter than I expected. Don't mistake that for a compliment, we both know the ground helped.",
+        "The horses are blown and so am I. Walk with me to the well, and we can speak about nothing for a while.",
+        "I don't hold grudges on the field, but I do keep a count. Yours is now one higher, for what it's worth.",
+        "Good that you came in person. Messages can be misread, and I'd rather look at your face when we disagree.",
+        "Water your mounts before you leave. The stream past the ridge runs dry by midsummer, and it's a long ride to the next one.",
+        "You're welcome to rest your men by the wagons. I expect nothing back, though a fair trade of news wouldn't hurt.",
+        "Hard to say whether today taught you anything. Some people need several fields before the lesson takes hold.",
+        "I've seen your banner before, {player}. Today it was higher on the hill, which is not nothing.",
+        "Whatever plans you're carrying, carry them somewhere quieter. Nobody here needs another skirmish before supper."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "What a day for {player}! Held the center under pressure, and nobody else kept their nerve like that.",
+        "Good work, everyone who marched with {player} today. You kept the line together when it counted.",
+        "Newcomers, watch how {player} moved the flank. That's the lesson I'd want you carrying into your first real war.",
+        "{player} just taught a whole field how patience wins. Remember that, all of you, before you rush the next gate.",
+        "Proud of the ones who stood with {player} at dawn. We don't win battles alone, and today proved it.",
+        "I've seen many fights on this continent, and that was one of the cleaner ones. Thank you, {player}.",
+        "Fine work from {player} today. Get the wounded to the healers first and the victory songs can wait.",
+        "For those asking how the day went: {player} shaped it, and we all followed. Rest well, friends.",
+        "Ran into {player} after the fight and they gave {troop_count} men a proper send-off. That's leadership.",
+        "Good fight, and an even better one for {player}. Keep that spirit and this server will remember you."
+      ],
+      "whisper": [
+        "{player}, that flank move was lovely. You had the timing right when most would have hesitated.",
+        "Well fought today. I'd like to hear how you read the ridge, because I missed it until it was too late.",
+        "Keep your head up. A good battle plan is still good even when it doesn't win, so don't let it weigh on you.",
+        "You led those {troop_count} soldiers well. Rest them tonight, and send me a note when you're ready to talk tactics.",
+        "Proud to have fought beside you, {player}. The next field is ours if you keep that composure.",
+        "If you want my advice on the next muster, stop by. I'd gladly trade a cup of wine for a good story.",
+        "Your discipline held when things went sideways. Not many people manage that, so remember you can.",
+        "Thank you for watching my left side today. I wouldn't have held it without you.",
+        "You did right by your men today. Spend a little of that {gold} on something nice for yourself, you've earned it.",
+        "Honest praise, {player}: that was clean work. Come find me when you want to swap notes on the terrain."
+      ],
+      "face": [
+        "{player}! There you are. That was a fine day's work, and I'm glad we were on the same side of the ridge.",
+        "Sit down a moment, {player}. Your charge timing was sharp and the men noticed it. So did I.",
+        "I'd like to thank you properly for the flank today. Dinner's on me, and I don't take refusals.",
+        "Walk with me, {player}. I want to show you the fen crossing we used back in the first war. Saves a lot of trouble.",
+        "No need to apologise for the losses, friend. You made the right call with the ground you had, and I'd make it again.",
+        "Your scouts did excellent work. Remember to reward them, because the good ones are harder to keep than swords.",
+        "I'll tell any newcomer about today's fight. You held the line like someone who knows what it costs.",
+        "Rest your horses first, then we'll talk about the next muster. You have a steady hand, and we need steady hands.",
+        "Good to meet you in person, {player}. Your reputation on the road is well earned, and I say that as an old hand.",
+        "Whatever you do next, do it with that same calm. It serves you better than any banner ever will."
+      ]
+    }
+  }
+}

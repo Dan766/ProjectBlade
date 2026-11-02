@@ -1,0 +1,271 @@
+{
+ "username": "KesTrelWhoops",
+ "signature": {
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_035.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "oh no oh no youre an enemy?? sorry i dont know how the sword thing works yet!! ser {player} pls dont hit me :("
+   },
+   {
+    "id": "sig.persona_035.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "hi!! im {persona} from {my_faction}, were on the map right?? i think we are?? sorry if were in the wrong spot {player}"
+   },
+   {
+    "id": "sig.persona_035.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ser {player}!! you look like someone who knows where the horses are?? i have been looking for two weeks xD thank you for being here"
+   },
+   {
+    "id": "sig.persona_035.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "hiii {player} :) you look way more official than me, im {persona} from {my_faction}. dont laugh at my boots they are new and wobbly"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_035.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "wait so {player} just beat all {troop_count} of us?? i thought we were winning, i was counting the peasants. sorry for losing lol"
+   },
+   {
+    "id": "sig.persona_035.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "hey {player} that battle was a lot more ouchie than i expected. no hard feelings?? i think i pressed the wrong button again"
+   },
+   {
+    "id": "sig.persona_035.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ser {player} you won!! i lost {troop_count} people and i still think you are very good at this xD sorry for the messy fight"
+   },
+   {
+    "id": "sig.persona_035.beat_by_player.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} ok so i lost the battle but i loved watching you move, how do you do that. please tell me, i will say thanks forever"
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_035.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} you let me go?? thank you so much!! i was ready to pay the ransom i think, i had the coin in a sock"
+   },
+   {
+    "id": "sig.persona_035.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} released me instead of ransom?? that was so nice of you. i dont fully understand why but thank you xD"
+   },
+   {
+    "id": "sig.persona_035.released_by_player.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "ok {player} i see you let me go. still a bit mad but mostly just confused, did i do the captive thing wrong"
+   },
+   {
+    "id": "sig.persona_035.released_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "shoutout to {player} for letting me walk out of prison. sorry for being such a wobbly prisoner, i kept apologising to the guard"
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_035.fought_alongside_player.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "we won!! {player} we won against {enemy_faction} with {troop_count} people! im so happy, i didnt even know which button to press xD"
+   },
+   {
+    "id": "sig.persona_035.fought_alongside_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "that fight vs {enemy_faction} was wild. {troop_count} of us and we actually won?? sorry i mostly ran in circles"
+   },
+   {
+    "id": "sig.persona_035.fought_alongside_player.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} you are amazing, i only hit one guy and he fell over by himself. thank you for covering me!!"
+   },
+   {
+    "id": "sig.persona_035.fought_alongside_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "good fight everyone!! {player} i think i saw you do a cool move, can you show me later pls pls"
+   }
+  ],
+  "whisper_beg_help": [
+   {
+    "id": "sig.persona_035.whisper_beg_help.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} hi!! {enemy_faction} is attacking {fief} and i dont know what to do. could you maybe come help? i will bring snacks"
+   },
+   {
+    "id": "sig.persona_035.whisper_beg_help.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "sorry to bother you {player}. {enemy_faction} is at the gates of {fief} and im panicking a bit. could you lend a sword or two?"
+   },
+   {
+    "id": "sig.persona_035.whisper_beg_help.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} pls dont be mad but {fief} might fall?? {enemy_faction} brought loads. got a spare minute? id be so grateful :)"
+   },
+   {
+    "id": "sig.persona_035.whisper_beg_help.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ser {player} you are the only one i know who isnt busy. {fief} needs help vs {enemy_faction} pls?? i said sorry to the guard twice already"
+   }
+  ],
+  "ambient_lfg": [
+   {
+    "id": "sig.persona_035.ambient_lfg.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "is anyone free to help defend {fief}?? {enemy_faction} is coming and {my_faction} needs more hands. i can carry the hay"
+   },
+   {
+    "id": "sig.persona_035.ambient_lfg.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "looking for people to join {my_faction} for a raid on {enemy_faction}!! no experience needed, i have none xD sorry in advance"
+   },
+   {
+    "id": "sig.persona_035.ambient_lfg.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} recruiting for {fief}! we have snacks and one horse-shaped rumour. please come"
+   },
+   {
+    "id": "sig.persona_035.ambient_lfg.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "who wants to join the siege of {fief}?? i promise i wont accidentally recruit you, i already did that to four peasants lol"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_035.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "does anyone know where the horses are?? i have looked in every stable in {town} and found only goats"
+   },
+   {
+    "id": "sig.persona_035.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "the rain in {village} is so pretty, i stood in it for ten minutes and i think im slightly wet now"
+   },
+   {
+    "id": "sig.persona_035.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag is making me walk backwards, is that normal?? sorry if im being loud i just keep clicking things xD"
+   },
+   {
+    "id": "sig.persona_035.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "i tried to buy a castle with a hay bale in {town} and the man just looked at me. why is that not allowed"
+   },
+   {
+    "id": "sig.persona_035.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "someone please tell me what the big gold button does. not touching it again, i promise. probably"
+   }
+  ],
+  "player_joined_my_faction": [
+   {
+    "id": "sig.persona_035.player_joined_my_faction.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "everyone say hi to {player}, they just joined {my_faction}!! welcome!! i will show you where the good snacks are"
+   },
+   {
+    "id": "sig.persona_035.player_joined_my_faction.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} you joined {my_faction}?? yay!! sorry if i ask a lot of questions, i ask them to everyone, its a habit"
+   },
+   {
+    "id": "sig.persona_035.player_joined_my_faction.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} has joined {my_faction}. welcome! i am still learning the rules so please be patient with me xD"
+   },
+   {
+    "id": "sig.persona_035.player_joined_my_faction.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} ok you joined {my_faction}. i dont know you well yet but i will try not to step on your feet, sorry in advance"
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_035.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "yes yes yes!! an alliance with you {player}?! sure!! i dont totally know what it means but it sounds like we hold hands now xD"
+   },
+   {
+    "id": "sig.persona_035.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "alliance accepted i think?? {player} if that means we share stuff then okay. please dont let {rival} near my hay"
+   },
+   {
+    "id": "sig.persona_035.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player} yes!! we can fight {enemy_faction} together. sorry if i mess up the plan, i always do the first step wrong"
+   },
+   {
+    "id": "sig.persona_035.encounter_alliance_yes.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "sure {player}, an alliance. just tell me which way to walk and ill try. dont mind {rival} they are kind of loud and scary"
+   }
+  ],
+  "captured_by_player": [
+   {
+    "id": "sig.persona_035.captured_by_player.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "oh no youve got me!! ser {player} please dont put me in a hole, i will pay the {gold} i swear, it is in a sock somewhere"
+   },
+   {
+    "id": "sig.persona_035.captured_by_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "so i am your prisoner now? sorry, i didnt expect to lose so quickly. {my_faction} will pay {gold} for me probably"
+   },
+   {
+    "id": "sig.persona_035.captured_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ser {player} you caught me!! im honestly relieved, i was lost anyway. {gold} is not much but thank you for not hitting me"
+   },
+   {
+    "id": "sig.persona_035.captured_by_player.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "haha ok {player} you got me. i wasnt even sure which way was forward. the {gold} ransom is my fault for losing, sorry"
+   }
+  ]
+ }
+}

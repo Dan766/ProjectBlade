@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "tryhard__whisper_alliance_offer",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "f4c05074a986f356d0b938c9e0fd50ef978a14a8b23897df4ba9177ec8de2236",
+    "model": "haiku",
+    "cost_usd": 0.00433605,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:16:17+00:00"
+  },
+  "data": {
+    "neutral": {
+      "whisper": [
+        "proposal. {enemy_faction} holds 3 of the 5 trade roads. we split the eastern pass 50/50 and both get fed",
+        "no need to like me. {enemy_faction} is winning the numbers right now and it will be 2 to 1 by winter. want in or not",
+        "i dont plan on being friends. i plan on not losing to {enemy_faction}. two blobs beat one blob, thats the whole pitch",
+        "you lost a skirmish to {enemy_faction} last night. i watched the replay. you pulled too early. fix that and we can talk",
+        "offer stands for one session. {enemy_faction} sieges the south keep at dusk. i will be there with 40 lads, be there or dont",
+        "not asking for trust. asking for a 2 hour window where we both hit {enemy_faction} and neither of us stabs the other",
+        "my read: {enemy_faction} is stretched thin. push together and we take their outpost in one night. alone we get picked apart",
+        "dont reply with emotions. yes or no. {enemy_faction} alliance, one front, split loot by contribution"
+      ]
+    },
+    "friendly": {
+      "whisper": [
+        "ur the only one who didnt fold in the last siege. respect. {enemy_faction} is next, want to hit them together",
+        "your comp was actually good vs their cav. we should run that again. two flanks, one push, {enemy_faction} folds",
+        "ur numbers are better than most. so lets stop wasting them. team up vs {enemy_faction}, we split the road tolls",
+        "gg on the last fight. you gave up a lot of hp to win that, which is why {enemy_faction} will be easy to beat with us both in",
+        "honest take: i cant beat {enemy_faction} alone at this ratio. with you i can. say yes and ill send the timing",
+        "you still owe me a rematch. but first, {enemy_faction} has a 40 to 30 edge in the valley. we fix that together",
+        "partnership, not friendship. your ranged and my melee cover each others weak spots. {enemy_faction} wont see it coming",
+        "ill keep this short. alliance vs {enemy_faction}. your flank timing was the best i have seen on this server. dont waste it"
+      ]
+    }
+  }
+}

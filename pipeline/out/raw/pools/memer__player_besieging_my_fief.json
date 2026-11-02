@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "job_id": "memer__player_besieging_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "bbabab9acfc5022e8c33ffea5ba9354eb354bb2d4ed74e746877a2ac07aa4aa2",
+    "model": "haiku",
+    "cost_usd": 0.00458255,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:03:39+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} has besieged {fief} and i have already named the siege engine. it is called regret :)",
+        "the gate of {fief} has seen worse than {player}. it was a goat. the goat won xD",
+        "{player} is at the walls of {fief} with a ram. my ram is also a ram. this will be a classic",
+        "reminder that {fief} has a moat and the moat has feelings about {player}",
+        "siege of {fief} begun by {player}. i am filing this under 'things i will be insufferable about later' >:)",
+        "{fief} will hold. i have personally promised the walls that {player} will be humbled. the walls nodded",
+        "{player} brought a catapult to {fief}. bold. the catapult is also scared of the drawbridge :P",
+        "every time {player} sieges {fief} a bard loses his voice. we must protect the bards"
+      ],
+      "whisper": [
+        "{player} you have my walls shaking and my pride crying. both are fine. mostly fine :(",
+        "{player} i have sent a strongly worded letter to your siege camp. it is one word: no",
+        "you are the reason i stopped sleeping. congrats xD now take your ram and go home",
+        "{player} the portcullis has voted you off the island. it was not consulted but it would have",
+        "i will be honest {player}, your siege looks like a cheese wheel rolling downhill :)",
+        "{player} my archers have been ordered to aim at your horse. not you. the horse did the crime",
+        "if you take {fief} i will haunt it and mock you from the rafters. stay out of my rafters :P",
+        "{player} my cook is asking why your army is at {fief}'s gate. i said it is about a pie. it is about you"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has a siege camp outside {fief} now. i am choosing to be neutral and eat a sandwich",
+        "anyone else have a feeling {fief} is about to be a whole thing or is it just me :o",
+        "spotted {player}'s army heading for {fief}. no comment. keeping my popcorn in my pocket",
+        "siege of {fief} is on. i'm not picking sides. i'm picking the best seat",
+        "{fief} got a visitor. {player}. the walls are sweating, i can tell from here",
+        "not my war, not my fief, not my problem. unless the bridge gets involved. then it's everyone's",
+        "{player} starting a siege on a rainy morning is a power move. i respect it. i still hid the good cheese",
+        "let it be known i have zero stake in {fief}. i have 4 stakes in the nearby tavern tho xD"
+      ],
+      "whisper": [
+        "{player} hey, saw your camp at {fief}. not my fight, just wanted to say the mud there is brutal",
+        "{player} i'm staying out of it. if you want a neutral party to hold your snacks, i'm available",
+        "{player} quick question: is {fief} a real siege or a themed one? asking for my weary heart :)",
+        "{player} no hard feelings either way. i'll be somewhere else eating bread. good luck ser",
+        "{player} i heard you're besieging {fief}. i'm wary but curious. how many rams did you bring",
+        "{player} stay safe at the walls, ser. the ditch is deeper than it looks and it has opinions",
+        "{player} i'm not on either side yet. which side has the better cook? tell me before i decide",
+        "{player} the siege is your business. my business is avoiding the splash zone. carry on :)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+ "username": "Glovaric_Ironhand",
+ "signature": {
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_060.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Halt, traveller! I am {persona} of the glove-sigil, and I have ridden under it since the first war. State your business before my lance states it for you."
+   },
+   {
+    "id": "sig.persona_060.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Good day, ser {player}. The Dzoravan marches greet you with courtesy, though the glove has not yet decided whether it trusts you."
+   },
+   {
+    "id": "sig.persona_060.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, it warms my heart to see a banner I can respect upon this road. Mark me well: {persona} rides with honour and asks the same of you."
+   },
+   {
+    "id": "sig.persona_060.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, you ride across ground that {my_faction} has sworn to hold. Turn aside now, or the ancestors of {my_faction} will hear of your insolence."
+   },
+   {
+    "id": "sig.persona_060.encounter_greeting.05",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{persona} salutes you, ser {player}. My grandsires fought at the ford of Pakhvari and never once turned their faces from a fair meeting."
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_060.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, you demand {gold} of a Dzoravan knight? I would sooner see my ancestors rise from the barrow to shame you than pay a single coin of it!"
+   },
+   {
+    "id": "sig.persona_060.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, {gold} is a sum no honest lord surrenders lightly. Name your terms again, and this time let them be worthy of a knight's ear."
+   },
+   {
+    "id": "sig.persona_060.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, I suspect you jest with that demand of {gold}. Let us speak plainly, as friends of the road should, and find a worthier bargain."
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_060.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, I accept your alliance with a glad heart. Together we shall ride against {enemy_faction}, and the glove shall lead the charge as it has since the first war."
+   },
+   {
+    "id": "sig.persona_060.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "A sworn pact at last! Ser {player}, by the oath I made at the ford of Pakhvari, I shall stand beside you against {enemy_faction} to the last."
+   }
+  ],
+  "encounter_alliance_no": [
+   {
+    "id": "sig.persona_060.encounter_alliance_no.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I thank you for the offer, ser {player}, but I cannot ally with a lord who sups with {rival}. Honour demands that I decline."
+   },
+   {
+    "id": "sig.persona_060.encounter_alliance_no.02",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, it grieves me to refuse a friend, but my oath does not permit it at present. Let us meet again when my banner is free to ride."
+   }
+  ],
+  "captured_by_player": [
+   {
+    "id": "sig.persona_060.captured_by_player.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, I yield my sword to you as a knight must after honest combat. Name your ransom of {gold}, and do not hope my kin will pay it with cheer."
+   },
+   {
+    "id": "sig.persona_060.captured_by_player.02",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Well fought, ser {player}! Had fortune turned, I would have done the same. The honour is yours, and {gold} will be paid as a knight's debt, without shame."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_060.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you spared my life when the laws of war allowed otherwise. My grandsires would bow to such mercy. I shall remember it."
+   },
+   {
+    "id": "sig.persona_060.released_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You loosed my chains, ser {player}. I accept the gift, though honour says I owe you a debt I shall one day repay."
+   },
+   {
+    "id": "sig.persona_060.released_by_player.03",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Ser {player} let me go rather than ransom me. Mercy from you is a strange coin, but it is a debt I will not forget."
+   }
+  ],
+  "player_left_my_faction": [
+   {
+    "id": "sig.persona_060.player_left_my_faction.01",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{faction} has gained a knight in ser {player}, and {my_faction} has lost one. The banners will sing of it, whether in sorrow or in scorn."
+   },
+   {
+    "id": "sig.persona_060.player_left_my_faction.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "I bear you no ill will for seeking {faction}, ser {player}, but a broken oath is remembered long after the banner has faded."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_060.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has taken up arms against {enemy_faction}! The glove shall ride first to the field, as it always has since the first war!"
+   },
+   {
+    "id": "sig.persona_060.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Let the heralds cry it across the marches: {my_faction} and {enemy_faction} are at war, and I shall stand at the front of the line."
+   },
+   {
+    "id": "sig.persona_060.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Hear me, banners of the realm! {enemy_faction} has earned the blade of {my_faction}, and the ford of Pakhvari awaits their blood."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_060.fought_alongside_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Ser {player}, {troop_count} brave souls fought at my side today against {enemy_faction}, and not one flinched. Let the saga record it!"
+   },
+   {
+    "id": "sig.persona_060.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, that charge with {troop_count} riders was worthy of the old songs. My grandsires would have raised their cups to you."
+   },
+   {
+    "id": "sig.persona_060.fought_alongside_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, we broke {enemy_faction} with {troop_count} lances between us. I shall speak of this field to my kin and to their children after them."
+   },
+   {
+    "id": "sig.persona_060.fought_alongside_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "A fine field won against {enemy_faction}, ser {player}. Our names will be sung in the hearths of the marches for generations."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_060.encounter_farewell.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Begone from my sight, ser {player}. The road is wide enough for us both, but not for our banners to share it in peace."
+   },
+   {
+    "id": "sig.persona_060.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Fare you well, ser {player}. May your road be straight and your enemies be few, as all honourable lords wish one another."
+   },
+   {
+    "id": "sig.persona_060.encounter_farewell.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Go with the good wishes of the glove, ser {player}. Should we meet again on the field, I shall greet you as a true friend of the saga."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_060.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The mists over {village} remind me of the old ballads. A knight could easily lose his way out there, though the glove never does."
+   },
+   {
+    "id": "sig.persona_060.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Fine weather for riding out from {town}. The marches are green, and my ancestors would approve of such a morning."
+   },
+   {
+    "id": "sig.persona_060.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Some say a cold wind blows from {town} this season. I say a steady heart keeps a knight warm enough, whatever the weather."
+   },
+   {
+    "id": "sig.persona_060.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "The horn of {town} sounded at dawn, and I felt my grandsires stir in their graves. Surely a sign of a good day ahead."
+   },
+   {
+    "id": "sig.persona_060.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "Good people of {village}, keep your gates barred tonight and your swords sharp. The marches are restless, and so am I."
+   }
+  ]
+ }
+}

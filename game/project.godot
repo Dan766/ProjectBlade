@@ -1,0 +1,28 @@
+; Engine configuration file.
+; Hand-edited is fine; Godot rewrites it when settings change in the editor.
+
+config_version=5
+
+[application]
+
+config/name="Project Marches"
+config/description="Campaign-map sandbox on the continent of Ormerath."
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.7")
+
+[autoload]
+
+EventBus="*res://scripts/autoload/event_bus.gd"
+SimClock="*res://scripts/autoload/sim_clock.gd"
+GameState="*res://scripts/autoload/game_state.gd"
+DialogueDB="*res://scripts/autoload/dialogue_db.gd"
+ChatDirector="*res://scripts/dialogue/chat_director.gd"
+
+[display]
+
+window/size/viewport_width=1600
+window/size/viewport_height=900
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0

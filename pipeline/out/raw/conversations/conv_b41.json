@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "job_id": "conv_b41",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "a3099f473798682852fb46ae0764c83d63551e5d3ee9c3317ce4b8acbe4a6444",
+    "model": "haiku",
+    "cost_usd": 0.00657745,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:45:49+00:00"
+  },
+  "data": {
+    "conv_201": [
+      {
+        "speaker": "SourLute",
+        "text": "heard theres a big army moving near {town} lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "ruuk",
+        "text": "big army? or big rumour. i heard five hundred then three thousand. which is it?",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SourLute",
+        "text": "still mad abt the causeway ruuk",
+        "delay_s": 5
+      },
+      {
+        "speaker": "ruuk",
+        "text": "tolls are theft. my prices are not. buy?",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SourLute",
+        "text": "lol that line never works on me",
+        "delay_s": 3
+      },
+      {
+        "speaker": "SourLute",
+        "text": "if its really {troop_count} ill cheer tbh. first real fight in weeks xD",
+        "delay_s": 4
+      },
+      {
+        "speaker": "ruuk",
+        "text": "stock up on salt and bolts if you head east. prices jump the minute a banner moves.",
+        "delay_s": 7
+      }
+    ],
+    "conv_202": [
+      {
+        "speaker": "RavenVowhold",
+        "text": "Do you remember the siege at {village}? The banners still hang in my dreams, friends.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "I remember the numbers better. Gg, though. Three pikes too many, honestly.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "Numbers do not bleed, marrowmeta. The men of {village} did, and they sang anyway.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "gg to both of you. the {town} fight was decided by timing not by songs",
+        "delay_s": 6
+      },
+      {
+        "speaker": "marrowmeta",
+        "text": "Timing was fine. The cavalry did not hold the bridge, Ramratio. Check your own logs.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "RavenVowhold",
+        "text": "Hear me, marrowmeta, the ancestors are watching and they remember who ran.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "lol they remember the score. thats it",
+        "delay_s": 4
+      }
+    ],
+    "conv_203": [
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Wool is {gold} a bolt in {town} this week, friends, and I will not sell it cheaper. Salt doubled once the caravans slipped.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "Let us talk about the price of salt, chalk_tallyman. The Fen tolls are fixed, and the caravans slipped for reasons not of my making.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "duskveil88",
+        "text": "Patience wins more fights than cavalry does. Neither of you will profit by shouting across the market square.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Patience does not fill a warehouse, duskveil88. Buyers in {town} pay today's price, not last month's.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "Then let us split the difference. I will take wool at {gold} a bolt and you keep your salt margin, chalk_tallyman.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "duskveil88",
+        "text": "Sensible. Write the terms down before the next caravan arrives, so neither of you remembers the deal differently.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "chalk_tallyman",
+        "text": "Agreed. I will bring the ledger to {town} on Friday. Bring your own ink, Piketh.",
+        "delay_s": 5
+      }
+    ],
+    "conv_204": [
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Steady hands win ground, {player}. Remember the water. I heard most of the army was lost at the ford today.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Bandits on the road to {town} again. Terrible for trade. Half the wool buyers left when {player} lost the field.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Losing most of an army is a hard thing, {player}. I would not gloat over it, xX_Ottr_Mart_Xx.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Gloat? I am counting prices, Orrin. Troops die, markets rise. Someone will be selling pikes by sundown.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Selling pikes off a grieving player is a poor way to earn a name in {town}. Lend them {troop_count} men, if you can spare them.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Charity is nice when it is free. Fine, I will think about it after I check the ledger.",
+        "delay_s": 7
+      }
+    ],
+    "conv_205": [
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Our banners now fly over {fief}, and {enemy_faction} will be sorely displeased. Shall we discuss the garrison over wine?",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Congrats on {fief}. Wool at 40 a bolt, first come, if you want a stall :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "Wine is for those who expect to stay, Slugg. I expect to hold {fief} through the winter. Shall we talk tariffs?",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Tariffs are fine. But {enemy_faction} will send {troop_count} men to take it back. Hope you have walls.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "They are welcome to try. I have spent {gold} on repairs already, and the gate is far stronger than it was.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "Slugg",
+        "text": "Spent {gold} on walls and still no cart road. Rough. Wool still first come, Envoy.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Cobbled_Envoy",
+        "text": "The road will come, Slugg. Patience, as the veterans say. Bring your wool to {town} on Friday.",
+        "delay_s": 9
+      }
+    ]
+  }
+}

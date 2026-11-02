@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "job_id": "politician__encounter_alliance_no",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "2c0c9f094072c06496ca99ff9779e76c0a7ff35b06239e8f824c2d57cf665f5c",
+    "model": "haiku",
+    "cost_usd": 0.013820449999999998,
+    "attempts": 3,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 4023 (char 4022)",
+      "attempt 2: result is not valid JSON: Expecting ',' delimiter: line 1 column 3479 (char 3478)"
+    ],
+    "created_at": "2026-11-01T17:08:05+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "I have read your proposal, {player}, and I have set it beside the other papers that went in the bin this week. The council will not be moved.",
+        "No alliance for you, {player}. Go and court someone whose name carries more weight than your last three votes did.",
+        "You ask me to stand beside you now? Curious timing, given how often you were seen whispering in {rival}'s hall.",
+        "Refused. I will not hitch my banner to someone who cannot keep their own table from spilling. Good day.",
+        "Oh, how charming. Another request from you, and I am still waiting for the favour you owed me last session.",
+        "I considered it for a moment, {player}. Then I considered what the others would say, and the answer became rather easy.",
+        "No. Perhaps when you have won a vote that did not need your cousin to bully it through the room.",
+        "Do not mistake my silence for agreement. The answer is no, and I will say so again at the next gathering if anyone asks."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "An alliance requires trust, {player}, and trust requires a track record. Bring me one good year and we shall revisit the matter.",
+        "I must decline for now. My seat is not yet secure enough to sign anything with a name I have not weighed properly.",
+        "Interesting proposal. Unfortunately the timing is poor, and I do not sign pacts in the middle of someone else's quarrel.",
+        "Thank you for the offer, but I have already promised my ear to several councils, and none of them favours a new partnership at present.",
+        "No, {player}. I keep my options open, and an open hand is not something I hand over after one conversation at the market.",
+        "I have heard similar proposals before, usually from people who needed my votes more than I needed their company. Let us see how it develops.",
+        "Declined, politely. Should {rival} take an interest in your scheme, I may reconsider, though I would not hold your breath.",
+        "I will not commit today. Ask me again after the next assembly, when we all know who is still standing in the hall."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "My dear {player}, you flatter me, and I adore being flattered. Still, a formal pact now would only hand my rivals a pretext to meddle.",
+        "Not yet, {player}. Let us first pass the grain levy together, and then we can talk about tying our banners more tightly.",
+        "I wish I could say yes this very evening. Sadly the council calendar is full, and my allies would never forgive me for rushing.",
+        "You know I value you above most of the hall. That is precisely why I am not ready to bind us in writing before the spring vote.",
+        "Splendid thinking, truly. Keep bringing me ideas like this and I shall find the right moment to make the arrangement official.",
+        "Ah, {player}, I am sorry. My hands are tied by a promise to a faction that would not look kindly on a new partner just now.",
+        "Let us keep this between friends for the time being. A quiet understanding serves us both better than a loud contract that everyone reads.",
+        "No formal alliance today, but do keep me informed of your moves. I will be quietly cheering from the gallery when they succeed."
+      ]
+    }
+  }
+}

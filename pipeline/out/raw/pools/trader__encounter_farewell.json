@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "job_id": "trader__encounter_farewell",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "496a61ee5cf36732b2760b9021630a79a2db5795abb8ad508e80c16f90b5a8a9",
+    "model": "haiku",
+    "cost_usd": 0.00437665,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:12:38+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Fine, leave. Take your business somewhere else, I won't miss your custom one bit.",
+        "I'd say safe roads, but I'd rather not wish you luck. Go on, then.",
+        "Off you go, {player}. My ledger is happier without your name in it today.",
+        "Every coin you owe me still stands. Remember that on the road, won't you?",
+        "Walk on. I'll be watching the toll gate, and I doubt you'll find an easier price anywhere.",
+        "We're done. Don't come back expecting a discount, not after that stunt.",
+        "Go, then. The caravan won't weep over losing you, and neither will I, damn it.",
+        "Pleasant as ever, I see. Don't bother answering, I've heard enough. Mind the mud on the north track.",
+        "Hope the next merchant you meet remembers how you haggle.",
+        "I'll keep my goods out of your reach, thanks. Good day, and don't wave at me again."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Right, that's our business concluded. Safe travels, {player}, and mind the tolls on the river road.",
+        "Well, I've got a cart to load. Good day to you.",
+        "Thanks for stopping. Prices on the eastern route have gone up again, so keep that in mind.",
+        "Off to the next town, then. If you're heading that way, the bridge toll is two silver now.",
+        "I'm done talking shop for today. Watch your purse on the way, the roads are busier than usual.",
+        "Cheerio. I've a ledger to finish before the moon rises.",
+        "That's all I've got for you. Take care on the ridge, the last caravan lost two mules up there.",
+        "Good day. I've no interest in more haggling today, so I'll leave you to your journey.",
+        "Till next time, {player}. Don't wander too far from the main road, it's not as safe as it looks.",
+        "Hm, alright. Keep your coin close, the markets are half-empty this week."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Ah, {player}, always a pleasure! Come back soon, I've a fresh shipment of salt coming in next week.",
+        "Safe roads, my friend! Tell the stablemaster I said his mules owe me a favour.",
+        "You've been the best customer I've had all season, {player}. Don't be a stranger, I'll set your price aside.",
+        "Off you go then, and don't forget the spice route. Trust me, it's worth the detour.",
+        "Lovely doing business with you! If you hear of a fat wool order, send word straight away.",
+        "Good luck out there, {player}. I'd offer you a drink, but my last barrel went to a rather thirsty guard.",
+        "Right then, I'm off too. See you at the crossroads, and bring your appetite, I'll have a feast waiting.",
+        "You've made my whole week, honestly. Go on, the moon's rising and the good road gets dicey after dark.",
+        "Thank you kindly, {player}! Next time I'll have that ironwork you asked about, I promise.",
+        "Be well, friend! Remember my name at the inn, and you'll get first pick of the wagons."
+      ]
+    }
+  }
+}

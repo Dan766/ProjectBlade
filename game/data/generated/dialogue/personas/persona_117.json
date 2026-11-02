@@ -1,0 +1,297 @@
+{
+ "username": "BaronBarrelcask",
+ "signature": {
+  "ambient_trade": [
+   {
+    "id": "sig.persona_117.ambient_trade.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Selling salt out of {town} at {gold} a sack, fair weight and no short measures. Who needs a load for the autumn caravans?"
+   },
+   {
+    "id": "sig.persona_117.ambient_trade.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Buying hides and tallow in {town} for {gold} a bundle, paid on delivery. Good prices for anyone with a wagon to spare :)"
+   },
+   {
+    "id": "sig.persona_117.ambient_trade.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Horses going for {gold} in {town} this week, sound legs and gentle manners. Serious buyers only, I have no time for tire-kickers."
+   },
+   {
+    "id": "sig.persona_117.ambient_trade.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Wine from {town} is running {gold} a cask right now, lower than the autumn rate. Prime time to stock up before the roads close."
+   },
+   {
+    "id": "sig.persona_117.ambient_trade.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "Looking for a cart maker in {town}. Paying {gold} for a sound axle and a fair price on the spokes. Message me before the frost."
+   }
+  ],
+  "encounter_trade_offer": [
+   {
+    "id": "sig.persona_117.encounter_trade_offer.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, I know you have no love for me after that business on the road, but I will still sell you salt at {gold}. Hate is bad for trade, and salt is worth more than your grudge."
+   },
+   {
+    "id": "sig.persona_117.encounter_trade_offer.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Let us settle the numbers before the toll men get greedy. {gold} for the lot, delivered to your gate in {town}. What do you say, Ser {player}?"
+   },
+   {
+    "id": "sig.persona_117.encounter_trade_offer.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, between friends I call this a deal worth shaking on. {gold} for the load, and the cart thrown in for free."
+   },
+   {
+    "id": "sig.persona_117.encounter_trade_offer.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, I can move the whole wagonload to {town} for {gold}, insurance included. Interested, or shall I find another buyer?"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_117.encounter_greeting.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Good day to you, Ser {player}. {persona} of the {my_faction}, carrying salt and not a single sword worth mentioning. Do you have wares to trade or only questions?"
+   },
+   {
+    "id": "sig.persona_117.encounter_greeting.02",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}! {persona} here, of {my_faction}. Our wagons have crossed in a hundred places, so you know I never say no to a good trade. What are you hauling today?"
+   },
+   {
+    "id": "sig.persona_117.encounter_greeting.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, {persona} of {my_faction}. Your men cost me a fine cart last season. Keep your distance and we will both profit more, I promise you that."
+   },
+   {
+    "id": "sig.persona_117.encounter_greeting.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ah, Ser {player}, a fellow traveler! {persona} of {my_faction}, with a wagonload of goods and a healthy suspicion of tolls. Care to trade a rumor for a rumor?"
+   }
+  ],
+  "player_raided_my_village": [
+   {
+    "id": "sig.persona_117.player_raided_my_village.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Burning {village} hurt everybody's trade, Ser {player}. Every cart on that road pays double now. I hope you can live with that."
+   },
+   {
+    "id": "sig.persona_117.player_raided_my_village.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Ser {player}, I know it was you at {village}. Name a price for the damages and we can both forget the ashes."
+   },
+   {
+    "id": "sig.persona_117.player_raided_my_village.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Word from the market says {village} went up in smoke. Ser {player}, I hope that was a misunderstanding. Roads are hard enough."
+   },
+   {
+    "id": "sig.persona_117.player_raided_my_village.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, {village} is ash and my buyers are nervous. Send something for the losses and I will keep quiet about it."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_117.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has declared war on {enemy_faction}. Wonderful, my salt wagons will now pay for every ditch between here and the coast."
+   },
+   {
+    "id": "sig.persona_117.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Another war, {my_faction} against {enemy_faction}. Grain prices will jump by Friday and I will be the one explaining it to my creditors."
+   },
+   {
+    "id": "sig.persona_117.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "So {my_faction} and {enemy_faction} are at each other's throats. Stock up now, caravan insurance is about to triple."
+   },
+   {
+    "id": "sig.persona_117.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Blades out between {my_faction} and {enemy_faction}. Good for the smiths, terrible for the rest of us who just want to move goods."
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_117.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Peace between {my_faction} and {faction} at last. The roads may open, and the tolls may finally stop climbing."
+   },
+   {
+    "id": "sig.persona_117.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has made peace with {faction}. My wagons can travel without escorts now, and I can finally sleep through the night."
+   },
+   {
+    "id": "sig.persona_117.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Well done to everyone who signed. {my_faction} and {faction} trading again means more salt on the road and more gold for all of us."
+   },
+   {
+    "id": "sig.persona_117.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "A treaty between {my_faction} and {faction}, and the wool markets are already breathing easier. Let the caravans roll, I say."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_117.released_by_player.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Ser {player} let me go without a ransom. A generous gesture, and I will remember it when the next salt cart needs an escort."
+   },
+   {
+    "id": "sig.persona_117.released_by_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, thank you for letting me go instead of squeezing my purse. A fair discount on your next horse, on me."
+   },
+   {
+    "id": "sig.persona_117.released_by_player.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Ser {player} released me without ransom. Bold choice, though the ledger would have liked the coin more."
+   },
+   {
+    "id": "sig.persona_117.released_by_player.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Ser {player}, you let me walk and that counts for something, even if we still sit on opposite sides of the road."
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_117.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{troop_count} of my men lost to Ser {player} today. That is a whole season of wages gone, and I am not forgetting the bill."
+   },
+   {
+    "id": "sig.persona_117.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, you beat my {troop_count} men fair and square. Lost soldiers cost more than lost wares, so let us talk compensation."
+   },
+   {
+    "id": "sig.persona_117.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, you have bested my {troop_count} riders and I cannot say I am pleased. Still, a good fight earns a fair discount on my horses."
+   },
+   {
+    "id": "sig.persona_117.beat_by_player.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, {troop_count} of my men are sitting in the mud because of you. I am no lover of vengeance, but my accounts remember every coin of it."
+   }
+  ],
+  "whisper_beg_help": [
+   {
+    "id": "sig.persona_117.whisper_beg_help.01",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, {enemy_faction} is pressing {fief} hard. Help me hold the walls and I will make it worth your while."
+   },
+   {
+    "id": "sig.persona_117.whisper_beg_help.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you have always been square with me. {fief} is slipping to {enemy_faction}. Could you lend a hand?"
+   },
+   {
+    "id": "sig.persona_117.whisper_beg_help.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, I am losing ground to {enemy_faction} around {fief}. Send riders and I cover your supplies for the campaign."
+   },
+   {
+    "id": "sig.persona_117.whisper_beg_help.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, keep this between us. {fief} may fall to {enemy_faction}, and my coin is worth nothing if the town burns."
+   }
+  ],
+  "ambient_complaint": [
+   {
+    "id": "sig.persona_117.ambient_complaint.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Bandits outside {town} took another wagon of salt. Who is paying for escorts, because it is certainly not the roads."
+   },
+   {
+    "id": "sig.persona_117.ambient_complaint.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Tolls on the {town} road doubled again. I would rather pay a bandit, at least he is honest about his price."
+   },
+   {
+    "id": "sig.persona_117.ambient_complaint.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{rival} is undercutting every price in {town} and calling it competition. Wool at thirty-five? Mark my words, that is dumping."
+   },
+   {
+    "id": "sig.persona_117.ambient_complaint.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Some {faction} lords think coin grows on trees. Ask them to pay the toll and watch the purses close."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_117.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Rain over {town} again. Good for the grass, bad for the salt crust, and worse for my patience with damp wagons."
+   },
+   {
+    "id": "sig.persona_117.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Anyone heading past {village} this week? The mud is supposed to be terrible, but the inn there has decent ale."
+   },
+   {
+    "id": "sig.persona_117.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Lag is making my ledger look like a mess. Nothing a good tally cannot fix. Who else is keeping books tonight?"
+   },
+   {
+    "id": "sig.persona_117.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Bread in {village} tastes better after a long ride. I blame the hunger, honestly, and the cheap wine :)"
+   }
+  ]
+ }
+}

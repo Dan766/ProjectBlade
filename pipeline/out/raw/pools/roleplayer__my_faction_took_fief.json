@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "roleplayer__my_faction_took_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "21eee3fc6e89b954740add185308c59a1e2572fb677ee8f5823d82792cd78de6",
+    "model": "haiku",
+    "cost_usd": 0.003908050000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:10:28+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "Let the bards sing of {fief}: its gates were breached and its standard torn down by the sons of {my_faction}.",
+        "The keys of {fief} now hang in our hall. Let {enemy_faction} come and collect them if they have the courage.",
+        "Weary as I am, my heart is light. {fief} is ours, and every soul who bled for it has earned a seat at our table.",
+        "{enemy_faction} left their larder half full and their pride entirely empty, which I find a fitting trade.",
+        "A toast, friends, to the ancestors who watched from the hills above {fief} and nodded at our victory.",
+        "Let {enemy_faction} remember this night: the banner of {my_faction} now flies where theirs once boasted of their strength.",
+        "Bread, wine and a roof at {fief} for any traveller who seeks shelter. The feuding is ended, and the hearth is warm.",
+        "Conquest is cheap, friends. Keeping {fief} against those who come for it is the true test of honour."
+      ]
+    }
+  }
+}

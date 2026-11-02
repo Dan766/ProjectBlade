@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "newbie__released_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "f538b79afa1d4ef77c5e38c630a726b13573a3ee94dd1853533da6aef9c5b69e",
+    "model": "haiku",
+    "cost_usd": 0.00533515,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:06:47+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} released me instead of ransoming?? mean... i was going to pay so u could be rich and i could be sad lol >:(",
+        "dont think ur clever {player} just cause u let me out, im still gonna remember ur face >:(",
+        "lol {player} thought they could scare me by letting me go lmaooo i am NOT scared (a little scared)",
+        "so {player} just unlocked the door and walked away. rude. i was prepping my grumpy face the whole time :/",
+        "whatever {player}, i didnt want ur gold anyway... (i did want ur gold a little tho) grr",
+        "{player} gonna regret not taking my ransom, i will find u again and bring like 10 friends xD",
+        "guess ur not as greedy as i thought {player}... still im annoyed, my wallet is still empty :(",
+        "ok {player} u win this round. i will beat u next time when i actually know what im doing!!!"
+      ],
+      "whisper": [
+        "why would u let me go {player}?? i prepared an entire speech about how sad i was :( now its wasted",
+        "dont get comfy {player}, next time we meet ill be the one holding the rope >:( and i wont release u",
+        "u got lucky this time {player} :P i was gonna pay the ransom anyway and then be super annoyed at u",
+        "{player} i still dont trust u. releasing me doesnt make us friends so stay away from my road pls",
+        "ugh ok fine i guess thats one nice thing u did... dont expect me to say thank u tho >:|",
+        "whispering just to say ur sneaky {player}, letting me go like that. i'm watching u now",
+        "{player} i kinda want to fight u now bc i feel like i owe u nothing... maybe i'll bring my wooden sword lol",
+        "fine. ur forgiven. this time. dont make me regret staying quiet about ur ransom plan {player}"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "anyone else get released from captivity for free?? or is that just me and my bad luck lol",
+        "gg? i think? {player} opened the cell and i just walked out. is that good or do i owe money now",
+        "is it normal that the captors just let u go instead of ransom? asking for a friend (me) :D",
+        "guys the cell door opened by itself??? i think {player} did it but idk how. magic?",
+        "reminder that {player} doesnt have to ransom people, they just let them go. noted!!",
+        "free man!! ok wait do i have to go back to my house now or can i stay here. asking for real",
+        "had a weird day, got captured and then released by {player}. not sure what the moral of the story is",
+        "hmmm {player} let me out without asking for gold... should i be suspicious or just happy?? both?"
+      ],
+      "whisper": [
+        "hi {player}, i think u released me?? do i owe u something or is it a free thing :)",
+        "oh hey {player}. thanks i guess for not asking for ransom. not sure what to do now lol",
+        "is this how captivity works here? you just walk free after a while?? sorry im new :(",
+        "{player} did u mean to let me go or was it a mistake?? i wont tell anyone if its a mistake xD",
+        "still confused about what just happened but ok bye {player}! hope ur road is safe :)",
+        "sorry if im being weird, but why did u release me? i didnt know u could just do that",
+        "hmm {player} i dont really know u yet, so thanks for the release i think?? what do i do now",
+        "will u be around later {player}? i want to ask u a million questions about how this works :D"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} just released me for free and i am SO happy, best person on the server rn!!! :D",
+        "shoutout to {player} for not charging ransom!! i was ready to panic and u just opened the door. legend",
+        "thank u {player} thank u thank u!! i cant believe it, my first captivity and it had a happy ending xD",
+        "everyone pls be nice to {player}, they released me instead of asking for gold!! im telling everyone",
+        "ok {player} is officially my favorite person on the continent. free and nice?? what a combo :)",
+        "can i buy u a drink {player}? i dont have any money but i can offer hugs (virtual) :D",
+        "{player} u saved me from my own bad luck!! ur the best, cant wait to see what else u do",
+        "i cant stop smiling. thanks {player} for letting me go, u are so kind (and i'm still so lost)"
+      ],
+      "whisper": [
+        "{player} thank u so much!! i honestly thought i was gonna be stuck in there forever :') ur amazing",
+        "sorry for being so slow to say it but thank u {player} for releasing me!! i owe u big time",
+        "can i ask u stuff sometime {player}? i have a million questions and u seem like the best person to ask :D",
+        "{player} u didnt have to let me go and u did anyway?? i'm gonna remember this forever, thank u!!",
+        "i tried to say thanks in global but it got lost. thank u {player}!! u have my loyalty now lol",
+        "hiii {player}, can we be friends?? u were so nice to me and i need someone who knows the roads",
+        "thank u for not ransoming me {player}, i was sooo scared!! if u ever need help, just whisper me :)",
+        "ok last thing {player}, thank u thank u thank u!! i dont know how to repay u but ill figure it out xD"
+      ]
+    }
+  }
+}

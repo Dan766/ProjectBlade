@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "trader__player_big_defeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "75a160d5fd4ade939bd82dfe9874a0baa16d59ae298ee8aef4c1fe0612280a3a",
+    "model": "haiku",
+    "cost_usd": 0.0053723500000000006,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:13:26+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} lost {troop_count} troops in one afternoon. Every road they use gets pricier now.",
+        "Watched {player}'s whole host march into the ditch. Pricey boots, those. Shame about the boots.",
+        "Another army gone, and {player} still wants tolls on the north road. Remarkable.",
+        "Those {troop_count} men were worth more alive as porters. Ask any caravan master.",
+        "Lost {troop_count} soldiers and half the wagons. Honest question: who insures that?",
+        "Tallied the losses for {player}: wagons, grain, {troop_count} men. Bad books all round.",
+        "Good riddance to the inflated war budget. {player} bought a funeral, not an army.",
+        "Expect nobody to sell {player} a single spear on credit after that."
+      ],
+      "whisper": [
+        "Heard about your {troop_count} lost men, {player}. Terrible for everyone's margins, yours included.",
+        "Don't come to my stalls asking for credit, {player}. Cash only until your coffers recover.",
+        "Your defeat cost me two wagons on the eastern road. Send a bill if you like, I'll send one back.",
+        "I'm not refusing to trade with you, {player}, but my prices just went up. Consider it a tax on bad generals.",
+        "Lost {troop_count} soldiers and you still haggle like a winner. Admirable, almost.",
+        "Caravans are already rerouting around your lands, {player}. Nothing personal. Quite personal, actually.",
+        "Hire fewer swords next time, {player}. Protection money is a poor investment when the protection loses.",
+        "Sorry for your losses, {player}. Not sorry enough to sell you grain at a discount."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player}'s army broke against the ridge. Anyone know if the grain prices will follow?",
+        "Lost {troop_count} men and the supply carts? Expensive lesson, that.",
+        "Fresh graves outside the pass mean fewer hands on the roads. Hauling costs rise again.",
+        "Armies cost more to lose than to keep. {player} is finding that out at full price.",
+        "Mercenary contracts just got harder to fill, thanks to {player}'s recent misfortune.",
+        "Heard {troop_count} soldiers fled the field. Whatever the cause, I'd hire wagon guards before the next march.",
+        "Military routes are pricey enough without battles. Keep an eye on the wool market, friends.",
+        "Defeat or not, {player} still owes the carters for last month. Just saying."
+      ],
+      "whisper": [
+        "Heard the battle went badly, {player}. If you need supplies moved, my wagons are available at the usual rate.",
+        "Sorry about the defeat. Losing {troop_count} men is hard on everyone's ledgers.",
+        "Your scouts should have taken the lower road. I'd know, I paid their tolls twice.",
+        "Thinking of rebuilding? Horses are cheaper this month, and I'll throw in a saddle.",
+        "A bad week for your troops, {player}. Shall we talk about insurance on the next caravan?",
+        "No hard feelings for the losses, but the road tax is still due on schedule, {player}.",
+        "I could sell you replacement armour, {player}, but only if you pay up front this time.",
+        "Ouch. Lost most of your force? My sympathies, and my spare carts are yours for a fair fee."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Brave push by {player} at the ridge, even if the army didn't hold. Next campaign, I'm sponsoring.",
+        "{player} lost {troop_count} men and still shook my hand afterward. Good sport, that one.",
+        "Feel for {player} after the rout. Half my wagons were lost in that mess too.",
+        "Rebuilding an army is a tidy business. {player} knows where to buy good steel.",
+        "Losses hurt, but {player}'s reputation for paying debts will carry them through.",
+        "Shoutout to {player} for retreating in good order. Saved a fair few carts.",
+        "I'd bet on {player} making the money back by spring. Cheers to a comeback!",
+        "Put the coins back in your purse, {player}. Your next order's on the house, don't argue."
+      ],
+      "whisper": [
+        "Sorry about the army, {player}. Come by the stalls, I've got a discount on horses for loyal customers.",
+        "Losing {troop_count} men is rough. Want me to float you some credit till the harvest?",
+        "That retreat was smart, {player}. Keep the wagons safe and I'll keep the prices fair.",
+        "You're still my favourite client, {player}, defeat or no defeat. Lunch on me?",
+        "Honest question: will you be hiring escorts for the next run, {player}? I know good ones.",
+        "Tough day, {player}. Rest up, then drop by. I've got a shipment of helmets that'd suit you.",
+        "Your fighters held the road better than most. Let's talk about a retainer contract.",
+        "Buy you a drink, {player}? Our next deal is going to need a clear head and a full purse."
+      ]
+    }
+  }
+}

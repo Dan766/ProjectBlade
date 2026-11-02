@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__encounter_farewell",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "da83269286672abd9b09fb18fa361fcb07ac5173f882683dc30bd691fa0493f9",
+    "model": "haiku",
+    "cost_usd": 0.0181424,
+    "attempts": 4,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 3037 (char 3036)",
+      "attempt 2: result is not valid JSON: Expecting ',' delimiter: line 1 column 3473 (char 3472)",
+      "attempt 3: result is not valid JSON: Expecting ',' delimiter: line 1 column 3285 (char 3284)"
+    ],
+    "created_at": "2026-11-01T17:18:09+00:00"
+  },
+  "data": {
+    "hostile": {
+      "face": [
+        "Let the road be wide enough for both of us, {player}. I have no wish to test your patience today.",
+        "I remember the last time you stood where you stand now. The ground there still has not forgotten it.",
+        "Walk on. Nothing you carry is worth the trouble it would cost you here.",
+        "I have buried braver men than you have met, and I did not enjoy one of those funerals. Go home.",
+        "Your banner is noted. Next time, bring a better reason to lift it in my direction.",
+        "No hard feelings, though I will admit I have a few soft ones saved up for later.",
+        "The mountain pass is long and you are not a patient traveler. Do not hurry on my account, but do not linger either.",
+        "You have chosen poorly in your allies, {player}. Mine are not so easily impressed, and neither am I.",
+        "Keep your distance from my supply wagons and we will get along fine. Cross that line and I will write it in the ledger.",
+        "Off you go. I have seen better schemes fall apart in a single afternoon, and I expect yours will be no different."
+      ]
+    },
+    "neutral": {
+      "face": [
+        "Good day, {player}. We are both headed the same way for now, so keep your blade sheathed and we shall get on.",
+        "Safe enough travels. I do not know your intentions yet, and I prefer to learn them before I make up my mind.",
+        "That is all for now. Watch the eastern bridge on your way, the river has been high and has taken a few careless wagons.",
+        "I have heard your name spoken in several places. Some good, some less so. Time will tell which were right.",
+        "Fair roads. We shall see each other again soon enough, one way or another, and I will judge then.",
+        "Nothing personal, {player}. I simply have a habit of letting the road decide who is worth talking to twice.",
+        "Mind the weather over the ridge. It turns quickly this time of year and I have no wish to pull anyone from the snow.",
+        "Go on, then. I will be watching the same roads you are, so do not be surprised if our paths cross once more.",
+        "Farewell for now. Keep to the marked trails and we will have no trouble between us that a cup of wine cannot fix.",
+        "Thank you for the conversation. I think it went about as well as these things ever do, which is to say it was adequate."
+      ]
+    },
+    "friendly": {
+      "face": [
+        "Safe roads, {player}. You have grown a great deal since I first saw you on the north wall. Keep that steadiness close.",
+        "It is a pleasure to see you on the road again. Come find me at the old inn when you have the time, I have stories to trade.",
+        "Remember to rest your horse before the climb. A tired animal makes for a poor escort and a worse excuse.",
+        "You fought well in the last skirmish, and I say that as someone who has been on the wrong end of far worse. Keep it up.",
+        "Go with my good wishes, for whatever a grizzled old veteran's wishes are worth. On a cold morning, they are worth a fair amount.",
+        "When the old wars come up in conversation, I will tell you how we managed it. Some of it may even be true.",
+        "Keep your flank covered and your temper cool, {player}. Those two habits have kept more of us alive than any sword.",
+        "You have a good head on your shoulders. Use it, and do not let the young ones talk you into anything foolish.",
+        "Until next time, {player}. The roads are kinder when good company travels them, and you are good company :)",
+        "Take care of yourself out there. Send word if you run into trouble, and I will come as fast as my old knees allow."
+      ]
+    }
+  }
+}

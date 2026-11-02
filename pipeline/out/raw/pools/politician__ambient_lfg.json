@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "politician__ambient_lfg",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "e6e2b0fdc26c78a0c06b568799d0c017e81bfa494e3a2fdde01488ae9703d32e",
+    "model": "haiku",
+    "cost_usd": 0.0044125499999999995,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:07:03+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "Any house with spare men and a grudge against {enemy_faction}, come to {fief}. Terms are discussed, not dictated.",
+        "Rumour says {enemy_faction} has left {fief} thinly garrisoned. Pity nobody has yet thought to ask why.",
+        "I am assembling a raid on {fief}. Sensible allies will find me easy to deal with. Foolish ones will find the road long.",
+        "Weary of seeing good swords idle. Ser, a siege at {fief} needs hands, and I would rather they be yours than theirs.",
+        "Let us be honest: {enemy_faction} will not hold {fief} forever. Join now and history will credit your foresight.",
+        "Bring your best cook and your worst temper, Ser. We march on {fief} at dawn.",
+        "Ledgers over longswords? A raid on {fief} pays well, and the accounts will be kept honestly. Mostly.",
+        "Still no answer from the houses that promised to help at the last assembly. I shall not take it personally. I shall only take notes.",
+        "{my_faction} has agreed a campaign against {fief}. Those absent will be asked, politely, which side they were on.",
+        "Wars are won by those who arrive first. Our muster is at {fief} at first light. Be there, or be discussed."
+      ]
+    }
+  }
+}

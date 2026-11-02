@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "job_id": "conv_b21",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "f9ee095b76707ca44068b02896d47eeab6c1d04353baf0b0cc5d5a8ab40791e3",
+    "model": "haiku",
+    "cost_usd": 0.00824735,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:43:17+00:00"
+  },
+  "data": {
+    "conv_101": [
+      {
+        "speaker": "Frogguh",
+        "text": "ok so {player} just walked into {fief} with {troop_count} guys and i am NOT okay :( i built that place!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Well, that is a bold way to end a long night, {player}. Heard the gate barely held. Did you bribe the garrison? :)",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Frogguh",
+        "text": "the goose has noticed u {player}... :) !! i will be back for {village} too just watch",
+        "delay_s": 6
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Careful, Frogguh. Your goose has a long memory and a short temper. Care for a deal on iron, {player}? Fair prices :)",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Frogguh",
+        "text": "lol no deal with the trader, he overcharges everyone... jk :D. {town} is mine again by sunrise >:)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Sunrise is tight for {troop_count} troopers, Frogguh. I will put {gold} on the table for whoever wins :)",
+        "delay_s": 12
+      },
+      {
+        "speaker": "Frogguh",
+        "text": "wager accepted!!! :D my goose never loses",
+        "delay_s": 5
+      }
+    ],
+    "conv_102": [
+      {
+        "speaker": "MEADLING7",
+        "text": "ok so raid on {village} tmrw?? i can bring like {troop_count} spearmen :) is that enough lol",
+        "delay_s": 0
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "{troop_count} is too many for one raid. they eat grain faster than we take gold",
+        "delay_s": 7
+      },
+      {
+        "speaker": "MEADLING7",
+        "text": "wait do soldiers eat grain?? sorry :(",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "Easy now, MEADLING7. Every raid feeds a few men and starves the rest. Carry grain, and ask better questions.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "ser glimmerwise ur old timing cost us the last push at {town}. i plan the route, u carry supplies",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Ser_Glimmerwise",
+        "text": "The timing cost us because you rushed the gate, not my advice. Plan the route, but mind the bridge at {village}.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "MEADLING7",
+        "text": "ok ok no figthing :( i just wanna help w the raid?? i can haul {gold} worth of supplies lol",
+        "delay_s": 9
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "fine. meadling takes the wagon. ser glimmerwise takes the scouts. we leave at dawn",
+        "delay_s": 4
+      }
+    ],
+    "conv_103": [
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "Official news!!! Tsevaret just declared war on {enemy_faction}... :D somebody bring the big drum!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Congratulations on the drum, Duke. I would rather hear about peace, but I will still be selling you rope at a fair price.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "rope?? we'll need way more than rope :D like {troop_count} soldiers and a whole wagon of pies!!",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Nothing personal, Duke. Trade is trade, so {enemy_faction} still buys my grain, and you still pay my prices.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "that is the nicest betrayal i have ever heard :D i am keeping the rope AND the grudge",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Keep the grudge, by all means. But {village} is caught in the middle, and the ferry toll there just went up to {gold}.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "DukeQuillfeather",
+        "text": "oh no the ferry!! ferry status: still guilty!!! :D i will pay the toll myself, do not worry about it",
+        "delay_s": 10
+      },
+      {
+        "speaker": "Mire_Ledger",
+        "text": "Pay it at {town} instead, Duke. The ferryman does not hold grudges, and he takes coin without a speech.",
+        "delay_s": 5
+      }
+    ],
+    "conv_104": [
+      {
+        "speaker": "AcornKid07",
+        "text": "omg we r at peace wiht {faction}!!! :D thank u OldTideWarden ur so nice",
+        "delay_s": 0
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Do not thank me yet. Peace with {faction} means their caravans cross our fens, and tolls bring {gold} to {town}.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "pinemath",
+        "text": "peace just means they stop shooting our flanks ur line still breaks at 40 percent",
+        "delay_s": 4
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "wait what does peace even do?? can we still raid {village} or nah :(",
+        "delay_s": 5
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Peace means no raids on {village} this season, AcornKid07. Spend the time learning the walls at {town}. You will thank yourself.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "pinemath",
+        "text": "peace is just a tax on people who cant dodge arrows and we farm more {gold} at war",
+        "delay_s": 6
+      },
+      {
+        "speaker": "AcornKid07",
+        "text": "ok im still happy tho :D the truce gave me back {troop_count} spearmen",
+        "delay_s": 4
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Happy is fine, AcornKid07. Keep your spearmen fed and ask questions before you swing.",
+        "delay_s": 9
+      }
+    ],
+    "conv_105": [
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "lol {player} lost {troop_count} men at {village} in 4 min wat a mess",
+        "delay_s": 0
+      },
+      {
+        "speaker": "KesTrelWhoops",
+        "text": "wait is thta bad?? did they lose all thier stuff... :o",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "Kes, a loss like that leaves a great many spare weapons on the road. Let us talk about the price of salt, {player}.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "salt is for ppl who cant hold a flnk",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "xX_S4geMeta_Xx, I was speaking to {player}. They still have {gold} in their purse, and I can help them spend it wisely.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "KesTrelWhoops",
+        "text": "omg i think i clicked sell by accident lol :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_S4geMeta_Xx",
+        "text": "kes stop clicking things and go fix the gate at {town}",
+        "delay_s": 3
+      },
+      {
+        "speaker": "Piketh_Goldhand",
+        "text": "Let the newcomer be, xX_S4geMeta_Xx. My salt is still {gold} a barrel, and the offer stands.",
+        "delay_s": 9
+      }
+    ]
+  }
+}

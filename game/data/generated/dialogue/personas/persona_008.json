@@ -1,0 +1,321 @@
+{
+ "username": "LadyGullmere",
+ "signature": {
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_008.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Halt, {player}. I am {persona} of {my_faction}, and this road is ours. Stand aside or answer to me for every step you take here."
+   },
+   {
+    "id": "sig.persona_008.encounter_greeting.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "So it is you, {player}. I see your colours and I do not like them. {persona} of {my_faction} marks this ground as ours, and I will not be moved from it."
+   },
+   {
+    "id": "sig.persona_008.encounter_greeting.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Greetings, ser {player}. I am {persona}, sworn to {my_faction}. Pass in peace and we shall have no quarrel today."
+   },
+   {
+    "id": "sig.persona_008.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, what a joy to meet you on the open road! {persona} of {my_faction} has long hoped our paths would cross."
+   },
+   {
+    "id": "sig.persona_008.encounter_greeting.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Friend {player}, {persona} of {my_faction} is glad of your company. Our hall has room for an honest sword such as yours."
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_008.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "You would demand {gold} of me, {player}? No banner of mine bows to extortion. Draw your steel and learn what a sworn house will pay."
+   },
+   {
+    "id": "sig.persona_008.encounter_threatened.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Think you that I would part with {gold} for the asking, ser {player}? You will find my people harder to buy than to threaten."
+   },
+   {
+    "id": "sig.persona_008.encounter_threatened.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, {gold} is a heavy sum to name before any gate has opened. State your terms plainly and I shall weigh them honestly."
+   },
+   {
+    "id": "sig.persona_008.encounter_threatened.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Dear {player}, surely you jest? Threats sit ill upon a friend. Speak plainly and I will hear you out before any gold changes hands."
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_008.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Very well, ser {player}. I accept your oath of alliance. Let our banners stand together against {enemy_faction}, and let no one call me faithless."
+   },
+   {
+    "id": "sig.persona_008.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I will take your hand against {enemy_faction}, ser {player}. Keep your word and I shall keep mine. That is the whole of my bargain."
+   },
+   {
+    "id": "sig.persona_008.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Gladly, friend {player}. A blade like yours beside mine will sit well at the edge of {enemy_faction}'s lands. Do not let {rival} spoil this pact."
+   }
+  ],
+  "encounter_alliance_no": [
+   {
+    "id": "sig.persona_008.encounter_alliance_no.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "I refuse you, {player}. A house that has bled once does not trust so lightly, and I shall not take your oath while you stand so near to {rival}."
+   },
+   {
+    "id": "sig.persona_008.encounter_alliance_no.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Keep your offer, {player}. I will not bind my house to a name I cannot trust, and certainly not while {rival} still walks at your side."
+   },
+   {
+    "id": "sig.persona_008.encounter_alliance_no.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I thank you for the offer, ser {player}, but I must decline. My oath is bound elsewhere for now. Perhaps another day."
+   },
+   {
+    "id": "sig.persona_008.encounter_alliance_no.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I must decline, ser {player}. My house has a debt of blood to settle first, and no pact can rest upon such grief."
+   },
+   {
+    "id": "sig.persona_008.encounter_alliance_no.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "It grieves me to refuse you, dear {player}. My oath to a fallen bannerman weighs too heavily on me to take on another bond yet. Forgive me."
+   }
+  ],
+  "captured_by_player": [
+   {
+    "id": "sig.persona_008.captured_by_player.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "So you have me in chains, {player}. Take your {gold} from my house if you must, but know that {my_faction} will remember this humiliation."
+   },
+   {
+    "id": "sig.persona_008.captured_by_player.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Bind me as you like, ser {player}. Every chain you lay upon me is a debt I will repay with interest, in the name of those who went before me."
+   },
+   {
+    "id": "sig.persona_008.captured_by_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "You have won this field, ser {player}, and I yield to your steel. Name your ransom of {gold} and let us conclude this honourably."
+   },
+   {
+    "id": "sig.persona_008.captured_by_player.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Fortune favours you today, ser {player}. {my_faction} shall pay what is owed, {gold} to free us both from this sorry field."
+   },
+   {
+    "id": "sig.persona_008.captured_by_player.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, you fought fairly and I bear you no ill will. My ransom is {gold}, though I would sooner yield to a worthy foe than to any other."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_008.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you let me walk free without ransom. I shall not forget such mercy, and my house owes you a true debt."
+   },
+   {
+    "id": "sig.persona_008.released_by_player.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "Ser {player} loosed me without a ransom and asked nothing in return. Mercy such as that is rare on this road."
+   },
+   {
+    "id": "sig.persona_008.released_by_player.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "You loosed me without ransom, {player}, and I do not thank you for it. I would rather have met you properly in the field. Mark that."
+   },
+   {
+    "id": "sig.persona_008.released_by_player.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You let me go, ser {player}. Mercy has a weight of its own, and I shall carry it with honour."
+   }
+  ],
+  "player_left_my_faction": [
+   {
+    "id": "sig.persona_008.player_left_my_faction.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "You have turned your back on {my_faction} and taken up with {faction}, ser {player}. A banner pledged and then broken is a shameful thing."
+   },
+   {
+    "id": "sig.persona_008.player_left_my_faction.02",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has forsaken {my_faction} for {faction}. Oaths sworn in fair weather are always the first to rot."
+   },
+   {
+    "id": "sig.persona_008.player_left_my_faction.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "Ser {player}, I hear you have gone over to {faction}. Each house must choose its road, but I grieve to see your name leave ours."
+   },
+   {
+    "id": "sig.persona_008.player_left_my_faction.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Dear {player}, I know the heart that drew you from {my_faction}. Still, I will remember the comrade you were to us."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_008.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Hear me, all of Ormerath! {my_faction} takes up arms against {enemy_faction}, and the debt shall be paid in full!"
+   },
+   {
+    "id": "sig.persona_008.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "The horns have sounded. {my_faction} and {enemy_faction} are at war, and I shall see every blade of ours do its duty."
+   },
+   {
+    "id": "sig.persona_008.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} has earned our steel this day. {my_faction} will not sheathe until the account is settled."
+   },
+   {
+    "id": "sig.persona_008.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Let no one doubt it: {my_faction} will not yield one step to {enemy_faction} while I still draw breath."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_008.fought_alongside_player.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, {troop_count} of our men stood fast beside yours against {enemy_faction}. I shall sing of this field to my grandchildren."
+   },
+   {
+    "id": "sig.persona_008.fought_alongside_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "That was a battle worth the telling, ser {player}. Your {troop_count} fought like lions beside us. I am in your debt."
+   },
+   {
+    "id": "sig.persona_008.fought_alongside_player.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} and I held the line with {troop_count} blades against {enemy_faction} today. A fine morning's work for the saga."
+   },
+   {
+    "id": "sig.persona_008.fought_alongside_player.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "We have bled together with {troop_count} soldiers against {enemy_faction}, ser {player}. That blood binds us, at least for today."
+   },
+   {
+    "id": "sig.persona_008.fought_alongside_player.05",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Glory to {player}! Our {troop_count} stood as one against {enemy_faction} and the field is ours. The fallen shall be remembered."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_008.encounter_farewell.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Begone, {player}. Our paths have crossed and I have no wish to see your face again soon. Go with what little honour you carry."
+   },
+   {
+    "id": "sig.persona_008.encounter_farewell.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ride on, {player}. Mark this meeting, for the next will be settled with steel and not with words."
+   },
+   {
+    "id": "sig.persona_008.encounter_farewell.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Fare well, ser {player}. May your road be kind and your banner stay high."
+   },
+   {
+    "id": "sig.persona_008.encounter_farewell.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Farewell, dear {player}. Do not let the road forget you, and come to our hall whenever your path turns this way again."
+   },
+   {
+    "id": "sig.persona_008.encounter_farewell.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Go in good stead, friend {player}. The sky grows late, but my sword and my word remain yours."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_008.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The rain has come down on {town} like a judgement from heaven. I pity every merchant who must sell in it."
+   },
+   {
+    "id": "sig.persona_008.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Has anyone passed through {village} lately? I hear the roads beyond it are muddy enough to swallow a cart whole."
+   },
+   {
+    "id": "sig.persona_008.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "A fine evening to ride out from {town}. The hills look as proud as I feel, which is saying a great deal."
+   },
+   {
+    "id": "sig.persona_008.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Some bard should write a saga about the bridges of {village}. Surely they have seen more battles than most kings."
+   },
+   {
+    "id": "sig.persona_008.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "Every sunrise I count the days since my oath, and every day I find I am still owed a reckoning."
+   }
+  ]
+ }
+}

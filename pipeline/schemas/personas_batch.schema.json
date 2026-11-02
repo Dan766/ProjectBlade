@@ -1,0 +1,56 @@
+{
+  "$comment": "S1 output for one batch. Item count = pipeline.toml personas.batch_size. ai_adjust keys must equal archetypes.toml ai_weights keys (tested).",
+  "type": "object",
+  "properties": {
+    "personas": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {"$ref": "#/$defs/persona"}
+    }
+  },
+  "required": ["personas"],
+  "additionalProperties": false,
+  "$defs": {
+    "adjust": {"type": "number", "minimum": -0.2, "maximum": 0.2},
+    "persona": {
+      "type": "object",
+      "properties": {
+        "id": {"type": "string", "pattern": "^persona_[0-9]{3}$", "examples": ["persona_001"]},
+        "username": {"type": "string", "pattern": "^[A-Za-z0-9_]{3,20}$", "examples": ["ashen_rook"]},
+        "chat_style": {
+          "type": "object",
+          "properties": {
+            "case": {"enum": ["lower", "sentence", "mixed"]},
+            "typos": {"enum": ["none", "rare", "frequent"]},
+            "emoticons": {"enum": ["none", "rare", "frequent"]},
+            "punctuation": {"enum": ["none", "minimal", "proper", "chaotic"]},
+            "verbosity": {"enum": ["short", "medium", "long"]}
+          },
+          "required": ["case", "typos", "emoticons", "punctuation", "verbosity"],
+          "additionalProperties": false
+        },
+        "traits": {"type": "array", "items": {"type": "string", "minLength": 3, "maxLength": 20}, "minItems": 2, "maxItems": 4},
+        "backstory": {"type": "string", "minLength": 40, "maxLength": 280},
+        "catchphrases": {"type": "array", "items": {"type": "string", "minLength": 2, "maxLength": 60}, "minItems": 2, "maxItems": 3},
+        "ai_adjust": {
+          "type": "object",
+          "properties": {
+            "raid": {"$ref": "#/$defs/adjust"},
+            "trade": {"$ref": "#/$defs/adjust"},
+            "patrol": {"$ref": "#/$defs/adjust"},
+            "besiege": {"$ref": "#/$defs/adjust"},
+            "aggression": {"$ref": "#/$defs/adjust"},
+            "flee_threshold": {"$ref": "#/$defs/adjust"},
+            "loyalty": {"$ref": "#/$defs/adjust"},
+            "honor": {"$ref": "#/$defs/adjust"}
+          },
+          "required": ["raid", "trade", "patrol", "besiege", "aggression", "flee_threshold", "loyalty", "honor"],
+          "additionalProperties": false
+        }
+      },
+      "required": ["id", "username", "chat_style", "traits", "backstory", "catchphrases", "ai_adjust"],
+      "additionalProperties": false
+    }
+  }
+}

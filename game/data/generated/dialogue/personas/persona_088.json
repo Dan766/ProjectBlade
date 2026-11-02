@@ -1,0 +1,285 @@
+{
+ "username": "xX_b0gbandit_Xx",
+ "signature": {
+  "beat_player": [
+   {
+    "id": "sig.persona_088.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "lol {player} folded like a wet tent. {troop_count} men and still no plan xD"
+   },
+   {
+    "id": "sig.persona_088.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "ez. that's {gold} gold of ur chests in my wagon now :) keep crying"
+   },
+   {
+    "id": "sig.persona_088.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "ser {player}, ur {troop_count} men just left ur pride in the mud. gg tho lol"
+   },
+   {
+    "id": "sig.persona_088.beat_player.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "gg {player}. bit of a tight one but i'll allow it. dont get used to it xD"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_088.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "ur gonna regret that {player}. i let u have that one. totally on purpose lol"
+   },
+   {
+    "id": "sig.persona_088.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "ok {player} that was lucky. i'm not salty. ur skill is just a dice roll xD"
+   },
+   {
+    "id": "sig.persona_088.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "fine. ur a menace {player} but i respect the hustle. dont let it get to ur head"
+   },
+   {
+    "id": "sig.persona_088.beat_by_player.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "lost {troop_count} men to u and im still counting every scratch {player}. this is not over :)"
+   }
+  ],
+  "beat_by_player_repeat": [
+   {
+    "id": "sig.persona_088.beat_by_player_repeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "third time {player}?? ur literally a bot at this point. im making a shrine to ur wins lol"
+   },
+   {
+    "id": "sig.persona_088.beat_by_player_repeat.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "ok fine {player} u win the big rivalry. still doesnt mean i'll stop burning ur stuff :)"
+   },
+   {
+    "id": "sig.persona_088.beat_by_player_repeat.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "gg {player} seriously. third loss and ur still the only one who makes me sweat. dont tell anyone xD"
+   },
+   {
+    "id": "sig.persona_088.beat_by_player_repeat.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} beat me again with {troop_count} men. at this point the fens are just sick of us lol"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_088.player_fled_from_me.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "running already {player}? thats cute. dont worry i'll find u in the fens :)"
+   },
+   {
+    "id": "sig.persona_088.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "smart move {player}. i would've run too. still gonna chase u for sport lol"
+   },
+   {
+    "id": "sig.persona_088.player_fled_from_me.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} saw my banner and bolted. good choice honestly. the fens are mine today :)"
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_088.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "hey {player} {rival} told me ur still crying about the last battle lol. tell them hi"
+   },
+   {
+    "id": "sig.persona_088.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} ur little patrol got eaten by {rival}s scouts today xD. just saying"
+   },
+   {
+    "id": "sig.persona_088.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "imagine being {player} and still paying {rival} rent in the fens lol. ur problem not mine :)"
+   },
+   {
+    "id": "sig.persona_088.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{rival} laughed at ur army yesterday {player}. i didnt even have to say anything. lmao"
+   }
+  ],
+  "whisper_challenge": [
+   {
+    "id": "sig.persona_088.whisper_challenge.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} meet me at {village} at dawn. bring ur whole crew and ur crying face xD"
+   },
+   {
+    "id": "sig.persona_088.whisper_challenge.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} got time for a fight at {town}? ill bring snacks. no hard feelings lol"
+   },
+   {
+    "id": "sig.persona_088.whisper_challenge.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "burnt {village} last spring and u still cant catch me {player}. come try at {town} :)"
+   },
+   {
+    "id": "sig.persona_088.whisper_challenge.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "fancy a rematch at {town} {player}? ill even let u pick the field. dont get comfy"
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_088.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "ha {player} u want {gold} gold? i'd rather burn ur wagon than pay. come get it lol"
+   },
+   {
+    "id": "sig.persona_088.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{gold} gold?? {player} ur funny. ill give u {gold} gold worth of insults instead xD"
+   },
+   {
+    "id": "sig.persona_088.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ok ok {player} no need for threats. i'll pay half and u can pretend u scared me lol"
+   },
+   {
+    "id": "sig.persona_088.encounter_threatened.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "u think ur army scares me {player}? i've been burned out of better fens than this :)"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_088.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "oi {player}, its {persona} of {my_faction}. ur looking lost in my fens lol. turn around"
+   },
+   {
+    "id": "sig.persona_088.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{persona} here, {my_faction} banner up. ur on my road {player}. dont make it weird xD"
+   },
+   {
+    "id": "sig.persona_088.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "hey {player} its {persona} from {my_faction}. gg on ur last few wins. still hate u tho lol"
+   },
+   {
+    "id": "sig.persona_088.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} seriously? {my_faction} says hi and so does my torch collection :) run or fight"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_088.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is mine now. {troop_count} lads and {gold} gold in the chest. cry about it lol"
+   },
+   {
+    "id": "sig.persona_088.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "just counted {gold} gold from {fief} and my wagon still smells like smoke xD"
+   },
+   {
+    "id": "sig.persona_088.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} burnt nice and crispy yesterday. {gold} gold richer. skill issue for everyone else :)"
+   }
+  ],
+  "player_big_defeat": [
+   {
+    "id": "sig.persona_088.player_big_defeat.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "lmao {player} lost like {troop_count} men to someone else?? the fens have no mercy today xD"
+   },
+   {
+    "id": "sig.persona_088.player_big_defeat.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "damn {player} that was brutal. ur army is basically a pile of mud now lol. gg"
+   },
+   {
+    "id": "sig.persona_088.player_big_defeat.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "sorry {player} that looked rough. u still annoy me but i wouldnt wish that on anyone. ok maybe a little"
+   },
+   {
+    "id": "sig.persona_088.player_big_defeat.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} got wiped with {troop_count} lads. skill issue or just bad luck? either way cope xD"
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_088.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else's lag worse than my ego today? {town} server feels like a wet sock lol"
+   },
+   {
+    "id": "sig.persona_088.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "its raining in {village} again. the fens smell like burnt wood and bad decisions xD"
+   },
+   {
+    "id": "sig.persona_088.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "who keeps stealing my horses near {village}?? i'm watching u lol"
+   },
+   {
+    "id": "sig.persona_088.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "gg to whoever set up camp near {town}. ur soup smells great. im stealing it :)"
+   },
+   {
+    "id": "sig.persona_088.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "{village} road is a mud pit. honestly good for ambushes tho xD"
+   }
+  ]
+ }
+}

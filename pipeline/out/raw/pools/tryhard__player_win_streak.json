@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "tryhard__player_win_streak",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "1c1e7b97f87b66fa19ac6e2ec9ce6bec76a9d24508a778b7e111b9c5a9f8ce55",
+    "model": "haiku",
+    "cost_usd": 0.00525925,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:16:21+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "2:1 pike to archer line. thats the whole secret. stop calling it luck",
+        "another streak and the forums will be writing essays on {player}. meanwhile the rest of us are just losing to the same comp",
+        "{player} farming wins off the same tired bait tactic. ya'll are not studying, ya'll are just watching",
+        "lol at people calling this a hot streak. no. its a repeatable build and half the server still cant counter it",
+        "hot take: {player} is only good because nobody bothers scouting. scout first, then talk",
+        "if one player wins this consistently the meta is broken. fix it or stop pretending its skill alone",
+        "gg to whoever hands {player} a free hour in the open. that is not a battle, its a tutorial",
+        "another {player} highlight reel. cool. next time bring a counter or dont bring anything"
+      ],
+      "whisper": [
+        "enjoy the streak. it ends when someone brings a real comp and you lose the hill to it",
+        "you got lucky twice and now you think you are the meta. you are not",
+        "your win rate is inflated by people who came in with bad numbers. i will not be one of them",
+        "rematch. my comp next time and you will not get a single cheap flank on me",
+        "stop running the same two unit lines. everyone has read it already and i have counters ready",
+        "gg. that was a flank you got away with. dont confuse it with a plan",
+        "i am not impressed by a streak. show me a fight where you had worse numbers and still won",
+        "you keep winning field fights with a 2:1 advantage. thats not skill, thats recruitment"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} has won a bunch in a row. the numbers look good but id like to see them against a full comp",
+        "streak is real. whether its sustainable depends on whether the next opponent scouts properly",
+        "watching {player}'s streak like everyone else. curious what happens when the terrain doesn't cooperate",
+        "{player} won again. noted. the comp is not that special but the timing is annoyingly consistent",
+        "interesting run from {player}. wouldn't call it dominant yet, too small a sample of real fights",
+        "{player} has a streak going. no opinion until i see the logs from a fight that didn't go their way",
+        "a lot of noise about {player} this week. the numbers say good, the rest is hype",
+        "good run by {player}. most of these fights were won on the first push, which says more about the defenders"
+      ],
+      "whisper": [
+        "saw your streak. decent numbers. curious how you handle a line that doesn't break on the first charge",
+        "your comp looked strong in the last few fights. what's your ratio when you commit to a siege",
+        "congrats on the run. not sure it'll hold but i'm open to a fight to see if it does",
+        "ran the numbers on your last few wins. solid, though a couple looked more like the other side's mistakes",
+        "you've been on a roll. if you want a fair fight, let me know your terms and we'll sort it",
+        "that streak is getting attention. no hard feelings either way, just don't expect me to back down",
+        "your recent wins were good. i'd still like to see you take a fight where the terrain works against you",
+        "heard you're on a streak. if you're up for a scrim, i'm happy to see what your comp does against mine"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} is on a serious run. respect. the way they've been setting up flanks is worth watching",
+        "the streak {player} has going is well earned. the scouting alone makes the difference, honestly",
+        "{player} keeps winning and somehow still makes every fight look clean. a joy to see",
+        "hats off to {player}. the comp work has been sharp and the timing on the last few fights was perfect",
+        "{player} is carrying the server's best fights right now. the rest of us should be taking notes",
+        "huge streak from {player}. every win has been a lesson for someone, including me",
+        "{player}'s recent run is inspiring. good to see someone winning with a clean plan instead of luck",
+        "gg to {player} on the streak. the line discipline in those last fights was a real treat to watch"
+      ],
+      "whisper": [
+        "gg on the streak. your flank timing has been great, want to run a practice match sometime?",
+        "honestly impressive. the way you handled the open field last time was clean. happy to scrim",
+        "your comp has been solid. you should share the build, i'd like to see how you're spacing the line",
+        "that last fight was excellent. your archers held the angle perfectly. let's do a rematch sometime",
+        "congrats on the run. you clearly put in the prep. if you ever want a second opinion on comps, ping me",
+        "well played on the streak. the discipline you show in the field is rare, respect",
+        "saw your last win. nice work. i'd love to hear how you scouted that approach",
+        "gg on the run. you've earned it. the next fight i want to see you take on something with real numbers"
+      ]
+    }
+  }
+}

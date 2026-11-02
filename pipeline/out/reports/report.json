@@ -1,0 +1,22 @@
+{
+  "counts": {
+    "factions": 6,
+    "settlements": 164,
+    "personas": 120,
+    "pool_lines": 8006,
+    "signature_lines": 5224,
+    "conversation_threads": 300,
+    "conversation_lines": 2014
+  },
+  "pool_coverage": {
+    "cells": 976,
+    "gaps": 0,
+    "gap_list": []
+  },
+  "signature_gaps": [],
+  "raw": {
+    "job_outputs": 474,
+    "total_cost_usd": 3.2881,
+    "open_failures": []
+  }
+}

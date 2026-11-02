@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__player_took_my_fief",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ed5c3b0405338bba13eff80713b554438b1d714fb8b81b0c903139fd2604953d",
+    "model": "haiku",
+    "cost_usd": 0.008972,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2505 (char 2504)"
+    ],
+    "created_at": "2026-11-01T17:18:58+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{fief} has changed hands on me before. It will change back. Enjoy the walls while they last.",
+        "Taking {fief} from us was a fair move, {player}. Keeping it is the harder part, and I have watched plenty fail at that.",
+        "Old hands in this realm remember who held {fief} first. Don't mistake a captured gate for a won war.",
+        "Congratulations on {fief}, I suppose. The garrison was thin, and everyone can see it from the road.",
+        "Some of us still have old maps of {fief}, down to every ditch and back gate. Enjoy the view from the wall.",
+        "I won't waste breath sulking. Hold {fief} for a season, then we can talk about who really won."
+      ],
+      "whisper": [
+        "That was a clean capture, {player}. I'm still not pleased about it, and I won't pretend otherwise.",
+        "You took {fief} with a sharp plan. Don't expect me to thank you for the lesson.",
+        "Keep your eyes on the east road. Anyone who takes a town like that will come looking for the next one.",
+        "I'll be watching how you run {fief} now. Ruling a place is harder than storming it, ser.",
+        "I'll keep my words civil in public. In private, I would still like {fief} back. Just so we're clear.",
+        "Hold it well and you've earned my respect. Lose it the way I did and you'll learn what I learned."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{fief} changed flags again. Fine by me, so long as the granary still feeds the villagers.",
+        "Whoever holds {fief} this week, the roads are still muddy and the taxes are still too high.",
+        "Took {fief} clean, by the look of the reports. Wary folk will be checking their gates tonight.",
+        "New lords in {fief} mean new rules at the market. Read the posted notices before you trade there.",
+        "Hard to say whether {fief} gains or loses from this. Time usually sorts that out.",
+        "Ser {player}, I'll take your word on the siege. Keep the bridge repaired and we'll get along."
+      ],
+      "whisper": [
+        "Took {fief}, I hear. Let's not make this a feud. Trade routes still matter to both of us.",
+        "I have no quarrel with the capture itself. Just keep the caravans moving through {fief} safely.",
+        "Congrats on {fief}. If you need supplies, I can point you to a fair price.",
+        "Watch the granary in {fief}. The last garrison left it nearly empty, and nobody wrote that down.",
+        "I'm not sure yet whether you're a neighbor worth having. Prove it over the next few weeks.",
+        "Strong move on {fief}. I'll keep my distance until I know which way you intend to lean."
+      ]
+    }
+  }
+}

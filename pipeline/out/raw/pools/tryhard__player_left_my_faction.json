@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "job_id": "tryhard__player_left_my_faction",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "a31b7425ec154a95692665c367a216d8ecb2622693a7fa9b285ddba59f9edf9c",
+    "model": "haiku",
+    "cost_usd": 0.00495245,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:16:06+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "{player} left {my_faction} for {faction}. lost a 4-man roster and a whole flank in one tab switch. noted",
+        "{player} switched to {faction}. good, the leaderboard had one less person pretending to know the meta",
+        "defection math: {player} took a full set of siege notes with them. {my_faction} rotates the comp by tomorrow",
+        "{player} swapping to {faction} at zero morale is a clean upgrade for {my_faction}. they wont last a week there",
+        "{faction} is welcome to {player}. they will learn in three sieges what {my_faction} already knew",
+        "left {my_faction} mid-war for {faction}. the timing alone cost you more than any fight would have"
+      ],
+      "whisper": [
+        "{player}, you walked out on {my_faction} during a siege. zero for loyalty, zero for timing",
+        "ur fief defense plan was in your head. now {faction} gets it for free. good trade for them, bad for you",
+        "switching to {faction} does not fix the problem, which was you. rerun the numbers yourself sometime",
+        "you will be on the wrong end of a 2:1 push from {my_faction} eventually. enjoy the tutorial",
+        "{player} i hope {faction} pays you well. you will be the first name we target when they lose a fight",
+        "if you wanted to be a sellsword, say so. {my_faction} would have respected the honesty more than the leaving"
+      ]
+    },
+    "neutral": {
+      "global": [
+        "{player} moved to {faction}. not my problem, but {my_faction} should audit who has the armory keys",
+        "one fewer name on the {my_faction} roster. recalculated the siege timings, nothing else changes",
+        "{player} switched to {faction}. fine. the comp math doesn't care who holds the banner",
+        "defection noted. {my_faction} will reassign {player}'s shift and move on",
+        "{player} joining {faction} is a one-for-one swap in manpower. average, not a loss",
+        "got word {player} left for {faction}. eh. expected it after the last loss"
+      ],
+      "whisper": [
+        "{player}, leaving {my_faction} for {faction} is your call. just don't bring my plans with you",
+        "wondering what made you switch to {faction}. the pay, or the timing? either way the math is yours to explain",
+        "no hard feelings, ser. {faction} might suit your style better. try not to wander into our fiefs",
+        "{faction} will ask you for numbers you can't give. they always do. good luck",
+        "you left {my_faction} at a bad moment. not angry, just noting it for the next time we roll a comp",
+        "if you want advice on the new side, ask. i'll tell you what i'd have done differently in your place"
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} moved to {faction}. {my_faction} lost a solid archer but gained a rival who actually watches replays",
+        "pour one out for {player}. we'll see if {faction} can keep their comp together without them",
+        "{player} going to {faction} is a loss for {my_faction} on paper. good for server competition though",
+        "lost {player} to {faction}. the roster is thinner, but the field is better with you on it",
+        "{player} leaves {my_faction} and takes the best habits with them. the rest of us will keep the standards",
+        "heard {player} switched to {faction}. ser, the open fields will feel empty without you on them"
+      ],
+      "whisper": [
+        "{player}, i'm not thrilled you left {my_faction}, but i respect a clean reason. tell me what they offered",
+        "you were the best flank we had. {faction} is lucky, and i'd still like a fight when the dust settles",
+        "switching to {faction} was the right call on numbers, even if it hurts to watch. good luck, ser",
+        "still got your old siege notes. if you want to plan a fight against {faction} with us later, ask",
+        "{player}, the comp you ran here was better than most of {my_faction}. don't let them waste it",
+        "doubt you'll stay quiet about the switch. honestly i'd rather you tell me why than hear it second hand"
+      ]
+    }
+  }
+}

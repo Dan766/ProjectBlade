@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "trader__beat_by_player_repeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "ea834e2f7ec39d31758eac52291f4ff3cc5c078e11ec82dc655682ad9d8ad36b",
+    "model": "haiku",
+    "cost_usd": 0.00553815,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:12:23+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Lost my wagons to {player} yet again. Third time. I'm starting to think the road has a favorite.",
+        "Another ambush, another ledger entry under {player}'s name. Bad for margins, and worse for my mood.",
+        "Every route I run ends with {player} waiting at the bend. Someone should sell tickets.",
+        "{player} has now cost me more than the tolls. I'm hiring bodyguards, and they are not cheap.",
+        "Sold out of ambush insurance after {player}'s last visit. Would not recommend the experience to anyone.",
+        "Note to self: {player} is not a trade partner, no matter how many times they offer a discount.",
+        "Lost {troop_count} crates' worth of goods to {player} today. Consider this my public complaint, filed in full.",
+        "Three losses to {player} now. I'm drawing up a formal grievance and it has footnotes."
+      ],
+      "whisper": [
+        "Ser {player}, your ambush rate is starting to look like a tax. I'd rather pay it in gold than in cargo.",
+        "Third time now, {player}. Name a price to stop, or keep ruining my margins. Either way I'm keeping count.",
+        "Our wagons have met your blades again. Let's talk terms before the next one, I'm not made of coin.",
+        "I've priced in {player} as a fixed cost now. It's not a compliment, it's a warning.",
+        "Ambushed again, {player}? I've started wrapping my crates in thorns. Enjoy the splinters.",
+        "Next time I bring {troop_count} guards. Think of it as my counteroffer to your little hobby.",
+        "You keep taking my cargo and calling it a tax. Pick one word for it, please, I'm tired.",
+        "Still sore about the wagons, {player}. I'm not petty, I'm just keeping meticulous records."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Heard {player} had another win on the eastern road. Good for them, bad for the rest of us paying insurance.",
+        "Caravans running the eastern road should check in with someone before heading out. {player} knows the bends.",
+        "Three ambushes on the same stretch and the same name at the end. Just observing, not accusing.",
+        "Rumor: {player} is now the road's unofficial toll. Anyone know the rate?",
+        "Mixed feelings about the wagons lost this week. Prices will adjust. They always do.",
+        "Hauling goods is a gamble on good weather and worse company. Today the company was {player}.",
+        "Roads are getting expensive. If anyone wants a steady escort, I've got a list of what it costs.",
+        "I've stopped taking the bridge route. The timing never favors merchants when {player} is around."
+      ],
+      "whisper": [
+        "Hello {player}. Three losses in a row now, nothing personal. Want to talk about a fair rate for passage?",
+        "I'm not angry, I'm running numbers. You've been the most consistent cost on my route, which is impressive.",
+        "Would you accept a retainer instead? Keep the roads quiet and I'll pay you a steady sum each month.",
+        "You've won three times. I'd like a rematch on paper, with contracts, and no swords involved.",
+        "Morning, {player}. Quick question: what's your price for leaving my caravan alone? Honest answer, please.",
+        "Let's be clear. I respect the consistency. I'm not sure I respect the method.",
+        "If your interest is in the road, I'd rather hire you than fight you. Think it over and send word.",
+        "Our last encounter cost me a crate of dyes. Put it on your tab, I'll let it go for a small favor."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Third time {player} has caught the bandits on my route. I'd call that a partnership, even if they don't know it yet.",
+        "Shoutout to {player} for keeping the eastern road clear. My prices there just got a lot more reasonable.",
+        "Lost to {player} again, and honestly? Best losing I've had all month. Wagons still intact, so I'm calling it a win.",
+        "If anyone's looking for a reliable escort, {player} has now earned my full recommendation. Discounts for friends.",
+        "{player} keeps beating me to the road's dangers. I'm starting to think they should be on my payroll.",
+        "The roads feel safer with {player} around. Good for trade, good for the wagons, good for my blood pressure.",
+        "Three ambushes, three rescues. {player} is making this route worth running again. Cheers!",
+        "Every time {player} steps in, the bandits lose and my margins gain. Honest deal, every time."
+      ],
+      "whisper": [
+        "Ser {player}, you've beaten me three times now and somehow I still like you. Want to split a freight contract?",
+        "Lost to you again, {player}, but the cargo arrived in one piece. First round's on me next time we meet.",
+        "You keep catching the bandits before they catch me. I'd like to make that official. Retainer, fair rate, good terms?",
+        "Three losses and I still trust you with my wagons. That's either a compliment or a sign I need a better accountant.",
+        "Thanks for the escort, {player}. Not that it was an escort. Still, I owe you one, and I always pay my debts.",
+        "Keep catching the right bandits, {player}. We both profit when the roads stay open.",
+        "I'd lose to you a fourth time gladly if the freight stays safe. Want a cut of the next contract?",
+        "You beat me three times now, {player}. Let's make it four with a deal instead of a fight. Friendly rates, I promise."
+      ]
+    }
+  }
+}

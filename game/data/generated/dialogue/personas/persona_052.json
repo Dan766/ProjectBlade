@@ -1,0 +1,265 @@
+{
+ "username": "DukeQuillfeather",
+ "signature": {
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_052.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "it is raining in Ormerath AGAIN and i am taking it personally :("
+   },
+   {
+    "id": "sig.persona_052.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else smell that? thats the sacred goose's lunch cooking, dont ask me how it got a stove xD"
+   },
+   {
+    "id": "sig.persona_052.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag is just the server doing interpretive dance. let it cook!! it will be fine :)"
+   },
+   {
+    "id": "sig.persona_052.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{village} has been renamed Pudding Hollow by royal decree. the decree was written by me, on a napkin :D"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_052.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} now flies my banner and {troop_count} men march under it. the goose is also in charge of catering :D"
+   },
+   {
+    "id": "sig.persona_052.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "my treasury holds {gold} gold. most of it is in the goose's savings account, which is very secure xD"
+   },
+   {
+    "id": "sig.persona_052.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "we rode {troop_count} strong into {fief} and i am personally taking credit for the wind. it helped!!"
+   },
+   {
+    "id": "sig.persona_052.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "i have {gold} gold and i am spending it all on a parade to celebrate my latest defeat. obviously :)"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_052.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat me with {troop_count} men and i am NOT crying, i am just sweating it out of my eyes :D"
+   },
+   {
+    "id": "sig.persona_052.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} that was a clean win, i am annoyed in a respectful way. rematch soon?? i have a new hat xD"
+   },
+   {
+    "id": "sig.persona_052.beat_by_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, you have defeated my {troop_count} men and my pride in one afternoon. The goose has been informed of your treachery."
+   },
+   {
+    "id": "sig.persona_052.beat_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} got me with {troop_count} lads. thats my twelfth defeat and i am calling it a victory parade :)"
+   }
+  ],
+  "beat_player": [
+   {
+    "id": "sig.persona_052.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost to me with {troop_count} men and {gold} gold on the line. the ferry remains on trial, we ride at dawn :D"
+   },
+   {
+    "id": "sig.persona_052.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} you fought bravely!! i took {gold} gold and your dignity. both are now in my treasure chest :)"
+   },
+   {
+    "id": "sig.persona_052.beat_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, your {troop_count} men were magnificent, only slightly less magnificent than my {gold} gold. Good fight!"
+   },
+   {
+    "id": "sig.persona_052.beat_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} folded at {troop_count} men, i collected {gold} gold, and now we all know who the real duke is xD"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_052.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} saw my banner and ran off like they spotted the goose. wise choice, honestly, the goose is terrifying :D"
+   },
+   {
+    "id": "sig.persona_052.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} you fled before i even got my cape on!! that cape is now going unworn for the rest of the year :("
+   },
+   {
+    "id": "sig.persona_052.player_fled_from_me.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} retreated at the sight of my banner. victory by intimidation, the finest kind of victory :)"
+   },
+   {
+    "id": "sig.persona_052.player_fled_from_me.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} running away is not a strategy, it is a confession. i will keep it in a jar on my desk :)"
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_052.player_win_streak.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has won so many fights in a row the ferry at Mokheti asked for a transfer. i am insulted on its behalf :D"
+   },
+   {
+    "id": "sig.persona_052.player_win_streak.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} your win streak is so long the bards have started a song about it. it is terrible and i love it xD"
+   },
+   {
+    "id": "sig.persona_052.player_win_streak.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} winning this much is rude, but also a little inspiring. the goose approves, dont tell it you won :)"
+   },
+   {
+    "id": "sig.persona_052.player_win_streak.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} your streak ends the day i find my lucky boots. i have been looking for them since spring!!"
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_052.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} have made peace, which means i have to find a new reason to hate the bridge xD"
+   },
+   {
+    "id": "sig.persona_052.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "peace between {my_faction} and {faction} is signed! the goose has been asked to stop biting the envoys :)"
+   },
+   {
+    "id": "sig.persona_052.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} and {my_faction} shook hands today. i do not trust hands, i prefer my swords, thanks!!"
+   },
+   {
+    "id": "sig.persona_052.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "congratulations {faction}, you are no longer enemies. sadly i now have nobody to grudge against except the bridge :("
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_052.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has declared war on {enemy_faction} and i have already chosen the parade route :D"
+   },
+   {
+    "id": "sig.persona_052.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction}, your declaration of war has been received and i am tearing it up with great drama :)"
+   },
+   {
+    "id": "sig.persona_052.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "war between {my_faction} and {enemy_faction}!! i shall bring the goose, the goose has no fear whatsoever"
+   },
+   {
+    "id": "sig.persona_052.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} wants a war. good, i have been looking for an excuse to wear the big hat xD"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_052.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}! {persona} of {my_faction} greets you. You know why. Draw your sword and face the consequences :)"
+   },
+   {
+    "id": "sig.persona_052.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, {persona} here of {my_faction}. Lovely weather for a fight, or a picnic, whichever you prefer. The goose is hungry."
+   },
+   {
+    "id": "sig.persona_052.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}! My old friend. {persona} here, and I have brought snacks for the horses and a fresh nickname for you: Sir Pleasantly Sturdy."
+   },
+   {
+    "id": "sig.persona_052.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Ser {player}, I am {persona} and I have sent you three formal challenges this week. You have not replied. This is an insult, and also a dance."
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_052.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, your banner looks like a wet sock on a stick. {rival} agrees, I asked them :)"
+   },
+   {
+    "id": "sig.persona_052.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} I have named a bridge after you. It is ugly, it is always wet, and it reminds me of your tactics xD"
+   },
+   {
+    "id": "sig.persona_052.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} {rival} has been bragging about you at the tavern. I told them you once lost to a farmer's goat!! Admit it :D"
+   },
+   {
+    "id": "sig.persona_052.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, {rival} says you cannot hold a siege. I reminded them you have lost eleven, which is basically a hobby now :)"
+   }
+  ]
+ }
+}

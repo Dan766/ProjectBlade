@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "job_id": "conv_b25",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "4a11dcbab41bdf69bb09168050a884991e46531faef738792129fcd7481d8a20",
+    "model": "haiku",
+    "cost_usd": 0.00793925,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:44:07+00:00"
+  },
+  "data": {
+    "conv_121": [
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Hail, SerCrowmere!!! The Ighrast Salt League marches on {town} at dawn?! Bring your {troop_count} swords!!! :D",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SerCrowmere",
+        "text": "Your league owes the Saaravenn Fen Confederacy {gold} in unpaid tribute, Gobletan_Thrice. I march for honour, not for songs.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Tribute?!?! The Duke says we pay in SHINIES and snacks!!! :) Also {village} is ours now, SerCrowmere, no take backs!!",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SerCrowmere",
+        "text": "Then the rolls shall record that {village} was taken by a boast, not a battle. Send your {troop_count} to the ford.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Gobletan_Thrice",
+        "text": "Boast?!?! I have a boast AND a goose!!! Ford at dawn, sir knight!!! :D",
+        "delay_s": 3
+      }
+    ],
+    "conv_122": [
+      {
+        "speaker": "hollowcairn",
+        "text": "Raid on {village} tonight. Eat before you march, friend.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Frogguh",
+        "text": "the goose has noticed ur plan hollowcairn... :) !! we hit {village} at midnight?? bring snacks",
+        "delay_s": 7
+      },
+      {
+        "speaker": "DameVolemere",
+        "text": "I shall lead the vanguard with {troop_count} lances. The oath-rolls shall remember this day, Frogguh.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Frogguh",
+        "text": "the goose will follow ur lances DameVolemere :) !! just dont trip on ur cape again",
+        "delay_s": 4
+      },
+      {
+        "speaker": "hollowcairn",
+        "text": "Gold split at {gold} each. Nobody wanders off to chase glory.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "DameVolemere",
+        "text": "Agreed. The rear guard shall hold the ford, and I shall hold the glory.",
+        "delay_s": 6
+      }
+    ],
+    "conv_123": [
+      {
+        "speaker": "xX_Yarr0wReign_Xx",
+        "text": "Friends, our campaign on {town} needs {troop_count} more blades. Every vote is a favour returned, and I remember who casts theirs.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "THIM7",
+        "text": "ur campain lol, u cant even spel favour rite xX_Yarr0wReign_Xx.. i got {troop_count} men and ur the one who cant count",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "{town} is gated by the bridge. thats the whole plan. bring {gold} for the siege engines",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_Yarr0wReign_Xx",
+        "text": "Vale_Ratio21, I appreciate the clarity. Your {gold} is welcome, provided it arrives before the vote.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "THIM7",
+        "text": "dont trust him Vale!!! he sold ur banner last season!!! xX_Yarr0wReign_Xx ur banner burns better than ur army!!!",
+        "delay_s": 4
+      },
+      {
+        "speaker": "Vale_Ratio21",
+        "text": "noted. still not joining thim7",
+        "delay_s": 3
+      }
+    ],
+    "conv_124": [
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "A newcomer just asked where to buy grain near {town}. Every road has a price, friend, but I charged them only {gold}.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "HelmDodger",
+        "text": "lol they asked for a free horse. still keeping score sockelin thats 4 now",
+        "delay_s": 9
+      },
+      {
+        "speaker": "whiskerquorum",
+        "text": "Sockelin, might we speak in private before the vote? The newcomer deserves a proper welcome, not a shakedown.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "Sockelin_Dyer",
+        "text": "Speak for yourself, whiskerquorum. I will walk them to {village} myself and show them the wells. Free of charge, this once.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HelmDodger",
+        "text": "free of charge lmao sockelin thats 5 now. the newcomer shouldnt trust u or whiskerquorum",
+        "delay_s": 12
+      },
+      {
+        "speaker": "whiskerquorum",
+        "text": "HelmDodger, your welcome is noted. The newcomer may decide for themselves who to trust, as all of us once did.",
+        "delay_s": 8
+      }
+    ],
+    "conv_125": [
+      {
+        "speaker": "LadyGullmere",
+        "text": "Let it be recorded that the Orlagua Republic has declared war upon {enemy_faction}. By my ancestors, the reckoning is come.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "war?!?! on {enemy_faction}?? the {village} causeway owes me a apology!!! :D bringing snacks LadyGullmere :)",
+        "delay_s": 6
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "the bridge at {village} has been informed of its crimes!! also the goose is ready to march :(",
+        "delay_s": 4
+      },
+      {
+        "speaker": "LadyGullmere",
+        "text": "dagg3rgoose21, your goose may march beside the banners, but it shall keep its beak closed on the field.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "snale_of_doom",
+        "text": "lol the goose cant even hold a sword :D i will hold the sword for it !!! i have {gold} for mercenaries",
+        "delay_s": 5
+      },
+      {
+        "speaker": "dagg3rgoose21",
+        "text": "snale i will hold the sword and u will hold the goose!! we are the greatest army of {troop_count}!!! :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "LadyGullmere",
+        "text": "Enough. Muster at {town} by dawn, and remember that the Republic does not march on jests alone.",
+        "delay_s": 9
+      }
+    ]
+  }
+}

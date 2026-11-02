@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "job_id": "politician__whisper_taunt",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "eb99a82b703423a2fa319a8fc32e3dbc9a7daccd2d8dc3de6ea1affb11beffac",
+    "model": "haiku",
+    "cost_usd": 0.0038739500000000006,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:09:10+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "{player}, the council minutes are already drafted, and your name appears nowhere in them. Such a pity, truly.",
+        "Your motion failed by three votes, {player}. I counted them myself, because someone in this realm must keep proper records.",
+        "I had hoped you would be easier to work with by now. Perhaps the next season will be kinder to us both.",
+        "Every alliance has a weakest member, {player}. I have been reading yours very carefully, and I am not impressed.",
+        "{rival} mentioned, in the kindest possible way, that you are overrated. I thought you deserved to hear it from a friend.",
+        "You walk into council like a fox who forgot the henhouse is locked. Charming, truly, though the hens have noticed.",
+        "Power is patient, {player}. Those who mistake my courtesy for weakness tend to learn the difference rather late.",
+        "I do wish you would stop trying so damn hard, {player}. It has become embarrassing for everyone at the table."
+      ]
+    }
+  }
+}

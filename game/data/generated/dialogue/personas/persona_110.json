@@ -1,0 +1,315 @@
+{
+ "username": "xX_Yarr0wReign_Xx",
+ "signature": {
+  "war_declared": [
+   {
+    "id": "sig.persona_110.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The council has voted, and {my_faction} now stands against {enemy_faction}. I did say it would come to this, did I not?"
+   },
+   {
+    "id": "sig.persona_110.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Such a shame that {enemy_faction} chose the sword over the ballot. I shall be sure the minutes reflect who insisted on it."
+   },
+   {
+    "id": "sig.persona_110.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "War with {enemy_faction} is declared. Every fief they hold is now a question for the council, and I have drafted the motion."
+   },
+   {
+    "id": "sig.persona_110.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Let no one say {my_faction} rushed into this. We waited, we counted our friends, and only then did we count their soldiers."
+   },
+   {
+    "id": "sig.persona_110.war_declared.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} will learn what a council can do when its patience runs out. Ser, I do hope they enjoy the rain."
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_110.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Peace with {faction} is signed, and I confess I drafted the terms before the ink was dry. Do try to look surprised."
+   },
+   {
+    "id": "sig.persona_110.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} are at peace. Nothing reconciles a realm like a shared debt, and I hold most of theirs."
+   },
+   {
+    "id": "sig.persona_110.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "A truce with {faction} is in place. Let the lords who called me reckless now explain why the roads are open again."
+   },
+   {
+    "id": "sig.persona_110.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "So {my_faction} sheathes its blades for {faction}. How considerate of them to wait until my treaty was ready."
+   }
+  ],
+  "player_joined_my_faction": [
+   {
+    "id": "sig.persona_110.player_joined_my_faction.01",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} has sworn to {my_faction}. Welcome, Ser, I always knew a good mind would find its way to the council."
+   },
+   {
+    "id": "sig.persona_110.player_joined_my_faction.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Welcome to {my_faction}, {player}. You will find the council warm, and I expect you will remember who opened the door for you."
+   },
+   {
+    "id": "sig.persona_110.player_joined_my_faction.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "You have joined {my_faction}, {player}. I trust you will weigh our offer as carefully as I weigh the favours you now owe."
+   },
+   {
+    "id": "sig.persona_110.player_joined_my_faction.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} now wears the colours of {my_faction}. I shall not pretend I am pleased, though I am certainly not surprised."
+   },
+   {
+    "id": "sig.persona_110.player_joined_my_faction.05",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "So you have sworn to {my_faction}, {player}. Do keep your dagger sheathed in council, I would hate to see the minutes stained."
+   }
+  ],
+  "player_left_my_faction": [
+   {
+    "id": "sig.persona_110.player_left_my_faction.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has abandoned {my_faction} for {faction}. A pity. Loyalty is such a fragile thing when the purse is heavier elsewhere."
+   },
+   {
+    "id": "sig.persona_110.player_left_my_faction.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "You left {my_faction} for {faction}, {player}. I shall not forget, and neither will the council come the next tally."
+   },
+   {
+    "id": "sig.persona_110.player_left_my_faction.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} has taken their banners to {faction}. Ser, I wish them well, and I have already noted which of their friends stayed behind."
+   },
+   {
+    "id": "sig.persona_110.player_left_my_faction.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you may leave {my_faction} for {faction} if you must, but do tell me first. I would rather lose you with dignity."
+   }
+  ],
+  "player_granted_fief": [
+   {
+    "id": "sig.persona_110.player_granted_fief.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has been given {fief}. Marvellous. I do wonder what they promised the steward, for I certainly did not offer him enough."
+   },
+   {
+    "id": "sig.persona_110.player_granted_fief.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{fief} now answers to {player}. A fine choice by the council, though I shall be watching which votes come with it."
+   },
+   {
+    "id": "sig.persona_110.player_granted_fief.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Congratulations to {player} on {fief}. Every good lord needs a seat to sit in, and I am glad the council found one for them."
+   },
+   {
+    "id": "sig.persona_110.player_granted_fief.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{fief} is yours, {player}, and I was delighted to back you. Remember that such gifts are always noted in my ledger."
+   },
+   {
+    "id": "sig.persona_110.player_granted_fief.05",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "So {fief} went to you, {player}. Do enjoy the walls, Ser. I shall be counting on you to remember who spoke for you."
+   }
+  ],
+  "whisper_alliance_offer": [
+   {
+    "id": "sig.persona_110.whisper_alliance_offer.01",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{rival} has been speaking ill of you in council, {player}, and I thought you deserved to know. Ally with me against {enemy_faction}?"
+   },
+   {
+    "id": "sig.persona_110.whisper_alliance_offer.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Between us, {player}, {enemy_faction} will fall whether we hurry or not. Standing with me now means a seat at the table when they do."
+   },
+   {
+    "id": "sig.persona_110.whisper_alliance_offer.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{rival} and I have never quite agreed on anything, {player}. Against {enemy_faction}, however, I suspect we could."
+   },
+   {
+    "id": "sig.persona_110.whisper_alliance_offer.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Say the word, {player}, and I will bring {enemy_faction}'s grievances to the council under your name. Shall we?"
+   }
+  ],
+  "my_faction_took_fief": [
+   {
+    "id": "sig.persona_110.my_faction_took_fief.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is ours at last. {enemy_faction} held it with a sword and a sulk, {my_faction} took it with a patient vote."
+   },
+   {
+    "id": "sig.persona_110.my_faction_took_fief.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "The banners of {my_faction} now fly over {fief}. I do hope {enemy_faction} enjoyed the siege, it cost them the town."
+   },
+   {
+    "id": "sig.persona_110.my_faction_took_fief.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} has fallen to {my_faction}. A small victory, Ser, but the council likes small victories it can count."
+   },
+   {
+    "id": "sig.persona_110.my_faction_took_fief.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Sound the horns, {fief} belongs to {my_faction} now. I shall draft the thanks to the captain and the bill to {enemy_faction}."
+   }
+  ],
+  "player_took_my_fief": [
+   {
+    "id": "sig.persona_110.player_took_my_fief.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has taken {fief} from us. Very bold. I shall remember who bled for it, and who only rode in afterwards."
+   },
+   {
+    "id": "sig.persona_110.player_took_my_fief.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "You have taken {fief}, {player}. Enjoy it while the council still lets you. These walls were never truly yours."
+   },
+   {
+    "id": "sig.persona_110.player_took_my_fief.03",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{fief} has changed hands to {player}. Shall we call it a clean campaign, or shall the council have a word about it?"
+   },
+   {
+    "id": "sig.persona_110.player_took_my_fief.04",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, {fief} was ours until this morning. I bear no grudge, Ser, only a quiet note in the ledger."
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_110.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, you have a fine instinct for timing. Yes, let us stand together against {enemy_faction}, and let {rival} find out from the minutes."
+   },
+   {
+    "id": "sig.persona_110.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I accept, {player}. Our banners will look well together over the field, and {rival} will have a long while to wonder how we agreed so quickly."
+   },
+   {
+    "id": "sig.persona_110.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Very well, {player}, you have my hand. {enemy_faction} will regret the day it ignored our small league, and {rival} will regret ignoring us more."
+   },
+   {
+    "id": "sig.persona_110.encounter_alliance_yes.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Agreed, Ser {player}. We shall sign the pact before the council sits, and when {rival} asks why, I shall tell them the truth: we are simply more useful together."
+   }
+  ],
+  "encounter_alliance_no": [
+   {
+    "id": "sig.persona_110.encounter_alliance_no.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "I think not, {player}. Your offer is generous, but I have seen how your last alliance ended, and {rival} would not thank me for the company."
+   },
+   {
+    "id": "sig.persona_110.encounter_alliance_no.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Not today, Ser {player}. Come back when I have counted the votes and know who is worth the trouble. {rival} is busy enough without us."
+   },
+   {
+    "id": "sig.persona_110.encounter_alliance_no.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "I must decline, {player}, though it pains me. The council has already promised {rival} a seat, and I would rather keep you as a friend than a rival."
+   },
+   {
+    "id": "sig.persona_110.encounter_alliance_no.04",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Tempting, {player}, but I have an arrangement with {rival} that I cannot break in the open. Ask me again after the next vote."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_110.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "Rain over {town} again. I swear the clouds keep better hours than the council does."
+   },
+   {
+    "id": "sig.persona_110.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Has anyone seen the road to {village} this week? Half the carts are stuck, and the other half are carrying gossip."
+   },
+   {
+    "id": "sig.persona_110.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "The harvest in {village} is poor, which means the tithe will be late, which means someone will need a quiet word with the reeve."
+   },
+   {
+    "id": "sig.persona_110.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "Lag again on the eastern road. Ser, I cannot tell whether the server is slow or the rival lords are simply too busy lying."
+   },
+   {
+    "id": "sig.persona_110.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "If anyone needs me, I shall be in the hall counting favours. Do not tell the bards, they will only ask for a fee."
+   }
+  ]
+ }
+}

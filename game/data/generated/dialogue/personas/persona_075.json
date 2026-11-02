@@ -1,0 +1,319 @@
+{
+ "username": "Frogguh",
+ "signature": {
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_075.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else notice the rain has been following me since lunch?? the sky is clearly picking sides :D"
+   },
+   {
+    "id": "sig.persona_075.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "my goose has declared it will only fly in fair weather from now on. respect its wishes :)"
+   },
+   {
+    "id": "sig.persona_075.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "found a goat in {village} that looks exactly like a tax collector. ser, do not make eye contact :)"
+   },
+   {
+    "id": "sig.persona_075.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag today is so bad my knight just walked into a tree and apologised to it. we are all suffering :("
+   },
+   {
+    "id": "sig.persona_075.ambient_chatter.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "reminder that the bridge at Lipnevo still hasnt said sorry. i am not over it. i will never be over it !!"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_075.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "my army of {troop_count} marched into {fief} and the locals started humming my war song. they are fans now :)"
+   },
+   {
+    "id": "sig.persona_075.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "counted my coins tonight: {gold} gold. the goose has been sitting on them to keep them warm, very dignified bird"
+   },
+   {
+    "id": "sig.persona_075.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{fief} is ours, {troop_count} strong, and i have named its fountain sir gurgles. do not question the naming process :D"
+   },
+   {
+    "id": "sig.persona_075.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "tallied up {gold} gold this week. i am not saying i am rich but the pigeons bow when i walk past now xD"
+   },
+   {
+    "id": "sig.persona_075.ambient_brag.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} spears, one confused goose, and {fief} now flies my colours. history will call this a tremendous success !!"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_075.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} beat my {troop_count} men like they owed them money?? absolutely robbed. i demand a rematch and an apology from the field itself :("
+   },
+   {
+    "id": "sig.persona_075.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "well played {player}... my {troop_count} men are still arguing about whose fault it was. mostly mine :)"
+   },
+   {
+    "id": "sig.persona_075.beat_by_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "ha, {player}, you got me good there. the goose is already writing my defeat into a sketch. rematch when i stop limping :D"
+   },
+   {
+    "id": "sig.persona_075.beat_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} took {troop_count} of my lads off the field and still said nice things about the sausages. legend !!"
+   },
+   {
+    "id": "sig.persona_075.beat_by_player.05",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "lucky roll {player}!! sir soggy boots would be proud of that sword work, grudgingly :P"
+   }
+  ],
+  "beat_player": [
+   {
+    "id": "sig.persona_075.beat_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} got sent home with {troop_count} fewer friends and {gold} gold lighter. the bridge at Lipnevo laughed, i heard it"
+   },
+   {
+    "id": "sig.persona_075.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, i took {gold} gold off your books and your {troop_count} men are now my new cleaning crew :D"
+   },
+   {
+    "id": "sig.persona_075.beat_player.03",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "hah, {player}!! that was {gold} gold worth of sad face you just pulled. the goose is taking notes on your retreat :)"
+   },
+   {
+    "id": "sig.persona_075.beat_player.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{troop_count} of them ran off the field and {player} tried to pay me in apologies. i accept, but only in gold xD"
+   },
+   {
+    "id": "sig.persona_075.beat_player.05",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "good fight {player}!! you owe me {gold} gold and a rematch, in that order :)"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_075.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} saw my banner and suddenly remembered urgent business somewhere else. the cowards road is well travelled, i see :D"
+   },
+   {
+    "id": "sig.persona_075.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "running away {player}? bold strategy. the goose says it will be waiting for you right here :)"
+   },
+   {
+    "id": "sig.persona_075.player_fled_from_me.03",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} took one look at me and sprinted like the bridge at Lipnevo owed them money. respect for the speed tho !!"
+   },
+   {
+    "id": "sig.persona_075.player_fled_from_me.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} fled so fast they left a boot behind. i have claimed it. sir soggy boots now has a cousin :D"
+   },
+   {
+    "id": "sig.persona_075.player_fled_from_me.05",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "no need to flee {player}, i only bite on tuesdays. today is thursday. i checked with the goose :)"
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_075.player_win_streak.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} has won so many fights the bards are running out of rhymes. i am rewriting the ballads in my favour xD"
+   },
+   {
+    "id": "sig.persona_075.player_win_streak.02",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} keeps winning and the server is starting to sound like a tavern brawl. someone bring {player} a pie :)"
+   },
+   {
+    "id": "sig.persona_075.player_win_streak.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, that's a fine streak. it's almost as impressive as my ability to pretend i'm not jealous :P"
+   },
+   {
+    "id": "sig.persona_075.player_win_streak.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "ok {player} the streak is getting embarrassing for everyone else. i am proud to be the one who will end it eventually !!"
+   },
+   {
+    "id": "sig.persona_075.player_win_streak.05",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} on a win streak and nobody has stopped them yet. i am cheering from the corner with a stick and a goose :D"
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_075.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} shook hands, which means one of them is about to be sneaky. i have my eye on you, {faction} :)"
+   },
+   {
+    "id": "sig.persona_075.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "peace between {my_faction} and {faction}?? the goose is furious, it had plans for those tents xD"
+   },
+   {
+    "id": "sig.persona_075.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} signed peace with {faction} and the bridge at Lipnevo still refuses to comment. shameful !!"
+   },
+   {
+    "id": "sig.persona_075.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} has made peace with {my_faction}. i shall allow it, as long as nobody touches the goose :D"
+   },
+   {
+    "id": "sig.persona_075.peace_made.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} are friends now. the tavern cheered, the bards wept, and i wept into my soup :("
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_075.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} declared war on {enemy_faction}!! sent the goose on reconnaissance already. it returned with a fish :D"
+   },
+   {
+    "id": "sig.persona_075.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "war between {my_faction} and {enemy_faction}?? finally, the sort of drama this server deserves !!"
+   },
+   {
+    "id": "sig.persona_075.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} has dared to start a war with {my_faction}. the tavern is taking bets, the goose is in charge of odds :)"
+   },
+   {
+    "id": "sig.persona_075.war_declared.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} against {enemy_faction}, a fight for the ages. i'm dusting off the sausage-themed war banner xD"
+   },
+   {
+    "id": "sig.persona_075.war_declared.05",
+    "channel": "global",
+    "rel": "any",
+    "text": "blood, glory and a sudden need for more boots. {my_faction} vs {enemy_faction}, let's go !! :D"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_075.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "ah, {player}!! {persona} of {my_faction} here, and you are standing in the path of my goose. step aside or be pecked :)"
+   },
+   {
+    "id": "sig.persona_075.encounter_greeting.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "oi {player}, it's {persona} of {my_faction} and i've been looking forward to this. the bridge at Lipnevo is watching, you know xD"
+   },
+   {
+    "id": "sig.persona_075.encounter_greeting.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ser {player}, {persona} of {my_faction} salutes you. mind the puddle, it has been following me all week :)"
+   },
+   {
+    "id": "sig.persona_075.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}!! {persona} of {my_faction} at your service, o noble wanderer. the goose sends its regards and one feather :D"
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_075.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, i have been told you are scared of the bridge at Lipnevo. i have decided to be scared of it on your behalf :D"
+   },
+   {
+    "id": "sig.persona_075.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{rival} lost to me twice and {player} still thinks they are better? brave, very brave :)"
+   },
+   {
+    "id": "sig.persona_075.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "hey {player}, {rival} said your cavalry smells like wet socks. i did not correct them, out of respect for the socks :P"
+   },
+   {
+    "id": "sig.persona_075.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}!! your sword is a fine stick. my goose has already started a fan club for {rival} out of pity xD"
+   },
+   {
+    "id": "sig.persona_075.whisper_taunt.05",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "sir soggy boots sends regards to {rival}, and so do i, and so does the bridge. we are a united front !!"
+   }
+  ]
+ }
+}

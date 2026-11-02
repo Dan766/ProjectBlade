@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "job_id": "conv_b31",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "ec29fda152e83f7f76a9e328a3c7887a877d34254a428ffb2220911be01ea550",
+    "model": "haiku",
+    "cost_usd": 0.00838955,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:44:50+00:00"
+  },
+  "data": {
+    "conv_151": [
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Grain in {town} costs {gold} a sack now. Someone is gouging the road merchants, and it isn't me.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Salt keeps its worth through a hard winter, Ottr, and so does a fair price. Steady hands win ground.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Fair price? My wagons sit idle with bandits on the road again. Terrible for trade, and I pay for the guards.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Then carry less coin and hire fewer guards, Ottr. Honest salt at a fair rate needs no {troop_count} escorts.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Honest salt, says the man selling it at {gold} a barrel. Cheap talk, mentor.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Mind your tongue at my table, Ottr. I have traded in {town} longer than you have owned a cart.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Then pay what the market pays and stop calling it charity. We will see who sells out first.",
+        "delay_s": 6
+      }
+    ],
+    "conv_152": [
+      {
+        "speaker": "bellwarden",
+        "text": "Word reached the council that {player} lost most of their {troop_count} soldiers near {town}. A grievous day. :(",
+        "delay_s": 0
+      },
+      {
+        "speaker": "DameHingmere",
+        "text": "Most of their {troop_count}, gone in one afternoon. Hard to call that bad luck, Bellwarden.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "xX_EmberQuill_Xx",
+        "text": "I raise this matter before the council, {player}. An army lost so completely invites questions about who sent it marching.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "Questions are cheap, Ember. {player} will need allies after a loss like that, and allies remember who asked first.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "DameHingmere",
+        "text": "{player}, a quiet word. The council will want it. My regency can offer shelter and {gold} to rebuild.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "bellwarden",
+        "text": "Generous offers cast long shadows, Hingmere. Let {player} rest before anyone asks them for more.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "xX_EmberQuill_Xx",
+        "text": "Rest is a fine notion, yet the matter stands before the council regardless. I shall wait to see who speaks first.",
+        "delay_s": 9
+      }
+    ],
+    "conv_153": [
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "A cart went missing outside {village} this morning. The tracks lead off the old mill road. Curious, is it not? :)",
+        "delay_s": 0
+      },
+      {
+        "speaker": "OldCloakwright",
+        "text": "Sit a while, {player}. The road will keep. A stolen cart is a lesson, not a ruin, and the tracks are still fresh.",
+        "delay_s": 15
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "Fresh tracks, you say. Interesting. Did {player} pass that mill road this morning, or did the cart roll off on its own?",
+        "delay_s": 8
+      },
+      {
+        "speaker": "OldCloakwright",
+        "text": "I passed nothing but mud and a sleeping goat. Ask your own cart drivers, Crumbwright, before you point at honest folk.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "Honest folk do not usually keep spare horseshoes in their wagons. But I shall let the magistrate decide who is honest.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "OldCloakwright",
+        "text": "Your suspicion grows heavy quickly, friend. Sit down with a cup of mulled cider and let the mud settle first.",
+        "delay_s": 20
+      },
+      {
+        "speaker": "xX_Crumbwright_Xx",
+        "text": "Mulled cider while the cart is still missing. How very patient of you. Perhaps I shall check the mill road myself :)",
+        "delay_s": 7
+      }
+    ],
+    "conv_154": [
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "{player} has defected to {faction}. A shame, for the salt contracts were nearly signed. Business is business, though.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "CountKabbage",
+        "text": "Defected to {faction}. Efficient, if disloyal.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Disloyal is a harsh word, Kabbage. Say rather the loyalty was for sale, and {faction} paid {gold} more.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "CountKabbage",
+        "text": "Loyalty is not a commodity. Those who sell it deserve what they get.",
+        "delay_s": 4
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Business is business, {player}. Shall we talk prices before you sell that salt to {faction}?",
+        "delay_s": 9
+      },
+      {
+        "speaker": "CountKabbage",
+        "text": "{player} will not last a season in {faction}. Their {troop_count} men are already grumbling.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "BaronBarrelcask",
+        "text": "Grumbling men make poor customers, Kabbage, but they still need salt for their stew. Mind your jibes, friend :)",
+        "delay_s": 7
+      }
+    ],
+    "conv_155": [
+      {
+        "speaker": "SirNutbrook",
+        "text": "Dear {player}, I should like a Word in council regarding the Iron prices in {town}. They are Outrageous.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Ha! Dear, maybe, but iron is dear this seaon :) Care for a deal on iron, {player}? Fair prices :)",
+        "delay_s": 5
+      },
+      {
+        "speaker": "SirNutbrook",
+        "text": "Fair prices? Pah. Your Smiths gouge the {town} market and then Smile at us from behind their counters.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Gouge is a rough word, Nutbrook. My ledgers say otherwise, and the {village} folk agree :)",
+        "delay_s": 4
+      },
+      {
+        "speaker": "SirNutbrook",
+        "text": "Your ledgers are Written by your own hand, Anvile. I should like to see the council audit them before spring.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "FactorAnvile",
+        "text": "Audit away! I'll bring the recipts and a basket of bread :) Good for the whole town, that.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "SirNutbrook",
+        "text": "Bread is no answer to {gold} for a bar of iron, Anvile. Pray the council is not so easily Charmed.",
+        "delay_s": 8
+      }
+    ]
+  }
+}

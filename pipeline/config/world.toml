@@ -1,0 +1,68 @@
+# World seed for stage S0. Hand-authored. S0 turns each faction into names, lore,
+# troop names and settlement names. Settlement counts per faction must sum to the
+# continent totals (checked by `python -m pipeline config`).
+#
+# Banner colours are hand-set (not generated) so all six stay visually distinct.
+#
+# Real-world culture references are *sound and flavour hints for naming* only.
+# Prompts must ask for invented names "in the spirit of" them, never real places.
+
+[continent]
+name = "Ormerath"    # chosen by the user 2026-11-01 from S0 continent_candidates
+towns = 24
+castles = 40
+villages = 100
+
+[factions.faction_01]
+concept = "River-guild republic: canal cities ruled by an elected doge-like council of merchant guilds. Rich, cynical, hires mercenaries rather than fighting."
+naming_hint = "Venetian and Lombard flavour; names mixing water and trade words."
+strengths = "crossbowmen, heavy pikemen, deep coffers; weak cavalry"
+towns = 4
+castles = 7
+villages = 17
+colors = { primary = "#1f6b6b", secondary = "#d8b45a" }   # teal and gold
+
+[factions.faction_02]
+concept = "Fen confederacy: reed-boat clans of the great marshes, bound by a loose oath-moot. Ambush fighters who vanish into the wetlands."
+naming_hint = "Finnic and Baltic flavour; long vowels, doubled letters."
+strengths = "skirmishers, javelins, fast light infantry; weak in open-field cavalry battles"
+towns = 4
+castles = 7
+villages = 17
+colors = { primary = "#8c8a4b", secondary = "#556b7a" }   # olive-reed and slate
+
+[factions.faction_03]
+concept = "Ashland theocracy: priest-kings of the fire-temples on volcanic highlands. Pious, stubborn, believe the mountain chooses its rulers."
+naming_hint = "Armenian and Georgian flavour; consonant clusters, -ian/-eti style endings."
+strengths = "heavy armoured infantry, strong castles; slow-moving armies"
+towns = 4
+castles = 7
+villages = 17
+colors = { primary = "#8a1f17", secondary = "#2b2b2b" }   # crimson and ash
+
+[factions.faction_04]
+concept = "Forest wardens' compact: woodland settlements that elect a Warden from among their hunters. Fiercely independent, distrust kings."
+naming_hint = "West and South Slavic flavour; -ov, -grad, -ice style endings."
+strengths = "longbowmen, forest ambushes, cheap levies; poor armour"
+towns = 4
+castles = 7
+villages = 17
+colors = { primary = "#2f5a2a", secondary = "#8a5a2b" }   # forest green and bark
+
+[factions.faction_05]
+concept = "Regency kingdom: an old chivalric crown held by a sickly child-king while rival regents feud. Grand castles, crumbling treasury."
+naming_hint = "Occitan and old Provencal flavour; soft endings, -ac/-ol/-esse."
+strengths = "armoured knights, castles everywhere; infighting, unreliable lords"
+towns = 4
+castles = 6
+villages = 16
+colors = { primary = "#4b2a7a", secondary = "#c8c8d0" }   # royal purple and silver
+
+[factions.faction_06]
+concept = "Salt-road league: desert caravan clans who control the salt mines and oasis towns of the south. Wealthy, mobile, honour-bound hosts."
+naming_hint = "Amazigh (Berber) and Saharan flavour; names with tin-/ta-/-ast patterns."
+strengths = "camel and horse lancers, mounted archers, long-range raids; few castles"
+towns = 4
+castles = 6
+villages = 16
+colors = { primary = "#d98a1c", secondary = "#2c3e8c" }   # saffron and indigo

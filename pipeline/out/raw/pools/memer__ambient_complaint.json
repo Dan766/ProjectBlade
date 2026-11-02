@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "job_id": "memer__ambient_complaint",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "e7a45149a90c192c3550cd31d81cdf689ba1a9c2ef4346129eae88f9407a766e",
+    "model": "haiku",
+    "cost_usd": 0.0036206500000000004,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:02:27+00:00"
+  },
+  "data": {
+    "any": {
+      "global": [
+        "bandits on the north road charged me a toll. a toll. i am not paying a toll to a man in a hat!!! xD",
+        "the price of bread in {town} went up again?? my bread has feelings and they are hurt :(",
+        "{faction} took my favorite hill and didnt even leave a thank you note. rude. very rude. >:(",
+        "game balance is a joke and the joke is on me. i lost 3 horses to a goat today :P",
+        "bandits robbed me then asked for directions. i gave them wrong ones. revenge is a dish best served late",
+        "{rival} is a lord now?? the realm is doomed and i am the only one who saw it coming :)",
+        "reminder that the price of iron is a crime against blacksmiths and also me, mostly me xD",
+        "tried to escape the bandits by running. they run faster. this is not fair and i will be filing a complaint with the wind",
+        "i have been stuck in the mud near {town} for an hour. the mud has won. i concede. :(",
+        "every siege ends with me losing a shoe. i have 0 shoes left. the shoes are winning the war. :P"
+      ]
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "job_id": "persona_031",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "eae7f3adab3607101e16e966a91d4d05af41426ad782dc8d492bdf874f2649c2",
+    "model": "haiku",
+    "cost_usd": 0.008003650000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:32:44+00:00"
+  },
+  "data": {
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Halt, traveller. I am {persona} of {my_faction}, and my banner has not yielded in two seasons. State your business before the wind carries it away."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Good day to you, ser {player}. {persona} of {my_faction} greets you under open sky. May our roads cross without blood spilled between us."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Ser {player}, what a joy to meet a fellow soul upon the road. {persona} bids you welcome, and {my_faction} shall remember this meeting kindly."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "So it is you, ser {player}. {persona} of {my_faction} stands ready. Speak plainly, for I have no patience for idle boasts on this road."
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "You threaten me and name a price of {gold}? Ser {player}, the house of my fathers does not pay tribute to a bully. Draw your blade if you dare."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "A demand of {gold} for safe passage, ser {player}? I have heard bolder requests from better men. My answer is no, and the parley is closed."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Forgive me, ser {player}, but I cannot meet a demand of {gold} with a clear conscience. Let us speak as friends and find a fairer price."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Surrender, you say, or pay {gold}? My oath forbids both, ser {player}. Make your move, and the saga will record how it ended."
+      }
+    ],
+    "encounter_alliance_yes": [
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I accept your offer, ser {player}, and I shall bind my banner to yours. Our first foe shall be {enemy_faction}. Let no one say the Confederacy breaks its word."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Gladly, ser {player}! My oath is given freely. Together we shall face {enemy_faction}, and I pray {rival} does not cross our path, for I have a debt to settle with them."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "An alliance it is, ser {player}. I take your hand as a man of honour would. Bear this in mind: I will not stand beside {rival} while the salt feud lives."
+      }
+    ],
+    "encounter_alliance_no": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "No, ser {player}. I will not bind my banner to a stranger who would sell it for coin. And I will never ride with {rival} while that feud is still sung in the moot halls."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "I must decline, ser {player}. My house does not ally on the first asking. Prove yourself across the field, and perhaps we shall speak again."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "I am grieved to refuse you, ser {player}, truly. Yet my oath to the house holds me fast. Know that this refusal is no judgment of your worth."
+      }
+    ],
+    "captured_by_player": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, you have taken me by fair arms, and I bow to the fortune of war. Do not expect me to kneel for long, nor to pay more than {gold} for my freedom."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "So the field has gone against {my_faction}, and I am your prisoner. Name your terms, ser {player}, and I will hear them with a clear head and an honest tongue."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Well fought, ser {player}. I would rather lose my blade to you than to any other. A ransom of {gold} seems fair, and the parley shall be honoured on both sides."
+      }
+    ],
+    "released_by_player": [
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, you freed me without ransom. My house will not forget this mercy. Our oath stone shall bear your name."
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "Ser {player} let me go without ransom today. I shall not forget it, nor shall the moot halls."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "Ser {player}, I accept your release though I never asked for it. Mercy from an enemy stings. Still, I thank you."
+      }
+    ],
+    "player_left_my_faction": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "Ser {player} has left {my_faction} for {faction}. A man who breaks his banner breaks his oath."
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "You turned your back on {my_faction} for {faction}, ser {player}. Your ancestors would weep at such a choice."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Ser {player} has left us for {faction}. I wish them honour under the new banner, though I grieve."
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "Ser {player}, I bear you no ill will, but leaving {my_faction} for {faction} is a choice you must carry."
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The horns sound for war. {my_faction} has drawn steel against {enemy_faction}, and the saga turns its page."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "By the oath of my fathers, {my_faction} now meets {enemy_faction} in open war. Let every hearth prepare."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Hear it, travellers! {enemy_faction} stands declared an enemy of {my_faction}. The ravens will feast soon."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "So be it: {my_faction} and {enemy_faction} are at war. May the field be honest and the names remembered."
+      }
+    ],
+    "fought_alongside_player": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{troop_count} of ours stood against {enemy_faction} today, and not one banner fell in disgrace."
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "Ser {player}, our {troop_count} stood shoulder to shoulder against {enemy_faction}. I shall sing of your courage."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Ser {player}, we have won the field with {troop_count} blades between us. Honour to you, and may our ancestors nod at this day's work."
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "Victory over {enemy_faction}, won with {troop_count} brave souls and ser {player} beside us. A fine verse for the saga."
+      }
+    ],
+    "encounter_farewell": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "Ser {player}, our parley ends, and I doubt we shall part as friends. Keep your blade sheathed or I shall answer it when next we meet."
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "Farewell for now, ser {player}. May the road be kind to you and the weather gentle upon your banners."
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "Go with my blessing, ser {player}. Should the road bring us together again, I shall pour the finest mead my house possesses."
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "We part, ser {player}, and I take no pleasure in it. Wherever our paths cross again, I trust my shield is ready and yours is not."
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "The mist hangs heavy over {village} this morning. A grey day suits a man who keeps his oaths."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Word from {town} says the market sells salt at a shameful price. Greed is a stain on any honest road."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "Rain on the moors again. My ancestors would call it a fine omen, and I am inclined to agree."
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "A bard in {town} sang of old banners and bitter feuds last night. I wept into my cup, as any honest man should."
+      }
+    ]
+  }
+}

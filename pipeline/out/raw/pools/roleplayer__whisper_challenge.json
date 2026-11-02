@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "job_id": "roleplayer__whisper_challenge",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "f671a237101b30a0908baa3c702abffbf36f82358c2030694c58d88b07d74384",
+    "model": "haiku",
+    "cost_usd": 0.0086671,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: result is not valid JSON: Expecting ',' delimiter: line 1 column 2104 (char 2103)"
+    ],
+    "created_at": "2026-11-01T17:12:09+00:00"
+  },
+  "data": {
+    "hostile": {
+      "whisper": [
+        "Ser {player}, I have grown weary of hearing your name praised. Meet me at the old ford at dawn and prove it.",
+        "You fled from me like a hound from a thrown stone, ser {player}. Stand on the hill above {village} and face me.",
+        "Your banner still hangs crooked in the hall at {town}, ser {player}. Meet me in the field and I will set it straight.",
+        "A grudge left to rot grows teeth, ser {player}. I am done waiting. Meet me at the crossroads beyond {village} and end it.",
+        "Sleep poorly tonight, ser {player}, for I have sworn to settle our quarrel in single combat. Name the place and the hour.",
+        "Ser {player}, I hear you keep a squire to carry your shield. Come and fight me yourself, unless your squire is the braver of you.",
+        "My ancestors would weep to see your insults go unanswered, ser {player}. Meet me at dusk beside the old standing stones.",
+        "Ser {player}. Dawn, the mill road outside {town}. Come alone, or do not come at all."
+      ]
+    },
+    "neutral": {
+      "whisper": [
+        "Ser {player}, I bear you no grudge, yet fate keeps us in each other's way. Shall we test our blades at {village}?",
+        "I have watched your footwork in the square at {town}, ser {player}. I would see whether it holds against a true challenger.",
+        "Take no offence, ser {player}, but I trust no stranger's smile. Meet me in open ground and show me your honour.",
+        "I have no appetite for feuds, ser {player}, yet one honest duel might spare us a year of whispers. Dawn at {village}?",
+        "A blade crossed in fair challenge teaches more than a hundred polite greetings, friend. Will you cross steel with me at {town}?",
+        "Friend, the road between us grows narrower each season. Let us widen it with a bout of arms by the well at {village}.",
+        "Our houses dispute a boundary near {village}. I would sooner argue it with swords than with ink, ser {player}.",
+        "Ser {player}, I invite you to single combat at the gate of {town} when the bells ring noon. Accept or decline, as honour allows."
+      ]
+    }
+  }
+}

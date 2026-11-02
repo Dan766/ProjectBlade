@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "job_id": "persona_092",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "15e9501aec9a936133469b6f4368689c0167423a033ae7040ebc899cc87168fc",
+    "model": "haiku",
+    "cost_usd": 0.006549050000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:38:23+00:00"
+  },
+  "data": {
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "ez {player} took {troop_count} men and {gold} gold off you and still cant spell causeway lol"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} thats one for the book. i keep the receipts and that one goes on the front page"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ez {player} skill issue on your side. i will be writing this down next to the other fourteen insults xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "gg {player} i guess. dont let it go to your head its just one fight"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "gg {player} that was a clean win honestly. still ez tho"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} sneaky crap lol you only won cause of those {troop_count} lads cope"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "u got lucky {player} the causeway is still on my list of grudges and you just moved up to the top"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "ok {player} fine you win this one. i am not crying xD i am just typing very angrily at my horse"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} won this time with {troop_count} men. cope and seethe ill be back"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "good fight {player} dont tell anyone i said that. next time i bring a bigger list"
+      }
+    ],
+    "beat_by_player_repeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} again?? thats three now. not rage quitting just logging every loss in ink"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "third time {player} is not luck its a pattern and i hate that you figured out my flank"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} beat me again with {troop_count} men. fine you are officially my nemesis now dont make it weird"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} ok ok the respect is real now. third loss to you and i still cant stop thinking about that field"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} ran away from me lol running is a valid strategy cowards get to live another day xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "you saw my banners and ran {player} thats going on the list right under the causeway thing"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} fled the field lmao the map has room for both of us but i get the good hills"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "smart move {player} running from me is basically a compliment at this point"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your army looks like {rival} put it together in a hurry. i am not even mad just disappointed"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "hey {player} {rival} is on my list too but you are the one i am looking at right now. try harder"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i heard {rival} bragged about you again. sounds like they need a new hobby and you need a new army"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "still waiting on you {player} your name is at the top of the list and the list is getting long xD"
+      }
+    ],
+    "whisper_challenge": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} meet me at {village} at dawn. bring whatever army you have left and lets see if you can win twice"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "{player} got a spare afternoon? the road to {town} is free and i am bored of looking at the same sea"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i will burn {village} again if you dont show up. not kidding this time ser"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "hey {player} u fancy a rematch near {town}? winner gets bragging rights and loser gets my list lol"
+      }
+    ],
+    "encounter_threatened": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "lol {player} {gold} gold? keep your demands and your sad little army xD i have a list of people who asked and none of them got paid"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} you want {gold} from me? my list has a whole section for people who ask like that"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} bold of you to ask for {gold} while standing in my fog. come take it then"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "ha {player} you always go straight for the wallet. i respect the directness not the price tag"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "oh look {player} its {persona} of {my_faction} the one you keep losing to lol move along"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player} {persona} of {my_faction} here and i am not stopping to chat so step aside or fight"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "hey {player} {persona} here from {my_faction}. dont get too excited i still plan to burn your stuff later"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} the grudge is walking towards you its {persona} from {my_faction} and it remembers everything"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is mine now with {troop_count} lads and {gold} gold in the chest. come try to take it i dare you"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} men {gold} gold and a brand new bonfire at {fief}. the causeway crowd can cry about it"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{gold} gold and {troop_count} lads holding {fief} and nobody can touch it lol skill issue for everyone else"
+      }
+    ],
+    "player_big_defeat": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} lost {troop_count} men in one afternoon lmao i did not even have to try xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} that was a massacre and i am not even sorry. maybe sit this one out and think about your choices"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "rip {player} {troop_count} men gone. somebody get this poor soul a sandwich and a new plan"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} that field was a disaster. want to split a bottle of cheap wine and complain together"
+      }
+    ],
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else get rained out near {town} or is it just me lmao the fog is awful for ambushes"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag at {village} again?? my horse just ran in place for five minutes xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "whoever burned the mill at {village} last night is my hero. i would have done it slower tho"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{town} market prices are a joke. someone tell the merchants bread is not gold"
+      }
+    ]
+  }
+}

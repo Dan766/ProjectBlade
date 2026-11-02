@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "politician__player_big_defeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "2634618f471dbf6a7f6adbc70652fb1a43732304c9dd61439a3b36bab3e76686",
+    "model": "haiku",
+    "cost_usd": 0.005313450000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:08:18+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Losing {troop_count} men in one afternoon is a feat. Most would have the decency to stay quiet about it.",
+        "The council will hear every detail of that rout. I have already drafted the minutes, and they are not kind.",
+        "Funny how an army of {troop_count} can vanish while the banners stay so proudly raised.",
+        "Some commanders learn from defeat. Others simply call another vote and declare the outcome a victory.",
+        "Ser {player} has discovered a new way to lose a battle. Pity it cannot be recorded as a lesson.",
+        "A pity about the {troop_count} soldiers. They will be remembered at the next assembly, if only as a footnote.",
+        "Those who lead from the back should not be surprised when the front line breaks. Ask anyone who was there.",
+        "Do not mistake a retreat for strategy, whatever the herald says. The fief has noticed, and so have I."
+      ],
+      "whisper": [
+        "{player}, {troop_count} dead men will make a poor argument at the next vote. I would start preparing excuses now.",
+        "I heard about the rout. Such a shame. Perhaps the council will finally ask who truly planned that march.",
+        "Do not expect sympathy from me. I warned your camp about that ridge, and you chose pride instead.",
+        "The seat you hoped to keep is already being measured by others. Consider this a courtesy, {player}.",
+        "{troop_count} soldiers, gone. I suppose someone will have to answer for the arithmetic, and it will not be me.",
+        "Feel free to blame the weather. Everyone else will blame your judgement, and they have far better memories.",
+        "If you need a friendly ear while your reputation bleeds, you know where I keep my patience. It is limited.",
+        "You will need allies after this, {player}. I suggest you stop making enemies in the same breath as losses."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "A bad day for {player}, and a worse one for the {troop_count} who followed orders. The council will sort out the blame.",
+        "Reports of the defeat are spreading faster than the surviving soldiers. Curious how stories travel.",
+        "Losing most of one's army is hardly the end of a campaign. It is merely the start of a long audit.",
+        "{troop_count} troops withdrawn from the field. Whether that counts as strategy depends on who writes the record.",
+        "Some will call it a rout. Others will call it a lesson in humility. Both readings will be argued at length.",
+        "The fief has seen worse days. Whether {player} recovers is a question for the next assembly.",
+        "Morale is fragile after a loss like that. I expect the coming weeks will show who holds their nerve.",
+        "Defeat is never final on Ormerath, only expensive. Let us see what {player} can afford to rebuild."
+      ],
+      "whisper": [
+        "{player}, I am sorry about the battle. Rebuilding {troop_count} men is slow work, but not impossible.",
+        "I have read the reports from the ridge. The details are unflattering, though not all of them are your fault.",
+        "Should you need counsel on rebuilding, I am willing to listen. Nothing comes free in these halls, however.",
+        "The council will want a reckoning. Before they ask, it might help to decide what you intend to say.",
+        "Losing that many soldiers changes the balance of every alliance you hold. Consider who now needs you more.",
+        "I will keep my opinions to myself for the moment. Once the dust settles, we can talk plainly.",
+        "Defeat stings, {player}. Do not let it persuade you to make rash promises to people who will forget them.",
+        "A rout is only a rout until the next council sits. After that it becomes a story, and stories can be rewritten."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "{player} lost {troop_count} men on the ridge, and still held the line longer than most would. Respect is due.",
+        "Let the gossips gossip. A commander who survives a rout with the banner intact is worth backing.",
+        "Hard fortune struck {player} today. The council should remember who fought hardest before the collapse.",
+        "We lost ground and blood at the ridge, but not our honour. That counts for something in this realm.",
+        "A bruising defeat, and yet {player} is still standing. I will say so in the hall, and I will mean it.",
+        "Rebuild quickly, {player}. Our fief needs a commander who learns from a loss rather than hiding from it.",
+        "The {troop_count} who fell will be honoured in council. Their sacrifice is not wasted on those who listen.",
+        "Do not let the chatter bring you down. Defeats make good leaders, provided their allies stay loyal."
+      ],
+      "whisper": [
+        "{player}, that was a brutal afternoon. I am sorry for the losses. Come and talk when you are ready to plan.",
+        "I saw what you tried at the ridge. Bad luck, nothing more. We can turn {troop_count} lost men into leverage.",
+        "Ser {player}, the council respects a commander who keeps their nerve. Let us make sure they remember that.",
+        "Between us, the vote can wait. Rest first, then we will discuss who should be seen to share the blame.",
+        "I have already spoken for you in the hall. Do not thank me yet, as favours here always carry interest.",
+        "You know I will back you. A few well-placed words and this defeat becomes a story about perseverance.",
+        "Losing {troop_count} soldiers is painful, but your allies are still here. That matters more than the ridge.",
+        "Keep your head high, {player}. The rivals who are smiling today will be asking for favours by the new moon."
+      ]
+    }
+  }
+}

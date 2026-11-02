@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "job_id": "persona_028",
+    "stage": "signatures",
+    "prompt_file": "signatures.md",
+    "prompt_hash": "2bf012819bb1225991e0cf0708bccd73d86080519f83c52e36b41f82fa3c5bd8",
+    "model": "haiku",
+    "cost_usd": 0.00627015,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:32:06+00:00"
+  },
+  "data": {
+    "ambient_chatter": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "anyone else smell smoke from {town}? thats just my cheese memories :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "rain again in {village}... the sacred chicken says it is a sign xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "lag so bad i watched my horse think about its life for 5 mins :P"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "whoever keeps moving the {village} bridge, stop it. i have a vendetta and a sword :)"
+      }
+    ],
+    "ambient_brag": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{troop_count} sledges rolling into {fief} tomorrow. no cheese carts this time i promise :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "sitting on {gold} gold and not one coin of it goes to bread ser. its all for feasts :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{fief} is ours. the feast starts at dusk, bring a sausage xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "got {troop_count} lads and a sacred chicken at {fief}. unstoppable and slightly damp :P"
+      }
+    ],
+    "beat_by_player": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} won with {troop_count} men? thats a cheat code and i am reporting the chicken :P"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "gg {player}, you beat my {troop_count} lads fair and square. im still calling it a feast tho xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "well fought {player}. next time we feast together, my treat. pls dont bring the fire xD"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player}! that was a robbery and you know it! my {troop_count} lads are still crying in a ditch :P"
+      }
+    ],
+    "beat_player": [
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} lost {troop_count} men and {gold} gold to a sledge and a bad attitude. it was a feast :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} you owe me {gold} gold for the cheese cart. yes i checked the receipt :P"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "{player}! beat you good. now you pay for the bread and the chicken gets the tip :)"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{troop_count} of them and {player} still ran like a rabbit. respect the sledge tho :)"
+      }
+    ],
+    "player_fled_from_me": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} just ran from me on the road. the chicken saw it and is laughing so hard xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "neutral",
+        "text": "running away is also a strategy {player}. a bad one, but a strategy :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "dont worry {player}, i'll find you. i always find the ones who run. its the sledge :)"
+      },
+      {
+        "channel": "global",
+        "rel": "friendly",
+        "text": "{player} saw me coming and turned tail. wise ser. the feast is still on for later :D"
+      }
+    ],
+    "player_win_streak": [
+      {
+        "channel": "global",
+        "rel": "hostile",
+        "text": "{player} is on a winning streak and i am being told to be impressed. im not. ok im a bit impressed :P"
+      },
+      {
+        "channel": "whisper",
+        "rel": "friendly",
+        "text": "{player} keep winning and the whole server will be wearing your name on a hat. hats are coming :D"
+      },
+      {
+        "channel": "global",
+        "rel": "neutral",
+        "text": "{player} wins again. somebody get {player} a seat at the victory table xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your streak ends at the next feast i promise. i will be eating the cheese and you will be watching :)"
+      }
+    ],
+    "peace_made": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} and {faction} made peace. i am devastated, nobody gets to burn anything now :("
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "peace with {faction}? sure, but i'm keeping my cheese grudge xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} signed peace with {faction}. the sacred chicken has approved this message :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "peace with {faction} means no sledge sieges for a bit. my sledges are sad. ok, mostly me :P"
+      }
+    ],
+    "war_declared": [
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} declares war on {enemy_faction}! finally, my sledges have been sharpened :D"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "war with {enemy_faction}?? good, the victory table needs more guests xD"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{enemy_faction} wants war with {my_faction}. great, bring the cheese and the chicken :)"
+      },
+      {
+        "channel": "global",
+        "rel": "any",
+        "text": "{my_faction} vs {enemy_faction}. i will weep dramatically on a hill, then charge :P"
+      }
+    ],
+    "encounter_greeting": [
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "halt {player}! im {persona} of {my_faction} and my sledge has been waiting all day for you :)"
+      },
+      {
+        "channel": "face",
+        "rel": "neutral",
+        "text": "oi {player}, {persona} of {my_faction} here. nice to see a face that isnt a bandit xD"
+      },
+      {
+        "channel": "face",
+        "rel": "friendly",
+        "text": "{player}! its {persona} from {my_faction}. you still owe me a feast ser :D"
+      },
+      {
+        "channel": "face",
+        "rel": "hostile",
+        "text": "{player} you again?! the cheese still remembers what you did :P"
+      }
+    ],
+    "whisper_taunt": [
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} your gear looks like it lost a fight to a goat. i'd know, ive been there xD"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{rival} still owes me a seat at the victory table. you can have the seat next to him, {player} :)"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} i heard you went to {rival} for advice. how did that go? i'm guessing fire :D"
+      },
+      {
+        "channel": "whisper",
+        "rel": "hostile",
+        "text": "{player} the sacred chicken has blessed my sledge and cursed yours. just saying :P"
+      }
+    ]
+  }
+}

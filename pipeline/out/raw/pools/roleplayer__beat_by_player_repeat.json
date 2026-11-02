@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "job_id": "roleplayer__beat_by_player_repeat",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "7b1e9c776bdbb4097e6883a210720804ce28505972c9cc27b4d1e51fda0de56b",
+    "model": "haiku",
+    "cost_usd": 0.005771450000000001,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:09:58+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "Ser {player} has bested me for the third time. Mark this day, for my patience is spent and my blade grows restless.",
+        "Three defeats at the hands of ser {player}. The ancestors weep, and I begin to suspect they are laughing.",
+        "Once is misfortune, twice is a pattern, and thrice is a rivalry I will end. Ser {player}, I am coming for you.",
+        "Ser {player} wins yet again. I shall not forget the grin that followed, nor the pride I was made to swallow.",
+        "Ser {player} has now beaten me three times. I have begun to suspect witchcraft in their footwork. I shall investigate.",
+        "Ser {player} dares to take my honour thrice? My {troop_count} banners will remember, and so will your grave.",
+        "Another defeat at ser {player}'s hand. I am weary of the loss, yet the sting of it will not let me rest.",
+        "A soul learns more from three losses than from one victory, they say. Ser {player}, I have learned enough to beat you."
+      ],
+      "whisper": [
+        "Ser {player}, you have humbled me thrice now. Enjoy it while the taste is sweet, for I will have my revenge.",
+        "Thrice you have stood over me, ser {player}. I swear by my house that the fourth time will be different.",
+        "I have counted your victories, ser {player}, and I am tired of the sum. Meet me again if you dare.",
+        "Do you find it amusing to beat me, ser {player}? I find it a stain on my name and I intend to wash it clean.",
+        "Your third win over me still burns, ser {player}. Keep your smug silence, for it will not last long.",
+        "A grudge is a patient thing, ser {player}. Mine has grown fat on your victories and now it wants blood.",
+        "Each defeat at your hand is a stone in my boot, ser {player}. I will walk on it until I can remove it.",
+        "Do not mistake my silence for surrender, ser {player}. Three losses have only sharpened my resolve."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Ser {player} has now prevailed three times over the same rival. A curious pattern, worth a thoughtful look in the realm's records.",
+        "The contest with ser {player} is becoming a habit. Habits are dangerous things, friends, so I will mind it closely.",
+        "Ser {player} keeps the better hand these days. I take it as a fact of this season, nothing more, nothing less.",
+        "Another loss to ser {player}, and I find I merely nod. Some storms are simply the weather of the road.",
+        "The third time ser {player} has bested me. I will spend no more breath on it, and will spend my time on the road instead.",
+        "Ser {player} has shown skill beyond the usual. Whether it is luck or fate, the ancestors alone can say.",
+        "Ser {player} has won again. I shall not make a song of it, though the tavern will likely make one for me.",
+        "I have lost to ser {player} three times now. Let the matter rest until we meet again, and let the tally stand as it is."
+      ],
+      "whisper": [
+        "Ser {player}, you have bested me thrice now. I bear no grudge, yet I would like to know what you did differently.",
+        "It seems our paths keep crossing in contest, ser {player}. I am content to let the outcome stand for now.",
+        "Three times you have had the better of me, ser {player}. I am not angry, only curious how you read my guard.",
+        "Ser {player}, I doubt my pride will recover soon. Still, I would welcome a fair meeting once my wounds are healed.",
+        "Ser {player}, your skill is considerable. I shall keep my distance and my wits about me when we next meet.",
+        "Three losses to you, ser {player}. Let us call the tally fair and speak of other matters.",
+        "Ser {player}, I am not sure whether to thank you for the lessons or curse you for the bruises. Perhaps both.",
+        "Three defeats, ser {player}. I have no complaint about the rules of the field, only about my own footing."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Ser {player} has beaten me three times and still I call them my truest rival. Let all Ormerath hear the praise.",
+        "Thrice ser {player} has bested me, and thrice I have bowed with a smile. Honour in defeat is its own kind of victory.",
+        "Ser {player} wins again, and the field grows brighter for it. Friends, learn from this noble opponent.",
+        "Three falls before ser {player}, and I count each one as a lesson gladly taken. Long may our contests continue.",
+        "I have lost to ser {player} thrice and would lose a fourth time gladly, for the company of a worthy foe is rare.",
+        "Ser {player} has humbled me again. Let the minstrels sing of the fine contest, and of the fine foe who won it.",
+        "Ser {player} has beaten me three times, and the ancestors would be proud of such a gracious winner.",
+        "A third loss to ser {player}. I will boast of it at every table, for to be defeated by such a champion is no shame."
+      ],
+      "whisper": [
+        "Ser {player}, thrice you have bested me. My pride is bruised, but my respect is doubled. Shall we meet again?",
+        "You have beaten me three times now, ser {player}. Come and meet me again, and I will bring better wine this time.",
+        "Ser {player}, I am glad to lose to you. Your victories keep me sharp, and that is a gift I value.",
+        "Three falls, ser {player}, and still I would ride beside you. Friends who test each other are the rarest kind.",
+        "Ser {player}, you have my sword's respect and my admiration. I will challenge you again whenever you wish.",
+        "Well fought again, ser {player}. Next time I will try a bolder line, though I doubt it will save me from you.",
+        "Ser {player}, your third win has me laughing rather than sulking. Let us have a drink and plan the fourth.",
+        "Thrice defeated by ser {player}, and never once ashamed. I hope our paths cross often on the road ahead."
+      ]
+    }
+  }
+}

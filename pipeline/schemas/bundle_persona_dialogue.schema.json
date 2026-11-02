@@ -1,0 +1,56 @@
+{
+  "$comment": "Bundle contract v1 (persona_dialogue). Godot's loader relies on this shape; change both together.",
+  "type": "object",
+  "required": [
+    "username",
+    "signature"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "username": {
+      "type": "string"
+    },
+    "signature": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": [
+            "id",
+            "channel",
+            "rel",
+            "text"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "channel": {
+              "enum": [
+                "global",
+                "whisper",
+                "face"
+              ]
+            },
+            "rel": {
+              "enum": [
+                "hostile",
+                "neutral",
+                "friendly",
+                "any"
+              ]
+            },
+            "text": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 220
+            }
+          }
+        }
+      }
+    }
+  }
+}

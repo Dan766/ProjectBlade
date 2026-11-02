@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "job_id": "griefer__encounter_alliance_yes",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "07a4999ca98f53df755e70ba7d1691afd8775b9360e828ed688b1b3f670aa1c7",
+    "model": "haiku",
+    "cost_usd": 0.00406825,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:00:59+00:00"
+  },
+  "data": {
+    "neutral": {
+      "face": [
+        "alright {player} we team up for now but my blade stays sharp and so does my tongue",
+        "fine i said yes so dont get comfy in my camp",
+        "ill take the deal till {enemy_faction} gets in the way then were back to being enemies lol",
+        "you want an alliance ok but if you stab me in the back i will laugh while you bleed",
+        "accpeted now go find someone else to babysit",
+        "{player} and me sharing a banner is gonna be weird ngl but free swords are free swords",
+        "deal sealed for now i aint holding your hand tho",
+        "okay we are allies on paper only till i see what you bring to teh table"
+      ]
+    },
+    "friendly": {
+      "face": [
+        "finally someone with brains to stand next to lol welcome to the banner {player}",
+        "knew youd come crawling eventually xD deal we fight side by side",
+        "good call {player} {rival} is gonna cry when he sees us together",
+        "ally now so ill only roast you twice a day instead of every hour",
+        "wont lie that was a clean play so yeah youre in",
+        "ok fine youre alright now dont make me regret this or ill bring it up every fight",
+        "alliance accepted and dont think i forgot the time you ran from me but whatever",
+        "shake on it ser we are gonna burn {enemy_faction} down together"
+      ]
+    }
+  }
+}

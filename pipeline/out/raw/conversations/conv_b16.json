@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "job_id": "conv_b16",
+    "stage": "conversations",
+    "prompt_file": "conversations.md",
+    "prompt_hash": "4e1315aee2785f87304c5a929886e5c9d71930e65a02af4f99d450d7de26069b",
+    "model": "haiku",
+    "cost_usd": 0.0188277,
+    "attempts": 2,
+    "retry_errors": [
+      "attempt 1: schema: 'I have not touched a sack of grain in my life, THIM7, and I will not begin now. Let us look at the road together and find the thief honestly.' is too long"
+    ],
+    "created_at": "2026-11-01T17:45:01+00:00"
+  },
+  "data": {
+    "conv_076": [
+      {
+        "speaker": "OldTideWarden",
+        "text": "Good evening, Rhyeh. Your wagon has sat on the fen road three days now. Patience wins fens, but mine is wearing thin.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "lol wer ur wagons",
+        "delay_s": 6
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Still stuck at the crossing, as you well know. Would you care to explain the joke, or shall I simply wait?",
+        "delay_s": 9
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "wer ur wagons",
+        "delay_s": 4
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Mine is at {village}, where the reeds are kind. Yours, I suspect, is at the bottom of the mire.",
+        "delay_s": 12
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "now its wer ur wagons {village} wer ur wagons {town} wer ur {gold} :D",
+        "delay_s": 3
+      },
+      {
+        "speaker": "OldTideWarden",
+        "text": "Your {troop_count} soldiers have stopped asking. Perhaps we might speak of the wheel instead?",
+        "delay_s": 10
+      },
+      {
+        "speaker": "Rhyeh",
+        "text": "nah the wagon is the joke. we all wagons now lmao",
+        "delay_s": 5
+      }
+    ],
+    "conv_077": [
+      {
+        "speaker": "lanternsorry",
+        "text": "who shud rule {town} now?? duskveil88 helped me so much :) i vote u duskveil88!!!",
+        "delay_s": 0
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "A fief is not won by kindness alone, young one. Tsevaret has held {village} for a generation. Let the banners speak.",
+        "delay_s": 5
+      },
+      {
+        "speaker": "duskveil88",
+        "text": "Kindness is not weakness, SerLeekbrand. Ask the people of {village} who fed them through the flood. Rule is more than banners.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "Flood or no flood, a lord must hold the field. I say so with respect, duskveil88, and with my sword at my hip.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "omg ur both so cool :D but can we just ask the villagers?? they prob know best",
+        "delay_s": 5
+      },
+      {
+        "speaker": "duskveil88",
+        "text": "A fine notion, lanternsorry. Let us ask them, and count the {troop_count} who would rather plant barley than swing swords.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "SerLeekbrand",
+        "text": "Hm. Then let the vote be called at {town}, and the field decide, as honour requires.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "lanternsorry",
+        "text": "ok ok :) i gotta feed my chickens brb!!! ur both sooo nice",
+        "delay_s": 4
+      }
+    ],
+    "conv_078": [
+      {
+        "speaker": "h4rrowz",
+        "text": "ur troops teleported in the last fight LARKZ7 thats not possible :( i saw the replay",
+        "delay_s": 0
+      },
+      {
+        "speaker": "LARKZ7",
+        "text": "bro the chicken did not teleport. it just ran really fast xD",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HoneyHelm",
+        "text": "Ser LARKZ7, if h4rrowz speaks true, the field must judge it. Let us examine the replay before our banners meet again.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "examne all u want :) i got rolled by a chiken ffs. thats a cheat tho",
+        "delay_s": 6
+      },
+      {
+        "speaker": "LARKZ7",
+        "text": "lol the chicken is my general now. she has a crown :D no cheats tho!!",
+        "delay_s": 4
+      },
+      {
+        "speaker": "HoneyHelm",
+        "text": "Good sport, LARKZ7, but a crown is no proof. Ser h4rrowz, state your evidence plainly and I will hear it.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "h4rrowz",
+        "text": "evidence is the replay obviously :) its frame 412 where ur archers vanish and reappear behind my wall",
+        "delay_s": 9
+      },
+      {
+        "speaker": "LARKZ7",
+        "text": "frame 412 is when i sneezed. the archers went to get tea. respect the tea",
+        "delay_s": 5
+      }
+    ],
+    "conv_079": [
+      {
+        "speaker": "barleymeta",
+        "text": "that last push was faster than the timer allows. hammerhandvow how did u move before the horn",
+        "delay_s": 0
+      },
+      {
+        "speaker": "HammerhandVow",
+        "text": "I have made no such move, barleymeta. By my hammer and my name, I fought that field honestly. Check the horn yourself.",
+        "delay_s": 8
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "barleymeta your numbers look fine. the horn log does not show a cheat. check the replay",
+        "delay_s": 6
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "my timing was off not my comp. thats the whole story",
+        "delay_s": 5
+      },
+      {
+        "speaker": "HammerhandVow",
+        "text": "Then let the replay speak, barleymeta. If I am proven false, I will pay {gold} gold in forfeit and yield the field.",
+        "delay_s": 10
+      },
+      {
+        "speaker": "Ramratio91",
+        "text": "do not take that bet lol. the replay shows a 0.4s gap. that is lag not cheating",
+        "delay_s": 7
+      },
+      {
+        "speaker": "barleymeta",
+        "text": "gg anyway. see u at {town} next week. bring the good comp",
+        "delay_s": 4
+      },
+      {
+        "speaker": "HammerhandVow",
+        "text": "I will be there, barleymeta. Bring your timing, and your honesty with it.",
+        "delay_s": 6
+      }
+    ],
+    "conv_080": [
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Bandits on the northern road again. Terrible for trade. Someone took my cart and two barrels of salt last night.",
+        "delay_s": 0
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "That is a hard loss, xX_Ottr_Mart_Xx. Did you check the ditch by the ford? Thieves leave tracks where the water runs low.",
+        "delay_s": 7
+      },
+      {
+        "speaker": "THIM7",
+        "text": "Lol xX_Ottr_Mart_Xx cant even guard a cart!! Maybe the salt melted",
+        "delay_s": 4
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Guarding carts is not my trade, THIM7. Your crew was seen near the granary last month. Odd coincidence.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "THIM7",
+        "text": "u r just mad i outbid u on the salt last week!!! ur cart is gone bc ur prices r trash",
+        "delay_s": 5
+      },
+      {
+        "speaker": "Orrin_Chiselbeard",
+        "text": "Enough, both of you. Steady hands win ground, not angry words. xX_Ottr_Mart_Xx, check the ford tracks at first light.",
+        "delay_s": 9
+      },
+      {
+        "speaker": "xX_Ottr_Mart_Xx",
+        "text": "Thank you, Orrin. I will take two guards to the ford. THIM7, your turn will come at the market.",
+        "delay_s": 6
+      },
+      {
+        "speaker": "THIM7",
+        "text": "guards cant save ur cart!!! ur gonna regret this xX_Ottr_Mart_Xx",
+        "delay_s": 4
+      }
+    ]
+  }
+}

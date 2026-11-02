@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "job_id": "veteran_mentor__beat_by_player",
+    "stage": "pools",
+    "prompt_file": "pools.md",
+    "prompt_hash": "eeda992e13bea501ffa27bfe47c35871068a19ed9a1bce111aac8270bbbddc0f",
+    "model": "haiku",
+    "cost_usd": 0.0073583500000000005,
+    "attempts": 1,
+    "retry_errors": [],
+    "created_at": "2026-11-01T17:17:13+00:00"
+  },
+  "data": {
+    "hostile": {
+      "global": [
+        "That field went the way it went. Next time bring more than enthusiasm, {player}.",
+        "Folks, a reminder: winning a skirmish does not make a war. I have seen plenty of both.",
+        "Lost {troop_count} men today. Some of you will call that a good trade. I do not.",
+        "Still standing on the same ground I held in the first war. Some things do not change.",
+        "Nobody is impressed by a lucky charge. Learn the terrain before you brag about it.",
+        "I will not repeat what I said to the last one who ran at my line like that.",
+        "Ask the old banners: the ones who rode too early always end up in the mud.",
+        "Keep your banners high, {player}. I will remember who was careless with my men.",
+        "Credit where it is due: that flank was clever. The rest of the plan was not.",
+        "Losing a field is cheap. Losing your head after is what ends a company. Pull yourself together."
+      ],
+      "whisper": [
+        "You beat me fair on the day. Do not mistake that for forgiveness on the rest of it.",
+        "Your scouts were sharper than I gave them credit for. Remember that when we meet again.",
+        "I hold no grudge over the field. The insults you sent after, I noticed.",
+        "Plan your next raid around the river crossing. It has eaten better commanders than either of us.",
+        "Enjoy the win. Old wars taught me that victories this cheap rarely stay that way.",
+        "Do not bring that many banners to my border again unless you intend to pay for them.",
+        "You fight like someone who has read about battles and never buried anyone after one.",
+        "I will not chase you over a skirmish. Consider that a courtesy I am still deciding on.",
+        "That cavalry move was sharp. Your manners afterward were not. Work on one of those.",
+        "Keep this between us, but the next time you try a feint like that, I will be ready for it."
+      ],
+      "face": [
+        "So you are the one who broke my left flank. Stand back from the horses, we are not finished talking.",
+        "I was hoping we would not meet like this. The field is behind us now, so let us be civil for a minute.",
+        "You have a good eye for a gap, I will give you that. Mind your rear though, friend. Men come back.",
+        "Look at the ground where your men are standing. That is where I buried the last captain who thought he had me.",
+        "No need for speeches. You won, I lost men. Tell me what you want from me and I will decide if it costs more.",
+        "I do not enjoy seeing my banners in the mud. That is the only thing I will say about today.",
+        "Your troops fought hard. Shame they were pointed the wrong way. That is a commander's fault, not a soldier's.",
+        "I am not going to bow or beg. Ride on, and we can revisit this at a time of my choosing.",
+        "Careful with that grin, {player}. Winning a field is a small thing when the fields keep coming.",
+        "We have met on the road now, which is more than I hoped for. Keep your distance and we will both live longer."
+      ]
+    },
+    "neutral": {
+      "global": [
+        "Field went to {player} today. Good ground choice, and we will see who holds it next season.",
+        "Counted our losses. Counted theirs too. Both sides lost something, which is how wars usually go.",
+        "Anyone travelling the eastern road, keep an eye out. The fighting moved faster than the messengers.",
+        "A reminder for everyone: the ones who keep records of each battle always outlast the ones who only remember them.",
+        "Hard day on the field. We are regrouping at the old waystation. Bring spare arrows if you come.",
+        "Fair play today, both sides. Nobody here needs a lecture on how a line breaks.",
+        "Tallied the field. The numbers look worse than they felt, which is true of most fields.",
+        "Still watching the roads. Whatever happened today, the grain carts still need escorts tomorrow.",
+        "Not going to pretend I saw that coming. Next time I will bring a longer view of the ridge.",
+        "Some of my men are asking whether to press on or retreat. I am asking the same question, quietly."
+      ],
+      "whisper": [
+        "The field went your way. I will be watching how you handle the ground you took, not just the fight.",
+        "No hard feelings, I hope. You have a sharp line, and I have seen worse commanders keep their heads.",
+        "I need to know your intentions before the next muster. A straight answer would save us both trouble.",
+        "We lost the ridge today. That is the one thing I regret, and I will not blame you for taking what was open.",
+        "Send word if you want to talk terms. I would sooner trade prisoners than trade more blows this month.",
+        "Your scouts came in from the north. Mine did not. Let us compare notes sometime, when it suits.",
+        "Keep your distance until the dust settles. I am not in the mood to be seen losing gracefully.",
+        "That was a sound plan on your side. I am still working out whether it was luck or planning.",
+        "I have sent out parties to recover the wounded. If any of yours are near the ford, let them pass.",
+        "Our next meeting will be on better terms, or I will be surprised. Either way, I am keeping my notes."
+      ],
+      "face": [
+        "You have the field, and I have the road home. Let us both be on our way before the sun turns.",
+        "Good ground choice. I should have anticipated the ridge. Do not expect me to make that mistake twice.",
+        "I am not here to argue the outcome. Tell me what you intend to do with the captured supplies and we can part.",
+        "Your archers were well placed. Mine were not. We can discuss that over a meal someday, if you want.",
+        "Stand easy. My men are tired and yours look no better. Let us not make tomorrow worse than today.",
+        "I have seen this ground change hands before. It tends to look different from the other side.",
+        "Winning here does not mean you own the valley. Keep that in mind when you pass through the villages.",
+        "We both have wounded to tend. I will see mine taken care of first, and then we can talk about the rest.",
+        "Your banners are up and mine are down for now. A fair trade for the day, I suppose.",
+        "No insult meant. You fought clean, I fought poorly, and the field remembers which was which."
+      ]
+    },
+    "friendly": {
+      "global": [
+        "Well played today, {player}. You made the ridge look easy, which means you did the hard part first.",
+        "Lost a field to {player} this afternoon. Honestly, I'd rather lose to someone who fights that clean.",
+        "Hats off to whoever trained the {player} company. Their line held better than most I've seen.",
+        "That was a hard-fought afternoon. Anyone who runs into {player} on the road, buy them a drink. They earned it.",
+        "Reminder for the new ones: you learn more from a loss to a fair opponent than from a win over a sloppy one.",
+        "Our side took a beating today. The ones who fought hardest were still standing at the end, which counts.",
+        "I'll be honest, that was the best-run field I've been on in seasons. Ser {player}, you have a gift.",
+        "The old banners would be proud of that charge. I'm not sure I'd have risked it, which says something.",
+        "Good match. We'll have another one soon, and I'll bring a better plan for the eastern hill.",
+        "Congratulations to the winners. Everybody who fought today should eat well tonight, win or lose."
+      ],
+      "whisper": [
+        "Fought beautifully, {player}. I'll admit I had you worried for a moment on the left, and you did not blink.",
+        "Don't beat yourself up over the field. The ridge was yours from the start, and I should have seen it.",
+        "That cavalry push of yours was the best thing I've seen all season. Keep that instinct and you'll go far.",
+        "I owe you a drink for that match. Next time we meet, I'll buy and you can tell me how you did it.",
+        "The losses are mine to carry, not yours. Come find me when your men have rested, and we'll talk over the map.",
+        "Honest question: did you plan that flank, or did it just happen? Either way, it was beautiful to watch.",
+        "If you're thinking of pushing into the south, send word first. I'll lend you two of my best scouts.",
+        "Good win, and a better fight. Rest your horses before you go marching after the next thing.",
+        "I'd rather lose to you than to most. That's a compliment, in case it came out sour.",
+        "Between us, my captains couldn't stop talking about that charge all afternoon. You earned that."
+      ],
+      "face": [
+        "Good to see you, {player}. That was a proper fight. My captains won't stop talking about your left flank. Sit, eat, we'll go over it.",
+        "You beat me clean today, and I'm still smiling about it. Tell me your secret before you leave for the coast.",
+        "Good to see you on your feet after that charge. Your men look fresh, and mine look like they need a month's sleep.",
+        "Lost the field to you, won the afternoon's conversation. Sit down, friend, the stew is still warm.",
+        "Ser {player}, a pleasure. Losing to a commander like you is easier to swallow than most wins I've had.",
+        "I've been thinking about your cavalry move since the field. I'd like to hear how you planned it, if you're willing.",
+        "Don't look so worried. I've lost worse afternoons and walked away with better friends. This is one of those.",
+        "There's no shame in being outplayed by someone who fights with that much care for their troops. Well done.",
+        "Come, let's walk the field together while the light's still good. I'll show you where I went wrong, and where you were lucky.",
+        "Good day's work, {player}. Before you ride off, take a little of the wine from my wagon. It's better than the field ale."
+      ]
+    }
+  }
+}

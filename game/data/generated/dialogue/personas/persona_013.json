@@ -1,0 +1,259 @@
+{
+ "username": "owl_be_back",
+ "signature": {
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_013.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "anyone else smell rain coming over {town}? the sacred hen says it means a flood. she is never wrong about floods xD"
+   },
+   {
+    "id": "sig.persona_013.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "lag in {village} is so bad my horse is buffering. i have filed a complaint with the horse :("
+   },
+   {
+    "id": "sig.persona_013.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "the brollo bridge looked at me funny again today. nobody tell it i know :)"
+   },
+   {
+    "id": "sig.persona_013.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "reminder that the calvenza canal is still technically a lake. i do not make the rules xD"
+   }
+  ],
+  "ambient_brag": [
+   {
+    "id": "sig.persona_013.ambient_brag.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} men at {fief} and not one of them can spell their own name. proud of them anyway :)"
+   },
+   {
+    "id": "sig.persona_013.ambient_brag.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "i have {gold} gold and i spent all of it on hats. no regrets, only more hats xD"
+   },
+   {
+    "id": "sig.persona_013.ambient_brag.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{troop_count} soldiers marched into {fief} today. the enemy saw them and suddenly remembered urgent business elsewhere :)"
+   },
+   {
+    "id": "sig.persona_013.ambient_brag.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "just counted my {gold} gold with my toes. the hen helped. she is very proud of me xD"
+   }
+  ],
+  "beat_by_player": [
+   {
+    "id": "sig.persona_013.beat_by_player.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} won at the field again?? the sacred hen has been informed and she is disappointed in all of us :)"
+   },
+   {
+    "id": "sig.persona_013.beat_by_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} ok fine you won this round. i lost on purpose to make the story better. ur sword is still a stick"
+   },
+   {
+    "id": "sig.persona_013.beat_by_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "ha, {player}! you beat me with {troop_count} men and a face like that? legendary. i will be back, probably with a fake beard :)"
+   },
+   {
+    "id": "sig.persona_013.beat_by_player.04",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "well played {player}. lost {troop_count} men to you and somehow i feel great about it?? the hen says its fine :)"
+   }
+  ],
+  "beat_player": [
+   {
+    "id": "sig.persona_013.beat_player.01",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} got beat by me and {troop_count} men with my own two hands (and a lot of luck) xD. the brollo bridge has been warned about you"
+   },
+   {
+    "id": "sig.persona_013.beat_player.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} that was too easy. i won with {gold} gold worth of hats in my pockets. dont worry, the hen will forgive you"
+   },
+   {
+    "id": "sig.persona_013.beat_player.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}!! you fought bravely, you lost badly, and you will be fed. i saw {troop_count} men fall and i am thrilled for you xD"
+   },
+   {
+    "id": "sig.persona_013.beat_player.04",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} lost {troop_count} men and a dignity i just made up. the hen has ruled in my favor :)"
+   }
+  ],
+  "player_fled_from_me": [
+   {
+    "id": "sig.persona_013.player_fled_from_me.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} saw me coming and suddenly remembered they had somewhere to be. classic :) the hen is watching you run"
+   },
+   {
+    "id": "sig.persona_013.player_fled_from_me.02",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player} i saw you run. you can run but the sacred hen will find you. you have been warned :)"
+   },
+   {
+    "id": "sig.persona_013.player_fled_from_me.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "{player} fled from me like a sensible person. respect. i will leave you alone for at least four minutes xD"
+   },
+   {
+    "id": "sig.persona_013.player_fled_from_me.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} the road is a lot less fun without you running from me. come back and fight, coward?? ok fine, i will just wait :("
+   }
+  ],
+  "player_win_streak": [
+   {
+    "id": "sig.persona_013.player_win_streak.01",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{player} has won so many fights the server is starting to think they are a weather event. dont get a big head, get a bigger helmet xD"
+   },
+   {
+    "id": "sig.persona_013.player_win_streak.02",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player} ok ok you are on a streak, i am impressed and also jealous. please lose one so the rest of us can have a turn :)"
+   },
+   {
+    "id": "sig.persona_013.player_win_streak.03",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "{player} keeps winning and i am choosing to take it personally. the bridge at brollo is tired of your nonsense too"
+   },
+   {
+    "id": "sig.persona_013.player_win_streak.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} your winning streak is a crime against the sacred hen. she demands a rematch. i demand a sandwich xD"
+   }
+  ],
+  "peace_made": [
+   {
+    "id": "sig.persona_013.peace_made.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} and {faction} made peace?? i had a whole speech ready and now it is wasted :( i will save it for later"
+   },
+   {
+    "id": "sig.persona_013.peace_made.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "peace between {my_faction} and {faction} means no more fights, which means no more fun for me. i am devastated and also happy? both :)"
+   },
+   {
+    "id": "sig.persona_013.peace_made.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{faction} and {my_faction} shook hands. the hen was not consulted and she is very upset about it xD"
+   },
+   {
+    "id": "sig.persona_013.peace_made.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} is at peace with {faction} now. the bridge at brollo remains on my list of people i am not at peace with"
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_013.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "{my_faction} has declared war on {enemy_faction}. i have packed three snacks and a very small flag xD"
+   },
+   {
+    "id": "sig.persona_013.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "war between {my_faction} and {enemy_faction}?? finally, something to do besides the canal :)"
+   },
+   {
+    "id": "sig.persona_013.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "{enemy_faction} has been declared an enemy of {my_faction}. the sacred hen has blessed this war, do not argue with her"
+   }
+  ],
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_013.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}! halt, it is {persona} of {my_faction}, and you owe the sacred hen an apology. also your banner has been reclassified as a hat, sorry not sorry xD"
+   },
+   {
+    "id": "sig.persona_013.encounter_greeting.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "{player}, fancy meeting you on the road. i am {persona} of {my_faction}, self-appointed chicken enforcer. state your business or your hat xD"
+   },
+   {
+    "id": "sig.persona_013.encounter_greeting.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "{player}!! my favorite person who is not a chicken. want to trade snacks or shall we fight? both is fine :)"
+   },
+   {
+    "id": "sig.persona_013.encounter_greeting.04",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player} the bridge at brollo sent me. it wants a word. so do i, actually, i have many words for you :("
+   }
+  ],
+  "whisper_taunt": [
+   {
+    "id": "sig.persona_013.whisper_taunt.01",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} i heard you lost to {rival} again. no pressure but the hen is already writing a song about it xD"
+   },
+   {
+    "id": "sig.persona_013.whisper_taunt.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} the sacred hen blessed my army today and she said your army is a hat. i am only the messenger :)"
+   },
+   {
+    "id": "sig.persona_013.whisper_taunt.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} you and {rival} should start a club for people who lose at the bridge. i will be the president, obviously"
+   },
+   {
+    "id": "sig.persona_013.whisper_taunt.04",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player} tell {rival} the brollo bridge sends regards. it does not, but i do, and i am thrilled about it xD"
+   }
+  ]
+ }
+}

@@ -1,0 +1,273 @@
+{
+ "username": "PuffinHearth",
+ "signature": {
+  "encounter_greeting": [
+   {
+    "id": "sig.persona_007.encounter_greeting.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Halt, traveller. The banners of {my_faction} do not bow to strangers who carry such a scowl. State your business before my hearth-fire grows cold."
+   },
+   {
+    "id": "sig.persona_007.encounter_greeting.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{player}, your name has been spoken at the crossroads with little honour. Let us see whether your deeds match the tales told of you."
+   },
+   {
+    "id": "sig.persona_007.encounter_greeting.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Well met, ser {player}. The road is wide enough for two banners, though I would know your purpose before we part ways in the mud of this valley."
+   },
+   {
+    "id": "sig.persona_007.encounter_greeting.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}! By the warmth of my hearth at Dolmare, it gladdens me to see you on this road. Sit by the fire and tell me what news travels from the east."
+   },
+   {
+    "id": "sig.persona_007.encounter_greeting.05",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ah, {player}, a friend beneath an open sky. Let us walk together for a while and see whether our banners can share the same field of glory."
+   }
+  ],
+  "encounter_threatened": [
+   {
+    "id": "sig.persona_007.encounter_threatened.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "{gold} gold, you say? Ser {player}, I will not hand over a single coin to a demand barked at me on the open road. Draw your blade if you must."
+   },
+   {
+    "id": "sig.persona_007.encounter_threatened.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, you name a price of {gold} gold and call it a toll. A toll is paid to a lord, not demanded at sword point. Speak again with courtesy and we may yet talk."
+   },
+   {
+    "id": "sig.persona_007.encounter_threatened.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, I know you jest, for I have heard your jests before. Yet even a jest with {gold} gold on its tongue must be answered. Let us settle it fairly, friend."
+   }
+  ],
+  "encounter_alliance_yes": [
+   {
+    "id": "sig.persona_007.encounter_alliance_yes.01",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I accept your proposal, ser {player}. Let our banners stand together against {enemy_faction}, and let the ancestors witness the oath we swear here today."
+   },
+   {
+    "id": "sig.persona_007.encounter_alliance_yes.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "An alliance against {enemy_faction} suits my purpose well, ser {player}. Yet a pact is only as strong as the hands that hold it, so keep your word or lose your honour."
+   },
+   {
+    "id": "sig.persona_007.encounter_alliance_yes.03",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Gladly, ser {player}! Our oath is sworn and our swords are pledged against {enemy_faction}. I shall long remember what {rival} has owed us, and I will see that debt paid."
+   }
+  ],
+  "encounter_alliance_no": [
+   {
+    "id": "sig.persona_007.encounter_alliance_no.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "You offer me an alliance while {rival} still walks freely? Ser {player}, I will not sully my banner that way. Let the road remember this refusal."
+   },
+   {
+    "id": "sig.persona_007.encounter_alliance_no.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "No, ser {player}. An alliance born of a demand is no alliance at all. Go and find some other banner willing to be used, for mine will not be lent so cheaply."
+   },
+   {
+    "id": "sig.persona_007.encounter_alliance_no.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "I must decline, ser {player}. A banner that has sung for the fallen cannot lightly march beside {rival}. Consider this a matter of conscience, not a slight."
+   },
+   {
+    "id": "sig.persona_007.encounter_alliance_no.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Forgive me, friend {player}, but I cannot take this oath at present. My honour is tied to matters I must settle first, and I trust you will understand when the road allows another meeting."
+   }
+  ],
+  "captured_by_player": [
+   {
+    "id": "sig.persona_007.captured_by_player.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "So the wheel of fortune has turned against me, ser {player}. Take my sword and my shame, but I will not bow my head. Name your ransom, and {my_faction} will pay what honour demands."
+   },
+   {
+    "id": "sig.persona_007.captured_by_player.02",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "Do not gloat, ser {player}. Every captive of {my_faction} has kin who sing their name at dusk, and I will not be the one who forgets. Take what you must and be done."
+   },
+   {
+    "id": "sig.persona_007.captured_by_player.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Well fought, ser {player}. The field went to your banner today and I am your captive by the rules of war. Let us speak plainly of terms, for I do not wish this to end in bitterness."
+   },
+   {
+    "id": "sig.persona_007.captured_by_player.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, I yield with a lighter heart than I expected, for I know you fight as a true knight should. Hold me under guard if you must, but treat me with the courtesy due a fallen banner."
+   }
+  ],
+  "released_by_player": [
+   {
+    "id": "sig.persona_007.released_by_player.01",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "Ser {player}, you could have wrung gold from me yet chose mercy. My hearth at Dolmare is open to you."
+   },
+   {
+    "id": "sig.persona_007.released_by_player.02",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Ser {player} gave me my freedom without a single coin asked. Such honour is rare on any road. Let the songs of Dolmare tell of it."
+   },
+   {
+    "id": "sig.persona_007.released_by_player.03",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "Ser {player}, you spared me the ransom today. I owe that mercy a debt, though I do not yet know how I will repay it."
+   }
+  ],
+  "player_left_my_faction": [
+   {
+    "id": "sig.persona_007.player_left_my_faction.01",
+    "channel": "global",
+    "rel": "hostile",
+    "text": "Ser {player} has left {my_faction} for {faction}. A banner abandoned in the field is a sorrow that will be sung for long."
+   },
+   {
+    "id": "sig.persona_007.player_left_my_faction.02",
+    "channel": "whisper",
+    "rel": "hostile",
+    "text": "{player}, you turned from {my_faction} for {faction}. That wound will not close quickly. Go with what honour you still carry."
+   },
+   {
+    "id": "sig.persona_007.player_left_my_faction.03",
+    "channel": "whisper",
+    "rel": "neutral",
+    "text": "{player}, I hear you have joined {faction}. Every oath is yours to weigh, and I shall not judge you before the ancestors do."
+   },
+   {
+    "id": "sig.persona_007.player_left_my_faction.04",
+    "channel": "global",
+    "rel": "neutral",
+    "text": "{faction} now claims ser {player}, who once marched under {my_faction}. Let the songs remember the oaths sworn in both camps."
+   }
+  ],
+  "war_declared": [
+   {
+    "id": "sig.persona_007.war_declared.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The horns sound! {my_faction} has declared war on {enemy_faction}, and every fallen banner shall be sung for at Dolmare."
+   },
+   {
+    "id": "sig.persona_007.war_declared.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Hear me, travellers of Ormerath. {my_faction} takes up the sword against {enemy_faction}. May their ancestors bear witness to our cause."
+   },
+   {
+    "id": "sig.persona_007.war_declared.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "Oaths have been broken and blood demands answer. {my_faction} now stands at war with {enemy_faction}. Let honour guide every blade."
+   }
+  ],
+  "fought_alongside_player": [
+   {
+    "id": "sig.persona_007.fought_alongside_player.01",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Ser {player}, what a glorious field! With {troop_count} banners at our backs we shattered {enemy_faction}, and it was honour to fight beside you. Let our ancestors look down and see what we have wrought."
+   },
+   {
+    "id": "sig.persona_007.fought_alongside_player.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Ser {player}, we came through the press together and {enemy_faction} lies broken. Our {troop_count} banners held the line. I am content to have shared such a field with you."
+   },
+   {
+    "id": "sig.persona_007.fought_alongside_player.03",
+    "channel": "global",
+    "rel": "friendly",
+    "text": "Ser {player} and I broke {enemy_faction} today with {troop_count} banners beside us. Such a victory deserves a song."
+   },
+   {
+    "id": "sig.persona_007.fought_alongside_player.04",
+    "channel": "whisper",
+    "rel": "friendly",
+    "text": "{player}, your blade rang true with {troop_count} of us in the press. I will sing of that charge at my hearth. Thank you, friend."
+   }
+  ],
+  "encounter_farewell": [
+   {
+    "id": "sig.persona_007.encounter_farewell.01",
+    "channel": "face",
+    "rel": "hostile",
+    "text": "We part for now, ser {player}, but our quarrel does not end with this parting. Let the road remember what was said between our banners."
+   },
+   {
+    "id": "sig.persona_007.encounter_farewell.02",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "Fare well, ser {player}. May your path be straight and your banners fly high. Should our roads cross again, we shall greet each other with honour."
+   },
+   {
+    "id": "sig.persona_007.encounter_farewell.03",
+    "channel": "face",
+    "rel": "neutral",
+    "text": "The sun leans low and I must ride on, ser {player}. Keep your oaths true and your blade honest, and we will meet again beneath kinder skies."
+   },
+   {
+    "id": "sig.persona_007.encounter_farewell.04",
+    "channel": "face",
+    "rel": "friendly",
+    "text": "Farewell, dear friend {player}. May the hearth of Dolmare welcome you whenever the road brings you near. Go with the blessing of your ancestors."
+   }
+  ],
+  "ambient_chatter": [
+   {
+    "id": "sig.persona_007.ambient_chatter.01",
+    "channel": "global",
+    "rel": "any",
+    "text": "The mist lies heavy over {village} this morning. Such weather makes men sing of their fallen, and I am glad of the company."
+   },
+   {
+    "id": "sig.persona_007.ambient_chatter.02",
+    "channel": "global",
+    "rel": "any",
+    "text": "Has anyone travelled from {town} lately? I bring news of a fine feast at Dolmare and a pledge to sing for every banner lost this season."
+   },
+   {
+    "id": "sig.persona_007.ambient_chatter.03",
+    "channel": "global",
+    "rel": "any",
+    "text": "The roads between {town} and {village} are muddy, but honour does not wait for dry ground. Ride on, friends, and keep your banners high."
+   },
+   {
+    "id": "sig.persona_007.ambient_chatter.04",
+    "channel": "global",
+    "rel": "any",
+    "text": "A wagon of wine passed {village} at dusk. I raised a toast to every fallen banner. Will any travellers raise a cup with me?"
+   }
+  ]
+ }
+}

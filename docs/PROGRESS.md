@@ -399,6 +399,16 @@ Rules: each asset pack download needs the user's OK; every asset file goes in `g
 - [ ] G8 3D battle diorama (presentation only; battle tests unchanged)
 - [ ] G9 Quality presets, profiling report (the 2D-map fallback was dropped: 2D removed after G6)
 
+## Phase 8: Readability and trade (added 2026-11-01 at the user's request; summary in `docs/PLAN.md`)
+- [ ] 8.1 Smaller population: `sim.json` sets the active lord count at a new game (the other personas stay dormant in the bundle). Proposed default 60.
+  - Accept: `tools/godot.sh test` passes; a 20-minute playtest stays in the 8–12 msgs/min band; a 30-day sim with the new count has 0 stuck parties; `--parties=300` still runs at 60 fps at 4×.
+- [ ] 8.2 Strength readout on party and hover cards: a rating against the player's company (Weaker / Even / Stronger) plus a troop-power number, from the same formula as the battle resolver.
+  - Accept: a unit test checks the rating against the resolver for 10 fixed matchups; over 1,000 auto-resolve battles per matchup, the shown number is within ±15% of the observed strength ratio; `--hover-party` shot reviewed.
+- [ ] 8.3 Trade goods and town markets, defined in `game/data/config/trade.json`: towns produce and consume by prosperity and garrison; prices move with stock; caravans carry goods; food returns as a good (revises the 2.1 food deferral).
+  - Accept: 30-day headless sim: every good's price stays within 0.3×–3× base; caravan trade runs are logged; no good sits at 0 or max stock in more than half the towns.
+- [ ] 8.4 Player trading: a Market tab in the settlement menu (buy, sell, capacity from troop count, profit preview). The encounter "trade" choice opens the same market with that lord.
+  - Accept: a headless test shows buy then sell keeps gold and goods consistent; the encounter trade updates gold; a shot of the Market tab reviewed by the user.
+
 ## Phase 7: Polish and ship
 - [ ] Phase 7
 
@@ -478,6 +488,9 @@ Rules: each asset pack download needs the user's OK; every asset file goes in `g
 | 2026-11-01 | The UI theme is merged into Godot's default theme at startup, built from `ui.json` | A theme on the root window does not reach Controls under CanvasLayers; the merge does, and stays data-driven (no generated .tres to keep in sync) |
 | 2026-11-01 | Dialogs are parchment with ink text; HUD and chat are dark wood | Dialogs read like documents and stand apart from the always-on HUD |
 | 2026-11-01 | **Godot 4.7.2 stable** installed with winget (user-approved). No `godot` alias (non-admin install); use the full path: `%LOCALAPPDATA%\Microsoft\WinGet\Packages\GodotEngine.GodotEngine_Microsoft.Winget.Source_8wekyb3d8bbwe\Godot_v4.7.2-stable_win64_console.exe` (console build, for `--headless` runs and tests) | Phase 1 needs an engine; the version is recorded so the project file and tests match |
+| 2026-11-01 | Phase 8 added at the user's request: smaller population, strength readout, trade economy and player market | The map felt busy, the player couldn't judge enemy armies, and trading was planned but never built |
+| 2026-11-01 | Phase 8 sits before Phase 7 (ship) | Ship polish should cover the final game |
+| 2026-11-01 | Food returns as a trade good in 8.3 (reverses the earlier deferral) | Markets need food to trade meaningfully |
 
 ## Notes for Phase 4 (dialogue runtime)
 - Fill placeholders **per thread for places** (`{town}`, `{village}`, `{fief}`, factions), so one
@@ -487,3 +500,4 @@ Rules: each asset pack download needs the user's OK; every asset file goes in `g
 
 ## Open questions
 - Working title
+- Phase 8.1: is 60 active lords the right size? Proposed; confirm after the first playtest.

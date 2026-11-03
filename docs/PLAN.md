@@ -143,6 +143,18 @@ Art direction (stylised low-poly, CC0 assets) is recorded in the spec as approve
 **Accept:** per-milestone criteria in the spec (e.g. 60 fps with full scatter at far zoom; 300 parties
 at 60 fps at 4×; all existing tests still pass; screenshots reviewed by the user at G2).
 
+### Phase 8: Readability and trade (added 2026-11-01 at the user's request)
+Makes the map readable and gives the player an economy. Runs before Phase 7 so the ship phase polishes the final game.
+- 8.1 Smaller population: `sim.json` sets how many of the 120 personas are active at a new game. The rest stay
+  in the bundle, dormant. Proposed default: 60 active lords. Chat rates re-tuned by playtest.
+- 8.2 Strength readout: party and hover cards show a rating against the player's company (Weaker / Even /
+  Stronger) and a troop-power number. Same formula as the battle resolver (3.1), so the rating predicts fights.
+- 8.3 Trade goods and town markets: goods defined in data (`game/data/config/trade.json`); towns produce and
+  consume by prosperity and garrison; prices move with stock. Caravans carry goods between towns. Food returns as a good.
+- 8.4 Player trading: a Market tab in the settlement menu (buy, sell, capacity limited by troop count) and the
+  encounter "trade" choice (4.6) opens the same market with a lord.
+**Accept:** per milestone in `docs/PROGRESS.md` (Phase 8).
+
 ### Phase 7: Polish and ship
 Save and load UI, settings, audio hooks, tutorial whispers from a "mentor" persona, and desktop exports
 (Windows/Mac/Linux).
